@@ -1,0 +1,132 @@
+{
+  "generated_at_utc": "2026-07-18T01:41:02.920591+00:00",
+  "generated_at_istanbul": "2026-07-18T04:41:03.055440+03:00",
+  "source_directory": "/home/ubuntu/kampanya-botlari/botlar",
+  "published_file_count": 13,
+  "stale_after_hours": 36,
+  "combined_file": "./kampanyalar_birlesik.txt",
+  "files": [
+    {
+      "name": "biöğrenci.txt",
+      "url": "./biöğrenci.txt",
+      "size_bytes": 129844,
+      "modified_at_utc": "2026-07-18T00:36:06.558248+00:00",
+      "age_hours": 1.08,
+      "stale": false,
+      "sha256": "780f029c17a7b6a86a0a215529ee78c30aacdb21ba11855ce2c7823143f4ab5c"
+    },
+    {
+      "name": "garanti.txt",
+      "url": "./garanti.txt",
+      "size_bytes": 549473,
+      "modified_at_utc": "2026-07-18T00:56:37.696821+00:00",
+      "age_hours": 0.74,
+      "stale": false,
+      "sha256": "3fa83f7095d28637bf99b7d6d0ec97d57751992a53ba04fe840d31c219e869c0"
+    },
+    {
+      "name": "iyzico.txt",
+      "url": "./iyzico.txt",
+      "size_bytes": 7272,
+      "modified_at_utc": "2026-07-18T00:56:59.338029+00:00",
+      "age_hours": 0.73,
+      "stale": false,
+      "sha256": "7d72746f50b8b774db2791f3025e5b66330025cabba68b93b81025711c7d653f"
+    },
+    {
+      "name": "masterpass.txt",
+      "url": "./masterpass.txt",
+      "size_bytes": 30400,
+      "modified_at_utc": "2026-07-18T00:57:50.195514+00:00",
+      "age_hours": 0.72,
+      "stale": false,
+      "sha256": "8f8a5cbe434c00be8405734680bcf2b44e5e3377f416304b287bf6e92052ae14"
+    },
+    {
+      "name": "milesandsmiles.txt",
+      "url": "./milesandsmiles.txt",
+      "size_bytes": 258025,
+      "modified_at_utc": "2026-07-18T01:03:07.355403+00:00",
+      "age_hours": 0.63,
+      "stale": false,
+      "sha256": "b25ac7c505e247f475a0f0f06c47b3b7d13328d2364d14f98b581d82de049fee"
+    },
+    {
+      "name": "Paraf_Temiz_Kampanyalar.txt",
+      "url": "./Paraf_Temiz_Kampanyalar.txt",
+      "size_bytes": 587326,
+      "modified_at_utc": "2026-07-18T01:17:32.164603+00:00",
+      "age_hours": 0.39,
+      "stale": false,
+      "sha256": "2b18089721defaef352ba9e3db0a5994ae80303ed73b2ac5ab8177f96bc5c0d4"
+    },
+    {
+      "name": "paycell.txt",
+      "url": "./paycell.txt",
+      "size_bytes": 138667,
+      "modified_at_utc": "2026-07-18T01:20:01.838685+00:00",
+      "age_hours": 0.35,
+      "stale": false,
+      "sha256": "3afc44dcb76e1f79f6a5381edaa7e6d016e3cbe175b359891e735b70710f1dd9"
+    },
+    {
+      "name": "qnb_gspara.txt",
+      "url": "./qnb_gspara.txt",
+      "size_bytes": 34855,
+      "modified_at_utc": "2026-07-18T01:20:49.606765+00:00",
+      "age_hours": 0.34,
+      "stale": false,
+      "sha256": "97e5c7c4c38dd75a9645f6e36abb010f0b4240f10c4b951cdc542b60675adbf6"
+    },
+    {
+      "name": "troy.txt",
+      "url": "./troy.txt",
+      "size_bytes": 981,
+      "modified_at_utc": "2026-07-18T01:28:47.865525+00:00",
+      "age_hours": 0.2,
+      "stale": false,
+      "sha256": "00e33222e9145f411646c1a2df5e6b255fd1b094555b55c19fdee9032ee722ce"
+    },
+    {
+      "name": "turkiyefinans_happycard.txt",
+      "url": "./turkiyefinans_happycard.txt",
+      "size_bytes": 11699,
+      "modified_at_utc": "2026-07-18T01:29:58.317884+00:00",
+      "age_hours": 0.18,
+      "stale": false,
+      "sha256": "1e8fa1aebaeb28800f15687dcc2fb43f193472a69e591887dd83092dfcb0aab0"
+    },
+    {
+      "name": "uption.txt",
+      "url": "./uption.txt",
+      "size_bytes": 27486,
+      "modified_at_utc": "2026-07-18T01:30:42.403117+00:00",
+      "age_hours": 0.17,
+      "stale": false,
+      "sha256": "703cb783bf7d4721954476235042a181f5f0a4b4efecf45eb07d2956ff867e21"
+    },
+    {
+      "name": "yapikredi_play.txt",
+      "url": "./yapikredi_play.txt",
+      "size_bytes": 63469,
+      "modified_at_utc": "2026-07-18T01:32:06.738580+00:00",
+      "age_hours": 0.15,
+      "stale": false,
+      "sha256": "82c049ff5a6042fedecd713aad4036d2670a43ec902e9db6e963082bc80a5a16"
+    },
+    {
+      "name": "Ziraat_Kampanya.txt",
+      "url": "./Ziraat_Kampanya.txt",
+      "size_bytes": 1873818,
+      "modified_at_utc": "2026-07-18T01:41:02.693855+00:00",
+      "age_hours": 0.0,
+      "stale": false,
+      "sha256": "4c48936a033619b7908259a6e1bde8f3e28bc90f6bbecbc49bbc901ace2096c3"
+    }
+  ],
+  "notes": [
+    "Yalnızca güncel ana TXT çıktıları yayınlanır.",
+    "Hata, süresi dolmuş, debug, eski, İstanbulkart ve Türk Telekom dosyaları yayınlanmaz.",
+    "stale=true olan dosya, son başarılı taraması 36 saatten eski olan kaynaktır."
+  ]
+}
