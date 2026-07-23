@@ -1,9 +1,33 @@
-=== UPTION GÜNCEL KAMPANYA HAVUZU (22/07/2026 04:32) ===
-TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 17
-KONTROL TARİHİ: 22 Temmuz 2026
+=== UPTION GÜNCEL KAMPANYA HAVUZU (23/07/2026 04:35) ===
+TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 18
+KONTROL TARİHİ: 23 Temmuz 2026
 
 
---- UPTION KAMPANYA 1/17 ---
+--- UPTION KAMPANYA 1/18 ---
+BAŞLIK: uption-kampanyalar
+LINK: https://www.uption.com.tr/en-son-kampanyalar/hop
+SON TARİH: 30 Eylül 2026
+Kampanya Koşulları
+• 10.12.2025 – 30.09.2026 tarihleri arasında Masterpass’e kayıtlı UPTION Kart sahipleri, http://www.masterpassplus.com/hop üzerinden alacakları kupon koduyla Hop sürüşlerinde toplam 200 TL indirim kazanacaklardır.
+• Masterpass’e üye olmayan kullanıcılar, https://www.masterpassplus.com web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından kodlarını alabilir
+• Kupon kodunu hop mobil uygulamasına eklemek ve indirimden yararlanmak için Ana Menü > Kampanyalar > Promosyonlar > Yeni Kod Ekle ekranına kodu eksiksiz bir şekilde girilmesi gerekmektedir.
+• Kampanya 10 Aralık 2025 saat 00:00 ile 30 Eylül 2026 saat 23:59 tarihleri arasında geçerlidir.
+• İndirim kuponu 30.09.2026 tarihine kadar kullanılabilir. Bu tarihten sonra geçersiz olacaktır.
+• Kampanya, Masterpass’e kayıtlı Mastercard® kredi kartlarında, banka kartlarında ve ön ödemeli kartlarda geçerlidir.
+• Kupon kodu birden fazla sürüşte kullanılabilir. Her sürüşte kullanılan tutar, 200 TL indirim bakiyesinden düşülür ve bakiye tükenene kadar kupon geçerliliğini korur.
+• Kupon kodu başkasına devredilemez, para ile satılamaz veya paraya çevrilemez.
+• Sürüş iadesi halinde, ilgili sürüşte kullanılan indirim tutarı iade kapsamı dışındadır ve kupon bakiyesine geri eklenmez.
+• Kampanya, diğer indirim veya kampanyalarla birleştirilemez.
+• Her kullanıcı kampanyadan bir kez faydalanabilir.
+• Kampanya 15 bin kod ile sınırlıdır. Kota dolduğunda kampanya belirtilen bitiş tarihinden önce otomatik olarak sona erebilir.
+• Hop sürüşlerinde ücretlendirme açılış ücreti + dakika ücreti esasına göre yapılır, süreler tam dakikaya tamamlanır.
+• İndirim hesaplamasına açılış ücreti de dahildir.
+• Hop Teknoloji A.Ş. veya Mastercard kampanyayı önceden bildirmeksizin değiştirme veya durdurma hakkını saklı tutar.
+• HOP ve Mastercard kampanya süresi boyunca ürünlerle ilgili kampanya detaylarında değişiklik yapma hakkını saklı tutar.
+‍
+
+
+--- UPTION KAMPANYA 2/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/uption-kartlilara-havas-harcamalarinda-50-indirim
 TARİH BİLGİSİ: 22 Mayıs - 22 Temmuz (KESİN BİTİŞ TARİHİ AYRIŞTIRILAMADI)
@@ -21,7 +45,7 @@ TARİH BİLGİSİ: 22 Mayıs - 22 Temmuz (KESİN BİTİŞ TARİHİ AYRIŞTIRILAM
 ‍
 
 
---- UPTION KAMPANYA 2/17 ---
+--- UPTION KAMPANYA 3/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/uption-kartinla-otopark-odemelerinde-50-indirim
 TARİH BİLGİSİ: 22 Mayıs - 22 Temmuz (KESİN BİTİŞ TARİHİ AYRIŞTIRILAMADI)
@@ -38,7 +62,7 @@ TARİH BİLGİSİ: 22 Mayıs - 22 Temmuz (KESİN BİTİŞ TARİHİ AYRIŞTIRILAM
 ‍
 
 
---- UPTION KAMPANYA 3/17 ---
+--- UPTION KAMPANYA 4/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/tum-kartlara-sabit-1-eu-ucretle-para-gonder
 SON TARİH: 30 Eylül 2026
@@ -50,7 +74,7 @@ SON TARİH: 30 Eylül 2026
 ‍
 
 
---- UPTION KAMPANYA 4/17 ---
+--- UPTION KAMPANYA 5/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/gain
 SON TARİH: 31 Aralık 2026
@@ -65,7 +89,7 @@ Kampanya Koşulları
 ‍
 
 
---- UPTION KAMPANYA 5/17 ---
+--- UPTION KAMPANYA 6/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/chatgpt
 SON TARİH: 31 Aralık 2026
@@ -81,7 +105,7 @@ Kampanya Koşulları
 ‍
 
 
---- UPTION KAMPANYA 6/17 ---
+--- UPTION KAMPANYA 7/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/disney
 SON TARİH: 31 Aralık 2026
@@ -97,7 +121,7 @@ Kampanya Koşulları
 ‍
 
 
---- UPTION KAMPANYA 7/17 ---
+--- UPTION KAMPANYA 8/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/hbomax
 SON TARİH: 31 Aralık 2026
@@ -112,7 +136,7 @@ Kampanya Koşulları
 ‍
 
 
---- UPTION KAMPANYA 8/17 ---
+--- UPTION KAMPANYA 9/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/20den-fazla-ulkeye-sadece-1-usdye-para-gonder
 SON TARİH: 30 Eylül 2026
@@ -126,7 +150,7 @@ Bangladeş (BKASH ve ROCKET cüzdanlarına), Benin (MOOV ve MTN cüzdanlarına),
 ‍
 
 
---- UPTION KAMPANYA 9/17 ---
+--- UPTION KAMPANYA 10/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/yabanci-saglik-sigortasi
 SON TARİH: 31 Temmuz 2026
@@ -143,7 +167,7 @@ Zorunlu yabancı sağlık sigortasını UPTION üzerinden alanlar, poliçe tutar
 ‍
 
 
---- UPTION KAMPANYA 10/17 ---
+--- UPTION KAMPANYA 11/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/shahid
 SON TARİH: 31 Aralık 2026
@@ -158,7 +182,7 @@ Kampanya Koşulları
 • UPT Ödeme Hiz. Ve Elektronik Para AŞ kampanya koşullarında değişiklik yapma veya kampanyayı durdurma hakkını saklı tutar.
 
 
---- UPTION KAMPANYA 11/17 ---
+--- UPTION KAMPANYA 12/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/uption-karttan-hos-geldin-hediyesi-500-tl-nakit-iade
 SON TARİH: 31 Temmuz 2026
@@ -176,7 +200,7 @@ SON TARİH: 31 Temmuz 2026
 ‍
 
 
---- UPTION KAMPANYA 12/17 ---
+--- UPTION KAMPANYA 13/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/metropolcard
 SON TARİH: 31 Aralık 2026
@@ -194,7 +218,7 @@ Hesabın sahtekârlık amacıyla açıldığı veya kullanıcı hesabının şar
 Kullanıcıya ait kimliği, ilave bilgiyi ve belgeyi teyit edemememiz hâlinde.
 
 
---- UPTION KAMPANYA 13/17 ---
+--- UPTION KAMPANYA 14/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/hepsiburada
 SON TARİH: 31 Aralık 2026
@@ -209,7 +233,7 @@ SON TARİH: 31 Aralık 2026
 ‍
 
 
---- UPTION KAMPANYA 14/17 ---
+--- UPTION KAMPANYA 15/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/spotify
 SON TARİH: 31 Aralık 2026
@@ -224,7 +248,7 @@ Kampanya Koşulları
 ‍
 
 
---- UPTION KAMPANYA 15/17 ---
+--- UPTION KAMPANYA 16/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/youtube
 SON TARİH: 31 Aralık 2026
@@ -240,7 +264,7 @@ SON TARİH: 31 Aralık 2026
 ‍
 
 
---- UPTION KAMPANYA 16/17 ---
+--- UPTION KAMPANYA 17/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/netflix
 SON TARİH: 31 Aralık 2026
@@ -255,7 +279,7 @@ SON TARİH: 31 Aralık 2026
 ‍
 
 
---- UPTION KAMPANYA 17/17 ---
+--- UPTION KAMPANYA 18/18 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/arkadasini-davet-et
 SON TARİH BELİRTİLMEMİŞ
@@ -296,7 +320,7 @@ Arkadaşına Öner Kampanyası ile ilgili tüm sorularınızı uption@upt.com.tr
 
 
 === UPTION ÇEKİM ÖZETİ ===
-TOPLAM BENZERSİZ LİNK: 17
-GÜNCEL VEYA TARİHİ BELİRSİZ: 17
+TOPLAM BENZERSİZ LİNK: 18
+GÜNCEL VEYA TARİHİ BELİRSİZ: 18
 SÜRESİ DOLMUŞ: 0
 HATALI: 0
