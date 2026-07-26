@@ -1,173 +1,4 @@
-=== TEMİZLENMİŞ HALKBANK PARAF KAMPANYA RAPORU (25/07/2026 04:24) ===
-
-
-======================================================================
-KAMPANYA NO                      : 1
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/akaryakit.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-This page isn’t working
-www.paraf.com.tr is currently unable to handle this request.
-HTTP ERROR 502
-Reload
-
-
-======================================================================
-KAMPANYA NO                      : 2
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-This page isn’t working
-www.paraf.com.tr is currently unable to handle this request.
-HTTP ERROR 502
-Reload
-
-
-======================================================================
-KAMPANYA NO                      : 3
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-This page isn’t working
-www.paraf.com.tr is currently unable to handle this request.
-HTTP ERROR 502
-Reload
-
-
-======================================================================
-KAMPANYA NO                      : 4
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/e-ticaret.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-This page isn’t working
-www.paraf.com.tr is currently unable to handle this request.
-HTTP ERROR 502
-Reload
-
-
-======================================================================
-KAMPANYA NO                      : 5
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/egitim-kirtasiye.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-This page isn’t working
-www.paraf.com.tr is currently unable to handle this request.
-HTTP ERROR 502
-Reload
-
-
-======================================================================
-KAMPANYA NO                      : 6
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-This page isn’t working
-www.paraf.com.tr is currently unable to handle this request.
-HTTP ERROR 502
-Reload
-
-
-======================================================================
-KAMPANYA NO                      : 7
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-This page isn’t working
-www.paraf.com.tr is currently unable to handle this request.
-HTTP ERROR 502
-Reload
-
-
-======================================================================
-KAMPANYA NO                      : 8
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/kuyum-ve-mucevherat.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-This page isn’t working
-www.paraf.com.tr is currently unable to handle this request.
-HTTP ERROR 502
-Reload
-
-
-======================================================================
-KAMPANYA NO                      : 9
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/market.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-This page isn’t working
-www.paraf.com.tr is currently unable to handle this request.
-HTTP ERROR 502
-Reload
-
-
-======================================================================
-KAMPANYA NO                      : 10
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-This page isn’t working
-www.paraf.com.tr is currently unable to handle this request.
-HTTP ERROR 502
-Reload
-
-
-======================================================================
-KAMPANYA NO                      : 11
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/otomotiv.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-This page isn’t working
-www.paraf.com.tr is currently unable to handle this request.
-HTTP ERROR 502
-Reload
-
-
-======================================================================
-KAMPANYA NO                      : 12
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/seyahat.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-This page isn’t working
-www.paraf.com.tr is currently unable to handle this request.
-HTTP ERROR 502
-Reload
-
-
-======================================================================
-KAMPANYA NO                      : 13
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/sigorta.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-This page isn’t working
-www.paraf.com.tr is currently unable to handle this request.
-HTTP ERROR 502
-Reload
+=== TEMİZLENMİŞ HALKBANK PARAF KAMPANYA RAPORU (26/07/2026 04:18) ===
 
 
 ======================================================================
@@ -3415,9 +3246,9 @@ Mağazalardan yapılacak alışverişlerde 4 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
 Vakko'da 4 taksit fırsatı
 Vakkorama'da 4 taksit fırsatı
-Paraf ile Vatan'da 5000 TL’ye varan ParafPara
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3730,9 +3561,9 @@ Mağazalardan yapılacak alışverişlerde 6 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
 Vakko'da 4 taksit fırsatı
 Vakkorama'da 4 taksit fırsatı
-Paraf ile Vatan'da 5000 TL’ye varan ParafPara
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3779,9 +3610,9 @@ Mağazalardan yapılacak alışverişlerde 6 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
 Vakko'da 4 taksit fırsatı
 Vakkorama'da 4 taksit fırsatı
-Paraf ile Vatan'da 5000 TL’ye varan ParafPara
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3828,9 +3659,9 @@ Mağazalardan yapılacak alışverişlerde 4 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
 Vakko'da 4 taksit fırsatı
 Vakkorama'da 4 taksit fırsatı
-Paraf ile Vatan'da 5000 TL’ye varan ParafPara
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4053,9 +3884,9 @@ Yasal mevzuat gereği, mal veya hizmet alımı sonrası belli bir ücret karşı
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
 Vakko'da 4 taksit fırsatı
 Vakkorama'da 4 taksit fırsatı
-Paraf ile Vatan'da 5000 TL’ye varan ParafPara
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4400,9 +4231,9 @@ ParafPara kullanımları kampanyaya dahil değildir.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
 Vakko'da 4 taksit fırsatı
 Vakkorama'da 4 taksit fırsatı
-Paraf ile Vatan'da 5000 TL’ye varan ParafPara
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4498,9 +4329,9 @@ Mağazalardan yapılacak alışverişlerde 5 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
 Vakko'da 4 taksit fırsatı
 Vakkorama'da 4 taksit fırsatı
-Paraf ile Vatan'da 5000 TL’ye varan ParafPara
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5873,9 +5704,9 @@ Mağazalardan yapılacak alışverişlerde 6 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
 Vakko'da 4 taksit fırsatı
 Vakkorama'da 4 taksit fırsatı
-Paraf ile Vatan'da 5000 TL’ye varan ParafPara
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -6589,9 +6420,9 @@ Bir müşteri gün içinde anlaşmalı bu taksilerde dilediği kadar kredi kart�
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
 Vakko'da 4 taksit fırsatı
 Vakkorama'da 4 taksit fırsatı
-Paraf ile Vatan'da 5000 TL’ye varan ParafPara
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -11235,10 +11066,39 @@ KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
 PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
 ----------------------------------------------------------------------
-This page isn’t working
-www.paraf.com.tr is currently unable to handle this request.
-HTTP ERROR 502
-Reload
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Hata Sayfaları
+404
+Ulaşmak istediğiniz sayfa bulunamadı.
+Aradığınız sayfa sitemizden kaldırılmış ya da adresi (URL) değiştirilmiş olabilir.
+Sayfa adresini yazarken yazım hatası yapıp yapmadığınızı kontrol edin, istediğiniz sayfayı bulmak için yukarıdaki arama kutusunu kullanabilirsiniz.
+Geri Dön
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
 
 
 ======================================================================
