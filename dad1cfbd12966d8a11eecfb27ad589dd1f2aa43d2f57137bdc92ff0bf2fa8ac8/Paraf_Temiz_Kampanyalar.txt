@@ -1,10 +1,10 @@
-=== TEMİZLENMİŞ HALKBANK PARAF KAMPANYA RAPORU (27/07/2026 04:18) ===
+=== TEMİZLENMİŞ HALKBANK PARAF KAMPANYA RAPORU (28/07/2026 04:18) ===
 
 
 ======================================================================
 KAMPANYA NO                      : 14
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/market/market-alisverislerinize-700tl-parafpara.html
+KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/e-ticaret/secili-eticaret-alisverislerinize-2000tlye-varan-parafpara111111.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
 PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
 ----------------------------------------------------------------------
@@ -20,27 +20,27 @@ KREDİ KARTI BAŞVURUSU
 ÜYE İŞYERİ BAŞVURUSU
 Ana Sayfa
 Kampanyalar
-Market
-Market Alışverişlerinize 700 TL ParafPara
-Market Alışverişlerinize 700 TL ParafPara
-Kampanya 1-31 Temmuz 2026 tarihleri arasında geçerlidir.
-Kampanya kapsamında yurt içinde tek seferde yapacağınız 7.500 TL ve üzeri her  gıda marketi, bakkal, kasap, manav ve şarküteri alışverişinize 350 TL, toplamda 700 TL ParafPara verilecektir.
-Kampanya müşteri bazlı olup, bir müşteri kampanyaya bir kez katılabilir ve en fazla 700 TL ParafPara kazanabilir.
-Kampanyaya katılmak için harcama yapmadan önce Paraf Mobil veya Halkbank Mobil uygulamamızın Paraf kart kampanyaları alanında yer alan HEMEN KATIL butonuna tıklanması gerekmektedir.
-Kazanılan ParafPara’lar, işyeri tarafından POS üzerinden yapılacak günsonu işlemi aracılığıyla kazanım sağlanan işlemin banka sistemine ulaşmasından bir sonraki gün sistem tarafından yüklenmektedir.
-Bir kart ile kampanyaya katılım yapıldığında müşterinin tüm kartları kampanyaya dahil olur.
+E-Ticaret
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
+Paraf ile 1-31 Temmuz 2026 tarihleri arasında Amazon.com.tr, Çiçek Sepeti, Hepsiburada, İdefix, n11, Pazarama, PttAvm, Trendyol web siteleri ve mobil uygulamaları üzerinden Paraf POS’larından, tek seferde yapılacak her 3.000 TL ve üzeri harcamaya 200 TL, toplamda 2.000 TL ParafPara verilecektir.
+Aynı gün aynı iş yerinden yapılacak harcamaların ilki kampanyaya dahildir
+Kampanyaya katılmak için harcama yapmadan önce Halkbank Mobil veya Paraf Mobil’den “Hemen Katıl” butonunun tıklanması gerekmektedir.
+Bir müşterinin kampanya boyunca kazanabileceği ParafPara tutarı 2.000 TL ile sınırlı olacaktır.
+Fiziki mağazalardan, fiziki POS'lardan ve ödeme kuruluşları aracılığıyla yapılan işlemler kampanyaya dahil olmayıp, kampanya koşullarında yer alan seçili internet sitelerinden ve mobil uygulamalarından ve Paraf POS'larından gerçekleştirilen alışverişler kampanyaya dahildir.
+Kazanılan ParafPara’lar, işyeri tarafından POS üzerinden yapılacak gün sonu işlemi aracılığıyla kazanım sağlanan işlemin banka sistemine ulaşmasından bir sonraki gün sistem tarafından yüklenmektedir.
+Kampanyaya Paraf ve Parafly, Ek ve Sanal kartlar dahil olup, Parafree, Business kartlar, Halkcardlar, ParafPara kullanarak yapılan işlemler, iptal ve iade işlemleri dâhil değildir.
+Trendyol web siteleri ve mobil uygulamaları üzerinden yapılan harcamalar 16-31 Temmuz tarihleri arasında kampanyaya dahildir.
+Seçili sitelerden yapacağınız cüzdan işlemleri ve puan kullanımları kampanyaya dahil değildir.
 Hedefe ulaşılan harcama hangi kart ile yapılırsa ParafPara ödülü o karta yansıtılmaktadır.
-Aynı gün aynı iş yerinden yapılacak harcamaların ilki kampanyaya dahildir.
-Kampanyaya gıda marketi, bakkal, kasap, manav ve şarküteri kategorisine giren fiziki ve sanal iş yerlerinde yapılan harcamalar dahildir.
-Alışverişin yapıldığı iş yerinin, sistemde kayıtlı sektör bilgisinin doğru olmasının sorumluluğu iş yerine aittir.
-Paraf, Parafly, sanal kartlar ve ek kartlar kampanyaya dahildir.
-Paraf Gençİz, banka kartları, ticari kartlar, Halkcardlar, ParafPara kullanarak yapılan işlemler, iptal ve iade işlemleri kampanyaya dahil değildir.
+ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır. Transfer edilen ParafPara’lar geri alınacaktır.
+Market, Altın & Gümüş, Hat, Bilet vd belirli kategorilerinden yapılan alışverişler kampanya kapsamında değildir. yapılan işlemler, iptal ve iade işlemleri kampanyaya dahil değildir.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
 Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -61,6 +61,62 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 ======================================================================
 KAMPANYA NO                      : 15
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/e-ticaret/secili-eticaret-alisverislerinize-1500tl-parafpara111111.html
+KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
+PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+E-Ticaret
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Paraf ile 1-31 Temmuz 2026 tarihleri arasında Amazon.com.tr, Çiçek Sepeti, Hepsiburada, İdefix, n11, Pazarama, PttAvm, Trendyol web siteleri ve mobil uygulamaları üzerinden Paraf POS’larından, tek seferde yapılacak 30.000 TL ve üzeri ilk taksitli harcamaya 1.500 TL ParafPara verilecektir.
+Kampanya sadece taksitli işlemlerde geçerlidir.
+Kampanya müşteri bazındadır. Bir müşteri kampanyadan bir defa yararlanabilir ve en fazla 1.500 TL ParafPara kazanabilir.
+Kampanyaya katılmak için harcama yapmadan önce Halkbank Mobil veya Paraf Mobil’den “Hemen Katıl” butonunun tıklanması gerekmektedir.
+Fiziki mağazalardan, fiziki POS'lardan ve ödeme kuruluşları aracılığıyla yapılan işlemler kampanyaya dahil olmayıp, kampanya koşullarında yer alan seçili internet sitelerinden ve mobil uygulamalarından ve Paraf POS'larından gerçekleştirilen alışverişler kampanyaya dahildir.
+Kazanılan ParafPara’lar, işyeri tarafından POS üzerinden yapılacak gün sonu işlemi aracılığıyla kazanım sağlanan işlemin banka sistemine ulaşmasından bir sonraki gün sistem tarafından yüklenmektedir.
+Kampanyaya Paraf ve Parafly, Ek ve Sanal kartlar dahil olup, Parafree, Business kartlar, Halkcardlar, ParafPara kullanarak yapılan işlemler, iptal ve iade işlemleri dâhil değildir.
+Seçili sitelerden yapacağınız cüzdan işlemleri ve puan kullanımları kampanyaya dahil değildir.
+Hedefe ulaşılan harcama hangi kart ile yapılırsa ParafPara ödülü o karta yansıtılmaktadır.
+Market, Altın & Gümüş, Hat, Bilet vd belirli kategorilerinden yapılan alışverişler kampanya kapsamında değildir.
+TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
+İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
+Vakko'da 4 taksit fırsatı
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 16
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/market/market-harcamalariniza-1500-tl-parafpara1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -96,9 +152,9 @@ Paraf Gençİz, banka kartları, ticari kartlar, Halkcardlar, ParafPara kullanar
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -118,7 +174,65 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 16
+KAMPANYA NO                      : 17
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/market/market-alisverislerinize-700tl-parafpara.html
+KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
+PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+Market
+Market Alışverişlerinize 700 TL ParafPara
+Market Alışverişlerinize 700 TL ParafPara
+Kampanya 1-31 Temmuz 2026 tarihleri arasında geçerlidir.
+Kampanya kapsamında yurt içinde tek seferde yapacağınız 7.500 TL ve üzeri her  gıda marketi, bakkal, kasap, manav ve şarküteri alışverişinize 350 TL, toplamda 700 TL ParafPara verilecektir.
+Kampanya müşteri bazlı olup, bir müşteri kampanyaya bir kez katılabilir ve en fazla 700 TL ParafPara kazanabilir.
+Kampanyaya katılmak için harcama yapmadan önce Paraf Mobil veya Halkbank Mobil uygulamamızın Paraf kart kampanyaları alanında yer alan HEMEN KATIL butonuna tıklanması gerekmektedir.
+Kazanılan ParafPara’lar, işyeri tarafından POS üzerinden yapılacak günsonu işlemi aracılığıyla kazanım sağlanan işlemin banka sistemine ulaşmasından bir sonraki gün sistem tarafından yüklenmektedir.
+Bir kart ile kampanyaya katılım yapıldığında müşterinin tüm kartları kampanyaya dahil olur.
+Hedefe ulaşılan harcama hangi kart ile yapılırsa ParafPara ödülü o karta yansıtılmaktadır.
+Aynı gün aynı iş yerinden yapılacak harcamaların ilki kampanyaya dahildir.
+Kampanyaya gıda marketi, bakkal, kasap, manav ve şarküteri kategorisine giren fiziki ve sanal iş yerlerinde yapılan harcamalar dahildir.
+Alışverişin yapıldığı iş yerinin, sistemde kayıtlı sektör bilgisinin doğru olmasının sorumluluğu iş yerine aittir.
+Paraf, Parafly, sanal kartlar ve ek kartlar kampanyaya dahildir.
+Paraf Gençİz, banka kartları, ticari kartlar, Halkcardlar, ParafPara kullanarak yapılan işlemler, iptal ve iade işlemleri kampanyaya dahil değildir.
+TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
+İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 18
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/market/market-alisverislerinize-800-tl-parafpara1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -153,9 +267,9 @@ Paraf Gençİz, banka kartları, ticari kartlar, Halkcardlar, ParafPara kullanar
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -175,7 +289,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 17
+KAMPANYA NO                      : 19
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/giyim-ve-kozmetik-alisverislerinize-2000tl-parafpara111.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -212,9 +326,9 @@ Paraf Gençİz, banka kartları, ticari kartlar, Halkcardlar, ParafPara kullanar
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -234,7 +348,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 18
+KAMPANYA NO                      : 20
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/giyim-kozmetik-optik-ve-saat-alisverislerinize-1000tlye-varan-parafpara1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -270,9 +384,9 @@ Paraf Gençİz, banka kartları, ticari kartlar, Halkcardlar, ParafPara kullanar
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -292,7 +406,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 19
+KAMPANYA NO                      : 21
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/diger-firsatlar/yurt-disi-alisverislerinize-5000-tlye-varan-parafpara-YDF12-YDF13.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -330,9 +444,9 @@ Yapılan işlemler, iptal ve iade işlemleri kampanyaya dahil değildir.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -352,7 +466,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 20
+KAMPANYA NO                      : 22
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/diger-firsatlar/yurt-disi-online-alisverislerinize-750-tl-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -392,9 +506,9 @@ Premium kartlar, Paraf Genç, Paraf GençİZ ,banka kartları, ticari kartlar, H
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -414,7 +528,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 21
+KAMPANYA NO                      : 23
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/seyahat/yurt-disi-online-seyahat-alisverislerinize-1500tl-parafpara-YDK19.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -452,9 +566,9 @@ Premium kartlar, Paraf Genç, Paraf GençİZ ,banka kartları, ticari kartlar, H
 TÜRKİYE HALK BANKASI A.Ş. ve TOURAMA TOURİSM SEYAHAT VE TİCARET A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -474,7 +588,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 22
+KAMPANYA NO                      : 24
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/premiuma-ozel-yurt-disi-online-alisverislerinize-3000-tl-parafpara-YDK15.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -515,9 +629,9 @@ Yapılan işlemler, iptal ve iade işlemleri kampanyaya dahil değildir.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -537,7 +651,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 23
+KAMPANYA NO                      : 25
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/seyahat/premiuma-ozel-yurtdisi-online-seyahat-alisverislerinize-2500tl-parafpara-YDK17.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -575,9 +689,9 @@ Premium kartlar harici Paraf kartlar, Parafly kartlar ,Paraf Genç, Paraf Genç�
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -597,7 +711,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 24
+KAMPANYA NO                      : 26
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/seyahat/ucak-bileti-harcamalariniza-2000tl-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -633,9 +747,9 @@ Paraf Genç, banka kartları, ticari kartlar, Halkcard'lar, ParafPara kullanarak
 TÜRKİYE HALK BANKASI A.Ş. ve TOURAMA TOURİSM SEYAHAT VE TİCARET A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -655,7 +769,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 25
+KAMPANYA NO                      : 27
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/seyahat/seyahat-konaklama-ve-arac-kiralama-harcamalariniza-3500tl-parafpara3.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -692,9 +806,9 @@ Paraf Genç, banka kartları, ticari kartlar, Halkcard'lar, ParafPara kullanarak
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -714,7 +828,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 26
+KAMPANYA NO                      : 28
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/akaryakit/akaryakit-harcamalariniza-ozel-300tl-parafpara1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -748,9 +862,9 @@ Paraf Genç, banka kartları, ticari kartlar, Halkcardlar, ParafPara kullanarak 
 Türkiye Halk Bankası A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -770,7 +884,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 27
+KAMPANYA NO                      : 29
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/akaryakit/aytemizden-paraf-esnaf-kartlara-ozel-yuzde-4-indirim.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -805,9 +919,9 @@ Kampanyaya ilişkin detaylı bilgilere aytemiz.com.tr, Aytemiz Vaay uygulaması,
 Türkiye Halk Bankası A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -827,7 +941,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 28
+KAMPANYA NO                      : 30
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/akaryakit/elektrikli-arac-sarj-istasyonu-harcamalariniza-200-tl-parafpara111.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -863,9 +977,9 @@ Kazanılan ParafPara’lar, işyeri tarafından POS üzerinden yapılacak günso
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -885,7 +999,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 29
+KAMPANYA NO                      : 31
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/mobilya-ve-dekorasyon/mobilya-dekorasyon-ve-yapi-marketi-alisverislerinize-4000tlye-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -921,9 +1035,9 @@ Kazanılan ParafPara’lar, işyeri tarafından POS üzerinden yapılacak günso
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -943,7 +1057,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 30
+KAMPANYA NO                      : 32
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/diger-firsatlar/mobil-qr-ile-odemelerinize-250tl-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -982,9 +1096,9 @@ Paraf Genç, banka kartları, ticari kartlar, Halkcardlar, ParafPara kullanarak 
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -1004,7 +1118,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 31
+KAMPANYA NO                      : 33
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/sigorta/vergi-ve-sigorta-odemelerinize-4-aya-varan-faizsiz-sonradan-taksit-kampanyasi.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1045,9 +1159,9 @@ Bireysel kredi kartlarıyla gerçekleştirilecek telekomünikasyon, doğrudan pa
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -1067,7 +1181,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 32
+KAMPANYA NO                      : 34
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/diger-firsatlar/saglik-harcamalariniza-4aya-varan-faizsiz-sonradan-taksit-kampanyasi1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1105,9 +1219,9 @@ Bireysel kredi kartlarıyla gerçekleştirilecek telekomünikasyon, doğrudan pa
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -1127,7 +1241,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 33
+KAMPANYA NO                      : 35
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/egitim-kirtasiye/pesin-okul-odemelerinize-paraf-poslarinda-gecerli-ucretsiz-6-ya-varan-taksit-kampanyasi-temmuz.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1187,7 +1301,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 34
+KAMPANYA NO                      : 36
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/diger-firsatlar/ilk-parafly-kartinizda-5000tl-parafpara-sizi-bekliyor-hemen-basvurun.html
 KAMPANYA GEÇERLİLİK TARİHİ       : 1 Temmuz 2026 – 30 Eylül 2026
@@ -1236,9 +1350,9 @@ Kazanılan ParafPara, işyerinin POS üzerinden gerçekleştirdiği gün sonu i�
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -1258,7 +1372,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 35
+KAMPANYA NO                      : 37
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/e-ticaret/amazon-com-trde-pesin-fiyatina-9-aya-varan-taksit-firsati11.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1293,9 +1407,9 @@ Debit kartlar, Halkcard ve ParafPara kullanarak yapılan işlemler kampanyaya da
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -1315,7 +1429,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 36
+KAMPANYA NO                      : 38
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/diger-firsatlar/paraf-troy-kartlara-ozel-secili-sektorlerde-500-tl-parafpara-kampanyasi-temmuz.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1358,9 +1472,9 @@ Kazanılan Parafpara ödülü, işyeri tarafından POS üzerinden yapılacak gü
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -1380,7 +1494,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 37
+KAMPANYA NO                      : 39
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/diger-firsatlar/paraf-degerlimiz-kredi-kart-sahibi-emekli-musterilerimize-ozel-otomatik-fatura-odeme-talimatlarina-3500tlye-varan-parafpara1111.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1421,9 +1535,9 @@ Halkbank İnternet Şubesi > Ödeme /Vergi>Fatura > Fatura Talimatları>Yeni Tal
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -1443,7 +1557,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 38
+KAMPANYA NO                      : 40
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/beyaz-esya-ve-elektronik/paraf-ile-vatanda-5000tlye-varan-parafpara1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1480,9 +1594,9 @@ Bankacılık Düzenleme ve Denetleme Kurulu'nun (BDDK) taksitlendirmeyi düzenle
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -1502,7 +1616,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 39
+KAMPANYA NO                      : 41
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/diger-firsatlar/otomatik-fatura-odeme-talimatlariniza-1000-tlye-varan-parafpara-temmuz.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1544,9 +1658,9 @@ Halkbank İnternet Şubesi > Ödeme /Vergi > Fatura > Fatura Talimatları > Yeni
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -1566,7 +1680,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 40
+KAMPANYA NO                      : 42
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/beyaz-esya-ve-elektronik/beyaz-esya-ve-elektronik-alisverislerinize-3000tlye-varan-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1602,9 +1716,9 @@ Paraf Genç, banka kartları, ticari kartlar, Halkcard'lar, ParafPara kullanarak
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -1624,7 +1738,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 41
+KAMPANYA NO                      : 43
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/diger-firsatlar/istanbul-resim-ve-heykel-muzesi-girisi-paraftan-hediye.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1654,9 +1768,9 @@ Kampanyaya Parafly ve Parafly Platinum kartlar ile Paraf ailesine dahil tüm bir
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -1676,7 +1790,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 42
+KAMPANYA NO                      : 44
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/diger-firsatlar/paraf-premium-ile-nextplusta-yuzde50-indirim.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1711,9 +1825,9 @@ Kampanya kapsamında NextPlus Health’dan satın alınan ürünlerle/hizmetlerl
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -1733,63 +1847,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 43
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/e-ticaret/secili-eticaret-alisverislerinize-1500tl-parafpara111111.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-E-Ticaret
-Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
-Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
-Paraf ile 1-31 Temmuz 2026 tarihleri arasında Amazon.com.tr, Çiçek Sepeti, Hepsiburada, İdefix, n11, Pazarama, PttAvm, Trendyol web siteleri ve mobil uygulamaları üzerinden Paraf POS’larından, tek seferde yapılacak 30.000 TL ve üzeri ilk taksitli harcamaya 1.500 TL ParafPara verilecektir.
-Kampanya sadece taksitli işlemlerde geçerlidir.
-Kampanya müşteri bazındadır. Bir müşteri kampanyadan bir defa yararlanabilir ve en fazla 1.500 TL ParafPara kazanabilir.
-Kampanyaya katılmak için harcama yapmadan önce Halkbank Mobil veya Paraf Mobil’den “Hemen Katıl” butonunun tıklanması gerekmektedir.
-Fiziki mağazalardan, fiziki POS'lardan ve ödeme kuruluşları aracılığıyla yapılan işlemler kampanyaya dahil olmayıp, kampanya koşullarında yer alan seçili internet sitelerinden ve mobil uygulamalarından ve Paraf POS'larından gerçekleştirilen alışverişler kampanyaya dahildir.
-Kazanılan ParafPara’lar, işyeri tarafından POS üzerinden yapılacak gün sonu işlemi aracılığıyla kazanım sağlanan işlemin banka sistemine ulaşmasından bir sonraki gün sistem tarafından yüklenmektedir.
-Kampanyaya Paraf ve Parafly, Ek ve Sanal kartlar dahil olup, Parafree, Business kartlar, Halkcardlar, ParafPara kullanarak yapılan işlemler, iptal ve iade işlemleri dâhil değildir.
-Seçili sitelerden yapacağınız cüzdan işlemleri ve puan kullanımları kampanyaya dahil değildir.
-Hedefe ulaşılan harcama hangi kart ile yapılırsa ParafPara ödülü o karta yansıtılmaktadır.
-Market, Altın & Gümüş, Hat, Bilet vd belirli kategorilerinden yapılan alışverişler kampanya kapsamında değildir.
-TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
-YAZDIR
-İlginizi Çekebilir
-Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 44
+KAMPANYA NO                      : 45
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/diger-firsatlar/motorlu-tasitlar-vergisi-odemelerinize-3-taksit-paraf-troy-ile-4-taksit11.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1821,9 +1879,9 @@ Yapılandırılmış MTV cezaları kampanyaya dahil değildir.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -1843,7 +1901,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 45
+KAMPANYA NO                      : 46
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/mobilya-ve-dekorasyon/alfemoda-pesin-fiyatina-8-taksit-kampanyasi.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1870,9 +1928,9 @@ Kampanyaya Paraf, Parafly, Parafree, Paraf Business, Dünya Katılım, Emlak Kat
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -1892,7 +1950,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 46
+KAMPANYA NO                      : 47
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/market/cepte-sokta-200tl-varan-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1931,67 +1989,9 @@ ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır ve tra
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
-Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 47
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/e-ticaret/secili-eticaret-alisverislerinize-2000tlye-varan-parafpara111111.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-E-Ticaret
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
 Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
-Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
-Paraf ile 1-31 Temmuz 2026 tarihleri arasında Amazon.com.tr, Çiçek Sepeti, Hepsiburada, İdefix, n11, Pazarama, PttAvm, Trendyol web siteleri ve mobil uygulamaları üzerinden Paraf POS’larından, tek seferde yapılacak her 3.000 TL ve üzeri harcamaya 200 TL, toplamda 2.000 TL ParafPara verilecektir.
-Aynı gün aynı iş yerinden yapılacak harcamaların ilki kampanyaya dahildir
-Kampanyaya katılmak için harcama yapmadan önce Halkbank Mobil veya Paraf Mobil’den “Hemen Katıl” butonunun tıklanması gerekmektedir.
-Bir müşterinin kampanya boyunca kazanabileceği ParafPara tutarı 2.000 TL ile sınırlı olacaktır.
-Fiziki mağazalardan, fiziki POS'lardan ve ödeme kuruluşları aracılığıyla yapılan işlemler kampanyaya dahil olmayıp, kampanya koşullarında yer alan seçili internet sitelerinden ve mobil uygulamalarından ve Paraf POS'larından gerçekleştirilen alışverişler kampanyaya dahildir.
-Kazanılan ParafPara’lar, işyeri tarafından POS üzerinden yapılacak gün sonu işlemi aracılığıyla kazanım sağlanan işlemin banka sistemine ulaşmasından bir sonraki gün sistem tarafından yüklenmektedir.
-Kampanyaya Paraf ve Parafly, Ek ve Sanal kartlar dahil olup, Parafree, Business kartlar, Halkcardlar, ParafPara kullanarak yapılan işlemler, iptal ve iade işlemleri dâhil değildir.
-Trendyol web siteleri ve mobil uygulamaları üzerinden yapılan harcamalar 16-31 Temmuz tarihleri arasında kampanyaya dahildir.
-Seçili sitelerden yapacağınız cüzdan işlemleri ve puan kullanımları kampanyaya dahil değildir.
-Hedefe ulaşılan harcama hangi kart ile yapılırsa ParafPara ödülü o karta yansıtılmaktadır.
-ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır. Transfer edilen ParafPara’lar geri alınacaktır.
-Market, Altın & Gümüş, Hat, Bilet vd belirli kategorilerinden yapılan alışverişler kampanya kapsamında değildir. yapılan işlemler, iptal ve iade işlemleri kampanyaya dahil değildir.
-TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
-YAZDIR
-İlginizi Çekebilir
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2041,9 +2041,9 @@ Kampanyaya Parafly, Parafree, Paraf Business, Emlak Katılım Paraf, Dünya Kat�
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2107,9 +2107,9 @@ ParafPara kazanma ve kullanma koşulları TÜRKİYE HALKBANKASI A.Ş.tarafından
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2160,9 +2160,9 @@ ParafPara kullanımları kampanyaya dahil değildir.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2219,9 +2219,9 @@ Mastercard kampanya süresince herhangi bir zamanda kampanya koşullarında tek 
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2274,9 +2274,9 @@ ParafPara kullanımları kampanyaya dahil değildir.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2328,9 +2328,9 @@ Paraf, Parafly, Parafree, Emlak Katılım Paraf, Dünya Katılım Paraf, sanal v
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2380,9 +2380,9 @@ Kampanya kapsamında yapılan işlemlerin iade ve iptal edilmesi durumunda, ipta
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2482,9 +2482,9 @@ Kampanya kapsamında yapılan işlemlerin iade ve iptal edilmesi durumunda, ipta
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2536,9 +2536,9 @@ Yasal mevzuat gereği, elektronik eşya alımlarında (Video, kamera, ses sistem
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2586,9 +2586,9 @@ www.yargici.com.tr web sitesinden yapılacak işlemler kampanyaya dahil değildi
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2635,9 +2635,9 @@ Mağazalardan yapılacak alışverişlerde 4 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2684,9 +2684,9 @@ Mağazalardan yapılacak alışverişlerde 4 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2739,9 +2739,9 @@ Paraf, Parafly, Parafree, Paraf Business, Paraf Esnaf, Paraf KOBİ, Eczacı Para
 TÜRKİYE HALK BANKASI A.Ş. ve Pazarama  kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2793,9 +2793,9 @@ Yasal mevzuat gereği, elektronik eşya alımlarında (Video, kamera, ses sistem
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -2844,9 +2844,9 @@ Franchise mağazalarda taksit sayısı farklılık gösterebilir.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3045,9 +3045,9 @@ Detaylı bilgi www.IKEA.com.tr veya 444 4 532.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3099,9 +3099,9 @@ Halkcard, Paraf Debit, Parafast, ParafPara kullanılarak yapılan işlemler ile 
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3148,9 +3148,9 @@ Mağazalardan yapılacak alışverişlerde 5 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3197,9 +3197,9 @@ Mağazalardan yapılacak alışverişlerde 5 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3246,9 +3246,9 @@ Mağazalardan yapılacak alışverişlerde 4 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3303,9 +3303,9 @@ Birden fazla üründen oluşan siparişlerin taksitlendirilebilmesi için sipari
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3356,9 +3356,9 @@ Yasal mevzuat gereği, mal veya hizmet alımı sonrası belli bir ücret karşı
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3409,9 +3409,9 @@ Yasal mevzuat gereği, mal veya hizmet alımı sonrası belli bir ücret karşı
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3561,9 +3561,9 @@ Mağazalardan yapılacak alışverişlerde 6 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3610,9 +3610,9 @@ Mağazalardan yapılacak alışverişlerde 6 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3659,9 +3659,9 @@ Mağazalardan yapılacak alışverişlerde 4 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3708,9 +3708,9 @@ Mağazalardan yapılacak alışverişlerde 4 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3774,9 +3774,9 @@ Mastercard ve Boyner Büyük Mağazacılık A.Ş. kampanyayı değiştirme hakk�
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
-Paraf ile Vatan'da 5000 TL’ye varan ParafPara
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3831,9 +3831,9 @@ Taksit sayısı otel bazında değişiklik gösterebilmektedir, işlem tamamlanm
 TÜRKİYE HALK BANKASI A.Ş. ve TOURAMA TOURİSM SEYAHAT VE TİCARET A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3884,9 +3884,9 @@ Yasal mevzuat gereği, mal veya hizmet alımı sonrası belli bir ücret karşı
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3937,9 +3937,9 @@ Yasal mevzuat gereği, mal veya hizmet alımı sonrası belli bir ücret karşı
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -3988,9 +3988,9 @@ Kampanya kapsamında yapılan işlemlerin iade ve iptal edilmesi durumunda, ipta
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4050,9 +4050,9 @@ Kampanya kapsamında Paraflytravel'dan satın alınan ürünlerle/hizmetlerle ve
 TÜRKİYE HALK BANKASI A.Ş. Kampanyanın koşullarının tamamında değişiklik yapma ve/veya kampanyayı saklama hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4127,9 +4127,9 @@ Kampanya kapsamında Paraflytravel’dan satın alınan ürünlerle/hizmetlerle 
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4176,9 +4176,9 @@ Kampanyaya Paraf, Parafly, Parafree, Paraf Business, Dünya Katılım, Emlak Kat
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4231,9 +4231,9 @@ ParafPara kullanımları kampanyaya dahil değildir.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4280,9 +4280,9 @@ Mağazalardan yapılacak alışverişlerde 5 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4329,9 +4329,9 @@ Mağazalardan yapılacak alışverişlerde 5 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4378,9 +4378,9 @@ Mağazalardan yapılacak alışverişlerde 5 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4429,9 +4429,9 @@ Kampanyaya Parafly, Parafree, Paraf Business, Emlak Katılım, Paraf Esnaf, Para
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4452,122 +4452,6 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 ======================================================================
 KAMPANYA NO                      : 94
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/seyahat/masterpasse-kayitli-paraf-mastercard-sahiplerine-izmir-bodrum-ve-ankarada-otopark-odemelerinde-yuzde50-indirim.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-Seyahat
-Masterpass'e kayıtlı Paraf Mastercard sahiplerine İzmir, Bodrum ve Ankara’da otopark ödemelerinde %50 indirim
-Masterpass'e kayıtlı Paraf Mastercard sahiplerine İzmir, Bodrum ve Ankara’da otopark ödemelerinde %50 indirim
-22 Mayıs — 31 Ekim tarihleri arasında Masterpass’e kayıtlı olan tüm Mastercard sahipleri, Treva mobil uygulamasında geçerli otopark ödemelerinde %50 indirimden yararlanabilir!
-Kampanya yalnızca İzmir, Bodrum ve Ankara’da gerçekleştirilen otopark ödemelerinde geçerlidir.
-Kampanya yalnızca Masterpass’e kayıtlı Mastercard kredi kartlarında, banka kartlarında ve ön ödemeli kartlarda geçerlidir.
-Kampanyadan yararlanmak için Masterpass web sitesi üzerinden ilgili kampanya sayfasından kodun alınması gerekmektedir.
-Masterpass’e üye olmayanlar, Masterpass web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından kodlarını alabilir.
-Treva mobil uygulamasında “Ödeme” > “Kampanyalar/ Kuponlar” adımları izlenerek kodun tanımlanması gerekmektedir.
-Treva mobil uygulamasını indirmek için linke tıklayınız.
-Kampanya kapsamında 2.000 TL'ye kadar olan işlem tutarlarında %50 indirim uygulanır. 2.000 TL'yi aşan işlem tutarlarında ise azami indirim tutarı 1.000 TL ile sınırlıdır.
-Her Masterpass kullanıcısı kampanyadan yalnızca 1 kez yararlanabilir. Kampanya kodu, bir kez kullanılmasının ardından sona erer.
-Kampanya yalnızca ilk kullanım için geçerlidir.
-Kampanya stoklarla sınırlıdır. Kota dolduğunda kampanya belirtilen bitiş tarihinden önce otomatik olarak sona erecektir.
-Mastercard ve TAV İşletme Hizmetleri A.Ş. kampanya koşullarında değişiklik yapma hakkını saklı tutar.
-TÜRKİYE HALK BANKASI A.Ş kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
-YAZDIR
-İlginizi Çekebilir
-Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 95
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/seyahat/masterpasse-kayitli-paraf-mastercard-sahiplerine-izmir-bodrum-ve-ankarada-havas-seyahatlerinde-yuzde50-indirim.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-Seyahat
-Masterpass'e kayıtlı Paraf Mastercard sahiplerine İzmir, Bodrum ve Ankara’da Havaş seyahatlerinde %50 indirim!
-Masterpass'e kayıtlı Paraf Mastercard sahiplerine İzmir, Bodrum ve Ankara’da Havaş seyahatlerinde %50 indirim!
-22 Mayıs - 31 Ekim tarihleri arasında Masterpass’e kayıtlı olan tüm Mastercard sahipleri, Treva mobil uygulamasında geçerli Havaş otobüs biniş hakkı satın alımlarında %50 indirimden yararlanabilir!
-Kampanya yalnızca İzmir, Bodrum ve Ankara’da gerçekleştirilen Havaş otobüs biniş hakkı satin alımlarında geçerlidir.
-Kampanya yalnızca Masterpass’e kayıtlı Mastercard kredi kartlarında, banka kartlarında ve ön ödemeli kartlarda geçerlidir.
-Kampanyadan yararlanmak için Masterpass web sitesi üzerinden ilgili kampanya sayfasından kodun alınması gerekmektedir.
-Masterpass’e üye olmayanlar, Masterpass web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından kodlarını alabilir.
-Treva mobil uygulamasında “Ödeme” > “Kampanyalar/ Kuponlar” adımları izlenerek kodun tanımlanması gerekmektedir.
-Treva mobil uygulamasını indirmek için linke tıklayınız.
-Her Masterpass kullanıcısı kampanyadan yalnızca 1 kez yararlanabilir. Kampanya kodu, bir kez kullanılmasının ardından sona erer.
-Kampanya yalnızca ilk kullanım için geçerlidir.
-Havaş için biniş hakkı satın alınmakta olup otobüs yoğunluğuna bağlı olarak yer garantisi sağlanmamaktadır.
-Kampanya stoklarla sınırlıdır. Kota dolduğunda kampanya belirtilen bitiş tarihinden önce otomatik olarak sona erecektir.
-Mastercard ve TAV İşletme Hizmetleri A.Ş. kampanya koşullarında değişiklik yapma hakkını saklı tutar.
-TÜRKİYE HALK BANKASI A.Ş kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
-YAZDIR
-İlginizi Çekebilir
-Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 96
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/seyahat/silver-logolu-paraf-mastercard-sahiplerine-progo-ile-istanbul-havalimani-ve-sabiha-gokcen-havalimani-transferi-1500tl.html
 KAMPANYA GEÇERLİLİK TARİHİ       : 15 Mayıs 2026 – 15 Ağustos 2026
@@ -4607,9 +4491,125 @@ Her Masterpass kullanıcısı kampanya süresi boyunca sadece 1 kez kupon kodu a
 TÜRKİYE HALK BANKASI A.Ş kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 95
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/seyahat/masterpasse-kayitli-paraf-mastercard-sahiplerine-izmir-bodrum-ve-ankarada-otopark-odemelerinde-yuzde50-indirim.html
+KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
+PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+Seyahat
+Masterpass'e kayıtlı Paraf Mastercard sahiplerine İzmir, Bodrum ve Ankara’da otopark ödemelerinde %50 indirim
+Masterpass'e kayıtlı Paraf Mastercard sahiplerine İzmir, Bodrum ve Ankara’da otopark ödemelerinde %50 indirim
+22 Mayıs — 31 Ekim tarihleri arasında Masterpass’e kayıtlı olan tüm Mastercard sahipleri, Treva mobil uygulamasında geçerli otopark ödemelerinde %50 indirimden yararlanabilir!
+Kampanya yalnızca İzmir, Bodrum ve Ankara’da gerçekleştirilen otopark ödemelerinde geçerlidir.
+Kampanya yalnızca Masterpass’e kayıtlı Mastercard kredi kartlarında, banka kartlarında ve ön ödemeli kartlarda geçerlidir.
+Kampanyadan yararlanmak için Masterpass web sitesi üzerinden ilgili kampanya sayfasından kodun alınması gerekmektedir.
+Masterpass’e üye olmayanlar, Masterpass web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından kodlarını alabilir.
+Treva mobil uygulamasında “Ödeme” > “Kampanyalar/ Kuponlar” adımları izlenerek kodun tanımlanması gerekmektedir.
+Treva mobil uygulamasını indirmek için linke tıklayınız.
+Kampanya kapsamında 2.000 TL'ye kadar olan işlem tutarlarında %50 indirim uygulanır. 2.000 TL'yi aşan işlem tutarlarında ise azami indirim tutarı 1.000 TL ile sınırlıdır.
+Her Masterpass kullanıcısı kampanyadan yalnızca 1 kez yararlanabilir. Kampanya kodu, bir kez kullanılmasının ardından sona erer.
+Kampanya yalnızca ilk kullanım için geçerlidir.
+Kampanya stoklarla sınırlıdır. Kota dolduğunda kampanya belirtilen bitiş tarihinden önce otomatik olarak sona erecektir.
+Mastercard ve TAV İşletme Hizmetleri A.Ş. kampanya koşullarında değişiklik yapma hakkını saklı tutar.
+TÜRKİYE HALK BANKASI A.Ş kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
+İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 96
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/seyahat/masterpasse-kayitli-paraf-mastercard-sahiplerine-izmir-bodrum-ve-ankarada-havas-seyahatlerinde-yuzde50-indirim.html
+KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
+PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+Seyahat
+Masterpass'e kayıtlı Paraf Mastercard sahiplerine İzmir, Bodrum ve Ankara’da Havaş seyahatlerinde %50 indirim!
+Masterpass'e kayıtlı Paraf Mastercard sahiplerine İzmir, Bodrum ve Ankara’da Havaş seyahatlerinde %50 indirim!
+22 Mayıs - 31 Ekim tarihleri arasında Masterpass’e kayıtlı olan tüm Mastercard sahipleri, Treva mobil uygulamasında geçerli Havaş otobüs biniş hakkı satın alımlarında %50 indirimden yararlanabilir!
+Kampanya yalnızca İzmir, Bodrum ve Ankara’da gerçekleştirilen Havaş otobüs biniş hakkı satin alımlarında geçerlidir.
+Kampanya yalnızca Masterpass’e kayıtlı Mastercard kredi kartlarında, banka kartlarında ve ön ödemeli kartlarda geçerlidir.
+Kampanyadan yararlanmak için Masterpass web sitesi üzerinden ilgili kampanya sayfasından kodun alınması gerekmektedir.
+Masterpass’e üye olmayanlar, Masterpass web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından kodlarını alabilir.
+Treva mobil uygulamasında “Ödeme” > “Kampanyalar/ Kuponlar” adımları izlenerek kodun tanımlanması gerekmektedir.
+Treva mobil uygulamasını indirmek için linke tıklayınız.
+Her Masterpass kullanıcısı kampanyadan yalnızca 1 kez yararlanabilir. Kampanya kodu, bir kez kullanılmasının ardından sona erer.
+Kampanya yalnızca ilk kullanım için geçerlidir.
+Havaş için biniş hakkı satın alınmakta olup otobüs yoğunluğuna bağlı olarak yer garantisi sağlanmamaktadır.
+Kampanya stoklarla sınırlıdır. Kota dolduğunda kampanya belirtilen bitiş tarihinden önce otomatik olarak sona erecektir.
+Mastercard ve TAV İşletme Hizmetleri A.Ş. kampanya koşullarında değişiklik yapma hakkını saklı tutar.
+TÜRKİYE HALK BANKASI A.Ş kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
+İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4668,9 +4668,9 @@ Mastercard® ve Plaza Premium Group kampanya süresince herhangi bir zamanda kam
 TÜRKİYE HALK BANKASI A.Ş kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4691,6 +4691,124 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 ======================================================================
 KAMPANYA NO                      : 98
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/damat-tweende-3000-tl-parafpara.html
+KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
+PARAFPARA/ÖDÜL SON KULLANIM      : 14 Eylül 2026
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+Giyim, Kozmetik ve Aksesuar
+Damat Tween’de 3.000 TL ParafPara
+Damat Tween’de 3.000 TL ParafPara!
+1-31 Temmuz 2026 tarihleri arasında DAMAT TWEEN’de Paraf POS’undan tek seferde yapılacak 30.000 TL ve üzeri ilk alışverişe 3.000 TL ParafPara verilecektir.
+Kampanya dönemi boyunca bir müşteri sadece bir kez 3.000 TL ParafPara kazanabilecektir.
+Kampanyaya katılmak için ilk alışverişten önce Paraf Mobil’den “Hemen Katıl” butonuna tıklanmalı ya da bankada kayıtlı cep telefonundan, DAMAT yazıp 3404’e SMS gönderilmelidir.
+Ödül kazanımına ilişkin bilgi SMS ile bildirilecektir. Kazanılan ParafPara’lar, kazanımın ertesi günü, kazanım sağlanan işlemin yapıldığı karta yüklenecektir.
+Kampanyaya katıldıktan sonra katılım kanalı değişikliği yapılamaz.
+Kazanılan ParafPara’ların son kullanım tarihi 14 Eylül 2026 saat 21:59 olup, kullanılmayan ParafPara’lar 15 Eylül 2026 tarihinde geri alınacaktır.
+İşlemlerin mutlaka kayıt olduktan sonra ve Paraf POS’larından gerçekleştirilmesi gerekmektedir. Kampanya katılım talebinin banka sistemine ulaşmasından sonraki işlemler dikkate alınmaktadır.
+Kampanyaya SMS ile katılmak için Turkcell, Vodafone ve TürkTelekom operatörlerine ait numaralar ile 3404’e SMS gönderilmelidir. Bu operatörler dışında SMS ile katılım sağlanamamaktadır.
+Katılım SMS’i, banka sisteminde kartın bağlı olduğu müşteri numarasına kayıtlı cep telefonu numarasından gönderilmelidir. Bu SMS ücretsizdir.
+Paraf, Parafly, Sanal kartlar ve Ek kartlar ile yapılan işlemler kampanyaya dahildir.
+Paraf Debit Kartlar, ParafPara kullanılarak yapılan işlemler ile iptal ve iade edilen işlemler kampanyaya dahil değildir.
+ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır ve transfer edilen ParafPara’lar geri alınacaktır.
+Kampanyaya ilişkin bilgi müşteriye ait slip üzerinde yer alacak olup geriye dönük yararlandırma ya da değişiklik yapılmayacaktır.
+TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
+İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 99
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/adv-magazalarinda-1000-tl-parafpara1.html
+KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
+PARAFPARA/ÖDÜL SON KULLANIM      : 14 Eylül 2026
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+Giyim, Kozmetik ve Aksesuar
+ADV mağazalarında 1.000 TL ParafPara!
+ADV mağazalarında 1.000 TL ParafPara!
+1-31 Temmuz 2026 tarihleri arasında ADV mağazalarında Paraf POS’undan tek seferde yapılacak 10.000 TL ve üzeri ilk alışverişe 1.000 TL ParafPara verilecektir.
+Kampanya dönemi boyunca bir müşteri sadece bir kez 1.000 TL ParafPara kazanabilecektir.
+Kampanyaya katılmak için ilk alışverişten önce Paraf Mobil’den “Hemen Katıl” butonuna tıklanmalı ya da bankada kayıtlı cep telefonundan, ADV yazıp 3404’e SMS gönderilmelidir.
+Ödül kazanımına ilişkin bilgi SMS ile bildirilecektir. Kazanılan ParafPara’lar, kazanımın ertesi günü, kazanım sağlanan işlemin yapıldığı karta yüklenecektir.
+Kampanyaya katıldıktan sonra katılım kanalı değişikliği yapılamaz.
+Kazanılan ParafPara’ların son kullanım tarihi 14 Eylül 2026 saat 21:59 olup, kullanılmayan ParafPara’lar 15 Eylül 2026 tarihinde geri alınacaktır.
+İşlemlerin mutlaka kayıt olduktan sonra ve Paraf POS’larından gerçekleştirilmesi gerekmektedir. Kampanya katılım talebinin banka sistemine ulaşmasından sonraki işlemler dikkate alınmaktadır.
+Kampanyaya SMS ile katılmak için Turkcell, Vodafone ve TürkTelekom operatörlerine ait numaralar ile 3404’e SMS gönderilmelidir. Bu operatörler dışında SMS ile katılım sağlanamamaktadır.
+Katılım SMS’i, banka sisteminde kartın bağlı olduğu müşteri numarasına kayıtlı cep telefonu numarasından gönderilmelidir. Bu SMS ücretsizdir.
+Paraf, Parafly ve Ek kartlar ile yapılan işlemler kampanyaya dahildir.
+Paraf Debit Kartlar, ParafPara kullanılarak yapılan işlemler ile iptal ve iade edilen işlemler kampanyaya dahil değildir.
+ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır ve transfer edilen ParafPara’lar geri alınacaktır.
+Kampanyaya ilişkin bilgi müşteriye ait slip üzerinde yer alacak olup geriye dönük yararlandırma ya da değişiklik yapılmayacaktır.
+TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
+İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
+Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 100
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/beyaz-esya-ve-elektronik/yenilioda-pesin-fiyatina-12-aya-varan-taksit-ve-1500tl-parafpara-temmuz.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -4729,9 +4847,9 @@ ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır ve tra
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4751,67 +4869,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 99
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/seyahat/touristica-com-tr-de-8500tlye-varan-parafpara-ve-pesin-fiyatina-9-taksit-temmuz.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-Seyahat
-Touristica.com.tr'de 8.500 TL'ye varan ParafPara ve Peşin fiyatına 9 Taksit!
-Touristica.com.tr'de 8.500 TL'ye varan ParafPara ve Peşin fiyatına 9 Taksit!
-Paraf ile 1-31 Temmuz 2026 tarihleri arasında Touristica.com.tr’den yapılacak ilk tatil alışverişine, tutarı 35.000 TL ile 49.999 TL arasında ise 2.500 TL, tutarı 50.000 TL ile 99.999 arasında ise 5.000 TL, 100.000 TL ile 119.999 TL arasında ise 7.000 TL, 120.000 TL ve üzeri ise 8.500 TL Parafpara verilecektir. Üstelik seçili yurt içi otellerinde peşin fiyatına 9 taksit fırsatından yararlanabilirsiniz.
-Seçili otellerde %5 indirim kampanyası işlem anında uygulanacaktır. Peşin işlemler ile 3 ve 6 taksitli işlemlerde geçerlidir. İndirim ile ilgili yaşanan sorunlar Touristica Çağrı merkezine iletilmelidir.
-Kampanyaya katılmak için ilk alışverişten önce Paraf Mobil’den “Hemen Katıl” butonuna tıklanmalı ya da bankada kayıtlı cep telefonundan, “TT” yazıp 3404’e SMS gönderilmelidir.
-Alışverişlerin, Paraf Mobil’de kampanyanın “Katıldıklarım” bölümünde izlenmesi sonrasında ya da gelecek onay SMS’i sonrasında yapılması gerekmektedir.
-Kampanya müşteri bazındadır. Bir müşteri kampanyadan bir defa yararlanabilir ve ilk alışveriş tutarına göre 2.500 TL, 5.000 TL, 7.000 TL ya da 8.500 TL’den birini kazanabilir.
-Kampanyaya ilişkin bilgi ve kazanılan ödüller Paraf Mobil’de yer alacak olup, geriye dönük yararlandırma ya da değişiklik yapılmayacaktır.
-Kampanya kapsamındaki alışverişlerin iptal/iade edilmesi durumunda verilmiş ödüller de iptal edilecektir.
-Kazanılan ParafPara’lar 14 Eylül 2026 saat 21:59’a kadar kullanılacak olup, kullanılmayan ParafPara’lar 15 Eylül 2026 tarihinde geri alınacaktır.
-Seçili otellerde %5 indirim kampanyası sepette anında uygulanacak olup sonradan yararlandırma yapılmayacaktır.
-Kampanyaya Paraf ve Parafly, Ek ve Sanal kartlar dahil olup, Parafree, Business kartlar, Halkcardlar, ParafPara kullanarak yapılan işlemler, iptal ve iade işlemleri dâhil değildir.
-İşlemin iadesi ile birlikte kampanya tutar kriterinin altına düşmesi durumunda verilen paraf para geri alınacaktır.
-ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır ve transfer edilen ParafPara’lar geri alınacaktır.
-Taksit sayısı otel bazında değişiklik gösterebilmektedir, işlem tamamlanmadan önce taksit sayısının seçilmesi gerekmektedir.
-İlgili yasal düzenlemelere istinaden Kuzey Kıbrıs Türk Cumhuriyeti’ne ilişkin harcamalarda taksitlendirme sürelerinin 3 ay olarak uygulanmaktadır, yurt dışına yönelik harcamalarda taksitlendirme yapılamamaktadır.
-TÜRKİYE HALK BANKASI A.Ş. ve TOURAMA TOURİSM SEYAHAT VE TİCARET A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
-YAZDIR
-İlginizi Çekebilir
-Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 100
+KAMPANYA NO                      : 101
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/ds-damatta-2000-tl-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -4848,9 +4906,9 @@ Kampanyaya ilişkin bilgi müşteriye ait slip üzerinde yer alacak olup geriye 
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4870,7 +4928,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 101
+KAMPANYA NO                      : 102
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/beyaz-esya-ve-elektronik/demirdokumde-9-aya-varan-taksit-ve-3000tl-parafpara-temmuz.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -4909,68 +4967,9 @@ ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır ve tra
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 102
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/damat-tweende-3000-tl-parafpara.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : 14 Eylül 2026
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-Giyim, Kozmetik ve Aksesuar
-Damat Tween’de 3.000 TL ParafPara
-Damat Tween’de 3.000 TL ParafPara!
-1-31 Temmuz 2026 tarihleri arasında DAMAT TWEEN’de Paraf POS’undan tek seferde yapılacak 30.000 TL ve üzeri ilk alışverişe 3.000 TL ParafPara verilecektir.
-Kampanya dönemi boyunca bir müşteri sadece bir kez 3.000 TL ParafPara kazanabilecektir.
-Kampanyaya katılmak için ilk alışverişten önce Paraf Mobil’den “Hemen Katıl” butonuna tıklanmalı ya da bankada kayıtlı cep telefonundan, DAMAT yazıp 3404’e SMS gönderilmelidir.
-Ödül kazanımına ilişkin bilgi SMS ile bildirilecektir. Kazanılan ParafPara’lar, kazanımın ertesi günü, kazanım sağlanan işlemin yapıldığı karta yüklenecektir.
-Kampanyaya katıldıktan sonra katılım kanalı değişikliği yapılamaz.
-Kazanılan ParafPara’ların son kullanım tarihi 14 Eylül 2026 saat 21:59 olup, kullanılmayan ParafPara’lar 15 Eylül 2026 tarihinde geri alınacaktır.
-İşlemlerin mutlaka kayıt olduktan sonra ve Paraf POS’larından gerçekleştirilmesi gerekmektedir. Kampanya katılım talebinin banka sistemine ulaşmasından sonraki işlemler dikkate alınmaktadır.
-Kampanyaya SMS ile katılmak için Turkcell, Vodafone ve TürkTelekom operatörlerine ait numaralar ile 3404’e SMS gönderilmelidir. Bu operatörler dışında SMS ile katılım sağlanamamaktadır.
-Katılım SMS’i, banka sisteminde kartın bağlı olduğu müşteri numarasına kayıtlı cep telefonu numarasından gönderilmelidir. Bu SMS ücretsizdir.
-Paraf, Parafly, Sanal kartlar ve Ek kartlar ile yapılan işlemler kampanyaya dahildir.
-Paraf Debit Kartlar, ParafPara kullanılarak yapılan işlemler ile iptal ve iade edilen işlemler kampanyaya dahil değildir.
-ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır ve transfer edilen ParafPara’lar geri alınacaktır.
-Kampanyaya ilişkin bilgi müşteriye ait slip üzerinde yer alacak olup geriye dönük yararlandırma ya da değişiklik yapılmayacaktır.
-TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
-YAZDIR
-İlginizi Çekebilir
-Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -4992,9 +4991,9 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 ======================================================================
 KAMPANYA NO                      : 103
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/adv-magazalarinda-1000-tl-parafpara1.html
+KAMPANYA LINKI                   : https://www.paraf.com.tr/content/parafcard/tr/kampanyalar/seyahat/touristica-com-tr-de-8500tlye-varan-parafpara-ve-pesin-fiyatina-9-taksit-temmuz.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : 14 Eylül 2026
+PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
 ----------------------------------------------------------------------
 Paraflı Değilim
 Paraflıyım
@@ -5008,28 +5007,29 @@ KREDİ KARTI BAŞVURUSU
 ÜYE İŞYERİ BAŞVURUSU
 Ana Sayfa
 Kampanyalar
-Giyim, Kozmetik ve Aksesuar
-ADV mağazalarında 1.000 TL ParafPara!
-ADV mağazalarında 1.000 TL ParafPara!
-1-31 Temmuz 2026 tarihleri arasında ADV mağazalarında Paraf POS’undan tek seferde yapılacak 10.000 TL ve üzeri ilk alışverişe 1.000 TL ParafPara verilecektir.
-Kampanya dönemi boyunca bir müşteri sadece bir kez 1.000 TL ParafPara kazanabilecektir.
-Kampanyaya katılmak için ilk alışverişten önce Paraf Mobil’den “Hemen Katıl” butonuna tıklanmalı ya da bankada kayıtlı cep telefonundan, ADV yazıp 3404’e SMS gönderilmelidir.
-Ödül kazanımına ilişkin bilgi SMS ile bildirilecektir. Kazanılan ParafPara’lar, kazanımın ertesi günü, kazanım sağlanan işlemin yapıldığı karta yüklenecektir.
-Kampanyaya katıldıktan sonra katılım kanalı değişikliği yapılamaz.
-Kazanılan ParafPara’ların son kullanım tarihi 14 Eylül 2026 saat 21:59 olup, kullanılmayan ParafPara’lar 15 Eylül 2026 tarihinde geri alınacaktır.
-İşlemlerin mutlaka kayıt olduktan sonra ve Paraf POS’larından gerçekleştirilmesi gerekmektedir. Kampanya katılım talebinin banka sistemine ulaşmasından sonraki işlemler dikkate alınmaktadır.
-Kampanyaya SMS ile katılmak için Turkcell, Vodafone ve TürkTelekom operatörlerine ait numaralar ile 3404’e SMS gönderilmelidir. Bu operatörler dışında SMS ile katılım sağlanamamaktadır.
-Katılım SMS’i, banka sisteminde kartın bağlı olduğu müşteri numarasına kayıtlı cep telefonu numarasından gönderilmelidir. Bu SMS ücretsizdir.
-Paraf, Parafly ve Ek kartlar ile yapılan işlemler kampanyaya dahildir.
-Paraf Debit Kartlar, ParafPara kullanılarak yapılan işlemler ile iptal ve iade edilen işlemler kampanyaya dahil değildir.
+Seyahat
+Touristica.com.tr'de 8.500 TL'ye varan ParafPara ve Peşin fiyatına 9 Taksit!
+Touristica.com.tr'de 8.500 TL'ye varan ParafPara ve Peşin fiyatına 9 Taksit!
+Paraf ile 1-31 Temmuz 2026 tarihleri arasında Touristica.com.tr’den yapılacak ilk tatil alışverişine, tutarı 35.000 TL ile 49.999 TL arasında ise 2.500 TL, tutarı 50.000 TL ile 99.999 arasında ise 5.000 TL, 100.000 TL ile 119.999 TL arasında ise 7.000 TL, 120.000 TL ve üzeri ise 8.500 TL Parafpara verilecektir. Üstelik seçili yurt içi otellerinde peşin fiyatına 9 taksit fırsatından yararlanabilirsiniz.
+Seçili otellerde %5 indirim kampanyası işlem anında uygulanacaktır. Peşin işlemler ile 3 ve 6 taksitli işlemlerde geçerlidir. İndirim ile ilgili yaşanan sorunlar Touristica Çağrı merkezine iletilmelidir.
+Kampanyaya katılmak için ilk alışverişten önce Paraf Mobil’den “Hemen Katıl” butonuna tıklanmalı ya da bankada kayıtlı cep telefonundan, “TT” yazıp 3404’e SMS gönderilmelidir.
+Alışverişlerin, Paraf Mobil’de kampanyanın “Katıldıklarım” bölümünde izlenmesi sonrasında ya da gelecek onay SMS’i sonrasında yapılması gerekmektedir.
+Kampanya müşteri bazındadır. Bir müşteri kampanyadan bir defa yararlanabilir ve ilk alışveriş tutarına göre 2.500 TL, 5.000 TL, 7.000 TL ya da 8.500 TL’den birini kazanabilir.
+Kampanyaya ilişkin bilgi ve kazanılan ödüller Paraf Mobil’de yer alacak olup, geriye dönük yararlandırma ya da değişiklik yapılmayacaktır.
+Kampanya kapsamındaki alışverişlerin iptal/iade edilmesi durumunda verilmiş ödüller de iptal edilecektir.
+Kazanılan ParafPara’lar 14 Eylül 2026 saat 21:59’a kadar kullanılacak olup, kullanılmayan ParafPara’lar 15 Eylül 2026 tarihinde geri alınacaktır.
+Seçili otellerde %5 indirim kampanyası sepette anında uygulanacak olup sonradan yararlandırma yapılmayacaktır.
+Kampanyaya Paraf ve Parafly, Ek ve Sanal kartlar dahil olup, Parafree, Business kartlar, Halkcardlar, ParafPara kullanarak yapılan işlemler, iptal ve iade işlemleri dâhil değildir.
+İşlemin iadesi ile birlikte kampanya tutar kriterinin altına düşmesi durumunda verilen paraf para geri alınacaktır.
 ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır ve transfer edilen ParafPara’lar geri alınacaktır.
-Kampanyaya ilişkin bilgi müşteriye ait slip üzerinde yer alacak olup geriye dönük yararlandırma ya da değişiklik yapılmayacaktır.
-TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+Taksit sayısı otel bazında değişiklik gösterebilmektedir, işlem tamamlanmadan önce taksit sayısının seçilmesi gerekmektedir.
+İlgili yasal düzenlemelere istinaden Kuzey Kıbrıs Türk Cumhuriyeti’ne ilişkin harcamalarda taksitlendirme sürelerinin 3 ay olarak uygulanmaktadır, yurt dışına yönelik harcamalarda taksitlendirme yapılamamaktadır.
+TÜRKİYE HALK BANKASI A.Ş. ve TOURAMA TOURİSM SEYAHAT VE TİCARET A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5088,9 +5088,9 @@ ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır ve tra
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5149,9 +5149,9 @@ ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır ve tra
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5203,9 +5203,9 @@ Paraf, Parafly, Parafree, Paraf Genç Paraf Business, Paraf Esnaf, Paraf KOBİ, 
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5269,9 +5269,9 @@ Tütün / içki ve kontör alışverişleri ve kontör alışverişleri kampanya
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5320,9 +5320,9 @@ ParafPara kullanılarak yapılacak alışverişlerde iade ve iptal durumunda Par
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5373,9 +5373,9 @@ Kampanya ile ilgili detaylı bilgiye paraf.com.tr ve Paraf Mobil uygulaması üz
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını haizdir.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5429,9 +5429,9 @@ Ayrıca 0850 360 5 360 Yolcu360 Misafir Merkezini arayarak da indirimden yararla
 TÜRKİYE HALK BANKASI A.Ş. ve YOLCU 360 kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5485,9 +5485,9 @@ Ayrıca 0850 360 5 360 Yolcu360 Misafir Merkezini arayarak da indirimden yararla
 TÜRKİYE HALK BANKASI A.Ş. ve YOLCU 360 kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5541,9 +5541,9 @@ Ayrıca 0850 360 5 360 Yolcu360 Misafir Merkezini arayarak da indirimden yararla
 TÜRKİYE HALK BANKASI A.Ş. ve YOLCU 360 kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5602,9 +5602,9 @@ ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır ve tra
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5655,9 +5655,9 @@ Yasal mevzuat gereği, elektronik eşya alımlarında (Video, kamera, ses sistem
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5704,9 +5704,9 @@ Mağazalardan yapılacak alışverişlerde 6 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5765,9 +5765,9 @@ BDDK tarafından yayınlanan kredi kartları taksit sınırlaması kapsamında, 
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5817,9 +5817,9 @@ Yasal mevzuat gereği, mal veya hizmet alımı sonrası belli bir ücret karşı
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5866,9 +5866,9 @@ Mağazalardan yapılacak alışverişlerde 4 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Paraf ile Vatan'da 5000 TL’ye varan ParafPara
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5915,9 +5915,9 @@ Mağazalardan yapılacak alışverişlerde 4 taksitten yararlanabilmek için kam
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakkorama'da 4 taksit fırsatı
-Paraf ile Vatan'da 5000 TL’ye varan ParafPara
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5968,9 +5968,9 @@ Kazanılan ParafPara’lar Paraf POS bulunan tüm Paraf üyesi işyerlerinde kul
 TÜRKİYE HALK BANKASI A.Ş.  kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -6034,9 +6034,9 @@ Kampanya başka kampanyalarla birleştirilebilir; ancak TROY’a özel kupon ba�
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -6090,9 +6090,9 @@ Ayrıca 0850 360 5 360 Yolcu360 Misafir Merkezini arayarak da indirimden yararla
 TÜRKİYE HALK BANKASI A.Ş. ve YOLCU 360 kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -6158,9 +6158,9 @@ Hizmetin verilmesi ve/veya indirimlerin yansıtılması ile ilgili yaşanabilece
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -6212,9 +6212,9 @@ Kampanya kapsamında yapılan işlemlerin iade ve iptal edilmesi durumunda, ipta
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -6265,9 +6265,9 @@ Kampanya kapsamındaki alışverişlerin iptal/iade edilmesi durumunda verilmiş
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -6372,9 +6372,9 @@ Geriye dönük yararlandırma ve değişiklik yapılmayacaktır. Taksit sayısı
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -6420,9 +6420,9 @@ Bir müşteri gün içinde anlaşmalı bu taksilerde dilediği kadar kredi kart�
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -6474,9 +6474,9 @@ Daha fazla bilgi www.flavius.com.tr adresinden görülebilir.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
+Seçili E-Ticaret Alışverişlerinize 1.500 TL ParafPara
+Seçili E-Ticaret Alışverişlerinize 2.000 TL'ye varan ParafPara
 Silver Logolu Mastercard'ınıza Özel Boyner'de geçerli 1.000 TL indirim kuponu hediye!
-Vakko'da 4 taksit fırsatı
-Vakkorama'da 4 taksit fırsatı
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
