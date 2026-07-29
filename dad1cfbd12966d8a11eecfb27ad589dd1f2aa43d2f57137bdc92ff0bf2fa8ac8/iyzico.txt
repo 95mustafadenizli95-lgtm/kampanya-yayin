@@ -1,9 +1,33 @@
-=== IYZICO GÜNCEL KAMPANYA HAVUZU (28/07/2026 03:56) ===
-TOPLANAN BENZERSİZ DETAY LİNKİ: 4
-KONTROL TARİHİ: 28 Temmuz 2026
+=== IYZICO GÜNCEL KAMPANYA HAVUZU (29/07/2026 03:56) ===
+TOPLANAN BENZERSİZ DETAY LİNKİ: 6
+KONTROL TARİHİ: 29 Temmuz 2026
 
 
---- IYZICO KAMPANYA 1/4 ---
+--- IYZICO KAMPANYA 1/6 ---
+BAŞLIK: Reef Alışverişini iyzico ile Öde, 350 TL İndirim Kazan!
+LINK: https://www.iyzico.com/kendim-icin-kampanyalar/reef-alisverisini-iyzico-ile-ode-350-tl-indirim-kazan
+SON TARİH: 28 Ağustos 2026
+Reef Alışverişini iyzico ile Öde, 350 TL İndirim Kazan!
+Reef alışverişini iyzico ile Öde, 350 TL indirim tutarın iyzico bakiyene yüklensin.
+Kampanya Koşulları ve Genel Bilgiler
+Kampanya 28.07.2026 - 28.08.2026 23:59:59 tarihleri arasında geçerlidir
+reefturkey.com.tr’de "iyzico ile Öde" üzerinden yapılacak 3.500 TL ve üzeri alışverişlerde 350 TL tutarında indirim kazanılır.
+Kampanya kapsamında bir müşterinin kazanabileceği maksimum indirim tutarı 350 TL ile sınırlıdır. Müşteri başına 1 kazanım hakkı mevcuttur.
+Kampanya kapsamında kazanılan bakiyeler, yalnızca kampanya koşullarına uygun işlemlerde kullanılabilir. Kullanılmayan bakiyeler 29.11.2026 tarihinde geçerliliğini yitirecek olup kullanıcı hesaplarından silinecektir.
+İndirim tutarı "iyzico ile Öde" üzerinden ödemenin gerçekleştirildiği aynı gün içerisinde iyzico bakiyesine yüklenmesi suretiyle gerçekleştirilir ve müşteri bilgilendirilir. iyzico uygulamasından hediye bakiye tutarı kontrol edilebilir ve kullanılabilir.Telefonunuzun uygulama merkezine (App Store, Google Play vb.) girerek iyzico uygulamasını indirebilirsiniz.
+Kampanya kazanımı ilk 5.000 kişi ile sınırlıdır.
+iyzico ve Reef kampanyayı bitiş süresinden önce bitirme hakkına sahiptir.
+Kampanyadan, kampanya dönemi boyunca iyzico ile Öde üzerinden yeni üye olarak veya halihazırda iyzico üyesi olup ödemesini tamamlayan her bireysel müşteri bir kez faydalanabilir.
+Taksitli ve peşin işlemler kampanyaya dahildir. Ödül kazanmaya hak kazanan işlemlerin iptal veya iadesi durumunda hediye edilmiş bakiye geri alınır ve tekrar kampanyaya katılınamaz.
+Kampanyadan kazanılan tutar nakde çevrilemez.
+iyzico ve Reef kampanya koşullarında değişiklik yapma haklarını saklı tutar.
+Ödül kazanılan işlemlerin iptal veya iadesi durumunda, iptal veya iade gerçekleşmeden önce ilgili kampanya kazanımını harcayan kullanıcıların mevcut ve gelecekteki kampanya kullanımları engellenebilir.
+Belirli kullanıcıların kampanyalara katılım durumları, iyzico'nun takdir yetkisi çerçevesinde, önceden bildirimde bulunulmaksızın kısıtlanabilir veya engellenebilir.
+Kampanyanın kötüye kullanıldığının şüphesinin oluşması, tespiti veya kullanıcının programa katılımının iyzico’nun belirlediği amaç, kapsam veya dürüstlük kuralına aykırı olduğuna kanaat getirilmesi halinde; iyzico, hiçbir bildirimde bulunmaksızın kullanıcıya henüz ödenmemiş kampanya tutarlarını iptal edebilir, ödenmiş tutarları geri talep edebilir ve bu tutarları kullanıcının iyzico hesabındaki bakiyeden veya ileride kazanacağı alacaklardan mahsup edebilir.
+Kampanya, aktif farklı bir iyzico ile Öde kampanyasıyla birleştirilemez.
+
+
+--- IYZICO KAMPANYA 2/6 ---
 BAŞLIK: Gaming.Gen.TR %10 İndirim Kazan!
 LINK: https://www.iyzico.com/kendim-icin-kampanyalar/gaminggentr
 SON TARİH: 23 Ağustos 2026
@@ -29,7 +53,7 @@ Kampanyanın kötüye kullanıldığının şüphesinin oluşması, tespiti veya
 Kampanya, aktif farklı bir kampanya ile birleştirilemez.
 
 
---- IYZICO KAMPANYA 2/4 ---
+--- IYZICO KAMPANYA 3/6 ---
 BAŞLIK: Sneaks Up Alışverişini iyzico ile Öde, 500 TL İndirim Kazan!
 LINK: https://www.iyzico.com/kendim-icin-kampanyalar/sneaks-up-alisverisini-iyzico-ile-ode-500-tl-indirim-kazan
 SON TARİH: 23 Ağustos 2026
@@ -55,7 +79,7 @@ Kampanyanın kötüye kullanıldığının şüphesinin oluşması, tespiti veya
 Kampanya, aktif farklı bir iyzico ile Öde kampanyasıyla birleştirilemez.
 
 
---- IYZICO KAMPANYA 3/4 ---
+--- IYZICO KAMPANYA 4/6 ---
 BAŞLIK: Havaş Seyahatini iyzico Kart'ınla öde, %50 İndirim Kazan!
 LINK: https://www.iyzico.com/kendim-icin-kampanyalar/havas-seyahati
 TARİH BİLGİSİ: 22 Mayıs - 31 Ekim tarihleri arasında Masterpass’e kayıtlı olan tüm Mastercard sahipleri, Treva mobil uygulamasında geçerli Havaş otobüs biniş hakkı satın alımlarında %50 indirimden yararlanabilir! (KESİN YIL/BİTİŞ TARİHİ AYRIŞTIRILAMADI)
@@ -76,7 +100,7 @@ Kampanya stoklarla sınırlıdır. Kota dolduğunda kampanya belirtilen bitiş t
 Mastercard ve TAV İşletme Hizmetleri A.Ş. kampanya koşullarında değişiklik yapma hakkını saklı tutar.
 
 
---- IYZICO KAMPANYA 4/4 ---
+--- IYZICO KAMPANYA 5/6 ---
 BAŞLIK: Galataport İstanbul Deniz Dolmuşlarında %50 İndirim
 LINK: https://www.iyzico.com/kendim-icin-kampanyalar/galataport-istanbul-deniz-dolmuslarinda-50-indirim
 SON TARİH: 31 Aralık 2026
@@ -95,8 +119,32 @@ Mastercard ve Galataport İstanbul önceden herhangi bir bildirimde bulunmaksız
 Sefer hatlarında ve saatlerinde değişiklik yapılabilir. 28 kişilik kapasite dolduğunda sefer saatinden önce hareket edebilir.
 
 
+--- IYZICO KAMPANYA 6/6 ---
+BAŞLIK: Crocs Alışverişini iyzico ile Öde, 400 TL İndirim Kazan!
+LINK: https://www.iyzico.com/kendim-icin-kampanyalar/crocs-alisverisini-iyzico-ile-ode-400-tl-indirim-kazan
+SON TARİH: 28 Ağustos 2026
+Crocs Alışverişini iyzico ile Öde, 400 TL İndirim Kazan!
+Crocs alışverişini iyzico ile Öde, 400 TL indirim tutarın iyzico bakiyene yüklensin.
+Kampanya Koşulları ve Genel Bilgiler
+Kampanya 28.07.2026 - 28.08.2026 23:59:59 tarihleri arasında geçerlidir
+crocs.com.tr’de "iyzico ile Öde" üzerinden yapılacak 4.000 TL ve üzeri alışverişlerde 400 TL tutarında indirim kazanılır.
+Kampanya kapsamında bir müşterinin kazanabileceği maksimum indirim tutarı 400 TL ile sınırlıdır. Müşteri başına 1 kazanım hakkı mevcuttur.
+Kampanya kapsamında kazanılan bakiyeler, yalnızca kampanya koşullarına uygun işlemlerde kullanılabilir. Kullanılmayan bakiyeler 28.11.2026 tarihinde geçerliliğini yitirecek olup kullanıcı hesaplarından silinecektir.
+İndirim tutarı "iyzico ile Öde" üzerinden ödemenin gerçekleştirildiği aynı gün içerisinde iyzico bakiyesine yüklenmesi suretiyle gerçekleştirilir ve müşteri bilgilendirilir. iyzico uygulamasından hediye bakiye tutarı kontrol edilebilir ve kullanılabilir.Telefonunuzun uygulama merkezine (App Store, Google Play vb.) girerek iyzico uygulamasını indirebilirsiniz.
+Kampanya kazanımı ilk 5.000 kişi ile sınırlıdır.
+iyzico ve Crocs kampanyayı bitiş süresinden önce bitirme hakkına sahiptir.
+Kampanyadan, kampanya dönemi boyunca iyzico ile Öde üzerinden yeni üye olarak veya halihazırda iyzico üyesi olup ödemesini tamamlayan her bireysel müşteri bir kez faydalanabilir.
+Taksitli ve peşin işlemler kampanyaya dahildir. Ödül kazanmaya hak kazanan işlemlerin iptal veya iadesi durumunda hediye edilmiş bakiye geri alınır ve tekrar kampanyaya katılınamaz.
+Kampanyadan kazanılan tutar nakde çevrilemez.
+iyzico ve Crocs kampanya koşullarında değişiklik yapma haklarını saklı tutar.
+Ödül kazanılan işlemlerin iptal veya iadesi durumunda, iptal veya iade gerçekleşmeden önce ilgili kampanya kazanımını harcayan kullanıcıların mevcut ve gelecekteki kampanya kullanımları engellenebilir.
+Belirli kullanıcıların kampanyalara katılım durumları, iyzico'nun takdir yetkisi çerçevesinde, önceden bildirimde bulunulmaksızın kısıtlanabilir veya engellenebilir.
+Kampanyanın kötüye kullanıldığının şüphesinin oluşması, tespiti veya kullanıcının programa katılımının iyzico’nun belirlediği amaç, kapsam veya dürüstlük kuralına aykırı olduğuna kanaat getirilmesi halinde; iyzico, hiçbir bildirimde bulunmaksızın kullanıcıya henüz ödenmemiş kampanya tutarlarını iptal edebilir, ödenmiş tutarları geri talep edebilir ve bu tutarları kullanıcının iyzico hesabındaki bakiyeden veya ileride kazanacağı alacaklardan mahsup edebilir.
+Kampanya, aktif farklı bir iyzico ile Öde kampanyasıyla birleştirilemez.
+
+
 === IYZICO ÇEKİM ÖZETİ ===
-TOPLAM BENZERSİZ LİNK: 4
-GÜNCEL VEYA TARİHİ BELİRSİZ: 4
+TOPLAM BENZERSİZ LİNK: 6
+GÜNCEL VEYA TARİHİ BELİRSİZ: 6
 SÜRESİ DOLMUŞ: 0
 HATALI: 0
