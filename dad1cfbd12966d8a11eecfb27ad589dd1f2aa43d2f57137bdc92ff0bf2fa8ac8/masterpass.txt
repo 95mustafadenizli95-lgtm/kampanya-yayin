@@ -1,9 +1,9 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (29/07/2026 03:57) ===
-TOPLANAN BENZERSİZ KAMPANYA: 11
-KONTROL TARİHİ: 29 Temmuz 2026
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (30/07/2026 03:58) ===
+TOPLANAN BENZERSİZ KAMPANYA: 12
+KONTROL TARİHİ: 30 Temmuz 2026
 
 
---- MASTERPASS KAMPANYA 1/11 ---
+--- MASTERPASS KAMPANYA 1/12 ---
 BAŞLIK: Kayıt için Telefon Numaranızı Girin
 LINK: https://www.masterpassturkiye.com/login/register?returnUrl=%2Fportal%2Fmasterpassplus
 KAYNAK: DETAY SAYFASI
@@ -20,7 +20,7 @@ Kullanım koşulları
 Kişisel Verilerin Korunması
 
 
---- MASTERPASS KAMPANYA 2/11 ---
+--- MASTERPASS KAMPANYA 2/12 ---
 BAŞLIK: Starbucks'ta 1 içecek hediye
 LINK: https://www.masterpassturkiye.com/masterpassplus/starbucks/starbucks-temmuz-500tl-ve-uzeri-15-yildiz-kampanyasi
 KAYNAK: DETAY SAYFASI
@@ -56,7 +56,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 3/11 ---
+--- MASTERPASS KAMPANYA 3/12 ---
 BAŞLIK: Yurt dışı restoran harcamalarında %15 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/yurtdisirestoran/yurt-disi-restoranlarda-yuzde-15-indirim
 KAYNAK: DETAY SAYFASI
@@ -93,7 +93,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 4/11 ---
+--- MASTERPASS KAMPANYA 4/12 ---
 BAŞLIK: Mastercard sahiplerine Progo ile havalimanı transferi 1.500 TL
 LINK: https://www.masterpassturkiye.com/masterpassplus/progo/progo-1500tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -131,7 +131,39 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 5/11 ---
+--- MASTERPASS KAMPANYA 5/12 ---
+BAŞLIK: Atelier Rebul’de 1.000 TL İndirim
+LINK: https://www.masterpassturkiye.com/masterpassplus/atelier/atelier-rebulde-1000-tl-indirim
+KAYNAK: DETAY SAYFASI
+SON TARİH: 31 Aralık 2026
+29
+EYL
+Atelier Rebul’de
+1.000 TL İndirim
+Kupon Al
+sana artı bir dünya
+Kullanım Koşulları
+• 29.07.2026-29.09.2026 tarihleri arasında Türkiye’de basılmış Silver logolu Mastercard sahipleri Atelier Rebul’de geçerli 1.000 TL indirimden faydalanabilirler.
+• Kampanyadan yararlanabilmek için https://www.masterpassplus.com/atelierrebul-1000TL adresi üzerinden kupon kodu alınması gerekmektedir.
+• Kupon kodları 31.12.2026 tarihine kadar geçerlidir.
+• Kampanya tek seferde yapılan 5.000 TL ve üzeri alışverişlerde geçerlidir.
+• Kampanyanın geçerli olabilmesi için https://www.atelierrebul.com.tr üzerinden sipariş oluşturulması ve ödeme adımında ilgili alana bireysel Silver logolu Mastercard kart bilgileri girilmesi gerekmektedir.
+• Ödeme yöntemi olarak girilen kart numarasının kampanya koşullarını sağlaması halinde, kupon kodunun girebileceği alan ekrana gelecektir.
+• Kampanya https://www.atelierrebul.com.tr/ üzerinde yer alacak farklı kampanya ve kupon kodları ile birleştirilemez.
+• Kampanya yalnızca Atelier Rebul Online Satış kanalında geçerlidir.
+• Her bir Masterpass kullanıcısı, kampanyadan 1 kez faydalanabilir.
+• Kupon kodları 2000 adet ile sınırlıdır. Kota dolduğunda kampanya belirtilen bitiş tarihinden önce otomatik olarak sona erebilir.
+• Mastercard ve Atelier Rebul kampanya koşullarında değişiklik yapma hakkını saklı tutar.
+Seyahat
+Alışveriş
+Yeme-İçme
+Ulaşım
+Kültür-Sanat
+World Legend
+priceless.com
+
+
+--- MASTERPASS KAMPANYA 6/12 ---
 BAŞLIK: Yurt dışı duty free harcamalarında %15 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/yurtdisidutyfree/yurt-disi-duty-free-yuzde-15-indirim
 KAYNAK: DETAY SAYFASI
@@ -168,7 +200,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 6/11 ---
+--- MASTERPASS KAMPANYA 7/12 ---
 BAŞLIK: Boyner'de 5000TL üzeri alışverişlerde 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/boyner/boynerde-1000tl-indirim-kuponu
 KAYNAK: DETAY SAYFASI
@@ -210,34 +242,34 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 7/11 ---
+--- MASTERPASS KAMPANYA 8/12 ---
 BAŞLIK: Enuygun'da uçak biletlerinde 1000 TL'ye varan indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/enuygun/enuygunda-1000-tl-indirim
 KAYNAK: DETAY SAYFASI
-SON TARİH: 31 Temmuz 2026
+SON TARİH: 31 Ağustos 2026
 31
-TEM
+AĞU
 Enuygun'da uçak biletlerinde
 1000 TL'ye varan indirim
 Kupon Al
 sana artı bir dünya
 Kullanım Koşulları
-● 31.07.2026 tarihine kadar Masterpass’e kayıtlı olan tüm Mastercard sahipleri https://masterpassplus.com web sitesinden ENUYGUN.com mobil uygulamasında geçerli alınacak 4.000 TL ve üzeri uçak biletlerinde 1.000 TL indirim kuponu kazanacaklardır.
-● Masterpass’e üye olmayan kullanıcılar http://www.masterpassplus.com web sitesinden üye olduktan sonra indirim kuponlarını alabilirler.
-● Kampanyadan yararlanmak için Masterpass’e kayıtlı Mastercard® logolu banka kartı, kredi kartı veya ön ödemeli kart ile ödeme yapılmalıdır.
-● Kampanyadan ENUYGUN.com mobil uygulaması üzerinden alacağın 4.000 TL ve üzeri tutardaki uçak biletinde yararlanılır.
-● Masterpassplus.com’dan aldığın indirim kodunu, ENUYGUN.com mobil uygulamasında ödeme sayfasında yer alan “İndirim Kodunu Kullan” alanına yazılarak kampanyadan yararlanabilirsin.
-● İndirim, toplam tutar üzerinden yapılır.
-● Masterpass’e kayıtlı Mastercard® logolu banka kartı, kredi kartı veya ön ödemeli kartlar dışında bir ödeme aracıyla satın alma işlemi yapmak isteyen kullanıcılar indirimden faydalanamaz.
-● Kampanya, 31 Temmuz 2026 tarihine kadarki uçuşlarda geçerlidir.
-● Bir kullanıcı, kampanyadan bir kez yararlanabilir.
-● ENUYGUN.com mobil uygulamasını linkten indirebilirsiniz.
-● Kampanya başka kampanyalarla birleştirilemez, indirim tutarı bölünemez.
-● Alınan kupon kodları 31.07.2026 tarihine kadar kullanılabilir.
-● Kampanya kapsamında alınan uçak bileti iptal edildiğinde indirim tutarı iade edilmez.
-● Kampanya 2.000 stokla sınırlıdır.
-● ENUYGUN.com ve Masterpass kampanya koşullarını değiştirme hakkını saklı tutar.
-● Kampanya ile ilgili soru ve geri bildirimleriniz için masterpassturkiye@mplusgroup.com.tr adresine yazabilirsiniz. Dönüşler en geç 14 iş günü içerisinde sağlanacaktır.
+• 31.08.2026 tarihine kadar Masterpass’e kayıtlı olan tüm Mastercard sahipleri https://masterpassplus.com web sitesinden ENUYGUN.com mobil uygulamasında geçerli alınacak 4.000 TL ve üzeri uçak biletlerinde 1.000 TL indirim kuponu kazanacaklardır.
+• Masterpass’e üye olmayan kullanıcılar http://www.masterpassplus.com web sitesinden üye olduktan sonra indirim kuponlarını alabilirler.
+• Kampanyadan yararlanmak için Masterpass’e kayıtlı Mastercard® logolu banka kartı, kredi kartı veya ön ödemeli kart ile ödeme yapılmalıdır.
+• Kampanyadan ENUYGUN.com mobil uygulaması üzerinden alacağın 4.000 TL ve üzeri tutardaki uçak biletinde yararlanılır.
+• Masterpassplus.com’dan aldığın indirim kodunu, ENUYGUN.com mobil uygulamasında ödeme sayfasında yer alan “İndirim Kodunu Kullan” alanına yazılarak kampanyadan yararlanabilirsin.
+• İndirim, toplam tutar üzerinden yapılır.
+• Masterpass’e kayıtlı Mastercard® logolu banka kartı, kredi kartı veya ön ödemeli kartlar dışında bir ödeme aracıyla satın alma işlemi yapmak isteyen kullanıcılar indirimden faydalanamaz.
+• Kampanya, 31 Ağustos 2026 tarihine kadarki uçuşlarda geçerlidir.
+• Bir kullanıcı, kampanyadan bir kez yararlanabilir.
+• ENUYGUN.com mobil uygulamasını linkten indirebilirsiniz.
+• Kampanya başka kampanyalarla birleştirilemez, indirim tutarı bölünemez.
+• Alınan kupon kodları 31.08.2026 tarihine kadar kullanılabilir.
+• Kampanya kapsamında alınan uçak bileti iptal edildiğinde indirim tutarı iade edilmez.
+• Kampanya 2.000 stokla sınırlıdır.
+• ENUYGUN.com ve Masterpass kampanya koşullarını değiştirme hakkını saklı tutar.
+• Kampanya ile ilgili soru ve geri bildirimleriniz için masterpassturkiye@mplusgroup.com.tr adresine yazabilirsiniz. Dönüşler en geç 14 iş günü içerisinde sağlanacaktır.
 Seyahat
 Alışveriş
 Yeme-İçme
@@ -247,7 +279,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 8/11 ---
+--- MASTERPASS KAMPANYA 9/12 ---
 BAŞLIK: Enuygun'da 300TL üzeri otobüs biletlerinde 150 TL indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/enuygun/150-TL-indirim
 KAYNAK: DETAY SAYFASI
@@ -285,7 +317,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 9/11 ---
+--- MASTERPASS KAMPANYA 10/12 ---
 BAŞLIK: Galataport İstanbul Deniz Dolmuşlarında %50 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/galataport/galataport-deniz-dolmuslarda-yuzde-50-indirim
 KAYNAK: DETAY SAYFASI
@@ -316,7 +348,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 10/11 ---
+--- MASTERPASS KAMPANYA 11/12 ---
 BAŞLIK: ZUBİZU ile seçili restoranlarda %20 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/zubizu/zubizu-ile-secili-restoranlarda-yuzde-20-indirim
 KAYNAK: DETAY SAYFASI
@@ -353,7 +385,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 11/11 ---
+--- MASTERPASS KAMPANYA 12/12 ---
 BAŞLIK: Mastercard World Legend sahiplerine Uber ile yurtdışı seyahatlerde %20 İndirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/uber/uber-cashback
 KAYNAK: DETAY SAYFASI
@@ -385,7 +417,7 @@ priceless.com
 
 
 === MASTERPASS ÇEKİM ÖZETİ ===
-TOPLAM BENZERSİZ KAMPANYA: 11
-GÜNCEL VEYA TARİHİ BELİRSİZ: 11
+TOPLAM BENZERSİZ KAMPANYA: 12
+GÜNCEL VEYA TARİHİ BELİRSİZ: 12
 SÜRESİ DOLMUŞ: 0
 HATALI: 0
