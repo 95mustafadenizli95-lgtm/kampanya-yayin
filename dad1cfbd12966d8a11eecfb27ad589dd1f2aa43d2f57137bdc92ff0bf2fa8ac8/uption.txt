@@ -1,9 +1,9 @@
-=== UPTION GÜNCEL KAMPANYA HAVUZU (31/07/2026 04:38) ===
-TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 18
-KONTROL TARİHİ: 31 Temmuz 2026
+=== UPTION GÜNCEL KAMPANYA HAVUZU (01/08/2026 04:31) ===
+TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 17
+KONTROL TARİHİ: 1 Ağustos 2026
 
 
---- UPTION KAMPANYA 1/18 ---
+--- UPTION KAMPANYA 1/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/hop
 SON TARİH: 30 Eylül 2026
@@ -27,12 +27,12 @@ Kampanya Koşulları
 ‍
 
 
---- UPTION KAMPANYA 2/18 ---
+--- UPTION KAMPANYA 2/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/uption-kartlilara-havas-harcamalarinda-50-indirim
-TARİH BİLGİSİ: 22 Mayıs - 22 Temmuz (KESİN BİTİŞ TARİHİ AYRIŞTIRILAMADI)
+SON TARİH: 31 Ekim 2026
 ‍
-• 22 Mayıs - 22 Temmuz tarihleriarasında Masterpass’e kayıtlı olan tüm UPTION Kart sahipleri, Treva mobil uygulamasında geçerli Havaş otobüs biniş hakkı satın alımlarında %50 indirimden yararlanabilir.
+• 22 Mayıs - 31 Ekim 2026 tarihleri arasında Masterpass’e kayıtlı olan tüm UPTION Kart sahipleri, Treva mobil uygulamasında geçerli Havaş otobüs biniş hakkı satın alımlarında %50 indirimden yararlanabilir.
 • Kampanya yalnızca İzmir, Bodrum ve Ankara’da gerçekleştirilen Havaş otobüs biniş hakkı satın alımlarında geçerlidir.
 • Kampanya yalnızca Masterpass’e kayıtlı Mastercard kredi kartlarında, banka kartlarında ve ön ödemeli kartlarda geçerlidir.
 • Kampanyadan yararlanmak için Masterpass web sitesi üzerinden ilgili kampanya sayfasından kodun alınması gerekmektedir.
@@ -45,11 +45,11 @@ TARİH BİLGİSİ: 22 Mayıs - 22 Temmuz (KESİN BİTİŞ TARİHİ AYRIŞTIRILAM
 ‍
 
 
---- UPTION KAMPANYA 3/18 ---
+--- UPTION KAMPANYA 3/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/uption-kartinla-otopark-odemelerinde-50-indirim
-TARİH BİLGİSİ: 22 Mayıs - 22 Temmuz (KESİN BİTİŞ TARİHİ AYRIŞTIRILAMADI)
-• 22 Mayıs - 22 Temmuz tarihleri arasında Masterpass’e kayıtlı olan tüm UPTION Kart sahipleri, Treva mobil uygulamasında geçerli otopark ödemelerinde %50 indirimden yararlanabilir.
+SON TARİH: 31 Ekim 2026
+• 22 Mayıs - 31 Ekim 2026 tarihleri arasında Masterpass’e kayıtlı olan tüm UPTION Kart sahipleri, Treva mobil uygulamasında geçerli otopark ödemelerinde %50 indirimden yararlanabilir.
 • Kampanya yalnızca İzmir, Bodrum ve Ankara’da gerçekleştirilen otopark ödemelerinde geçerlidir.
 • Kampanyadan yararlanmak için Masterpass web sitesi üzerinden ilgili kampanya sayfasından kodun alınması gerekmektedir.
 • Treva mobil uygulamasında “Ödeme” > “Kampanyalar/ Kuponlar” adımları izlenerek kodun tanımlanması gerekmektedir.
@@ -62,7 +62,7 @@ TARİH BİLGİSİ: 22 Mayıs - 22 Temmuz (KESİN BİTİŞ TARİHİ AYRIŞTIRILAM
 ‍
 
 
---- UPTION KAMPANYA 4/18 ---
+--- UPTION KAMPANYA 4/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/tum-kartlara-sabit-1-eu-ucretle-para-gonder
 SON TARİH: 30 Eylül 2026
@@ -74,7 +74,7 @@ SON TARİH: 30 Eylül 2026
 ‍
 
 
---- UPTION KAMPANYA 5/18 ---
+--- UPTION KAMPANYA 5/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/gain
 SON TARİH: 31 Aralık 2026
@@ -89,7 +89,7 @@ Kampanya Koşulları
 ‍
 
 
---- UPTION KAMPANYA 6/18 ---
+--- UPTION KAMPANYA 6/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/chatgpt
 SON TARİH: 31 Aralık 2026
@@ -105,7 +105,7 @@ Kampanya Koşulları
 ‍
 
 
---- UPTION KAMPANYA 7/18 ---
+--- UPTION KAMPANYA 7/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/disney
 SON TARİH: 31 Aralık 2026
@@ -121,7 +121,7 @@ Kampanya Koşulları
 ‍
 
 
---- UPTION KAMPANYA 8/18 ---
+--- UPTION KAMPANYA 8/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/hbomax
 SON TARİH: 31 Aralık 2026
@@ -136,7 +136,7 @@ Kampanya Koşulları
 ‍
 
 
---- UPTION KAMPANYA 9/18 ---
+--- UPTION KAMPANYA 9/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/20den-fazla-ulkeye-sadece-1-usdye-para-gonder
 SON TARİH: 30 Eylül 2026
@@ -150,24 +150,7 @@ Bangladeş (BKASH ve ROCKET cüzdanlarına), Benin (MOOV ve MTN cüzdanlarına),
 ‍
 
 
---- UPTION KAMPANYA 10/18 ---
-BAŞLIK: uption-kampanyalar
-LINK: https://www.uption.com.tr/en-son-kampanyalar/yabanci-saglik-sigortasi
-SON TARİH: 31 Temmuz 2026
-‍Sağlık Sigortanı Yaptır, 1.000 TL Nakit İade Kazan!
-Zorunlu yabancı sağlık sigortasını UPTION üzerinden alanlar, poliçe tutarına bakılmaksızın 1.000 TL nakit iade kazanıyor! Kendine ve tüm sevdiklerine sağlık sigortanı UPTION’dan yaptır, her sigorta için 1.000 TL nakit iade kazan.
-• 1 Temmuz 2026 - 31 Temmuz 2026 tarihleri arasında UPTION üzerinden Sigortayeri aracılığıyla yabancı sağlık sigortası satın alan kullanıcılar 1.000 TL nakit iade kazanacaktır.
-• Poliçe tutarı fark etmeksizin, sigorta satın alan tüm kullanıcılar kampanyadan yararlanabilir.
-• Aynı kimlik bilgileriyle yapılan sigorta satın alımlarında kampanyadan sadece 1 defa yararlanılabilir.
-• Farklı kimlik bilgileri ile yapılan sigorta satın alımlarında, her satın alım için 1.000 TL nakit iade kazanılabilir.
-• 1 üyelik en fazla 10 adet nakit kazanabilir.
-• Kampanya kapsamında nakit iade ödülünün kazanılması için sigortanın satın alındığı tarih itibariyle 30 gün sonunda poliçenin aktif olması koşulu aranmaktadır.
-• 30 gün boyunca poliçe aktif olduğu takdirde kullanıcının TL hesabına 1.000 TL nakit iade yatırılacaktır.
-• UPT Ödeme Hizmetleri ve Elektronik Para A.Ş. ve Sigortayeri kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
-‍
-
-
---- UPTION KAMPANYA 11/18 ---
+--- UPTION KAMPANYA 10/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/shahid
 SON TARİH: 31 Aralık 2026
@@ -182,25 +165,25 @@ Kampanya Koşulları
 • UPT Ödeme Hiz. Ve Elektronik Para AŞ kampanya koşullarında değişiklik yapma veya kampanyayı durdurma hakkını saklı tutar.
 
 
---- UPTION KAMPANYA 12/18 ---
+--- UPTION KAMPANYA 11/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/uption-karttan-hos-geldin-hediyesi-500-tl-nakit-iade
-SON TARİH: 31 Temmuz 2026
+SON TARİH: 31 Ağustos 2026
 ‍
-‍• Kampanya 1 Temmuz – 31 Temmuz 2026 tarihleri arasında UPTION müşteri olma sürecini başlatan ve UPTION Kart’a 11 Temmuz – 31 Temmuz 2026 tarihleri arasında başvurmuş yeni müşterilerde geçerlidir.
+‍• Kampanya 1 Ağustos - 31 Ağustos 2026 tarihleri arasında UPTION müşteri olma sürecini başlatan ve UPTION Kart’a 1 Ağustos – 31 Ağustos 2026 tarihleri arasında başvurmuş yeni müşterilerde geçerlidir.
 ‍• UPTION Kart ile tek seferde yapacağın 2000 TL ve üzeri harcamana 500 TL nakit iade fırsatı seni bekliyor.
 ‍• Kampanya kapsamında kazanılabilecek maksimum nakit iade tutarı toplam 500 TL'dir.
 ‍• Kampanyaya fiziki UPTION Kart ve/veya sanal kart ile katılım sağlanabilir.
-‍• Kampanyadan yararlanmak için 31 Ağustos 2026 tarihine kadar harcama yapılmalıdır.
+‍• Kampanyadan yararlanmak için 30 Eylül 2026 tarihine kadar harcama yapılmalıdır.
 ‍• İptal ve iade olan işlemler kampanyaya dahil değildir.
-‍• Kampanya kapsamında kazanılacak nakit iade tutarı 15.09.2026 tarihinde UPTION Kart'ına yatırılır.
+‍• Kampanya kapsamında kazanılacak nakit iade tutarı 20.10.2026 tarihinde UPTION Kart'ına yatırılır.
 ‍• Bu kampanya devam etmekte olan bir başka kampanya ile birleştirilemez.
-‍• Kampanya 1.000 kişi ile sınırlıdır.
+‍• Kampanya 500 kişi ile sınırlıdır.
 ‍• UPT Ödeme Hiz. Ve Elektronik Para A.Ş. kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 ‍
 
 
---- UPTION KAMPANYA 13/18 ---
+--- UPTION KAMPANYA 12/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/metropolcard
 SON TARİH: 31 Aralık 2026
@@ -218,7 +201,7 @@ Hesabın sahtekârlık amacıyla açıldığı veya kullanıcı hesabının şar
 Kullanıcıya ait kimliği, ilave bilgiyi ve belgeyi teyit edemememiz hâlinde.
 
 
---- UPTION KAMPANYA 14/18 ---
+--- UPTION KAMPANYA 13/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/hepsiburada
 SON TARİH: 31 Aralık 2026
@@ -233,7 +216,7 @@ SON TARİH: 31 Aralık 2026
 ‍
 
 
---- UPTION KAMPANYA 15/18 ---
+--- UPTION KAMPANYA 14/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/spotify
 SON TARİH: 31 Aralık 2026
@@ -248,7 +231,7 @@ Kampanya Koşulları
 ‍
 
 
---- UPTION KAMPANYA 16/18 ---
+--- UPTION KAMPANYA 15/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/youtube
 SON TARİH: 31 Aralık 2026
@@ -264,7 +247,7 @@ SON TARİH: 31 Aralık 2026
 ‍
 
 
---- UPTION KAMPANYA 17/18 ---
+--- UPTION KAMPANYA 16/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/netflix
 SON TARİH: 31 Aralık 2026
@@ -279,7 +262,7 @@ SON TARİH: 31 Aralık 2026
 ‍
 
 
---- UPTION KAMPANYA 18/18 ---
+--- UPTION KAMPANYA 17/17 ---
 BAŞLIK: uption-kampanyalar
 LINK: https://www.uption.com.tr/en-son-kampanyalar/arkadasini-davet-et
 SON TARİH BELİRTİLMEMİŞ
@@ -320,7 +303,7 @@ Arkadaşına Öner Kampanyası ile ilgili tüm sorularınızı uption@upt.com.tr
 
 
 === UPTION ÇEKİM ÖZETİ ===
-TOPLAM BENZERSİZ LİNK: 18
-GÜNCEL VEYA TARİHİ BELİRSİZ: 18
+TOPLAM BENZERSİZ LİNK: 17
+GÜNCEL VEYA TARİHİ BELİRSİZ: 17
 SÜRESİ DOLMUŞ: 0
 HATALI: 0

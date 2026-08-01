@@ -1,9 +1,9 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (31/07/2026 04:03) ===
-TOPLANAN BENZERSİZ KAMPANYA: 12
-KONTROL TARİHİ: 31 Temmuz 2026
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (01/08/2026 03:57) ===
+TOPLANAN BENZERSİZ KAMPANYA: 10
+KONTROL TARİHİ: 1 Ağustos 2026
 
 
---- MASTERPASS KAMPANYA 1/12 ---
+--- MASTERPASS KAMPANYA 1/10 ---
 BAŞLIK: Kayıt için Telefon Numaranızı Girin
 LINK: https://www.masterpassturkiye.com/login/register?returnUrl=%2Fportal%2Fmasterpassplus
 KAYNAK: DETAY SAYFASI
@@ -20,43 +20,7 @@ Kullanım koşulları
 Kişisel Verilerin Korunması
 
 
---- MASTERPASS KAMPANYA 2/12 ---
-BAŞLIK: Starbucks'ta 1 içecek hediye
-LINK: https://www.masterpassturkiye.com/masterpassplus/starbucks/starbucks-temmuz-500tl-ve-uzeri-15-yildiz-kampanyasi
-KAYNAK: DETAY SAYFASI
-SON TARİH: 31 Temmuz 2026
-31
-TEM
-Starbucks'ta
-1 içecek hediye
-Katıl
-sana artı bir dünya
-Kullanım Koşulları
-• 1 – 31 Temmuz 2026 tarihleri arasında Starbucks® Mobil Uygulaması üzerinden Mastercard logolu debit kart (banka kartı) veya Prepaid (ön ödemeli) banka kartları ve Mastercard logolu kredi kartları ile yapılacak 500 TL ve üzeri yüklemede 1 içecek değerinde 15 yıldız kazanılacaktır.
-• Kampanyadan yararlanmak için, bakiye yüklemeden önce www.masterpassplus.com/starbucks adresindeki kampanya sayfasından giriş yapılarak “Kampanyaya Katıl'' butonuna tıklanması ve kampanyaya kayıt olunması gerekmektedir.
-• Masterpass üzerinden kampanyaya katılmak için kullanılan telefon numarası ile Starbucks Mobil üyeliğindeki telefon numaralarının aynı olması gerekmektedir. Aksi takdirde yıldız kazanımı gerçekleşmeyecektir.
-• Kampanyaya Mastercard kampanya sayfası üzerinden kayıt olduktan sonra:
-- Starbucks® Mobil Uygulaması üzerinden, Masterpass™’e kayıtlı Mastercard® logolu kartı olmayanlar; ilk olarak Starbucks® Mobil Uygulaması üzerinden, “Ayarlar/ Ödeme Seçenekleri/Kredi-Debit Kart ekle” adımına gelerek, Masterpass™’e; Mastercard® logolu kartın kaydedilmesi gerekmektedir. Ardından “Para Yükle” adımına gelinerek ilgili kartla 500 TL ve üzeri yükleme yapılarak 15 yıldız kazanılabilir.
-- Starbucks® Mobil Uygulaması üzerinden, Masterpass™’e kayıtlı Mastercard® logolu kartı olanlar, “Para Yükle” adımına gelerek kayıtlı Mastercard® logolu kartla 500 TL ve üzeri yükleme yapılarak 15 yıldız kazanılabilir.
-• Starbucks® Mobil uygulamasını bu linkten indirebilirsiniz.
-• Kampanyadan kazanılan yıldızlar 24 saat içerisinde hesaplara yüklenecek olup kazanıldığı gün itibarıyla 30 gün süresince geçerli olacaktır.
-• Kampanyadan 1 – 31 Temmuz 2026 tarihleri arasında yalnızca bir (1) kez yararlanılabilir.
-• Kampanya kapsamında Starbucks® Mağazalarındaki kasalardan yapılacak TL yüklemeleri GEÇERLİ DEĞİLDİR.
-• Kampanya 200.000 yıldız ile sınırlıdır.
-• Kampanyadan kazanılan yıldızlar Gold üyelik için gerekli 120 yıldız baremine eklenmeyecektir.
-• Hesaba yüklenen yıldızlar hesap geçmişinden görüntülenebilir.
-• Starbucks® Türkiye ve Mastercard kampanya tarihleri ve koşullarında değişiklik yapma hakkını saklı tutar.
-• Kampanya ile ilgili soru ve geri bildirimleriniz için masterpassturkiye@mplusgroup.com.tr adresine yazabilirsiniz. Dönüşler en geç 14 iş günü içerisinde sağlanacaktır.
-Seyahat
-Alışveriş
-Yeme-İçme
-Ulaşım
-Kültür-Sanat
-World Legend
-priceless.com
-
-
---- MASTERPASS KAMPANYA 3/12 ---
+--- MASTERPASS KAMPANYA 2/10 ---
 BAŞLIK: Yurt dışı restoran harcamalarında %15 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/yurtdisirestoran/yurt-disi-restoranlarda-yuzde-15-indirim
 KAYNAK: DETAY SAYFASI
@@ -93,7 +57,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 4/12 ---
+--- MASTERPASS KAMPANYA 3/10 ---
 BAŞLIK: Mastercard sahiplerine Progo ile havalimanı transferi 1.500 TL
 LINK: https://www.masterpassturkiye.com/masterpassplus/progo/progo-1500tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -131,7 +95,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 5/12 ---
+--- MASTERPASS KAMPANYA 4/10 ---
 BAŞLIK: Atelier Rebul’de 1.000 TL İndirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/atelier/atelier-rebulde-1000-tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -163,7 +127,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 6/12 ---
+--- MASTERPASS KAMPANYA 5/10 ---
 BAŞLIK: Yurt dışı duty free harcamalarında %15 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/yurtdisidutyfree/yurt-disi-duty-free-yuzde-15-indirim
 KAYNAK: DETAY SAYFASI
@@ -200,49 +164,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 7/12 ---
-BAŞLIK: Boyner'de 5000TL üzeri alışverişlerde 1000 TL indirim
-LINK: https://www.masterpassturkiye.com/masterpassplus/boyner/boynerde-1000tl-indirim-kuponu
-KAYNAK: DETAY SAYFASI
-SON TARİH: 31 Temmuz 2026
-31
-TEM
-Boyner'de 5000TL üzeri alışverişlerde
-1000 TL indirim
-Kupon Al
-sana artı bir dünya
-Kullanım Koşulları
-• Kampanya kapsamında, Boyner/YKM mağazaları,Boyner Online ve Boyner Now'da Boyner satıcılı ürünlerden yapılacak yapılacak kozmetik,elektrikli ev aletleri,aksesuar kategorileri hariç 5.000 TL ve üzeri alışverişe 1.000 TL indirim uygulanır.
-• Masterpass’e üye olmayan kullanıcılar, https://www.masterpassplus.com web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından indirim kodlarını alabilir.
-• İndirim kodu linkteki kampanya sayfasından alınabilir.
-• Kampanyadan yararlanmak için online kanallarda Masterpass™ hesabına kayıtlı Silver logolu Mastercard® kredi kartı ve banka kartı ile, fiziksel kanallarda ise silver logolu Mastercard® kredi kartı ve banka kartı ile indirim kodu girilerek ödeme yapılması gerekmektedir.
-• New Balance ve Network SS26 sezon ürünleri ,On Running ve Stanley ürünleri kampanya kapsamında değildir.
-• Kampanya 27.02.2026-31.07.2026 tarihleri arasında geçerlidir.
-• Kullanıcıların Masterpass™’e kayıtlı Mastercard® logolu kartı yok ise Boyner Online veya Boyner Now üzerinden Masterpass™’e Silver logolu Mastercard®’larını kaydetmeleri gerekmektedir.
-• İndirim koduna erişmek için Masterpassplus.com sayfasında Masterpass şifre ve telefon numarası ile girildikten sonra Masterpassplus.com/boyner kampanya sayfası üzerinden verilecektir.
-• İndirim, online alışverişler için ödeme adımında Masterpass ile ödeme seçildikten sonra, indirim kodu girilerek Silver logolu Mastercard® ile ödeme yapılması durumunda uygulanacaktır.
-• Boyner mağazalarında indirimden yararlanmak için kasada indirim kodunun verilmesi ve silver logolu Mastercard ile ödeme yapılması gerekmektedir.
-• İndirim kodu kişiye özel olup, tek kullanımlıktır.
-• İndirim kodu 31.07.2026 tarihine kadar kullanılabilir. Bu tarihten sonra geçersiz olacaktır.
-• Kampanya stoklarla sınırlıdır. Kota dolduğunda kampanya belirtilen bitiş tarihinden önce otomatik olarak sona erebilir.
-• İndirim kodu yalnızca kazanan kişi tarafından kullanılabilir, başkasına para karşılığı satılamaz.
-• Müşteri indirim kodu kazandığı alışveriş dahilindeki ürünlerin tamamını iade eder ve satış bedeli kredi kartına iade sureti ile müşteriye geri verilir ise, indirim kodu geçerliliğini yitirecektir.
-• İndirim karşılığı para iadesi yapılamaz. İndirim gift card alımında geçerli değildir.
-• Kampanya, Vay B indirimleri ile birleşmez.
-• Kampanya şifreli kampanyalar ile birleştirilemez.
-• Kampanya outlet mağazalarında geçerli değildir.
-• Mastercard ve Boyner Büyük Mağazacılık A.Ş. kampanyayı değiştirme hakkını saklı tutar.
-• Kampanya ile ilgili soru ve geri bildirimleriniz için masterpassturkiye@mplusgroup.com.tr adresine yazabilirsiniz. Dönüşler en geç 14 iş günü içerisinde sağlanacaktır.
-Seyahat
-Alışveriş
-Yeme-İçme
-Ulaşım
-Kültür-Sanat
-World Legend
-priceless.com
-
-
---- MASTERPASS KAMPANYA 8/12 ---
+--- MASTERPASS KAMPANYA 6/10 ---
 BAŞLIK: Enuygun'da uçak biletlerinde 1000 TL'ye varan indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/enuygun/enuygunda-1000-tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -279,7 +201,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 9/12 ---
+--- MASTERPASS KAMPANYA 7/10 ---
 BAŞLIK: Enuygun'da 300TL üzeri otobüs biletlerinde 150 TL indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/enuygun/150-TL-indirim
 KAYNAK: DETAY SAYFASI
@@ -317,7 +239,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 10/12 ---
+--- MASTERPASS KAMPANYA 8/10 ---
 BAŞLIK: Galataport İstanbul Deniz Dolmuşlarında %50 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/galataport/galataport-deniz-dolmuslarda-yuzde-50-indirim
 KAYNAK: DETAY SAYFASI
@@ -348,7 +270,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 11/12 ---
+--- MASTERPASS KAMPANYA 9/10 ---
 BAŞLIK: ZUBİZU ile seçili restoranlarda %20 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/zubizu/zubizu-ile-secili-restoranlarda-yuzde-20-indirim
 KAYNAK: DETAY SAYFASI
@@ -385,7 +307,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 12/12 ---
+--- MASTERPASS KAMPANYA 10/10 ---
 BAŞLIK: Mastercard World Legend sahiplerine Uber ile yurtdışı seyahatlerde %20 İndirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/uber/uber-cashback
 KAYNAK: DETAY SAYFASI
@@ -417,7 +339,7 @@ priceless.com
 
 
 === MASTERPASS ÇEKİM ÖZETİ ===
-TOPLAM BENZERSİZ KAMPANYA: 12
-GÜNCEL VEYA TARİHİ BELİRSİZ: 12
+TOPLAM BENZERSİZ KAMPANYA: 10
+GÜNCEL VEYA TARİHİ BELİRSİZ: 10
 SÜRESİ DOLMUŞ: 0
 HATALI: 0
