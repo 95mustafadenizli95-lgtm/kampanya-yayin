@@ -1,8 +1,8 @@
-=== QNB & GSPARA GÜNCEL KAMPANYA HAVUZU (05/08/2026 04:25) ===
+=== QNB & GSPARA GÜNCEL KAMPANYA HAVUZU (06/08/2026 04:25) ===
 QNB'DEN TOPLANAN: 1
 GSPARA'DAN TOPLANAN: 16
 BİRLEŞİK BENZERSİZ: 17
-KONTROL TARİHİ: 5 Ağustos 2026
+KONTROL TARİHİ: 6 Ağustos 2026
 
 
 --- QNB_GSPARA KAMPANYA 1/17 ---
@@ -57,6 +57,9 @@ Güncel Ayrıcalıklar
 Yeni GSParalılara özel %0 faizli 60.000 TL!
 GSPara uygulamasını indir, GSParalı ol, 30 gün içerisinde uygulamadan yapacağın başvurunun onaylanması durumunda aylık %0 faiz oranlı 60.000 TL'ye varan 3 ay taksitli kredi fırsatını kaçırma!
 İncele
+GSParalılara özel altın alımına gümüş hediye!
+Hepsipay Kıymetli Madenler üzerinden GSPara Kredi Kartı ve GSPara Banka Kartınla alacağın altın alımına karşılık gümüş hediye!
+İncele
 GSPara ile GSStore online alışverişlerinizde şampiyonluğa özel %15 indirim!
 İncele
 Yeni GSParalılara özel %0 faizli 25.000 TL!
@@ -66,8 +69,6 @@ GSPara uygulamasını indir, GSParalı ol, 30 gün içerisinde uygulamadan yapac
 GSPara Kredi Kartı’n ile yapacağın ilk alışverişinde 1905TL ParaPuan hediye!
 İncele
 İGDAŞ Doğalgaz Fatura Ödemelerinde Faizsiz 3 Taksit Fırsatı!
-İncele
-GSPara Kredi Kartı’n ile yeniyıl harcamalarına 3.000 TL ParaPuan!
 İncele
 1
 2
@@ -90,47 +91,28 @@ GSPara Kredi Kartı veya Banka Kartı sahibi olan müşterilerimiz Passo bilet a
 
 
 --- QNB_GSPARA KAMPANYA 4/17 ---
-BAŞLIK: GSParalılara özel altın alımına gümüş hediye!
-LINK: https://www.gspara.com.tr/ayricaliklar/gsparalilara-ozel-altin-alimina-gumus-hediye-11397
+BAŞLIK: GSStore Alışverişlerinizde %20 Nakit İade Fırsatı GSPara Kredi Kartı'nda!
+LINK: https://www.gspara.com.tr/ayricaliklar/gsstore-alisverislerinizde-20-nakit-iade-firsati-gspara-kredi-kartinda-11399
 KAYNAK: GSPARA
-SON TARİH: 5 Ağustos 2026
-GSParalılara özel altın alımına gümüş hediye!
-Kampanya hangi tarihler arasında geçerlidir?
-Kampanya 24.07.2026 saat 10:00’dan 04.08.2026 saat 23:59’a kadar geçerlidir.
-Kampanya koşulları nedir?
-Kampanya kapsamında GSPara Kredi Kartı ve GSPara Banka Kartı üzerinden tek seferde en az 1 gram ile en çok 5 gram altın alan kullanıcılara 5 grama varan gümüş hediye edilecektir.
-Kampanya sadece GSPara Kredi Kartı ve GSPara Banka Kartıyla yapılan işlemlerde geçerli olacaktır.
-Aynı dönem içerisinde farklı kampanyalar ile birleştirilemez. Bir kullanıcı aynı dönemdeki farklı kıymetli madenler kampanyalarından sadece birine katılabilir ve en yüksek kazanımı olan kampanyanın ödülünü hak eder.
-Bir kullanıcı kampanyaya bir kez katılabilir.
-Kampanya kapsamında ne kadar gümüş kazanabilirim?
-Kampanya dönemi boyunca, alınan altın miktarına göre hediye edilecek gümüş miktarı değişiklik göstermektedir. Tek seferde minimum 1 gram altın alım olacak şekilde kampanya dönemi içerisinde tek seferde aşağıda gösterilen aralıklara uygun altın alımına 5 grama varan gümüş hediye edilecektir.
-Kampanya kapsamında tek seferde almak koşuluyla,
-1 gram-1,99 gram altın alımına 1 gram gümüş,
-2 gram-2,99 gram altın alımına 2 gram gümüş,
-3 gram-3,99 gram altın alımına 3 gram gümüş,
-4 gram-4,99 gram altın alımına 4 gram gümüş,
-5 gram ve üzeri altın alımına 5 gram gümüş hediye edilecektir.
-Bir kullanıcı kampanya kapsamında maksimum 5 gram gümüş kazanabilir.
-Kampanya kapsamında kazanılan Gümüş hesabınıza ne zaman yüklenir?
-Kampanya kapsamında aldığın altın miktarına karşılık gelen hediye gümüş 24-31 Temmuz 2026 tarihleri arasında altın alan
-müşterilere 3 Ağustos 2026 tarihinde, 1-4 Ağustos 2026 tarihleri arasında altın alan müşterilere 5 Ağustos 2026 tarihinde tanımlanacaktır.
-Kampanyadan kimler yararlanabilir?
-Kıymetli Maden alımı gerçekleştirecek kullanıcıların ise belirtilen baremlerde altın alımını GSPara Kredi Kartı ve GSPara Banka Kartı’yla gerçekleştirmesi gerekmektedir.
-Kullanıcıların kıymetli maden işlemlerinde uygulanan günlük işlem limiti nedeniyle kampanyaya katılamaması halinde Hepsipay’in sorumluluğu bulunmamaktadır. İşlem limitleri kullanıcının işlem sıklığına ve tutarına göre güvenlik amacıyla uygulanmaktadır.
-Kampanyaya nasıl katılabilirim?
-Kampanya kapsamında Hepsipay Kıymetli Madenler üzerinden tek seferde en az 1 gram altın alarak kampanyaya katılım sağlamaya hak kazanabilirsin.
-Hepsipay’den aşağıdaki adımları takip ederek kıymetli maden alım işlemini gerçekleştirebilirsin:
-Hepsipay ana sayfasında yer alan “Yatırımlarım” bölmesine tıkla.
-Yatırım yapmak istediğin maden türünü altın olarak seç ve “Al” butonuna tıkla.
-Minimum 1 gram olacak şekilde miktarı girdikten sonra ‘Al’ butonuna tıklayarak kıymetli maden alımını gerçekleştirebilirsin.
-Kampanyanın diğer detayları nedir?
-Kıymetli maden alım satımına ilişkin hizmetler iş ortağı Goldtag tarafından yürütülmektedir. Hepsipay’in platformda gerçekleştirilen kıymetli maden alım satım işlemlerine ilişkin hiçbir sorumluluğu bulunmamaktadır. İşlem ücretleri, altın alım/satım fiyatları vb. koşullarda Goldtag değişiklik yapma hakkını haizdir. Müşterinin gerçekleştireceği tüm işlemlerde Goldtag ile arasındaki Sözleşme uygulanacaktır.
-Bir müşteri kampanya kapsamında en fazla 5 gram gümüş kazanabilir, kazanılan gümüş miktarı müşterinin satın aldığı altın miktarına göre değişiklik göstermektedir.
-Altın, gümüş ve diğer kıymetli maden altın alım satım işleminde müşterinin işlem anında Hepsipay platformu üzerinde gösterilen ve kabul edeceği alım satım ücretleri ile fiyat farkları geçerli olacaktır.
-Hepsipay ve Goldtag kampanya koşullarını değiştirme, iptal etme veya uzatma hakkını saklı tutar.
-Kıymetli madenlerde tek seferlik, aylık ve günlük alım/satım işlem sınırı bulunmaktadır. İşlem sınırı kıymetli madene göre ve müşterinin işlem sıklığına göre değişiklik göstermektedir.
-Hepsipay ve GSPara kampanya koşullarını değiştirme, iptal etme veya uzatma hakkını saklı tutar.
-GSPara, her hakkı QNB Bank A.Ş.’ye aittir.
+SON TARİH: 31 Ağustos 2026
+GSStore Alışverişlerinizde %20 Nakit İade Fırsatı GSPara Kredi Kartı'nda!
+1-31 Ağustos 2026 tarihleri arasında GSStore mağazalarında GSPara Kredi Kartı ile yapılacak ilk yurt içi alışverişte %20, en fazla 1.000 TL, nakit iade kazanma fırsatı sizi bekliyor. Alışverişten önce GSSTORE20 yazıp 2273'e SMS gönderip kampanyaya katılabilirsiniz. Kampanya dönemi içerisinde online ve fiziksel mağazalarda yapılacak ilk alışveriş sonrasında işlemin gerçekleştirildiği GSPara Kredi Kartı’na nakit iade yapılacaktır.
+Kampanya 01 Ağustos 2026 – 31 Ağustos 2026 tarihleri arasında geçerlidir.
+Kampanyadan yararlanabilmek için müşterilerin kampanyaya SMS ile katılım sağlaması gerekmektedir.
+GSPara Kredi Kartı sahibi olan müşteriler: GSSTORE20 yazıp 2273'e SMS göndermelidir.
+2273’e gönderilecek her SMS, operatörlerin kendi kampanya katılım mesaj tarifeleri üzerinden 1 kısa mesaj olarak ücretlendirilir.
+Katılım SMS'i gönderilmeden önce yapılan alışverişler kampanya kapsamında değerlendirilmeyecektir.
+Kampanya için yeni GSPara Kredi Kartı sahibi olan müşterilerimiz sms gönderiminden sonra kampanyaya katılım SMS’i almazlarsa ertesi gün tekrar deneyebilirler.
+Kampanya tüm GSStore online mağazası ile yurt içindeki GSStore fiziksel mağazalarında gerçekleştirilen alışverişlerde geçerlidir.
+Kampanya kapsamında yapılan ilk alışverişte kazanılacak nakit iade tutarı alışverişin %20’si olmak üzere en fazla 1.000 TL ile sınırlıdır. Alt harcama limiti bulunmamaktadır.
+Kampanya yalnızca ilk yapılan alışveriş için geçerlidir. Müşteriler kampanyadan yalnızca bir kez faydalanabilir.
+Kampanya kapsamında kazanılan nakit iade tutarları işlem sonrasında müşterinin kredi kartına yansıtılacaktır. Kazanılan nakit iade, işlemin gerçekleştirildiği karta iade edilecektir.
+Kampanya yalnızca 01.08.2026 – 31.08.2026 tarihleri arasında GSPara Kredi Kartı ile yapılan alışverişlerde geçerlidir.
+Kampanya yalnızca GSStore online ve fiziksel mağazalarında yapılan alışverişlerde geçerlidir.
+Sanal kartlarla yapılan alışverişler kampanyaya dahildir.
+İade veya iptal edilen işlemler için nakit iade kazanımı gerçekleşmez.
+Karta yansıtılan nakit iade tutarları başka bir hesaba transfer edilemez ve nakit olarak çekilemez.
+Banka, kampanya koşullarında değişiklik yapma veya kampanyayı durdurma hakkını saklı tutar.
 
 
 --- QNB_GSPARA KAMPANYA 5/17 ---
