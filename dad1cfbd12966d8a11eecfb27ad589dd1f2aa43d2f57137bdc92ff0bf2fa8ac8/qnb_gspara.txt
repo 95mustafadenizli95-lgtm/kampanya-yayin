@@ -1,8 +1,8 @@
-=== QNB & GSPARA GÜNCEL KAMPANYA HAVUZU (06/08/2026 04:25) ===
+=== QNB & GSPARA GÜNCEL KAMPANYA HAVUZU (07/08/2026 04:25) ===
 QNB'DEN TOPLANAN: 1
 GSPARA'DAN TOPLANAN: 16
 BİRLEŞİK BENZERSİZ: 17
-KONTROL TARİHİ: 6 Ağustos 2026
+KONTROL TARİHİ: 7 Ağustos 2026
 
 
 --- QNB_GSPARA KAMPANYA 1/17 ---
@@ -91,28 +91,26 @@ GSPara Kredi Kartı veya Banka Kartı sahibi olan müşterilerimiz Passo bilet a
 
 
 --- QNB_GSPARA KAMPANYA 4/17 ---
-BAŞLIK: GSStore Alışverişlerinizde %20 Nakit İade Fırsatı GSPara Kredi Kartı'nda!
-LINK: https://www.gspara.com.tr/ayricaliklar/gsstore-alisverislerinizde-20-nakit-iade-firsati-gspara-kredi-kartinda-11399
+BAŞLIK: Yeni GSParalılara özel %0 faizli 25.000 TL!
+LINK: https://www.gspara.com.tr/ayricaliklar/yeni-gsparalilara-ozel-0-faizli-25000-tl-11401
 KAYNAK: GSPARA
-SON TARİH: 31 Ağustos 2026
-GSStore Alışverişlerinizde %20 Nakit İade Fırsatı GSPara Kredi Kartı'nda!
-1-31 Ağustos 2026 tarihleri arasında GSStore mağazalarında GSPara Kredi Kartı ile yapılacak ilk yurt içi alışverişte %20, en fazla 1.000 TL, nakit iade kazanma fırsatı sizi bekliyor. Alışverişten önce GSSTORE20 yazıp 2273'e SMS gönderip kampanyaya katılabilirsiniz. Kampanya dönemi içerisinde online ve fiziksel mağazalarda yapılacak ilk alışveriş sonrasında işlemin gerçekleştirildiği GSPara Kredi Kartı’na nakit iade yapılacaktır.
-Kampanya 01 Ağustos 2026 – 31 Ağustos 2026 tarihleri arasında geçerlidir.
-Kampanyadan yararlanabilmek için müşterilerin kampanyaya SMS ile katılım sağlaması gerekmektedir.
-GSPara Kredi Kartı sahibi olan müşteriler: GSSTORE20 yazıp 2273'e SMS göndermelidir.
-2273’e gönderilecek her SMS, operatörlerin kendi kampanya katılım mesaj tarifeleri üzerinden 1 kısa mesaj olarak ücretlendirilir.
-Katılım SMS'i gönderilmeden önce yapılan alışverişler kampanya kapsamında değerlendirilmeyecektir.
-Kampanya için yeni GSPara Kredi Kartı sahibi olan müşterilerimiz sms gönderiminden sonra kampanyaya katılım SMS’i almazlarsa ertesi gün tekrar deneyebilirler.
-Kampanya tüm GSStore online mağazası ile yurt içindeki GSStore fiziksel mağazalarında gerçekleştirilen alışverişlerde geçerlidir.
-Kampanya kapsamında yapılan ilk alışverişte kazanılacak nakit iade tutarı alışverişin %20’si olmak üzere en fazla 1.000 TL ile sınırlıdır. Alt harcama limiti bulunmamaktadır.
-Kampanya yalnızca ilk yapılan alışveriş için geçerlidir. Müşteriler kampanyadan yalnızca bir kez faydalanabilir.
-Kampanya kapsamında kazanılan nakit iade tutarları işlem sonrasında müşterinin kredi kartına yansıtılacaktır. Kazanılan nakit iade, işlemin gerçekleştirildiği karta iade edilecektir.
-Kampanya yalnızca 01.08.2026 – 31.08.2026 tarihleri arasında GSPara Kredi Kartı ile yapılan alışverişlerde geçerlidir.
-Kampanya yalnızca GSStore online ve fiziksel mağazalarında yapılan alışverişlerde geçerlidir.
-Sanal kartlarla yapılan alışverişler kampanyaya dahildir.
-İade veya iptal edilen işlemler için nakit iade kazanımı gerçekleşmez.
-Karta yansıtılan nakit iade tutarları başka bir hesaba transfer edilemez ve nakit olarak çekilemez.
-Banka, kampanya koşullarında değişiklik yapma veya kampanyayı durdurma hakkını saklı tutar.
+SON TARİH BELİRTİLMEMİŞ
+Yeni GSParalılara özel %0 faizli 25.000 TL!
+GSPara uygulamasını indir, GSParalı ol, 30 gün içerisinde uygulamadan yapacağın başvurunun onaylanması durumunda aylık %0 faiz oranlı 25.000 TL’ye varan 3 ay taksitli kredi fırsatını kaçırma!
+Kampanya, GSPara uygulaması üzerinden görüntülü görüşme ile ilk defa müşteri olan yeni GSParalılar için geçerlidir.
+Kampanya mevcut GSPara ve QNB müşterileri için geçerli değildir.
+% 0 faiz oranı, 25.000 TL’ye varan 3 ay taksitli krediler için geçerlidir.
+Kampanya sınırlı sayıda müşterimiz için geçerlidir.
+GSPara uygulamasından müşteri olup ihtiyaç kredisine başvurabilirsin.
+Kampanyadan yararlanmak isteyen yeni müşterilerimiz, müşteri olma süreçlerini tamamladıktan sonraki 30 gün içerisinde kredisinin onaylanması durumunda kredilerini kullanabilirler. Müşteri olmalarını takip eden 30 gün içerisinde kredilerini kullanmayan veya kampanya kapsamında sunulan “Hoş Geldin Kredisi” ürünü yerine farklı bir ürünü kullanan müşterilerimiz için kampanya geçersiz hale gelecektir.
+25.000 TL’ye kadar 3 ay vadede kullanılacak 8.333,33 TL taksit tutarlı Hoş Geldin Kredisi’nin faiz oranı % 0’dır. Alınacak ücretlerden Kredi Tahsis Ücreti (BSMV dahil) 143,75 TL iken Sigorta Primi* ise 351,60 TL’dir. Bu koşullara sahip Hoş Geldin Kredisinin Yıllık Toplam Maliyet Oranı** %3,5222’dir.
+QNB piyasa koşullarına göre kredi başvurusunu serbestçe değerlendirme ve uygun görmediği başvuruları reddetme hak ve yetkisine sahiptir. Tahsis edilecek kredi tutarı müşteri özelinde değişkenlik gösterebilir.
+Yukarıda belirtilen kredi tutarları ve vadeler, örnek olarak belirtilmiştir. Müşteri özelinde değişiklik gösterebilir. Diğer kredi tutarları ve vade koşulları için detaylı bilgiye GSPara uygulamamızdan ulaşabilirsiniz.
+74 yaşın üzerindeki müşterilerimiz, bankamız kredi tahsis politikaları gereğince yeni müşterilere özel faizsiz kredi kampanyasından yararlanamamaktadırlar.
+Bankamız, piyasa koşullarına ve banka politikalarına göre uygun görmediği başvuruları reddetme, kampanya koşullarını değiştirme, gerekli görmesi halinde ek bilgi ve belge talebinde bulunma ve kampanyayı sonlandırma hakkını saklı tutar.
+GSPara, her hakkı QNB Bank A.Ş.’ye aittir.
+* GSPara ihtiyaç kredilerinde sigortalı ve sigortasız kredi tercihi sunmaktadır. Poliçenizi GSPara aracılığı ile düzenletmeniz durumunda sigorta primi müşteri demografik bilgilerine göre hesaplanacaktır. Yukarıda verilen hayat sigortası primi ortalama 40 yaşında bir müşteri için yaklaşık olarak hesaplanan hayat sigortası primi örnek tutarı olup, müşterinin demografik bilgilerine göre değişim gösterebilir. Poliçenizi QNB’nin belirlediği teminatlar dahilinde başka bir sigorta şirketinden düzenletip daini-i mürtein QNB olacak şekilde QNB şubesine ibraz etmeniz de mümkündür.
+** Yıllık toplam maliyet oranlarına kredi için tahsil edilen kredi tahsis ücreti ve vergiler dahildir. Sigorta prim tutarı hariç tutulmuştur. İki taksit dönemi arası 30 gün baz alınmıştır.
 
 
 --- QNB_GSPARA KAMPANYA 5/17 ---

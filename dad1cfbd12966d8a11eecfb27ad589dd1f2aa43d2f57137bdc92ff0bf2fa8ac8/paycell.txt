@@ -1,46 +1,33 @@
-=== PAYCELL GÜNCEL KAMPANYA HAVUZU (06/08/2026 04:23) ===
+=== PAYCELL GÜNCEL KAMPANYA HAVUZU (07/08/2026 04:23) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 49
-KONTROL TARİHİ: 6 Ağustos 2026
+KONTROL TARİHİ: 7 Ağustos 2026
 
 
 --- PAYCELL KAMPANYA 1/49 ---
-BAŞLIK: Fatura Talimatlarına 300 TL’ye varan nakit iade!
-LINK: https://paycell.com.tr/kampanyalar/fatura-talimatlarina-nakit-iade-kampanyasi
+BAŞLIK: Exvega’da 1.000 TL değerinde indirim kodu!
+LINK: https://paycell.com.tr/kampanyalar/exvegada-1000-tl-degerinde-indirim-kodu
 SON TARİH: 31 Ağustos 2026
-Fatura Talimatlarına 300 TL’ye varan nakit iade!
+Exvega’da 1.000 TL değerinde indirim kodu!
+Paycell kullanıcılarına özel Exvega’da yapılacak 10.000 TL ve üzeri alışverişte geçerli 1.000 TL indirim kodu seni bekliyor!
 Kampanya Geçerlilik Tarihi
-1 Ağustos 2026
+6 Ağustos 2026
 31 Ağustos 2026
 Kimler Katılabilir?
 Paycell Müşterileri
+Detaylı Bilgi
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
-Kampanya 01.08.2026 - 31.08.2026 tarihleri arasında geçerlidir.
+Kampanya 06.08.2026 – 31.08.2026 tarihleri arasında geçerlidir. Kupon kodu en geç 31.08.2026 tarihinde kullanılabilir.
 Kampanyaya Dahil Harcamalar Nelerdir?
-Paycell Kart ile verilecek Otomatik Ödeme Talimat’ına ilişkin başarılı fatura ödemesine istinaden ödül kazanılır.
+Kampanya yalnızca https://exvega.com/ üzerinden tek seferde yapılacak 10.000 TL ve üzeri alışverişte geçerlidir.
 Kampanya Faydası Nedir?
-Paycell Kart ile verilecek Otomatik Ödeme Talimatı kapsamında;
-1. faturaya 50 TL, 2. faturaya 100 TL, 3. faturaya 150 TL, 4. faturaya 200 TL, 5. Faturaya 300 TL nakit iade kazanılır.
+Kampanya Exvega’da tek seferde yapılacak 10.000 TL ve üzeri alışverişte 1.000 TL değerinde indirim kodu faydası sunmaktadır.
 Kampanyadan Nasıl Kazanırım?
-Kampanyadan ödül kazanabilmek için talimat vermeden önce HEMEN KATIL butonuna basıp kampanyaya katılmanız gerekmektedir. Kampanyaya katılmayan kullanıcılar talimat verip fatura ödese dahi ödül kazanamayacaktır.
+Kampanyaya Paycell Mobil Uygulaması üzerinden HEMEN KATIL butonuna basıp katılmanız gerekmektedir. Katılım sonrası indirim kodu SMS ile gönderilecektir.
 Diğer Koşullar
-Kazanılan ödül 5 Eylül 2026 günü fatura ödeme gerçekleştirilen Paycell Kart’a yatırılacaktır.
-Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayca harcanabilir. 2 Haziran 2026 tarihinden itibaren nakit iade tutarları ATM'den çekilememekte ve başka hesap ya da kartlara aktarılamamaktadır.
-Minimum 250 TL ve üzeri faturalar kampanyaya dahildir.
-250 TL altı faturalar kampanya kapsamında ödüllendirilmeyecektir.
-Ödemenin Paycell Kart ile yapılması gerekmektedir.
-Maksimum kazanılacak tutar 300 TL’dir.
-Kampanya 2.000 kişi ile sınırlıdır.
-1. faturaya 50 TL, 2. faturaya 100 TL, 3. faturaya 150 TL, 4. faturaya 200 TL, 5. Faturaya 300 TL nakit iade kazanılır.
-Kampanya süresi içinde iptal edilip yeniden verilen talimatlardan ödül kazanılamaz.
-31 Ağustos 2026 tarihine kadar ilgili faturalar için ödeme yapmanız ve talimatınızın açık tutulması gerekmektedir.
-Kampanya katılımından sonra talimatı iptali, talimatın tekrar verilmesi durumunda kampanya geçersiz sayılacaktır.
-Ödeme tarihinde Paycell Kart bakiyenin yetersiz olması durumunda fatura ödeme işlemi gerçekleşmeyecektir. Otomatik ödemenin Paycell Kart ile gerçekleşmesi için bakiye kontrolü yapılmalıdır.
-Kampanya kazanımı müşteri bazındadır. Bir müşteri kampanyadan kart sayısından bağımsız yalnızca bir kez faydalanabilir.
-Kampanya dahilinde iade ve iptal işlemleri dikkate alınacaktır.
-Bu kampanya, başka bir kampanya ile birleştirilemez. Bir harcama ile sadece tek bir kampanyadan ödül kazanımı gerçekleşebilir.
-Uygulama içinde; Ödemeler-Fatura Ödeme- Yeni Talimat ver menüsünden faturalarınız için Paycell Kart ile talimat verebilirsiniz.
+Bir kullanıcı kampanyaya yalnızca 1 kere katılabilir.
+Kampanyadan kazanılan indirim kodu, Paycell Uygulaması-Fırsatlar-Kuponlarım menüsünden görüntülenebilir.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
@@ -1090,41 +1077,6 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 
 
 --- PAYCELL KAMPANYA 32/49 ---
-BAŞLIK: Etstur Rezervasyonlarında 12 Ay Vade Fırsatı!
-LINK: https://paycell.com.tr/kampanyalar/etstur-rezervasyonlarinda-12-ay-vade-firsati
-SON TARİH: 31 Aralık 2026
-Etstur Rezervasyonlarında 12 Ay Vade Fırsatı!
-Paycell Alışveriş Limiti ile Etstur’da 100.000 TL’ye kadar olan rezervasyonlarda 12 Ay Vade!
-Kampanya Geçerlilik Tarihi
-20 Eylül 2022
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
-Kampanyaya Kimler Katılabilir?
-Kampanyaya Paycell müşterileri katılabilir.
-Kampanya Geçerlilik Tarihi Nedir?
-Kampanya 31.12.2026 tarihine kadar geçerlidir.
-Kampanya Faydası Nedir?
-Turkcell Finansman A.Ş. tarafından sunulan Paycell Alışveriş Limiti ile Etstur.com’da minimum 500 TL, maksimum 100.000 TL’lik rezervasyonlarınızda anında taksitlendirebilirsiniz.
-Kullanım Kriteri Nedir?
-Turkcell Finansman A.Ş. tarafından sunulan bu kredi hizmetinden 18 yaşından büyük, Paycell’de kimlik tespiti yapmış olan herkes faydalanabilir. Kimlik doğrulaması yapılmamış müşteriler için aşağıdaki evraklar ile birlikte Turkcell Mağazaları’na gidip Paycell Kimlik Doğrulama yapılmasının talep edilmesi halinde işleminiz gerçekleştirilecektir. Gerekli evraklar aşağıdaki gibidir.
-Kimlik belgesi (Nüfus Cüzdanı, Ehliyet veya Pasaport)
-Son 3 aya ait adres bilgisini içeren fatura (su, doğalgaz, elektrik, telekomünikasyon vb.) veya ikametgâh belgesi
-Nasıl Kullanabilirim?
-Etstur.com’da rezervasyonunuzu oluşturun.
-Ödeme onayı adımında ödeme alternatifleri arasından Paycell Alışveriş Limiti’ni seçin.
-İşlem yapmak istediğiniz GSM numaranızı girin.
-Paycell şifrenizi girin. Paycell şifreniz yoksa ekranda yer alan bilgileri doldurarak Paycell’e anında kayıt olabilirsiniz.
-Kredi başvurunuz için talep edilen bilgileri girin ve başvurunuzu oluşturun.
-İstediğiniz taksit sayısını seçin ve telefonunuza gelen tek kullanımlık şifreyi girerek sözleşmeleri onaylayın, ödemeyi tamamlayın.
-Diğer Bilgiler
-50.001 – 100.000 TL arasındaki alışverişlerde maksimum taksit 24 ay ile sınırlıdır.
-Turkcell hat sahibiyseniz TCMB’nin belirlediği aylık işlem limitleri dahilinde taksitlerinizi Turkcell faturanız üzerinden ödeyebilirsiniz.
-Taksitleriniz limitleri aşıyorsa veya Turkcell’li değilseniz, taksit ödemelerinizi Paycell Uygulaması, Turkcell İletişim Merkezleri veya bankalar aracılığıyla yapabilirsiniz. Faturana Yansıt limitlerinizi öğrenmek için tıklayınız.
-Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. ve Turkcell Finansman A.Ş. kampanyayı durdurma ve kampanyada değişiklik yapma hakkını saklı tutar.
-
-
---- PAYCELL KAMPANYA 33/49 ---
 BAŞLIK: Paycell’liler Şimdi YouTube Premium’da!
 LINK: https://paycell.com.tr/kampanyalar/paycellliler-simdi-youtube-premiumda
 SON TARİH: 31 Aralık 2026
@@ -1164,6 +1116,41 @@ Kampanya stoklarla sınırlıdır.
 Kazanılan ödülün nakit karşılığı talep edilemez.
 Google Play aracılığıyla Google Hesabım sayfasına girip “Ödeme Yöntemleri” alanından “Paycell | Turkcell”i seçerek kolayca Turkcell Faturana Yansıt tanımı yapabilirsiniz.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+
+
+--- PAYCELL KAMPANYA 33/49 ---
+BAŞLIK: Etstur Rezervasyonlarında 12 Ay Vade Fırsatı!
+LINK: https://paycell.com.tr/kampanyalar/etstur-rezervasyonlarinda-12-ay-vade-firsati
+SON TARİH: 31 Aralık 2026
+Etstur Rezervasyonlarında 12 Ay Vade Fırsatı!
+Paycell Alışveriş Limiti ile Etstur’da 100.000 TL’ye kadar olan rezervasyonlarda 12 Ay Vade!
+Kampanya Geçerlilik Tarihi
+20 Eylül 2022
+31 Aralık 2026
+Kimler Katılabilir?
+Paycell Müşterileri
+Kampanyaya Kimler Katılabilir?
+Kampanyaya Paycell müşterileri katılabilir.
+Kampanya Geçerlilik Tarihi Nedir?
+Kampanya 31.12.2026 tarihine kadar geçerlidir.
+Kampanya Faydası Nedir?
+Turkcell Finansman A.Ş. tarafından sunulan Paycell Alışveriş Limiti ile Etstur.com’da minimum 500 TL, maksimum 100.000 TL’lik rezervasyonlarınızda anında taksitlendirebilirsiniz.
+Kullanım Kriteri Nedir?
+Turkcell Finansman A.Ş. tarafından sunulan bu kredi hizmetinden 18 yaşından büyük, Paycell’de kimlik tespiti yapmış olan herkes faydalanabilir. Kimlik doğrulaması yapılmamış müşteriler için aşağıdaki evraklar ile birlikte Turkcell Mağazaları’na gidip Paycell Kimlik Doğrulama yapılmasının talep edilmesi halinde işleminiz gerçekleştirilecektir. Gerekli evraklar aşağıdaki gibidir.
+Kimlik belgesi (Nüfus Cüzdanı, Ehliyet veya Pasaport)
+Son 3 aya ait adres bilgisini içeren fatura (su, doğalgaz, elektrik, telekomünikasyon vb.) veya ikametgâh belgesi
+Nasıl Kullanabilirim?
+Etstur.com’da rezervasyonunuzu oluşturun.
+Ödeme onayı adımında ödeme alternatifleri arasından Paycell Alışveriş Limiti’ni seçin.
+İşlem yapmak istediğiniz GSM numaranızı girin.
+Paycell şifrenizi girin. Paycell şifreniz yoksa ekranda yer alan bilgileri doldurarak Paycell’e anında kayıt olabilirsiniz.
+Kredi başvurunuz için talep edilen bilgileri girin ve başvurunuzu oluşturun.
+İstediğiniz taksit sayısını seçin ve telefonunuza gelen tek kullanımlık şifreyi girerek sözleşmeleri onaylayın, ödemeyi tamamlayın.
+Diğer Bilgiler
+50.001 – 100.000 TL arasındaki alışverişlerde maksimum taksit 24 ay ile sınırlıdır.
+Turkcell hat sahibiyseniz TCMB’nin belirlediği aylık işlem limitleri dahilinde taksitlerinizi Turkcell faturanız üzerinden ödeyebilirsiniz.
+Taksitleriniz limitleri aşıyorsa veya Turkcell’li değilseniz, taksit ödemelerinizi Paycell Uygulaması, Turkcell İletişim Merkezleri veya bankalar aracılığıyla yapabilirsiniz. Faturana Yansıt limitlerinizi öğrenmek için tıklayınız.
+Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. ve Turkcell Finansman A.Ş. kampanyayı durdurma ve kampanyada değişiklik yapma hakkını saklı tutar.
 
 
 --- PAYCELL KAMPANYA 34/49 ---
@@ -1344,43 +1331,37 @@ Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş., Turkcell Finansman A.Ş. ve
 
 
 --- PAYCELL KAMPANYA 39/49 ---
-BAŞLIK: TR Karekod Harcamanıza 100 TL Nakit İade!
-LINK: https://paycell.com.tr/kampanyalar/tr-karekod-harcamaniza-100-tl-nakit-iade
+BAŞLIK: Trendyol’da Toplamda 240 TL Nakit İade!
+LINK: https://paycell.com.tr/kampanyalar/trendyolda-toplamda-240-tl-nakit-iade
 SON TARİH: 31 Ağustos 2026
-TR Karekod Harcamanıza 100 TL Nakit İade!
-Faturana Yansıt ile yapılacak 1000 TL ve üzeri TR Karekod Harcamasına 100 TL Nakit İade!
+Trendyol’da Toplamda 240 TL Nakit İade!
+Paycell Kart’la yapacağın ilk 800 TL ve üzeri harcamana 40 TL, ikinciye 80 TL, üçüncüye 120 TL, toplamda 240 TL nakit iade!
 Kampanya Geçerlilik Tarihi
-2 Haziran 2026
+3 Ağustos 2026
 31 Ağustos 2026
 Kimler Katılabilir?
-Turkcell Müşterileri
+Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
-Kampanyaya kişiye özeldir.
+Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
-Kampanya 02.06.2026 - 31.08.2026 tarihleri arasında geçerlidir.
+Kampanya 03.08.2026 - 31.08.2026 tarihleri arasında geçerlidir.
 Kampanyaya Dahil Harcamalar Nelerdir?
-Kampanya dönemi boyunca Faturana Yansıt ile yapılacak 1000 TL ve üzeri TR Karekod Harcamalarında geçerlidir.
+Kampanya sanal ya da fiziksel Paycell Kart’lar ile Trendyol’da tek seferde yapılacak 800 TL ve üzeri harcamalarda geçerlidir. Paycell Kart ile Trendyol, Trendyol Yemek ve Trendyolmilla’da yapılacak harcamalarda geçerlidir.
 Kampanya Faydası Nedir?
-Faturana Yansıt ile yapılacak 1000 TL ve üzeri TR Karekod Harcamasına 100 TL Nakit İade!
+Paycell Kart’la yapacağın ilk 800 TL ve üzeri harcamana 40 TL, ikinci 800 TL ve üzeri harcamana 80 TL, üçüncü 800 TL ve üzeri harcamana 120 TL, toplamda 240 TL hediye verilecektir.
 Kampanyadan Nasıl Kazanırım?
-Faturana Yansıt ile yapılacak 1000 TL ve üzeri TR Karekod Harcaması yapmak yeterlidir.
-Kampanya Hangi Ödeme Yönteminde Geçerlidir?
-Kampanya TR Karekod Faturana Yansıt ödemelerinde geçerlidir.
+Kampanyadan ödül kazanabilmek için harcama yapmadan önce Paycell Mobil Uygulaması üzerinden HEMEN KATIL butonuna basıp kampanyaya katılmanız gerekmektedir.
 Diğer Koşullar
 Kampanya kişiye özeldir.
-Kampanyadan Turkcell müşterileri yararlanabilir.
-02.06.2026 - 31.08.2026 tarihleri arasında Faturana Yansıt ile 1000 TL üzeri TR Karekod işlemlerinde geçerlidir.
-Bir müşteri en fazla 100 TL kazanabilir. Paycell Kart’a işlem sonrası yüklenecektir.
-Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayca harcanabilir. 2 Haziran 2026 tarihinden itibaren nakit iade tutarları ATM'den çekilememekte ve başka hesap ya da kartlara aktarılamamaktadır.
-Fiziki POS’tan yapılan harcamalar dahildir.
+Harcama hedeflerinin gerçekleştirilmesi durumunda hediyeler, Paycell Kart’a işlem sonrası yüklenecektir.
+Aynı gün yapılan harcamaların sadece ilki kampanyaya dahil edilecektir.
+Kampanya eksik ya da hatalı yüklemeleri kampanya bitiminden sonra yüklenecektir.
 Kampanya kazanımı müşteri bazındadır. Bir müşteri kampanyadan kart sayısından bağımsız yalnızca bir kez faydalanabilir.
 Müşteriler kampanyadan kart tipinden bağımsız telefon numarası üzerinden tek bir kez yararlanabilir.
-Kampanya döneminde yapılan ilk harcama dikkate alınacaktır.
-Her kullanıcı kampanyadan en fazla 100 TL kazanabilir.
 Kampanya dahilinde iade ve iptal işlemleri dikkate alınacaktır.
-Kazanılan ödülün nakit karşılığı talep edilemez.
-Bu kampanya Faturana Yansıtarak yapacağınız 1000 TL üzeri TR Karekod işlemlerinde de geçerlidir.
 Bu kampanya, başka bir kampanya ile birleştirilemez. Bir harcama ile sadece tek bir kampanyadan ödül kazanımı gerçekleşebilir.
+Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayca harcanabilir. 2 Haziran 2026 tarihinden itibaren nakit iade tutarları ATM'den çekilememekte ve başka hesap ya da kartlara aktarılamamaktadır.
+Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT / Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
@@ -1421,37 +1402,43 @@ Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değ
 
 
 --- PAYCELL KAMPANYA 41/49 ---
-BAŞLIK: Trendyol’da Toplamda 240 TL Nakit İade!
-LINK: https://paycell.com.tr/kampanyalar/trendyolda-toplamda-240-tl-nakit-iade
+BAŞLIK: TR Karekod Harcamanıza 100 TL Nakit İade!
+LINK: https://paycell.com.tr/kampanyalar/tr-karekod-harcamaniza-100-tl-nakit-iade
 SON TARİH: 31 Ağustos 2026
-Trendyol’da Toplamda 240 TL Nakit İade!
-Paycell Kart’la yapacağın ilk 800 TL ve üzeri harcamana 40 TL, ikinciye 80 TL, üçüncüye 120 TL, toplamda 240 TL nakit iade!
+TR Karekod Harcamanıza 100 TL Nakit İade!
+Faturana Yansıt ile yapılacak 1000 TL ve üzeri TR Karekod Harcamasına 100 TL Nakit İade!
 Kampanya Geçerlilik Tarihi
-3 Ağustos 2026
+2 Haziran 2026
 31 Ağustos 2026
 Kimler Katılabilir?
-Paycell Müşterileri
+Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
-Kampanyaya tüm Paycell müşterileri katılabilir.
+Kampanyaya kişiye özeldir.
 Kampanya Geçerlilik Tarihi Nedir?
-Kampanya 03.08.2026 - 31.08.2026 tarihleri arasında geçerlidir.
+Kampanya 02.06.2026 - 31.08.2026 tarihleri arasında geçerlidir.
 Kampanyaya Dahil Harcamalar Nelerdir?
-Kampanya sanal ya da fiziksel Paycell Kart’lar ile Trendyol’da tek seferde yapılacak 800 TL ve üzeri harcamalarda geçerlidir. Paycell Kart ile Trendyol, Trendyol Yemek ve Trendyolmilla’da yapılacak harcamalarda geçerlidir.
+Kampanya dönemi boyunca Faturana Yansıt ile yapılacak 1000 TL ve üzeri TR Karekod Harcamalarında geçerlidir.
 Kampanya Faydası Nedir?
-Paycell Kart’la yapacağın ilk 800 TL ve üzeri harcamana 40 TL, ikinci 800 TL ve üzeri harcamana 80 TL, üçüncü 800 TL ve üzeri harcamana 120 TL, toplamda 240 TL hediye verilecektir.
+Faturana Yansıt ile yapılacak 1000 TL ve üzeri TR Karekod Harcamasına 100 TL Nakit İade!
 Kampanyadan Nasıl Kazanırım?
-Kampanyadan ödül kazanabilmek için harcama yapmadan önce Paycell Mobil Uygulaması üzerinden HEMEN KATIL butonuna basıp kampanyaya katılmanız gerekmektedir.
+Faturana Yansıt ile yapılacak 1000 TL ve üzeri TR Karekod Harcaması yapmak yeterlidir.
+Kampanya Hangi Ödeme Yönteminde Geçerlidir?
+Kampanya TR Karekod Faturana Yansıt ödemelerinde geçerlidir.
 Diğer Koşullar
 Kampanya kişiye özeldir.
-Harcama hedeflerinin gerçekleştirilmesi durumunda hediyeler, Paycell Kart’a işlem sonrası yüklenecektir.
-Aynı gün yapılan harcamaların sadece ilki kampanyaya dahil edilecektir.
-Kampanya eksik ya da hatalı yüklemeleri kampanya bitiminden sonra yüklenecektir.
+Kampanyadan Turkcell müşterileri yararlanabilir.
+02.06.2026 - 31.08.2026 tarihleri arasında Faturana Yansıt ile 1000 TL üzeri TR Karekod işlemlerinde geçerlidir.
+Bir müşteri en fazla 100 TL kazanabilir. Paycell Kart’a işlem sonrası yüklenecektir.
+Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayca harcanabilir. 2 Haziran 2026 tarihinden itibaren nakit iade tutarları ATM'den çekilememekte ve başka hesap ya da kartlara aktarılamamaktadır.
+Fiziki POS’tan yapılan harcamalar dahildir.
 Kampanya kazanımı müşteri bazındadır. Bir müşteri kampanyadan kart sayısından bağımsız yalnızca bir kez faydalanabilir.
 Müşteriler kampanyadan kart tipinden bağımsız telefon numarası üzerinden tek bir kez yararlanabilir.
+Kampanya döneminde yapılan ilk harcama dikkate alınacaktır.
+Her kullanıcı kampanyadan en fazla 100 TL kazanabilir.
 Kampanya dahilinde iade ve iptal işlemleri dikkate alınacaktır.
+Kazanılan ödülün nakit karşılığı talep edilemez.
+Bu kampanya Faturana Yansıtarak yapacağınız 1000 TL üzeri TR Karekod işlemlerinde de geçerlidir.
 Bu kampanya, başka bir kampanya ile birleştirilemez. Bir harcama ile sadece tek bir kampanyadan ödül kazanımı gerçekleşebilir.
-Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayca harcanabilir. 2 Haziran 2026 tarihinden itibaren nakit iade tutarları ATM'den çekilememekte ve başka hesap ya da kartlara aktarılamamaktadır.
-Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT / Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
