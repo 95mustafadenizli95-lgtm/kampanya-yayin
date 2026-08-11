@@ -1,9 +1,9 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (10/08/2026 04:00) ===
-TOPLANAN BENZERSİZ KAMPANYA: 10
-KONTROL TARİHİ: 10 Ağustos 2026
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (11/08/2026 04:02) ===
+TOPLANAN BENZERSİZ KAMPANYA: 11
+KONTROL TARİHİ: 11 Ağustos 2026
 
 
---- MASTERPASS KAMPANYA 1/10 ---
+--- MASTERPASS KAMPANYA 1/11 ---
 BAŞLIK: Kayıt için Telefon Numaranızı Girin
 LINK: https://www.masterpassturkiye.com/login/register?returnUrl=%2Fportal%2Fmasterpassplus
 KAYNAK: DETAY SAYFASI
@@ -20,7 +20,7 @@ Kullanım koşulları
 Kişisel Verilerin Korunması
 
 
---- MASTERPASS KAMPANYA 2/10 ---
+--- MASTERPASS KAMPANYA 2/11 ---
 BAŞLIK: Yurt dışı restoran harcamalarında %15 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/yurtdisirestoran/yurt-disi-restoranlarda-yuzde-15-indirim
 KAYNAK: DETAY SAYFASI
@@ -57,7 +57,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 3/10 ---
+--- MASTERPASS KAMPANYA 3/11 ---
 BAŞLIK: Mastercard sahiplerine Progo ile havalimanı transferi 1.500 TL
 LINK: https://www.masterpassturkiye.com/masterpassplus/progo/progo-1500tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -95,7 +95,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 4/10 ---
+--- MASTERPASS KAMPANYA 4/11 ---
 BAŞLIK: Atelier Rebul’de 1.000 TL İndirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/atelier/atelier-rebulde-1000-tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -127,7 +127,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 5/10 ---
+--- MASTERPASS KAMPANYA 5/11 ---
 BAŞLIK: Yurt dışı duty free harcamalarında %15 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/yurtdisidutyfree/yurt-disi-duty-free-yuzde-15-indirim
 KAYNAK: DETAY SAYFASI
@@ -164,7 +164,52 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 6/10 ---
+--- MASTERPASS KAMPANYA 6/11 ---
+BAŞLIK: Pamukkale Turizm üzerinden otobüs bileti alımlarında geçerli 400 TL'ye varan indirim
+LINK: https://www.masterpassturkiye.com/masterpassplus/pamukkale/pamukkale-turizmde-400-tlye-varan-indirim
+KAYNAK: DETAY SAYFASI
+SON TARİH: 31 Aralık 2026
+31
+ARA
+Pamukkale Turizm üzerinden otobüs bileti alımlarında geçerli
+400 TL'ye varan indirim
+Kupon Al
+sana artı bir dünya
+Kullanım Koşulları
+• 10.08.2026 – 31.12.2026 tarihleri arasında Masterpass’e kayıtlı olan tüm Mastercard sahipleri, https://masterpassplus.com web sitesinden kupon kodu alarak Pamukkale Turizm web sayfası ve mobil uygulaması üzerinden otobüs bileti alımlarında geçerli 400 TL’ye varan indirimden yararlanabilir.
+• Kampanyadan yararlanmak için Masterpass web sitesi üzerinden ilgili kampanya sayfasından kupon kodu alınması gerekmektedir.
+• Masterpass üyesi olmayanlar, www.masterpassplus.com web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından kupon kodlarını alabilir.
+• Kampanyadan yararlanmak için Masterpass’e kayıtlı Mastercard logolu banka kartı, ön ödemeli kart veya kredi kartı ile işlem yapılması gerekmektedir.
+• Masterpass’e kayıtlı kartı olmayanlar, kampanya tarihleri içerisinde ilgili günde sepet oluşturularak, ödeme özet sayfasına gelindiğinde “Kartımı Masterpass güvenli altyapısına kaydetmek istiyorum.” seçeneği işaretlenerek Masterpass’e kaydolduktan sonra https://www.masterpassturkiye.com/masterpassplus/pamukkale/pamukkale-turizmde-400-tlye-varan-indirim linkinden indirim kodu alınarak kampanyadan yararlanılabilir.
+• Kampanya Pamukkale Turizm web sayfası ve mobil uygulaması üzerinden yalnızca Masterpass’e kayıtlı Mastercard ile satın alınan biletlerde geçerlidir.
+• Kampanya kapsamında aynı sepet içerisinde satın alınan her bir bilet için 50 TL indirim uygulanır.
+• İndirim en fazla 8 bilet için geçerlidir. Bir işlemde uygulanabilecek toplam indirim tutarı en fazla 400 TL’dir.
+• İndirim tutarlar, aynı sepet içerisinde satın alınan bilet sayısına göre aşağıdaki şekilde uygulanır:
+- 1 bilet için toplam 50 TL,
+- 2 bilet için toplam 100 TL,
+- 3 bilet için toplam 150 TL,
+- 4 bilet için toplam 200 TL,
+- 5 bilet için toplam 250 TL,
+- 6 bilet için toplam 300 TL,
+- 7 bilet için toplam 350 TL,
+- 8 bilet için toplam 400 TL indirim uygulanır.
+• Kampanya kodu alan kullanıcılar, satın alma aşamasında “İndirim/Kampanya Kodu” bölümüne aldıkları kodu girerek kampanyadan yararlanabilir. Uygun şartlar sağlandığında toplam tutardan her bilet için 50 TL otomatik olarak düşecektir.
+• Kampanya dahilinde her kullanıcı, 400 TL’ye varan indirimden yalnızca bir defaya mahsus olarak yaralanabilecektir. Tekrar eden veya ikinci defa yapılan işlemlerde kampanya indirimi geçerli olmayacaktır.
+• Kampanyaya katılan kullanıcılar, tüm Pamukkale Turizm seferlerinde satın alma sırasında geçerli indirim kodunu kullanarak anında 400 TL’ye varan indirimden yararlanabilir.
+• Kampanya ilk 5.000 bilet ile sınırlıdır. Bu bilet adedine ulaşıldığında herhangi bir ön bildirimde bulunmaksızın kampanya sona erecektir.
+• Kampanyaya katılan herkes kampanya şart ve koşullarını kabul etmiş sayılır.
+• Pamukkale Turizm ve Mastercard kampanya tarihleri ve koşullarında değişiklik yapma hakkını saklı tutar.
+• Kampanya ile ilgili soru ve geri bildirimler için masterpassturkiye@mplusgroup.com.tr adresine ulaşılabilir. Dönüşler en geç 14 iş günü içerisinde sağlanacaktır.
+Seyahat
+Alışveriş
+Yeme-İçme
+Ulaşım
+Kültür-Sanat
+World Legend
+priceless.com
+
+
+--- MASTERPASS KAMPANYA 7/11 ---
 BAŞLIK: Enuygun'da uçak biletlerinde 1000 TL'ye varan indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/enuygun/enuygunda-1000-tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -201,7 +246,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 7/10 ---
+--- MASTERPASS KAMPANYA 8/11 ---
 BAŞLIK: Enuygun'da 300TL üzeri otobüs biletlerinde 150 TL indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/enuygun/150-TL-indirim
 KAYNAK: DETAY SAYFASI
@@ -239,7 +284,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 8/10 ---
+--- MASTERPASS KAMPANYA 9/11 ---
 BAŞLIK: Galataport İstanbul Deniz Dolmuşlarında %50 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/galataport/galataport-deniz-dolmuslarda-yuzde-50-indirim
 KAYNAK: DETAY SAYFASI
@@ -270,7 +315,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 9/10 ---
+--- MASTERPASS KAMPANYA 10/11 ---
 BAŞLIK: ZUBİZU ile seçili restoranlarda %20 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/zubizu/zubizu-ile-secili-restoranlarda-yuzde-20-indirim
 KAYNAK: DETAY SAYFASI
@@ -307,7 +352,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 10/10 ---
+--- MASTERPASS KAMPANYA 11/11 ---
 BAŞLIK: Mastercard World Legend sahiplerine Uber ile yurtdışı seyahatlerde %20 İndirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/uber/uber-cashback
 KAYNAK: DETAY SAYFASI
@@ -339,7 +384,7 @@ priceless.com
 
 
 === MASTERPASS ÇEKİM ÖZETİ ===
-TOPLAM BENZERSİZ KAMPANYA: 10
-GÜNCEL VEYA TARİHİ BELİRSİZ: 10
+TOPLAM BENZERSİZ KAMPANYA: 11
+GÜNCEL VEYA TARİHİ BELİRSİZ: 11
 SÜRESİ DOLMUŞ: 0
 HATALI: 0
