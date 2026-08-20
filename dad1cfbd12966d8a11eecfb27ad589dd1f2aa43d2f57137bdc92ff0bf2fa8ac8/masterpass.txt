@@ -1,9 +1,9 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (19/08/2026 03:59) ===
-TOPLANAN BENZERSİZ KAMPANYA: 12
-KONTROL TARİHİ: 19 Ağustos 2026
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (20/08/2026 03:59) ===
+TOPLANAN BENZERSİZ KAMPANYA: 13
+KONTROL TARİHİ: 20 Ağustos 2026
 
 
---- MASTERPASS KAMPANYA 1/12 ---
+--- MASTERPASS KAMPANYA 1/13 ---
 BAŞLIK: Kayıt için Telefon Numaranızı Girin
 LINK: https://www.masterpassturkiye.com/login/register?returnUrl=%2Fportal%2Fmasterpassplus
 KAYNAK: DETAY SAYFASI
@@ -20,7 +20,43 @@ Kullanım koşulları
 Kişisel Verilerin Korunması
 
 
---- MASTERPASS KAMPANYA 2/12 ---
+--- MASTERPASS KAMPANYA 2/13 ---
+BAŞLIK: Yurt dışı otel harcamalarında %10 indirim
+LINK: https://www.masterpassturkiye.com/masterpassplus/yurdisiotel/yurt-disi-otel-harcamalarinda-yuzde-10-indirim
+KAYNAK: DETAY SAYFASI
+SON TARİH: 30 Eylül 2026
+30
+EYL
+Yurt dışı otel harcamalarında
+%10 indirim
+Detaylı Bilgi
+sana artı bir dünya
+Kullanım Koşulları
+• Türkiye’den alınmış Silver logolu Mastercard’ınız ile 30 Eylül 2026 tarihine kadar tek seferde yapacağınız 500$ ve üzeri yurt dışı otel harcamanızda %10 indirim kazanın.
+• Kampanya yurt dışı otellerde, Mastercard kampanya kuralları kapsamında yapılan fiziki harcamalar için geçerlidir.
+• En az 500$ tutarındaki tek seferlik yurt dışı otel ödemelerinde harcanan tutarın %10’u oranında indirim, nakit geri ödeme olarak sağlanacaktır.
+• Türkiye Cumhuriyeti’nde bulunan otellerde yapılan harcamalar, kampanyaya dahil değildir. Kampanya, yalnızca yurt dışında bulunan otelleri kapsamaktadır.
+• Güney Kıbrıs Rum Yönetimi ve Kuzey Kıbrıs Türk Cumhuriyeti’nde bulunan otellerde yapılan harcamalar kampanyaya dahil değildir.
+• Kampanya sadece Silver logolu Mastercard kartlar için geçerlidir. (Bireysel kredi kartları ve banka kartlarında geçerlidir, ticari kartlarda geçerli değildir.)
+• Harcamanın gerçekleştiği işyeri kategori kodunun 3501-3831 arasındaki otel MCC kodlarından biri veya 7011 (Otel, Motel ve Resort Konaklama Hizmetleri) olması gerekmektedir. Harcamanın gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilgisinin hatalı tanımlanmış olması ya da kampanya dahilinde olmaması durumunda ödül kazanımı olmayacaktır. Bu gibi bir durumun oluşması halinde Mastercard’ın herhangi bir sorumluluğu bulunmamaktadır.
+• Kampanya kapsamında her kart ayda en fazla 75 USD nakit geri ödeme alabilecektir.
+• Kampanya tüm para birimlerinde geçerlidir. Her bir harcamanın kampanya kapsamında değerlendirilebilmesi için işlemin yapıldığı para birimindeki orijinal işlem tutarının fatura para biriminde (harcama yapan kişi ile bankası arasında anlaşılan fatura para birimi) 500 USD ve üzerine denk gelmesi gerekmektedir. Orijinal işlem tutarının Euro, USD veya TL’ye çevrilmesi için Mastercard Şirketi’nin işlem tarihindeki döviz kuru kullanılacaktır.
+• Kullanıcıların kampanyadan faydalanmak için kampanya sayfasındaki “Detaylı Bilgi” butonuna tıklamaları ve açılan bilgilendirme ekranındaki link üzerinden, işlem öncesinde kartlarını kampanyaya kaydetmeleri gerekmektedir. Kart sahipleri bu şekilde sunulan hüküm ve koşulları kabul ve ikrar etmiş olurlar. Kartlarını kaydetmeyen kullanıcılar gerekli harcamayı yapsalar dahi kampanyadan faydalanamayacaktır.
+• Yabancı kurlar üzerinden yapılan işlemlere ait indirimler, bankaların indirimi işlemek için kullandığı kurların farklı olması durumunda kur bazında değişiklik gösterebilir. Bu uygulamalardan kaynaklanan farklılıklarda Mastercard’ın herhangi bir sorumluluğu bulunmamaktadır.
+• Kampanya koşullarının sağlanması durumunda, para iadesi en geç 30 gün içerisinde ilgili banka tarafından hesaba yansıtılacaktır.
+• Program bir kotaya tabidir. Mastercard kota dolduğunda kampanyayı durdurma hakkına sahiptir.
+• Mastercard kampanya süresince herhangi bir zamanda kampanya koşullarında tek taraflı değişiklik yapma hakkına sahiptir.
+• Kampanyaya katılım ve işlem bilgilerine dair soruları olan kart sahipleri, ilk aşamada kartlarını aldıkları bankalar ile doğrudan iletişime geçebilir, ek geri bildirimler için ise masterpassturkiye@mplusgroup.com.tr adresine ulaşabilirler. Bu adres üzerinden geri dönüşler 14 iş günü içerisinde sağlanacaktır.
+Seyahat
+Alışveriş
+Yeme-İçme
+Ulaşım
+Kültür-Sanat
+World Legend
+priceless.com
+
+
+--- MASTERPASS KAMPANYA 3/13 ---
 BAŞLIK: Yurt dışı restoran harcamalarında %15 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/yurtdisirestoran/yurt-disi-restoranlarda-yuzde-15-indirim
 KAYNAK: DETAY SAYFASI
@@ -57,7 +93,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 3/12 ---
+--- MASTERPASS KAMPANYA 4/13 ---
 BAŞLIK: Mastercard sahiplerine Progo ile havalimanı transferi 1500 TL
 LINK: https://www.masterpassturkiye.com/masterpassplus/progo/progo-1500tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -95,7 +131,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 4/12 ---
+--- MASTERPASS KAMPANYA 5/13 ---
 BAŞLIK: Atelier Rebul’de 1000 TL İndirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/atelier/atelier-rebulde-1000-tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -104,6 +140,9 @@ SON TARİH: 31 Aralık 2026
 EYL
 Atelier Rebul’de
 1000 TL İndirim
+Kupon Al
+sana artı bir dünya
+Kullanım Koşulları
 • 29.07.2026-29.09.2026 tarihleri arasında Türkiye’de basılmış Silver logolu Mastercard sahipleri Atelier Rebul’de geçerli 1.000 TL indirimden faydalanabilirler.
 • Kampanyadan yararlanabilmek için https://www.masterpassplus.com/atelierrebul-1000TL adresi üzerinden kupon kodu alınması gerekmektedir.
 • Kupon kodları 31.12.2026 tarihine kadar geçerlidir.
@@ -124,7 +163,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 5/12 ---
+--- MASTERPASS KAMPANYA 6/13 ---
 BAŞLIK: Yurt dışı duty free harcamalarında %15 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/yurtdisidutyfree/yurt-disi-duty-free-yuzde-15-indirim
 KAYNAK: DETAY SAYFASI
@@ -133,6 +172,9 @@ SON TARİH: 30 Eylül 2026
 EYL
 Yurt dışı duty free harcamalarında
 %15 indirim
+Detaylı Bilgi
+sana artı bir dünya
+Kullanım Koşulları
 • Türkiye’de ihraç edilmiş Silver logolu Mastercard’ınız ile 25 Nisan 2025 – 30 Eylül 2026 tarihleri arasında tek seferde yapacağınız 150$ ve üzeri yurt dışı duty free ödemenizde % 15 indirim kazanın!
 • Kampanya yurt dışı duty free mağazalarında, Mastercard kampanya kuralları kapsamında yapılan harcamalar için geçerlidir. Kampanya tüm kurlarda yapılan harcamalarda geçerlidir.
 • %15 indirim, tek seferde en az 150$ tutarında yapılan yurtdışı duty free mağaza harcamalarında harcanan tutarın 15% ‘si kadar para iadesi şeklinde yapılacaktır.
@@ -158,7 +200,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 6/12 ---
+--- MASTERPASS KAMPANYA 7/13 ---
 BAŞLIK: Boyner'de 5000TL üzeri alışverişlerde 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/boyner/boynerde-1000tl-indirim-kuponu
 KAYNAK: DETAY SAYFASI
@@ -167,6 +209,9 @@ SON TARİH: 30 Eylül 2026
 EYL
 Boyner'de 5000TL üzeri alışverişlerde
 1000 TL indirim
+Kupon Al
+sana artı bir dünya
+Kullanım Koşulları
 • Kampanya kapsamında, Boyner/YKM mağazaları,Boyner Online ve Boyner Now'da Boyner satıcılı ürünlerden yapılacak kozmetik,elektrikli ev aletleri, aksesuar kategorileri hariç 5.000 TL ve üzeri alışverişe 1.000 TL indirim uygulanır.
 • Masterpass’e üye olmayan kullanıcılar, https://www.masterpassplus.com web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından indirim kodlarını alabilir.
 • İndirim kodu linkteki kampanya sayfasından alınabilir.
@@ -197,7 +242,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 7/12 ---
+--- MASTERPASS KAMPANYA 8/13 ---
 BAŞLIK: Pamukkale Turizm üzerinden otobüs bileti alımlarında geçerli 400 TL'ye varan indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/pamukkale/pamukkale-turizmde-400-tlye-varan-indirim
 KAYNAK: DETAY SAYFASI
@@ -206,6 +251,9 @@ SON TARİH: 31 Aralık 2026
 ARA
 Pamukkale Turizm üzerinden otobüs bileti alımlarında geçerli
 400 TL'ye varan indirim
+Kupon Al
+sana artı bir dünya
+Kullanım Koşulları
 • 10.08.2026 – 31.12.2026 tarihleri arasında Masterpass’e kayıtlı olan tüm Mastercard sahipleri, https://masterpassplus.com web sitesinden kupon kodu alarak Pamukkale Turizm web sayfası ve mobil uygulaması üzerinden otobüs bileti alımlarında geçerli 400 TL’ye varan indirimden yararlanabilir.
 • Kampanyadan yararlanmak için Masterpass web sitesi üzerinden ilgili kampanya sayfasından kupon kodu alınması gerekmektedir.
 • Masterpass üyesi olmayanlar, www.masterpassplus.com web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından kupon kodlarını alabilir.
@@ -239,7 +287,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 8/12 ---
+--- MASTERPASS KAMPANYA 9/13 ---
 BAŞLIK: Enuygun'da uçak biletlerinde 1000 TL'ye varan indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/enuygun/enuygunda-1000-tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -248,6 +296,9 @@ SON TARİH: 31 Ağustos 2026
 AĞU
 Enuygun'da uçak biletlerinde
 1000 TL'ye varan indirim
+Kupon Al
+sana artı bir dünya
+Kullanım Koşulları
 • 31.08.2026 tarihine kadar Masterpass’e kayıtlı olan tüm Mastercard sahipleri https://masterpassplus.com web sitesinden ENUYGUN.com mobil uygulamasında geçerli alınacak 4.000 TL ve üzeri uçak biletlerinde 1.000 TL indirim kuponu kazanacaklardır.
 • Masterpass’e üye olmayan kullanıcılar http://www.masterpassplus.com web sitesinden üye olduktan sonra indirim kuponlarını alabilirler.
 • Kampanyadan yararlanmak için Masterpass’e kayıtlı Mastercard® logolu banka kartı, kredi kartı veya ön ödemeli kart ile ödeme yapılmalıdır.
@@ -273,7 +324,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 9/12 ---
+--- MASTERPASS KAMPANYA 10/13 ---
 BAŞLIK: Enuygun'da 300TL üzeri otobüs biletlerinde 150 TL indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/enuygun/150-TL-indirim
 KAYNAK: DETAY SAYFASI
@@ -282,6 +333,9 @@ SON TARİH: 31 Ağustos 2026
 AĞU
 Enuygun'da 300TL üzeri otobüs biletlerinde
 150 TL indirim
+Kupon Al
+sana artı bir dünya
+Kullanım Koşulları
 • 16.10.2025 - 31.08.2026 tarihleri arasında Masterpass’e kayıtlı olan tüm Mastercard sahipleri https://masterpassplus.com web sitesinden ENUYGUN.com mobil uygulamasında geçerli otobüs bileti alımlarında geçerli 150TL indirim kuponu kazanacaklardır.
 • Masterpass’e üye olmayan kullanıcılar masterpassturkiye.com web sitesinden üye olduktan sonra indirim kuponlarını alabilirler.
 • Kampanyadan yararlanmak için Masterpass’e kayıtlı Mastercard® logolu banka kartı, kredi kartı veya ön ödemeli kart ile ödeme yapılmalıdır.
@@ -308,7 +362,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 10/12 ---
+--- MASTERPASS KAMPANYA 11/13 ---
 BAŞLIK: Galataport İstanbul Deniz Dolmuşlarında %50 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/galataport/galataport-deniz-dolmuslarda-yuzde-50-indirim
 KAYNAK: DETAY SAYFASI
@@ -317,6 +371,9 @@ SON TARİH: 31 Aralık 2026
 ARA
 Galataport İstanbul Deniz Dolmuşlarında
 %50 indirim
+Detaylı Bilgi
+sana artı bir dünya
+Kullanım Koşulları
 • Galataport İstanbul Deniz Dolmuşlarında Mastercard® sahiplerine %50 indirim kampanyası yalnızca Galataport İstanbul Deniz Dolmuşlarında geçerlidir.
 • Kampanyadan yararlanabilmek için ödemenin, Galataport İstanbul İskelesinde yer alan Deniz Dolmuş kioskundaki ödeme paneli üzerinden Mastercard logolu temassız ödeme özelliği bulunan kredi kartı, banka kartı veya ön ödemeli kartlar ile yapılması gerekmektedir.
 • Kampanya 31.12.2026 tarihine kadar geçerlidir.
@@ -336,7 +393,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 11/12 ---
+--- MASTERPASS KAMPANYA 12/13 ---
 BAŞLIK: ZUBİZU ile seçili restoranlarda %20 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/zubizu/zubizu-ile-secili-restoranlarda-yuzde-20-indirim
 KAYNAK: DETAY SAYFASI
@@ -373,7 +430,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 12/12 ---
+--- MASTERPASS KAMPANYA 13/13 ---
 BAŞLIK: Mastercard World Legend sahiplerine Uber ile yurtdışı seyahatlerde %20 İndirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/uber/uber-cashback
 KAYNAK: DETAY SAYFASI
@@ -405,7 +462,7 @@ priceless.com
 
 
 === MASTERPASS ÇEKİM ÖZETİ ===
-TOPLAM BENZERSİZ KAMPANYA: 12
-GÜNCEL VEYA TARİHİ BELİRSİZ: 12
+TOPLAM BENZERSİZ KAMPANYA: 13
+GÜNCEL VEYA TARİHİ BELİRSİZ: 13
 SÜRESİ DOLMUŞ: 0
 HATALI: 0

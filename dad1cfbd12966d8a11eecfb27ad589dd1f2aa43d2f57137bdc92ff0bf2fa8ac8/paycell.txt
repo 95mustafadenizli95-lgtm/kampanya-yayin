@@ -1,6 +1,6 @@
-=== PAYCELL GÜNCEL KAMPANYA HAVUZU (19/08/2026 04:22) ===
+=== PAYCELL GÜNCEL KAMPANYA HAVUZU (20/08/2026 04:25) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 36
-KONTROL TARİHİ: 19 Ağustos 2026
+KONTROL TARİHİ: 20 Ağustos 2026
 
 
 --- PAYCELL KAMPANYA 1/36 ---
@@ -91,7 +91,7 @@ Aynı gün yapılan harcamaların sadece ilki kampanyaya dahil edilecektir.
 Kampanya Faydası Nedir?
 250 TL ve üzeri Sticker Kart ile harcama yapılması durumunda 50 TL nakit iade kazanılacaktır. 5 işleme kadar ödül kazanılacak olup, bir kullanıcı kampanyadan en fazla 250 TL kazanabilir.
 Diğer Koşullar
-50 TL nakit iade, Stciker Kart’a işlem sonrası yüklenecektir.
+50 TL nakit iade, işlem sonrası yüklenecektir.
 Kampanya tek kullanımlık değildir, 250 TL ve üzeri yapılan 5 işlem sonrasında ve kampanya kazanımı 250 TL’ye ulaştığında kampanya kapsamındaki ödül kazanımı sona erecektir.
 Kampanya eksik ya da hatalı yüklemeleri kampanya bitiminden sonra yüklenecektir.
 Kampanya kazanımı müşteri bazındadır. Bir müşteri kampanyadan kart sayısından bağımsız yalnızca bir kez faydalanabilir.
@@ -775,18 +775,18 @@ Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değ
 --- PAYCELL KAMPANYA 24/36 ---
 BAŞLIK: Pasaj'da anında 150 TL nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/turkcell-pasajda-aninda-150-tl-nakit-iade
-SON TARİH: 31 Ağustos 2026
+SON TARİH: 30 Eylül 2026
 Pasaj'da anında 150 TL nakit iade!
 Paycell Kart ile Turkcell Pasaj’da yapacağın 750 TL ve üzeri harcamana 75 TL, 1.000 TL ve üzeri harcamana 150 TL anında nakit iade!
 Kampanya Geçerlilik Tarihi
 2 Haziran 2026
-31 Ağustos 2026
+30 Eylül 2026
 Kimler Katılabilir?
 Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
-Kampanya 02.06.2026 – 31.08.2026 tarihleri arasında geçerlidir.
+Kampanya 02.06.2026 – 30.09.2026 tarihleri arasında geçerlidir.
 Kampanyaya Dahil Harcamalar Nelerdir?
 Kampanya yalnızca sanal ya da fiziksel Paycell Kart’lar ile Turkcell Pasaj’da tek seferde 750 TL ve üzeri yapılacak harcamalarda geçerlidir.
 Kampanya Faydası Nedir?
