@@ -1,6 +1,6 @@
-=== PAYCELL GÜNCEL KAMPANYA HAVUZU (22/08/2026 04:27) ===
+=== PAYCELL GÜNCEL KAMPANYA HAVUZU (23/08/2026 04:26) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 43
-KONTROL TARİHİ: 22 Ağustos 2026
+KONTROL TARİHİ: 23 Ağustos 2026
 
 
 --- PAYCELL KAMPANYA 1/43 ---
@@ -41,6 +41,7 @@ Kampanya kazanımı müşteri bazındadır. Bir müşteri kampanyadan kart sayı
 Kampanya dahilinde iade ve iptal işlemleri dikkate alınacaktır.
 Bu kampanya, başka bir kampanya ile birleştirilemez. Bir harcama ile sadece tek bir kampanyadan ödül kazanımı gerçekleşebilir.
 Uygulama içinde; Ödemeler-Fatura Ödeme- Yeni Talimat ver menüsünden faturalarınız için Paycell Kart ile talimat verebilirsiniz.
+Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
@@ -1330,6 +1331,8 @@ Müşteriler kampanyadan kart tipinden bağımsız telefon numarası üzerinden 
 Kampanya dahilinde iade ve iptal işlemleri dikkate alınacaktır.
 Bu kampanya, başka bir kampanya ile birleştirilemez. Bir harcama ile sadece tek bir kampanyadan ödül kazanımı gerçekleşebilir.
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT / Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
+Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayca harcanabilir. 2 Haziran 2026 tarihinden itibaren nakit iade tutarları ATM'den çekilememekte ve başka hesap ya da kartlara aktarılamamaktadır.
+Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
