@@ -1,12 +1,12 @@
-=== ON GÜNCEL KAMPANYA HAVUZU (27/08/2026 04:31) ===
-TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 49
-BAŞARIYLA OKUNAN KAMPANYA: 49
+=== ON GÜNCEL KAMPANYA HAVUZU (29/08/2026 04:30) ===
+TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 51
+BAŞARIYLA OKUNAN KAMPANYA: 51
 HATALI KAMPANYA LİNKİ: 0
 ANA SAYFA: https://on.com.tr/kampanyalar
 NOT: Bu dosya ON'un güncel kampanyalar sayfasında listelenen kampanyaları içerir. Kart/ürün uygunluğu kampanya detay metninden ayrıca kontrol edilmelidir.
 
 
---- ON KAMPANYA 1/49 ---
+--- ON KAMPANYA 1/51 ---
 BAŞLIK: Starbucks® Kampanyası
 LINK: https://on.com.tr/kampanyalar/starbucks-kampanyasi
 KART / ÜRÜN SINIFI: Yeni ON müşterisi / edinim kampanyası
@@ -46,7 +46,7 @@ Kampanya kullanımına hak kazanan müşterilerin hediye kupon kodu kullanım s�
 Starbucks® ve ON Dijital kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 2/49 ---
+--- ON KAMPANYA 2/51 ---
 BAŞLIK: Migros Yemek Kampanyası
 LINK: https://on.com.tr/kampanyalar/migros-yemek-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı + yeni müşteri/edinim şartı
@@ -75,7 +75,7 @@ ON Dijital ve Migros Yemek, mevzuata ve kampanya koşullarına aykırı kullanı
 ON Dijital ve Migros Yemek, kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 3/49 ---
+--- ON KAMPANYA 3/51 ---
 BAŞLIK: Pluxee Kampanyası
 LINK: https://on.com.tr/kampanyalar/pluxee-kampanyasi-3414
 KART / ÜRÜN SINIFI: ON Kredi Kartı + yeni müşteri/edinim şartı
@@ -95,7 +95,7 @@ ON Dijital, mevzuata ve kampanya koşullarına aykırı kullanımlardan doğabil
 ON Dijital ve Pluxee kampanyayı dilediği zaman durdurma ve/veya kampanya koşullarını değiştirme yetkisine sahiptir.
 
 
---- ON KAMPANYA 4/49 ---
+--- ON KAMPANYA 4/51 ---
 BAŞLIK: Biletinial Kampanyası
 LINK: https://on.com.tr/kampanyalar/biletinial-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı + yeni müşteri/edinim şartı
@@ -116,7 +116,7 @@ ON Dijital, mevzuata ve kampanya koşullarına aykırı kullanımlardan doğabil
 ON Dijital ve Biletinial kampanya süresi içerisinde kampanyayı dilediği zaman durdurma ve/veya kampanya koşullarını değiştirme yetkisine sahiptir.
 
 
---- ON KAMPANYA 5/49 ---
+--- ON KAMPANYA 5/51 ---
 BAŞLIK: Apsiyon Kampanyası
 LINK: https://on.com.tr/kampanyalar/apsiyon-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı + yeni müşteri/edinim şartı
@@ -137,7 +137,57 @@ ON Dijital, mevzuata ve kampanya koşullarına aykırı kullanımlardan doğabil
 ON Dijital ve Apsiyon kampanya süresi içerisinde kampanyayı dilediği zaman durdurma ve/veya kampanya koşullarını değiştirme yetkisine sahiptir.
 
 
---- ON KAMPANYA 6/49 ---
+--- ON KAMPANYA 6/51 ---
+BAŞLIK: Yoyo %20 İndirim Kampanyası
+LINK: https://on.com.tr/kampanyalar/yoyo-20-indirim-kampanyasi
+KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
+DETAY:
+Kampanya Detayları
+Kampanya, 28 Ağustos 2026 12:00 – 31 Aralık 2026 23:59 tarihleri arasında geçerlidir.
+Kampanya kapsamında, YOYO mobil uygulaması üzerinden oluşturulacak İstanbul içi ve havalimanı yolculuklarında %20 indirim uygulanacaktır.
+Kampanyadan tüm ON Dijital müşterileri faydalanabilir.
+Kampanya süresi boyunca kampanyadan birden fazla kez yararlanabilir.
+Kampanya, İstanbul içi ve havalimanı yolculuklarında geçerlidir.
+Kampanya kodu, kampanya dönemi içerisindeki tüm uygun yolculuklarda kullanılabilir.
+Kampanya kodu ON Dijital uygulamasındaki Avantajlar Dünyası menüsünde yer alan ilgili kampanya sayfasından alınabilir.
+Kampanyadan yararlanabilmek için kampanya kodunun, yolculuk oluşturulmadan önce YOYO mobil uygulaması ana sayfasında yer alan “Kod Ekle” alanına girilmesi gerekmektedir.
+Yolculuğun, YOYO mobil uygulaması üzerinden anlık çağrı veya ileri tarihli rezervasyon olarak oluşturulması gerekmektedir.
+Kampanya kapsamında kazanılan haklar bölünemez, başkasına satılamaz ve devredilemez.
+Kampanya, başka bir promosyon, kampanya veya indirim koduyla birleştirilemez.
+Kampanya, ilgili tarih ve lokasyonda araç müsaitliği bulunması halinde geçerlidir.
+YOYO tarafından sunulan şoförlü araçla ulaşım hizmetinin ifası sırasında meydana gelebilecek hata, ayıp, gecikme, hizmet kalitesi ve YOYO kaynaklı operasyonel süreçlere ilişkin hususlardan ON Dijital sorumlu değildir.
+Kampanyanın kullanımından veya YOYO tarafından sunulan hizmetten kaynaklanan konularla ilgili olarak YOYO ile iletişime geçilmesi gerekmektedir.
+Kampanya kodunun kullanımı sırasında yaşanabilecek teknik veya lojistik sorun ve aksaklıklardan ON Dijital sorumlu değildir.
+ON Dijital, mevzuata ve kampanya koşullarına aykırı kullanımlardan doğabilecek zarar ve ziyanlara ilişkin her türlü hakkını saklı tutar.
+ON Dijital ve YOYO, kampanya süresi boyunca kampanyayı durdurma, sona erdirme, kampanyanın kapsamını ve koşullarını değiştirme hakkını saklı tutar.
+
+
+--- ON KAMPANYA 7/51 ---
+BAŞLIK: Yoyo %50 İndirim Kampanyası
+LINK: https://on.com.tr/kampanyalar/yoyo-50-indirim-kampanyasi
+KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
+DETAY:
+Kampanya Detayları
+Kampanya, 28 Ağustos 2026 12:00 – 31 Aralık 2026 23:59 tarihleri arasında geçerlidir.
+Kampanya kapsamında, YOYO mobil uygulaması üzerinden oluşturulacak İstanbul içi ve havalimanı ilk yolculuklarında %50 indirim uygulanacaktır.
+Kampanyadan tüm ON Dijital müşterileri faydalanabilir.
+Kampanya süresi boyunca bir müşteri kampanyadan 1 kez yararlanabilir. Kampanya kodu yalnızca tek bir yolculukta kullanılabilir.
+Kampanya kodu ON Dijital uygulamasındaki Avantajlar Dünyası menüsünde yer alan ilgili kampanya sayfasından alınabilir.
+Kampanyadan yararlanabilmek için kampanya kodunun, yolculuk oluşturulmadan önce YOYO mobil uygulaması ana sayfasında yer alan “Kod Ekle” alanına girilmesi gerekmektedir.
+Yolculuğun, YOYO mobil uygulaması üzerinden anlık çağrı veya ileri tarihli rezervasyon olarak oluşturulması gerekmektedir.
+YOYO, kadrolu profesyonel şoförleri ve premium SUV araçları ile şoförlü ulaşım hizmeti sunmaktadır.
+Kampanya yalnızca YOYO’nun hizmet verdiği İstanbul ili sınırları içerisinde geçerlidir.
+Kampanya kapsamında kazanılan haklar bölünemez, başkasına satılamaz ve devredilemez.
+Kampanya, başka bir promosyon, kampanya veya indirim koduyla birleştirilemez.
+Kampanya, ilgili tarih ve lokasyonda araç müsaitliği bulunması halinde geçerlidir.
+YOYO tarafından sunulan şoförlü araçla ulaşım hizmetinin ifası sırasında meydana gelebilecek hata, ayıp, gecikme, hizmet kalitesi ve YOYO kaynaklı operasyonel süreçlere ilişkin hususlardan ON Dijital sorumlu değildir.
+Kampanyanın kullanımından veya YOYO tarafından sunulan hizmetten kaynaklanan konularla ilgili olarak YOYO ile iletişime geçilmesi gerekmektedir.
+Kampanya kodunun kullanımı sırasında yaşanabilecek teknik veya lojistik sorun ve aksaklıklardan ON Dijital sorumlu değildir.
+ON Dijital, mevzuata ve kampanya koşullarına aykırı kullanımlardan doğabilecek zarar ve ziyanlara ilişkin her türlü hakkını saklı tutar.
+ON Dijital ve YOYO, kampanya süresi boyunca kampanyayı durdurma, sona erdirme, kampanyanın kapsamını ve koşullarını değiştirme hakkını saklı tutar.
+
+
+--- ON KAMPANYA 8/51 ---
 BAŞLIK: Nota Çiçek Kampanyası
 LINK: https://on.com.tr/kampanyalar/nota-cicek-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -159,7 +209,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 Nota Çiçek ve ON Dijital kampanya süresi boyunca kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 7/49 ---
+--- ON KAMPANYA 9/51 ---
 BAŞLIK: Bambu Çiçek Kampanyası
 LINK: https://on.com.tr/kampanyalar/bambu-cicek-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -181,7 +231,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 Bambu Çiçek ve ON Dijital kampanya süresi boyunca kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 8/49 ---
+--- ON KAMPANYA 10/51 ---
 BAŞLIK: TOD TV Kampanyası
 LINK: https://on.com.tr/kampanyalar/tod-tv-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -202,7 +252,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 ON Dijital ve Epintower.com kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 9/49 ---
+--- ON KAMPANYA 11/51 ---
 BAŞLIK: Europcar Kampanyası
 LINK: https://on.com.tr/kampanyalar/europcar-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -229,7 +279,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 Europcar ve ON Dijital kampanya süresi boyunca kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 10/49 ---
+--- ON KAMPANYA 12/51 ---
 BAŞLIK: ON'A DAVET KAMPANYASI
 LINK: https://on.com.tr/ona-davet-kampanyasi-3279
 KART / ÜRÜN SINIFI: ON Kredi Kartı + yeni müşteri/edinim şartı
@@ -256,7 +306,7 @@ Katılım koşullarını https://on.com.tr/kampanyalar internet sitesinden veya 
 Burgan Bank A.Ş. kampanyayı durdurma, değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 11/49 ---
+--- ON KAMPANYA 13/51 ---
 BAŞLIK: Obilet Kampanyası
 LINK: https://on.com.tr/kampanyalar/obilet-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -283,7 +333,7 @@ Obilet ve ON Dijital, mevzuata ve kampanya koşullarına aykırı kullanımlarda
 Obilet Bilişim Sistemleri A.Ş. ve ON Dijital, kampanya kapsamı, süresi ve koşullarında tek taraflı değişiklik yapma veya kampanyayı bitirme yahut dondurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 12/49 ---
+--- ON KAMPANYA 14/51 ---
 BAŞLIK: n11 kampanyası
 LINK: https://on.com.tr/kampanyalar/n11-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -316,7 +366,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 ON ve N11, kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 13/49 ---
+--- ON KAMPANYA 15/51 ---
 BAŞLIK: King Kampanyası
 LINK: https://on.com.tr/king-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -341,7 +391,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 King ve ON Dijital kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 14/49 ---
+--- ON KAMPANYA 16/51 ---
 BAŞLIK: Otomatik Fatura Talimatı Kampanyası
 LINK: https://on.com.tr/kampanyalar/otomatik-fatura-talimati-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -361,7 +411,7 @@ Kampanyadan sadece ON Dijital'in belirlediği kitle faydalanabilecektir.
 ON Dijital, kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 15/49 ---
+--- ON KAMPANYA 17/51 ---
 BAŞLIK: Dijital Üyeliklerde %50 İade ON’da!
 LINK: https://on.com.tr/dijital-uyeliklerde-50-iade-onda
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -382,31 +432,62 @@ Bir müşteri kampanya döneminde farklı firmalar üzerinden yapacağı ayrı i
 Banka kampanyayı durdurma, kampanya ödüllerini değiştirme hakkını saklı tutar. Banka ödemesini aldığı Dijital Platform firmalarına yenisini ekleyebileceği gibi mevcut firmaları kampanya kapsamından çıkartabilir.
 
 
---- ON KAMPANYA 16/49 ---
+--- ON KAMPANYA 18/51 ---
 BAŞLIK: ON Kredi Kartı ve Banka Kartı Pamukkale Seyahat İndirim Kampanyası
 LINK: https://on.com.tr/kampanyalar/on-kredi-karti-pamukkale-seyahat-indirim-kampanyasi
-KART / ÜRÜN SINIFI: ON Kredi Kartı + yeni müşteri/edinim şartı
+KART / ÜRÜN SINIFI: ON Kredi Kartı
 DETAY:
 ON Kredi Kartı ve Banka Kartı Pamukkale Seyahat İndirim Kampanyası
-Pamukkale Turizm üzerinden otobüs bileti alımlarında geçerli 400 TL'ye varan indirim!
-Detaylı Bilgi
-Starbucks® Kampanyası
-Yeni ON’lulara özel 5 hediye kahve (75⭐) almak için Hemen Başvur butonundan ON’lu ol!
-Detaylı Bilgi
-Vatan Kampanyası
-Vatan mağazalarından yapacağın alışverişe özel Alışveriş Kredisi ON'da!
-Detaylı Bilgi
+ON Kredi Kartı Otomatik Fatura Ödeme Kampanyası
+ON PLUS
+Bellona Kampanyası
+Troy Club Üyelerine Özel Kampanya
+ON Banka Kartı Akaryakıt Kampanyası
+ON Banka Kartı Market Kampanyası
+Kasko Akaryakıt Kampanyası
+ON Kredi Kartı Akaryakıt Kampanyası
 ON Kredi Kartı İstanbulkart Kampanyası
-Tek seferde yapacağın 500 TL ve üzeri İstanbulkart yüklemene 100 TL iade fırsatını kaçırma!
-Detaylı Bilgi
-Önceki
-Sonraki
-ON Dijital
-0850 222 29 10
-Ürün ve Hizmet Ücretleri
+ON Kredi Kartı İzmir Ulaşım Kampanyası
+ON Kredi Kartı Ankara Ulaşım Kampanyası
+ON Kredi Kartı Elektrikli Araç Şarj Kampanyası
+Trafik Sigortası Akaryakıt Kampanyası
+ON Kredi Kartı Market Kampanyası
+%0 Komisyon Kampanyası
+Vatan Cep Telefonu Kampanyası
+Xiaomi Kampanyası
+Vatan Kampanyası
+İtopya Bilgisayar Kampanyası
+Mieko Kampanyası
+Özturanlar Mobilya Kampanyası
+Gündoğdu Mobilya Kampanyası
+Pamukkale Turizm üzerinden otobüs bileti alımlarında geçerli 400 TL'ye varan indirim!
+10.08.2026 – 31.12.2026 tarihleri arasında Masterpass’e kayıtlı olan tüm Mastercard sahipleri, https://masterpassplus.com web sitesinden kupon kodu alarak Pamukkale Turizm web sayfası ve mobil uygulaması üzerinden otobüs bileti alımlarında geçerli 400 TL’ye varan indirimden yararlanabilir.
+Kampanyadan yararlanmak için Masterpass web sitesi üzerinden ilgili kampanya sayfasından kupon kodu alınması gerekmektedir.
+Masterpass üyesi olmayanlar, www.masterpassplus.com web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından kupon kodlarını alabilir.
+Kampanyadan yararlanmak için Masterpass’e kayıtlı Mastercard logolu banka kartı, ön ödemeli kart veya kredi kartı ile işlem yapılması gerekmektedir.
+Masterpass’e kayıtlı kartı olmayanlar, kampanya tarihleri içerisinde ilgili günde sepet oluşturularak, ödeme özet sayfasına gelindiğinde “Kartımı Masterpass güvenli altyapısına kaydetmek istiyorum.” seçeneği işaretlenerek Masterpass’e kaydolduktan sonra https://www.masterpassplus/pamukkale linkinden indirim kodu alınarak kampanyadan yararlanılabilir.
+Kampanya Pamukkale Turizm web sayfası ve mobil uygulaması üzerinden yalnızca Masterpass’e kayıtlı Mastercard ile satın alınan biletlerde geçerlidir.
+Kampanya kapsamında aynı sepet içerisinde satın alınan her bir bilet için 50 TL indirim uygulanır.
+İndirim en fazla 8 bilet için geçerlidir. Bir işlemde uygulanabilecek toplam indirim tutarı en fazla 400 TL’dir.
+İndirim tutarlar, aynı sepet içerisinde satın alınan bilet sayısına göre aşağıdaki şekilde uygulanır:
+1 bilet için toplam 50 TL,
+2 bilet için toplam 100 TL,
+3 bilet için toplam 150 TL,
+4 bilet için toplam 200 TL,
+5 bilet için toplam 250 TL,
+6 bilet için toplam 300 TL,
+7 bilet için toplam 350 TL,
+8 bilet için toplam 400 TL indirim uygulanır.
+Kampanya kodu alan kullanıcılar, satın alma aşamasında “İndirim/Kampanya Kodu” bölümüne aldıkları kodu girerek kampanyadan yararlanabilir. Uygun şartlar sağlandığında toplam tutardan her bilet için 50 TL otomatik olarak düşecektir.
+Kampanya dahilinde her kullanıcı, 400 TL’ye varan indirimden yalnızca bir defaya mahsus olarak yaralanabilecektir. Tekrar eden veya ikinci defa yapılan işlemlerde kampanya indirimi geçerli olmayacaktır.
+Kampanyaya katılan kullanıcılar, tüm Pamukkale Turizm seferlerinde satın alma sırasında geçerli indirim kodunu kullanarak anında 400 TL’ye varan indirimden yararlanabilir.
+Kampanya ilk 5.000 bilet ile sınırlıdır. Bu bilet adedine ulaşıldığında herhangi bir ön bildirimde bulunmaksızın kampanya sona erecektir.
+Kampanyaya katılan herkes kampanya şart ve koşullarını kabul etmiş sayılır.
+Pamukkale Turizm ve Mastercard kampanya tarihleri ve koşullarında değişiklik yapma hakkını saklı tutar.
+Kampanya ile ilgili soru ve geri bildirimler için masterpassturkiye@mplusgroup.com.tr adresine ulaşılabilir. Dönüşler en geç 14 iş günü içerisinde sağlanacaktır.
 
 
---- ON KAMPANYA 17/49 ---
+--- ON KAMPANYA 19/51 ---
 BAŞLIK: Havale/EFT/FAST Kampanyası
 LINK: https://on.com.tr/kampanyalar/onda-masrafsiz-havale-eft-fast-kampanyasi
 KART / ÜRÜN SINIFI: Yeni ON müşterisi / edinim kampanyası
@@ -426,7 +507,7 @@ Alıcının Kolay Adres bilgisine (cep telefonu numarası, e-posta adresi, T.C. 
 EFT/havale işlemlerin için dilersen tek seferlik veya düzenli transfer talimatı oluşturabilirsin. Diğer bankalardaki hesaplara yapacağın EFT işlemlerinizi saat 17:00’a kadar gerçekleştirebilirsin.
 
 
---- ON KAMPANYA 18/49 ---
+--- ON KAMPANYA 20/51 ---
 BAŞLIK: ON FX ile İşlemler Artık 7/24
 LINK: https://on.com.tr/on-fx-ile-islemler-artik-724
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -448,7 +529,7 @@ Teknik grafik ile fiyat geçmişi
 Altın, Gümüş, Platin, Paladyum, Amerikan Doları, Euro, İngiliz Sterlini, Avustralya Doları, Kanada Doları, İsviçre Frangı, Japon Yeni, İsveç Kronu, Norveç Kronu, Danimarka Kronu
 
 
---- ON KAMPANYA 19/49 ---
+--- ON KAMPANYA 21/51 ---
 BAŞLIK: ON Kredi Kartı Otomatik Fatura Ödeme Kampanyası
 LINK: https://on.com.tr/on-kredi-karti-otomatik-fatura-odeme-kampanyasi-2921
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -467,7 +548,7 @@ Turknet ve Millenicom kurumları için verilen fatura talimatları kampanya kaps
 ON Dijital, kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 20/49 ---
+--- ON KAMPANYA 22/51 ---
 BAŞLIK: ON PLUS
 LINK: https://on.com.tr/on-plus-mevduat-faizi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -493,9 +574,9 @@ Vatan Kampanyası
 Mieko Kampanyası
 Özturanlar Mobilya Kampanyası
 Gündoğdu Mobilya Kampanyası
-%45'e Varan Faiz Oranı ON Plus'ta!
-ON’lular ON Plus ile ekstra faiz avantajından yararlanıyor! Sen de hemen programa katıl, aylık harcama hedefine ulaşarak ON Plus ile %45'e varan faiz oranlarından yararlan!
-%45'e Varan Faiz Oranı ON Plus'ta!
+%44'e Varan Faiz Oranı ON Plus'ta!
+ON’lular ON Plus ile ekstra faiz avantajından yararlanıyor! Sen de hemen programa katıl, aylık harcama hedefine ulaşarak ON Plus ile %44'e varan faiz oranlarından yararlan!
+%44'e Varan Faiz Oranı ON Plus'ta!
 ON Hesabına ekstra faiz ON Plus’ta! Mevduatına ek faiz oranından yararlanmak için tek yapman gereken harcama hedefine ulaşmak. Üstelik ON Hesap bakiyene ilk aya özel harcama hedefin ON’dan! İlk ay harcama yapmana gerek olmadan ON Plus avantajlarından yararlanmaya başlayabileceksin.
 Katılımcılar, program kapsamında yer alan indirim avantajlı kredilerin kullanılması ve harcama hedeflerini tamamlamaları durumunda, tanımlanan indirim oranından kredi vadelerinin ödeme gününde hesaplarına nakit iade alarak yararlanabilecektir.
 İlk katılımı takip eden ay ve sonrasında ise vadesiz hesabından yapacağın fatura ödemeleri ya da banka kartın ile yapacağın harcama tutarın toplamda 7.500 TL’ye ulaştığında bir sonraki ay ON Plus avantajlarından yararlanmaya devam edebileceksin.
@@ -514,23 +595,23 @@ Katılım koşullarını www.on.com.tr internet sitesinden takip etmek kullanıc
 ON bir Burgan Bank A.Ş. markası olup, Burgan Bank A.Ş. ON Plus programı özelliklerini sonlandırma ya da program koşullarında değişiklik yapma hakkını saklı tutar.
 ON Plus Faiz Oranları
 TL Bakiye Vadesiz Bakiye Faiz Oranı ON Plus Faizi ile
-10.500 - 49.999 TL 10.000 TL 40,00% 45,00%
-50.000 - 99.999 TL 12.500 TL 40,00% 45,00%
-100.000 - 249.999 TL 25.000 TL 40,00% 45,00%
-250.000 - 499.999 TL 50.000 TL 40,00% 45,00%
-500.000 - 749.999 TL 90.000 TL 40,00% 45,00%
-750.000 - 999.999 TL 140.000 TL 40,00% 45,00%
-1.000.000 - 1.249.999 TL 165.000 TL 40,00% 45,00%
-1.250.000 - 1.499.999 TL 175.000 TL 40,00% 45,00%
-1.500.000 - 1.749.999 TL 200.000 TL 40,00% 45,00%
-1.750.000 - 1.999.999 TL 250.000 TL 40,00% 45,00%
-2.000.000 - 2.499.999 TL 325.000 TL 40,00% 45,00%
-2.500.000 - 2.999.999 TL 350.000 TL 40,00% 45,00%
-3.000.000 - 3.999.999 TL 400.000 TL 40,00% 45,00%
-4.000.000 - 5.000.000 TL 500.000 TL 40,00% 45,00%
+10.500 - 49.999 TL 10.000 TL 39,00% 44,00%
+50.000 - 99.999 TL 12.500 TL 39,00% 44,00%
+100.000 - 249.999 TL 25.000 TL 39,00% 44,00%
+250.000 - 499.999 TL 50.000 TL 39,00% 44,00%
+500.000 - 749.999 TL 90.000 TL 39,00% 44,00%
+750.000 - 999.999 TL 140.000 TL 39,00% 44,00%
+1.000.000 - 1.249.999 TL 165.000 TL 39,00% 44,00%
+1.250.000 - 1.499.999 TL 175.000 TL 39,00% 44,00%
+1.500.000 - 1.749.999 TL 200.000 TL 39,00% 44,00%
+1.750.000 - 1.999.999 TL 250.000 TL 39,00% 44,00%
+2.000.000 - 2.499.999 TL 325.000 TL 39,00% 44,00%
+2.500.000 - 2.999.999 TL 350.000 TL 39,00% 44,00%
+3.000.000 - 3.999.999 TL 400.000 TL 39,00% 44,00%
+4.000.000 - 5.000.000 TL 500.000 TL 39,00% 44,00%
 
 
---- ON KAMPANYA 21/49 ---
+--- ON KAMPANYA 23/51 ---
 BAŞLIK: Troy Club Üyelerine Özel Kampanya
 LINK: https://on.com.tr/troy-clup-uyelerine-ozel-kampanya
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -550,7 +631,7 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 100.000 TL 3 0% 33.333,33 TL 100.000 TL 0% 0%
 
 
---- ON KAMPANYA 22/49 ---
+--- ON KAMPANYA 24/51 ---
 BAŞLIK: %0 Komisyon Kampanyası
 LINK: https://on.com.tr/kampanyalar/0-komisyon-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -577,7 +658,7 @@ Hemen hesap açıp, yıl boyunca faydalanın.
 Hemen ON Dijital İndir
 
 
---- ON KAMPANYA 23/49 ---
+--- ON KAMPANYA 25/51 ---
 BAŞLIK: ON Kredi Kartı Market Kampanyası
 LINK: https://on.com.tr/kampanyalar/on-kredi-karti-market-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -597,7 +678,7 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 24/49 ---
+--- ON KAMPANYA 26/51 ---
 BAŞLIK: Trafik Sigortası Akaryakıt Kampanyası
 LINK: https://on.com.tr/kampanyalar/trafik-sigortasi-akaryakit-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -624,7 +705,7 @@ Akaryakıt kod kullanımı ile ilgili oluşabilecek teknik aksaklıklardan Banka
 Burgan Bank personeli kampanyaya dahil değildir.
 
 
---- ON KAMPANYA 25/49 ---
+--- ON KAMPANYA 27/51 ---
 BAŞLIK: DASK ile 250 TL Hediye Çeki
 LINK: https://on.com.tr/dask-ile-250-tl-hediye-ceki
 KART / ÜRÜN SINIFI: Yeni ON müşterisi / edinim kampanyası
@@ -656,7 +737,7 @@ Burgan Bank A.Ş'nin kampanyayı değiştirme ve durdurma hakkı saklıdır.
 Hediye kodun firmada kullanımı ile ilgili oluşabilecek teknik aksaklıklardan Banka sorumlu olmayacaktır.
 
 
---- ON KAMPANYA 26/49 ---
+--- ON KAMPANYA 28/51 ---
 BAŞLIK: ON Kredi Kartı Elektrikli Araç Şarj Kampanyası
 LINK: https://on.com.tr/on-kredi-karti-elektrikli-arac-sarj-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -676,7 +757,7 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 27/49 ---
+--- ON KAMPANYA 29/51 ---
 BAŞLIK: ON Kredi Kartı Ankara Ulaşım Kampanyası
 LINK: https://on.com.tr/on-kredi-karti-ankara-ulasim-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -697,7 +778,7 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 28/49 ---
+--- ON KAMPANYA 30/51 ---
 BAŞLIK: ON Kredi Kartı İzmir Ulaşım Kampanyası
 LINK: https://on.com.tr/on-kredi-karti-izmir-ulasim-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -718,7 +799,7 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 29/49 ---
+--- ON KAMPANYA 31/51 ---
 BAŞLIK: ON Kredi Kartı İstanbulkart Kampanyası
 LINK: https://on.com.tr/on-kredi-karti-istanbulkart-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -739,7 +820,7 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 30/49 ---
+--- ON KAMPANYA 32/51 ---
 BAŞLIK: ON Kredi Kartı Sinema ve Tiyatro Kampanyası
 LINK: https://on.com.tr/on-kredi-karti-sinema-ve-tiyatro-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -760,7 +841,7 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 31/49 ---
+--- ON KAMPANYA 33/51 ---
 BAŞLIK: ON Kredi Kartı Akaryakıt Kampanyası
 LINK: https://on.com.tr/on-kredi-karti-akaryakit-kampanyasi-3260
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -780,7 +861,7 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 32/49 ---
+--- ON KAMPANYA 34/51 ---
 BAŞLIK: Kasko Akaryakıt Kampanyası
 LINK: https://on.com.tr/kasko-akaryakit-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -807,7 +888,7 @@ Akaryakıt kod kullanımı ile ilgili oluşabilecek teknik aksaklıklardan Banka
 Burgan Bank personeli kampanyaya dahil değildir.
 
 
---- ON KAMPANYA 33/49 ---
+--- ON KAMPANYA 35/51 ---
 BAŞLIK: ON Banka Kartı Market Kampanyası
 LINK: https://on.com.tr/on-banka-karti-market-kampanyasi
 KART / ÜRÜN SINIFI: ON Banka Kartı
@@ -825,7 +906,7 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital, kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 34/49 ---
+--- ON KAMPANYA 36/51 ---
 BAŞLIK: ON Banka Kartı Akaryakıt Kampanyası
 LINK: https://on.com.tr/on-banka-karti-akaryakit-kampanyasi
 KART / ÜRÜN SINIFI: ON Banka Kartı
@@ -843,7 +924,7 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital, kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 35/49 ---
+--- ON KAMPANYA 37/51 ---
 BAŞLIK: Bellona Kampanyası
 LINK: https://on.com.tr/bellona-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -862,7 +943,7 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maaliyet Oranı
 100.000 TL 9 0% 11.111,11 TL 100.000 TL 0% 0%
 
 
---- ON KAMPANYA 36/49 ---
+--- ON KAMPANYA 38/51 ---
 BAŞLIK: Kiralarsin.com Kampanyası
 LINK: https://on.com.tr/kiralarsincom-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -883,7 +964,7 @@ www.kiralarsın.com üzerinden yapılacak alışverişe konu ürünlerde herhang
 Kiralarsın ve ON Dijital kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 37/49 ---
+--- ON KAMPANYA 39/51 ---
 BAŞLIK: TheLifeCo Kampanyası
 LINK: https://on.com.tr/thelifeco-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -908,7 +989,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 TheLifeCo ve ON Dijital kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 38/49 ---
+--- ON KAMPANYA 40/51 ---
 BAŞLIK: Wise&Rise Kampanyası
 LINK: https://on.com.tr/wise-rise-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -934,7 +1015,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 Wise&Rise ve ON Dijital kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 39/49 ---
+--- ON KAMPANYA 41/51 ---
 BAŞLIK: Otopark Kampanyası
 LINK: https://on.com.tr/otopark-kampanyasi-2975
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -954,7 +1035,7 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 40/49 ---
+--- ON KAMPANYA 42/51 ---
 BAŞLIK: Vatan Cep Telefonu Kampanyası
 LINK: https://on.com.tr/vatan-cep-telefonu-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -974,7 +1055,7 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 40.000 3 0,00% 13.333,33 40.000 0,00% 0,00%
 
 
---- ON KAMPANYA 41/49 ---
+--- ON KAMPANYA 43/51 ---
 BAŞLIK: Taze Çiçek Kampanyası
 LINK: https://on.com.tr/taze-cicek-kampanyasi-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -999,7 +1080,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 Taze Çiçek ve ON Dijital kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 42/49 ---
+--- ON KAMPANYA 44/51 ---
 BAŞLIK: Xiaomi Kampanyası
 LINK: https://on.com.tr/kampanyalar/xiaomi-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -1018,7 +1099,7 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 0% 0%
 
 
---- ON KAMPANYA 43/49 ---
+--- ON KAMPANYA 45/51 ---
 BAŞLIK: MİGROS ALIŞVERİŞ KREDİSİ
 LINK: https://on.com.tr/kampanyalar/migros-cep-telefonu-alisveris-kredisi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -1035,7 +1116,7 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 20.000 TL 6 0.99% 3.485,08 TL 20.910,53 TL 16,5862% 1,2871%
 
 
---- ON KAMPANYA 44/49 ---
+--- ON KAMPANYA 46/51 ---
 BAŞLIK: Gündoğdu Mobilya Kampanyası
 LINK: https://on.com.tr/kampanyalar/gundogdu-mobilya-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -1055,7 +1136,7 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 0% 0%
 
 
---- ON KAMPANYA 45/49 ---
+--- ON KAMPANYA 47/51 ---
 BAŞLIK: Özturanlar Mobilya Kampanyası
 LINK: https://on.com.tr/kampanyalar/ozturanlar-mobilya-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -1073,7 +1154,7 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 0% 0%
 
 
---- ON KAMPANYA 46/49 ---
+--- ON KAMPANYA 48/51 ---
 BAŞLIK: Mieko Kampanyası
 LINK: https://on.com.tr/mieko-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -1092,7 +1173,7 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 78,0931% 4,9270%
 
 
---- ON KAMPANYA 47/49 ---
+--- ON KAMPANYA 49/51 ---
 BAŞLIK: İtopya Bilgisayar Kampanyası
 LINK: https://on.com.tr/itopya-bilgisayar-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -1111,7 +1192,7 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maaliyet Oranı
 15.000 3 ay 3,79% 5.500,60 TL 16.501,80 TL %78,0931 %4,9270
 
 
---- ON KAMPANYA 48/49 ---
+--- ON KAMPANYA 50/51 ---
 BAŞLIK: TROY Kampanyası
 LINK: https://on.com.tr/troy-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -1130,7 +1211,7 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 20.000 3 ay 3,79% 7.334,13 TL 22.002,39 TL 78,0931% 4,9270%
 
 
---- ON KAMPANYA 49/49 ---
+--- ON KAMPANYA 51/51 ---
 BAŞLIK: Vatan Kampanyası
 LINK: https://on.com.tr/vatan-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
