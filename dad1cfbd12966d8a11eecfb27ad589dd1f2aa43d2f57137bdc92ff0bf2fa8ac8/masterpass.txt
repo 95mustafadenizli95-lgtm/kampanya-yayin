@@ -1,9 +1,9 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (01/09/2026 04:22) ===
-TOPLANAN BENZERSİZ KAMPANYA: 11
-KONTROL TARİHİ: 1 Eylül 2026
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (02/09/2026 04:18) ===
+TOPLANAN BENZERSİZ KAMPANYA: 15
+KONTROL TARİHİ: 2 Eylül 2026
 
 
---- MASTERPASS KAMPANYA 1/11 ---
+--- MASTERPASS KAMPANYA 1/15 ---
 BAŞLIK: Kayıt için Telefon Numaranızı Girin
 LINK: https://www.masterpassturkiye.com/login/register?returnUrl=%2Fportal%2Fmasterpassplus
 KAYNAK: DETAY SAYFASI
@@ -20,7 +20,42 @@ Kullanım koşulları
 Kişisel Verilerin Korunması
 
 
---- MASTERPASS KAMPANYA 2/11 ---
+--- MASTERPASS KAMPANYA 2/15 ---
+BAŞLIK: Huawei Watch Kids X1 satın alımlarında 1000 TL indirim
+LINK: https://www.masterpassturkiye.com/masterpassplus/huawei/huawei-watch-kids-x1-satin-alimlarinda-1000-tl-indirim
+KAYNAK: DETAY SAYFASI
+SON TARİH: 30 Eylül 2026
+30
+EYL
+Huawei Watch Kids X1 satın alımlarında
+1000 TL indirim
+Kupon Al
+sana artı bir dünya
+Kullanım Koşulları
+• 01.09.2026- 30.09.2026 tarihleri arasında Mastercard’lara özel, kampanya kapsamında, Huawei Online Mağaza üzerinden Huawei Watch Kids X1 satın alımlarında 1.000 TL indirimden yararlanabilir.
+• Kampanyadan yararlanmak için https://www.masterpassturkiye.com/ web sitesi üzerinden ilgili kampanya sayfasından kupon alınması ve Huawei Online Mağaza üzerinden Huawei Watch Kids X1 satın alırken ilgili alana girilmesi gerekmektedir.
+• Masterpass üyesi olmayanlar, Masterpass web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından kupon alabilir.
+• Kampanya kapsamında Huawei Watch Kids X1 satın alan kullanıcılara ayrıca 2.299 TL değerinde Huawei Akıllı Tartı ve 1 yıl ek garanti hediye edilmektedir.
+• 1.000 TL indirim yalnızca Huawei Watch Kids X1 ürünü için ve Huawei Online Mağaza üzerinden gerçekleştirilen alışverişlerde geçerlidir.
+• İndirimli tutar ödeme aşamasında sipariş tutarına yansıtılır.
+• Kampanya kapsamında sunulan indirim ve hediyelerin nakit karşılığı talep edilemez.
+• Her kullanıcı kampanya süresi boyunca yalnızca 1 kez kupon alabilir.
+• Alınan kuponun kampanya süresi içerisinde kullanılması gerekmektedir.
+• Kampanya kapsamında sunulan 1.000 TL indirim kuponu başka bir kupon koduyla birleştirilemez.
+• Kampanya, Huawei Online Mağaza’da geçerli diğer kampanya, indirim veya avantajlarla Huawei tarafından aksi belirtilmediği sürece birleştirilemez.
+• Kampanya ve kampanya kapsamında sunulan hediyeler stoklarla sınırlıdır. Stokların veya kampanya kotasının tükenmesi halinde kampanya belirtilen bitiş tarihinden önce sona erebilir.
+• Huawei ve Mastercard, kampanya koşullarında değişiklik yapma hakkını saklı tutar.
+• Kampanya ile ilgili soru ve geri bildirimler için masterpassturkiye@mplusgroup.com.tr adresine ulaşılabilir. Dönüşler en geç 14 iş günü içerisinde sağlanacaktır.
+Seyahat
+Alışveriş
+Yeme-İçme
+Ulaşım
+Kültür-Sanat
+World Legend
+priceless.com
+
+
+--- MASTERPASS KAMPANYA 3/15 ---
 BAŞLIK: Yurt dışı otel harcamalarında %10 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/yurdisiotel/yurt-disi-otel-harcamalarinda-yuzde-10-indirim
 KAYNAK: DETAY SAYFASI
@@ -56,7 +91,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 3/11 ---
+--- MASTERPASS KAMPANYA 4/15 ---
 BAŞLIK: Yurt dışı restoran harcamalarında %15 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/yurtdisirestoran/yurt-disi-restoranlarda-yuzde-15-indirim
 KAYNAK: DETAY SAYFASI
@@ -93,7 +128,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 4/11 ---
+--- MASTERPASS KAMPANYA 5/15 ---
 BAŞLIK: Mastercard sahiplerine Progo ile havalimanı transferi 1500 TL
 LINK: https://www.masterpassturkiye.com/masterpassplus/progo/progo-1500tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -131,7 +166,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 5/11 ---
+--- MASTERPASS KAMPANYA 6/15 ---
 BAŞLIK: Atelier Rebul’de 1000 TL İndirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/atelier/atelier-rebulde-1000-tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -163,7 +198,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 6/11 ---
+--- MASTERPASS KAMPANYA 7/15 ---
 BAŞLIK: Yurt dışı duty free harcamalarında %15 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/yurtdisidutyfree/yurt-disi-duty-free-yuzde-15-indirim
 KAYNAK: DETAY SAYFASI
@@ -200,7 +235,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 7/11 ---
+--- MASTERPASS KAMPANYA 8/15 ---
 BAŞLIK: Boyner'de 5000TL üzeri alışverişlerde 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/boyner/boynerde-1000tl-indirim-kuponu
 KAYNAK: DETAY SAYFASI
@@ -242,7 +277,38 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 8/11 ---
+--- MASTERPASS KAMPANYA 9/15 ---
+BAŞLIK: Martı Süper Üye Paketi alımlarında 200 TL indirim
+LINK: https://www.masterpassturkiye.com/masterpassplus/marti/marti-super-uye-paketi-alimlarinda-200-tl-indirim
+KAYNAK: DETAY SAYFASI
+SON TARİH: 30 Eylül 2026
+30
+EYL
+Martı Süper Üye Paketi alımlarında
+200 TL indirim
+Kupon Al
+sana artı bir dünya
+Kullanım Koşulları
+• 01.09.2026 – 30.09.2026 tarihleri arasında Masterpass’e kayıtlı Mastercard sahipleri, kampanya kapsamında Martı mobil uygulamasında geçerli Martı Süper Üye Paketi satın alımlarında 200 TL indirim kazanacaktır.
+• Kampanyadan yararlanmak için Masterpass https://www.masterpassturkiye.com/ web sitesi üzerinden ilgili kampanya sayfasından kupon alınması ve Martı mobil uygulamasında “Kampanyalar” sayfasında yer alan "Kupon kodu ekle" alanına yazılması gerekmektedir.
+• Masterpass üyesi olmayanlar, Masterpass web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından kupon alabilir.
+• Martı mobil uygulamasını indirmek için linke tıklayabilirsin.
+• Kampanya Masterpass’e kayıtlı Mastercard kredi kartlarında, banka kartlarında ve ön ödemeli kartlarda geçerlidir.
+• Masterpass'e kayıtlı Mastercard logolu banka kartı, kredi kartı veya ön ödemeli kartlar dışında bir ödeme aracıyla satın alma işlemi yapmak isteyen kullanıcılar indirimden yararlanamaz.
+• Her kullanıcı kampanyadan yalnızca 1 kez yararlanabilir.
+• Kampanya 10.000 kod ile sınırlıdır. Kota dolduğunda kampanya belirtilen bitiş tarihinden önce otomatik olarak sona erebilir.
+• Martı İleri Teknoloji A.Ş. ve Mastercard, kampanya koşullarında değişiklik yapma hakkını saklı tutar.
+• Kampanya ile ilgili soru ve geri bildirimler için masterpassturkiye@mplusgroup.com.tr adresine ulaşılabilir. Dönüşler en geç 14 iş günü içerisinde sağlanacaktır.
+Seyahat
+Alışveriş
+Yeme-İçme
+Ulaşım
+Kültür-Sanat
+World Legend
+priceless.com
+
+
+--- MASTERPASS KAMPANYA 10/15 ---
 BAŞLIK: Pamukkale Turizm üzerinden otobüs bileti alımlarında geçerli 400 TL'ye varan indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/pamukkale/pamukkale-turizmde-400-tlye-varan-indirim
 KAYNAK: DETAY SAYFASI
@@ -287,7 +353,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 9/11 ---
+--- MASTERPASS KAMPANYA 13/15 ---
 BAŞLIK: Galataport İstanbul Deniz Dolmuşlarında %50 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/galataport/galataport-deniz-dolmuslarda-yuzde-50-indirim
 KAYNAK: DETAY SAYFASI
@@ -318,7 +384,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 10/11 ---
+--- MASTERPASS KAMPANYA 14/15 ---
 BAŞLIK: ZUBİZU ile seçili restoranlarda %20 indirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/zubizu/zubizu-ile-secili-restoranlarda-yuzde-20-indirim
 KAYNAK: DETAY SAYFASI
@@ -355,7 +421,7 @@ World Legend
 priceless.com
 
 
---- MASTERPASS KAMPANYA 11/11 ---
+--- MASTERPASS KAMPANYA 15/15 ---
 BAŞLIK: Mastercard World Legend sahiplerine Uber ile yurtdışı seyahatlerde %20 İndirim
 LINK: https://www.masterpassturkiye.com/masterpassplus/uber/uber-cashback
 KAYNAK: DETAY SAYFASI
@@ -387,7 +453,7 @@ priceless.com
 
 
 === MASTERPASS ÇEKİM ÖZETİ ===
-TOPLAM BENZERSİZ KAMPANYA: 11
-GÜNCEL VEYA TARİHİ BELİRSİZ: 11
-SÜRESİ DOLMUŞ: 0
+TOPLAM BENZERSİZ KAMPANYA: 15
+GÜNCEL VEYA TARİHİ BELİRSİZ: 13
+SÜRESİ DOLMUŞ: 2
 HATALI: 0

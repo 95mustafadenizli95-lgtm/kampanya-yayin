@@ -1,25 +1,25 @@
-=== ON GÜNCEL KAMPANYA HAVUZU (01/09/2026 04:50) ===
-TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 51
-BAŞARIYLA OKUNAN KAMPANYA: 51
+=== ON GÜNCEL KAMPANYA HAVUZU (02/09/2026 04:49) ===
+TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 52
+BAŞARIYLA OKUNAN KAMPANYA: 52
 HATALI KAMPANYA LİNKİ: 0
 ANA SAYFA: https://on.com.tr/kampanyalar
 NOT: Bu dosya ON'un güncel kampanyalar sayfasında listelenen kampanyaları içerir. Kart/ürün uygunluğu kampanya detay metninden ayrıca kontrol edilmelidir.
 
 
---- ON KAMPANYA 1/51 ---
+--- ON KAMPANYA 1/52 ---
 BAŞLIK: Starbucks® Kampanyası
 LINK: https://on.com.tr/kampanyalar/starbucks-kampanyasi
 KART / ÜRÜN SINIFI: Yeni ON müşterisi / edinim kampanyası
 DETAY:
 Kampanya Detayları
-Kampanya 1 Ağustos 2026 12:00 – 31 Ağustos 2026 23:59 tarihleri arasında geçerlidir.
+Kampanya 1 Eylül 2026 12:00 – 24 Eylül 2026 23:59 tarihleri arasında geçerlidir.
 Kampanyadan, Starbucks® Mobil uygulamasında ilgili kampanya sayfasında bulunan “Hemen ON’lu Ol” alanından müşteri olma sürecini tamamlayarak ilk kez yeni ON Dijital müşterisi olacaklar faydalanabilir.
 Kampanya süresi boyunca 1 kişi en fazla 1 kez kampanyadan faydalanabilir.
 Kampanya kodu tek kullanımlıktır.
 Kampanya kapsamında kazanılan/kazanılacak olan tüm kodların son kullanım tarihi 30 Eylül 2026’dır.
 Kampanya kapsamında, Starbucks® Mobil uygulamasında ilgili kampanya sayfasında bulunan “Hemen ON’lu Ol” alanından ilk kez yeni ON Dijital müşterisi olanlara, müşteri olma sürecinin tamamlanmasını takiben ilk iş günü içinde, 15 yıldıza karşılık gelen kupon kodu SMS ile gönderilecektir.
 1 kupon kodu 15 yıldıza karşılık gelmektedir.
-Kampanya kapsamında kazanılan ve 15 yıldıza karşılık gelen kodlardan daha önce SMS ile gönderilmemiş hakkedişler Ağustos ayı içerisinde SMS ile gönderilecektir.
+Kampanya kapsamında kazanılan ve 15 yıldıza karşılık gelen kodlardan daha önce SMS ile gönderilmemiş hakkedişler Eylül ayı içerisinde SMS ile gönderilecektir.
 Hediye kahve boyutları için müşterinin Starbucks® üyelik durumu koşulları geçerlidir. Green Segment Üyelerde Tall ve Short boy tüm içecek, Gold Segment üyelerde diledikleri boy tüm içecek koşulu geçerlidir.
 Hediye kupon kodu müşteriye gönderilen SMS içerisinden alınabilir. Hediye kupon kodu, Starbucks® Mobil uygulaması ayarlar menüsü altında bulunan “Stars Code” alanına girilmelidir. Akabinde 1 kupon koduna karşılık gelen 15 yıldız müşterinin Starbucks® hesabına yüklenecektir.
 Kazanılan yıldızlar 1 ay süreyle geçerlidir.
@@ -46,14 +46,14 @@ Kampanya kullanımına hak kazanan müşterilerin hediye kupon kodu kullanım s�
 Starbucks® ve ON Dijital kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 2/51 ---
+--- ON KAMPANYA 2/52 ---
 BAŞLIK: Migros Yemek Kampanyası
 LINK: https://on.com.tr/kampanyalar/migros-yemek-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı + yeni müşteri/edinim şartı
 DETAY:
 Kampanya Detayları
-Kampanya 1 Ağustos 2026 09:00 – 31 Ağustos 2026 23:59 tarihleri arasında “MIGROSYEMEKON” Davet Kodu ile ilk kez yeni ON Dijital Müşterisi olacak kişiler için geçerlidir.
-Kampanyadan yararlanmak için, ilk harcama öncesinde ON Dijital’de “Hemen Katıl” butonuna tıklayarak kampanyaya katılım sağlanması gerekmektedir. Kampanyaya katılım için son tarih 31.08.2026’dır (bu tarih dahil). Kampanyadan yararlanma süresi, katılım tarihinden itibaren 12 aydır. Bu süre her müşteri için katılım tarihine göre ayrı ayrı hesaplanır.
+Kampanya 1 Eylül 2026 12:00 – 30 Eylül 2026 23:59 tarihleri arasında “MIGROSYEMEKON” Davet Kodu ile ilk kez yeni ON Dijital Müşterisi olacak kişiler için geçerlidir.
+Kampanyadan yararlanmak için, ilk harcama öncesinde ON Dijital’de “Hemen Katıl” butonuna tıklayarak kampanyaya katılım sağlanması gerekmektedir. Kampanyaya katılım için son tarih 30.09.2026’dır (bu tarih dahil). Kampanyadan yararlanma süresi, katılım tarihinden itibaren 12 aydır. Bu süre her müşteri için katılım tarihine göre ayrı ayrı hesaplanır.
 Kampanya kapsamında firmaların kendi cüzdan uygulamalarına para yüklenerek yapılan alışveriş işlemler ve cüzdan ödemeleri veya bakiye yüklemeleri kampanya kapsamı dışındadır. MoneyPay cüzdana para yatırma/çıkarma işlemleri kampanyaya dahil değildir.
 Kampanya kapsamında, Migros Yemek üzerinden ON Kredi Kartı/Sanal Kredi Kartı ile yapılan harcamaların %50’si iade edilir. İade tutarı aylık toplamda en fazla 300 TL’dir. Aylık üst limite ulaşılıncaya kadar yapılan uygun harcamalar için iade devam eder; 300 TL limite ulaşıldıktan sonra aynı ay içindeki sonraki harcamalar için iade yapılmaz. Örneğin aynı ay içinde 300 TL harcamaya 150 TL, 200 TL harcamaya 100 TL ve 500 TL harcamaya 50 TL iade ile toplam 300 TL iade alınır.
 Kampanya sadece “Migros” mobil uygulaması içinde yer alan “Migros Yemek” sekmesi ve “www.migros.com.tr/yemek üzerinden gerçekleşecek harcamalarda geçerlidir.
@@ -75,14 +75,14 @@ ON Dijital ve Migros Yemek, mevzuata ve kampanya koşullarına aykırı kullanı
 ON Dijital ve Migros Yemek, kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 3/51 ---
+--- ON KAMPANYA 3/52 ---
 BAŞLIK: Pluxee Kampanyası
 LINK: https://on.com.tr/kampanyalar/pluxee-kampanyasi-3414
 KART / ÜRÜN SINIFI: ON Kredi Kartı + yeni müşteri/edinim şartı
 DETAY:
 Kampanya Detayları
-Kampanya 7 Ağustos 2026 12:00 – 31 Ağustos 2026 23:59 tarihleri arasında PLUXEEON davet kodu ile yeni ON müşterisi olacaklar için geçerlidir.
-Kampanyadan yararlanmak için, Pluxee hesabına ilk bakiye yüklemesi öncesinde ON Dijital’de “Hemen Katıl” butonuna tıklayarak kampanyaya katılım sağlanması gerekmektedir. Kampanyaya katılım için son tarih 31.08.2026’dır (bu tarih dahil).
+Kampanya 1 Eylül 2026 12:00 – 30 Eylül 2026 23:59 tarihleri arasında PLUXEEON davet kodu ile yeni ON müşterisi olacaklar için geçerlidir.
+Kampanyadan yararlanmak için, Pluxee hesabına ilk bakiye yüklemesi öncesinde ON Dijital’de “Hemen Katıl” butonuna tıklayarak kampanyaya katılım sağlanması gerekmektedir. Kampanyaya katılım için son tarih 30.09.2026’dır (bu tarih dahil).
 Kampanya ON Kredi Kartı/Sanal Kredi Kartı ile Pluxee Türkiye uygulamasından Pluxee Yemek/ Pluxee Hediye / Pluxee Gıda hesaplarına bireysel olarak ekstra bakiye yüklemesi yapacak müşteriler için geçerlidir. İade tutarı aylık en fazla 500 TL, toplam iade tutarı yılda en fazla 3000 TL olacaktır.
 Kampanya kapsamında, Pluxee Türkiye uygulaması üzerinden ON Kredi Kartı/Sanal Kredi Kartı ile yapılan ekstra bakiye yükleme işleminin %50’si iade edilir. İade tutarı aylık toplamda en fazla 500 TL’dir. Aylık üst limite ulaşılıncaya kadar yapılan uygun yüklemeler için iade devam eder; 500 TL limite ulaşıldıktan sonra aynı ay içindeki sonraki yüklemeler için iade yapılmaz. Örneğin aynı ay içinde 500 TL yüklemeye 250 TL, 300 TL harcamaya 150 TL ve 500 TL harcamaya 100 TL iade ile toplam 500 TL iade alınır ve aynı ay içinde takip eden yüklemeler için iade yapılmaz.
 Pluxee Türkiye uygulamasından yapılacak Extra Yükle işleminin ON Kredi Kartı/Sanal Kredi Kartıyla yapılması gerekmektedir.
@@ -95,14 +95,14 @@ ON Dijital, mevzuata ve kampanya koşullarına aykırı kullanımlardan doğabil
 ON Dijital ve Pluxee kampanyayı dilediği zaman durdurma ve/veya kampanya koşullarını değiştirme yetkisine sahiptir.
 
 
---- ON KAMPANYA 4/51 ---
+--- ON KAMPANYA 4/52 ---
 BAŞLIK: Biletinial Kampanyası
 LINK: https://on.com.tr/kampanyalar/biletinial-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı + yeni müşteri/edinim şartı
 DETAY:
 Kampanya Detayları
-Kampanya 1 Ağustos 2026 12:00 – 31 Ağustos 2026 23:59 tarihleri arasında BILETINIALON davet kodu ile ilk kez ON Dijital müşterisi olacak ve sonrasında ON Dijital’den kampanyaya katılacak kişiler bakımından 31 Ağustos 2026 23:59’a kadar yapılacak harcamalar için geçerlidir.
-Kampanyadan yararlanmak için, https://biletinial.com/tr-tr ve Biletinial mobil uygulamasından yapılacak harcamalar öncesinde ON Dijital’de “Hemen Katıl” butonuna tıklayarak kampanyaya katılım sağlanması gerekmektedir. Kampanyaya katılım için son tarih 31.08.2026’dır (bu tarih dahil).
+Kampanya 1 Eylül 2026 12:00 – 30 Eylül 2026 23:59 tarihleri arasında BILETINIALON davet kodu ile ilk kez ON Dijital müşterisi olacak ve sonrasında ON Dijital’den kampanyaya katılacak kişiler bakımından 30 Eylül 2026 23:59’a kadar yapılacak harcamalar için geçerlidir.
+Kampanyadan yararlanmak için, https://biletinial.com/tr-tr ve Biletinial mobil uygulamasından yapılacak harcamalar öncesinde ON Dijital’de “Hemen Katıl” butonuna tıklayarak kampanyaya katılım sağlanması gerekmektedir. Kampanyaya katılım için son tarih 30.09.2026’dır (bu tarih dahil).
 Kampanya ON Kredi Kartı/Sanal Kredi Kartı ile https://biletinial.com/tr-tr ve Biletinial mobil uygulamasından harcama yapacak müşteriler için geçerlidir. İade tutarı aylık en fazla 500 TL, toplam iade tutarı yılda en fazla 3000 TL olacaktır.
 Kampanya kapsamında, https://biletinial.com/tr-tr ve Biletinial mobil üzerinden ON Kredi Kartı/Sanal Kredi Kartı ile yapılan etkinlik harcamalarının %50’si iade edilir. İade tutarı aylık toplamda en fazla 500 TL’dir. Aylık üst limite ulaşılıncaya kadar yapılan uygun harcamalar için iade devam eder; 500 TL limite ulaşıldıktan sonra aynı ay içindeki sonraki harcamalar için iade yapılmaz. Örneğin aynı ay içinde 500 TL harcamaya 250 TL, 300 TL harcamaya 150 TL ve 500 TL harcamaya 100 TL iade ile toplam 500 TL iade alınır ve aynı ay içinde takip eden harcamalar için iade yapılmaz.
 https://biletinial.com/tr-tr ve Biletinial mobil uygulamasından yapılacak harcamaların ON Kredi Kartı/Sanal Kredi Kartıyla yapılması gerekmektedir.
@@ -116,14 +116,14 @@ ON Dijital, mevzuata ve kampanya koşullarına aykırı kullanımlardan doğabil
 ON Dijital ve Biletinial kampanya süresi içerisinde kampanyayı dilediği zaman durdurma ve/veya kampanya koşullarını değiştirme yetkisine sahiptir.
 
 
---- ON KAMPANYA 5/51 ---
+--- ON KAMPANYA 5/52 ---
 BAŞLIK: Apsiyon Kampanyası
 LINK: https://on.com.tr/kampanyalar/apsiyon-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı + yeni müşteri/edinim şartı
 DETAY:
 Kampanya Detayları
-Kampanya 1 Ağustos 2026 12:00 – 31 Ağustos 2026 23:59 tarihleri arasında APSIYON davet kodu ile yeni ON müşterisi olacaklar için geçerlidir.
-Kampanyadan yararlanmak için, Apsiyon mobil uygulamasından yapılacak aidat ödemeleri öncesinde ON Dijital’de “Hemen Katıl” butonuna tıklayarak kampanyaya katılım sağlanması gerekmektedir. Kampanyaya katılım için son tarih 31.08.2026’dır (bu tarih dahil).
+Kampanya 1 Eylül 2026 12:00 – 30 Eylül 2026 23:59 tarihleri arasında APSIYON davet kodu ile yeni ON müşterisi olacaklar için geçerlidir.
+Kampanyadan yararlanmak için, Apsiyon mobil uygulamasından yapılacak aidat ödemeleri öncesinde ON Dijital’de “Hemen Katıl” butonuna tıklayarak kampanyaya katılım sağlanması gerekmektedir. Kampanyaya katılım için son tarih 30.09.2026’dır (bu tarih dahil).
 Kampanya ON Kredi Kartı/Sanal Kredi Kartı ile Apsiyon mobil uygulamasından aidat ödemesi yapacak müşteriler için geçerlidir. İade tutarı aylık en fazla 500 TL, toplam iade tutarı yılda en fazla 6000 TL olacaktır.
 Kampanya kapsamında, Apsiyon mobil uygulaması üzerinden ON Kredi Kartı/Sanal Kredi Kartı ile yapılan aidat ödemelerinin %50’si iade edilir. İade tutarı aylık toplamda en fazla 500 TL’dir. Aylık üst limite ulaşılıncaya kadar yapılan uygun ödemeler için iade devam eder; 500 TL limite ulaşıldıktan sonra aynı ay içindeki sonraki ödemeler için iade yapılmaz.
 Apsiyon mobil uygulamasından yapılacak ödemelerin ON Kredi Kartı/Sanal Kredi Kartıyla yapılması gerekmektedir.
@@ -137,7 +137,31 @@ ON Dijital, mevzuata ve kampanya koşullarına aykırı kullanımlardan doğabil
 ON Dijital ve Apsiyon kampanya süresi içerisinde kampanyayı dilediği zaman durdurma ve/veya kampanya koşullarını değiştirme yetkisine sahiptir.
 
 
---- ON KAMPANYA 6/51 ---
+--- ON KAMPANYA 6/52 ---
+BAŞLIK: Yurt Dışı Piyasalar Hepsiburada Kampanyası
+LINK: https://on.com.tr/kampanyalar/ydp-kampanyasi
+KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
+DETAY:
+Kampanya Detayları
+Kampanya, 1 Eylül 2026’da başlayıp 31 Ekim 2026 saat 23.59’da sona ermektedir.
+Kampanyadan yararlanmak için ON Dijital’den Yurt Dışı Piyasalar hesabınızı açmanız ve minimum 1.001 USD işlem hacmine ulaşmanız gerekmektedir.
+Kampanyadan, 1 Eylül 2026 itibarıyla ON Dijital’den Yurt Dışı Piyasalar hesabı açan müşteriler yararlanabilir. Bu tarihten önce hesap açan müşteriler kampanyadan yararlanamaz.
+Ödüller, Ekim ayı sonunda, iki aylık toplam işlem hacmine göre belirlenecektir.
+Kampanya kapsamında hak kazanılan Hepsiburada hediye çekleri, Kasım ayında müşterilerin kayıtlı cep telefonu numaralarına SMS veya kayıtlı e-posta adreslerine iletilecektir.
+ON Dijital sistemlerinde kayıtlı cep telefonu numarasının hatalı olması nedeniyle hediye çeki kodunun SMS ile ulaştırılamamasından ON Dijital sorumlu değildir.
+Kampanya kapsamında hediye kazanılabilmesi için Kasım ayında ON Dijital Yurt Dışı Piyasalar hesabının açık olması gerekmektedir.
+Yurt Dışı Piyasalar hesabı açılışı, Burgan Bank’ın dijital bankacılık kanalı ON Dijital veya Burgan Trade üzerinden sözleşmelerin onaylanmasıyla tamamlanmaktadır.
+Yurt Dışı Piyasalar hesabı açılışı için öncelikle ON Dijital üzerinden yeni yatırım hesabı açılması gerekmektedir.
+Hediye çekleri nakde çevrilemez ve müşteri hesaplarına nakit olarak aktarılamaz.
+Bu kampanya diğer kampanyalarla birleştirilemez.
+Kampanyadan yalnızca 18 yaşından büyük bireysel müşteriler yararlanabilir.
+Burgan Bank, Burgan Yatırım ve Burgan Leasing personeli kampanyadan yararlanamaz.
+ON Dijital, kazanılmış haklar saklı kalmak kaydıyla ve önceden bilgi vermek suretiyle kampanyayı durdurma hakkını saklı tutar.
+Kampanya, maksimum 1.000 kişi ile sınırlıdır.
+Burgan Yatırım Menkul Değerler A.Ş., yurt dışı piyasalar işlemleriniz için aracılık hizmeti vermektedir.
+
+
+--- ON KAMPANYA 7/52 ---
 BAŞLIK: Yoyo %20 İndirim Kampanyası
 LINK: https://on.com.tr/kampanyalar/yoyo-20-indirim-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -162,7 +186,7 @@ ON Dijital, mevzuata ve kampanya koşullarına aykırı kullanımlardan doğabil
 ON Dijital ve YOYO, kampanya süresi boyunca kampanyayı durdurma, sona erdirme, kampanyanın kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 7/51 ---
+--- ON KAMPANYA 8/52 ---
 BAŞLIK: Yoyo %50 İndirim Kampanyası
 LINK: https://on.com.tr/kampanyalar/yoyo-50-indirim-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -187,7 +211,7 @@ ON Dijital, mevzuata ve kampanya koşullarına aykırı kullanımlardan doğabil
 ON Dijital ve YOYO, kampanya süresi boyunca kampanyayı durdurma, sona erdirme, kampanyanın kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 8/51 ---
+--- ON KAMPANYA 9/52 ---
 BAŞLIK: Nota Çiçek Kampanyası
 LINK: https://on.com.tr/kampanyalar/nota-cicek-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -209,7 +233,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 Nota Çiçek ve ON Dijital kampanya süresi boyunca kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 9/51 ---
+--- ON KAMPANYA 10/52 ---
 BAŞLIK: Bambu Çiçek Kampanyası
 LINK: https://on.com.tr/kampanyalar/bambu-cicek-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -231,7 +255,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 Bambu Çiçek ve ON Dijital kampanya süresi boyunca kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 10/51 ---
+--- ON KAMPANYA 11/52 ---
 BAŞLIK: TOD TV Kampanyası
 LINK: https://on.com.tr/kampanyalar/tod-tv-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -252,7 +276,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 ON Dijital ve Epintower.com kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 11/51 ---
+--- ON KAMPANYA 12/52 ---
 BAŞLIK: Europcar Kampanyası
 LINK: https://on.com.tr/kampanyalar/europcar-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -279,13 +303,13 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 Europcar ve ON Dijital kampanya süresi boyunca kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 12/51 ---
+--- ON KAMPANYA 13/52 ---
 BAŞLIK: ON'A DAVET KAMPANYASI
 LINK: https://on.com.tr/ona-davet-kampanyasi-3279
 KART / ÜRÜN SINIFI: ON Kredi Kartı + yeni müşteri/edinim şartı
 DETAY:
 Kampanya Detayları
-Kampanya 01.08.2026 saat 00:00 – 31.08.2026 saat 23:59 tarihleri arasında geçerlidir.
+Kampanya 01.09.2026 saat 00:00 – 30.09.2026 saat 23:59 tarihleri arasında geçerlidir.
 Kampanya süresi boyunca, yakınlarını bankamız müşterisi olmaya davet etmek suretiyle en az 1, en fazla 20 edinim gerçekleştiren katılımcılar kampanyadan yalnızca bir defa faydalanabilir.
 500 TL ödül kazanmak için en az 1 yakınını, 10.000 TL ödül kazanmak için ise 20 yakınını oluşturduğun davet kodu ile ON’lu yapman gerekmektedir.
 Yakınını davet eden ON’lular için davet adedi sınırsızdır ancak ödül kazanımı yıllık olarak 20 kişi ile toplam kazanç ise 10.000 TL ile sınırlıdır. Örneğin ilgili ay içerisinde 20 davet sınırına ulaşılmış ise yıl sonuna kadar kazanım hakkını doldurmuş olur.
@@ -306,7 +330,23 @@ Katılım koşullarını https://on.com.tr/kampanyalar internet sitesinden veya 
 Burgan Bank A.Ş. kampanyayı durdurma, değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 13/51 ---
+--- ON KAMPANYA 14/52 ---
+BAŞLIK: Yeni ON’lulara Özel TL Vadeli Hesap Faizi!
+LINK: https://on.com.tr/kampanyalar/yeni-onlulara-ozel-tl-vadeli-hesap-faizi
+KART / ÜRÜN SINIFI: Yeni ON müşterisi / edinim kampanyası
+DETAY:
+Kampanya Detayları
+Kampanya, 1 Eylül 2026 saat 09:00 ile 30 Eylül 2026 saat 17:30 tarihleri arasında geçerli olacaktır. Bu tarihler arasında müşteri edinimi ve vadeli hesap açılışının tamamlanması gerekmektedir.
+ON Mobil üzerinden ilk kez ON’lu olanlar, dijital kanallardan yeni açacakları TL mevduat hesaplarında avantajlı faiz oranlarından faydalanabilir.
+Avantajlı faiz oranından yararlanabilmek için ON Dijital’deki ‘Kampanyaya Katıl’’ butonuna tıklayarak kampanyaya kayıt olunması gerekmektedir
+%39,75’e varan faiz oranı, 32-91 gün vadelerle, 7.500.000 TL-10.000.000 TL arasındaki tutarlarda geçerlidir.
+Avantajlı faiz oranından faydalanmak için hesap açılış bakiyenizin minimum 500 TL olması gerekir.
+Uygulanacak ayrıcalıklı faizi oranı, hesabın açıldığı gün geçerli olan güncel oran üzerinden belirlenir.
+Faiz oranları gün içinde değişiklik gösterebilir. Hesap açılışından önce ON Dijital üzerinden güncel faiz oranlarının kontrol edilmesi önerilmektedir
+ON Dijital kampanyayı değiştirme ve durdurma hakkını saklı tutar.
+
+
+--- ON KAMPANYA 15/52 ---
 BAŞLIK: Obilet Kampanyası
 LINK: https://on.com.tr/kampanyalar/obilet-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -333,22 +373,22 @@ Obilet ve ON Dijital, mevzuata ve kampanya koşullarına aykırı kullanımlarda
 Obilet Bilişim Sistemleri A.Ş. ve ON Dijital, kampanya kapsamı, süresi ve koşullarında tek taraflı değişiklik yapma veya kampanyayı bitirme yahut dondurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 14/51 ---
+--- ON KAMPANYA 16/52 ---
 BAŞLIK: n11 kampanyası
 LINK: https://on.com.tr/kampanyalar/n11-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 4 Ağustos 2026 12:00 – 31 Ağustos 2026 23:59 tarihleri arasında geçerlidir.
-N11 ve ON Dijital iş birliğiyle gerçekleşecek kampanya kapsamında, ON Dijital müşterilerine özel N11’de 750 TL ve üzeri harcamalarda geçerli 150 TL indirim kodu verilecektir.
+Kampanya 01.09.2026 12:00-30.09.2026 23:59 tarihleri arasında geçerlidir.
+N11 ve ON Dijital iş birliğiyle gerçekleşecek kampanya kapsamında, ON Dijital müşterilerine özel N11’de 1200 TL ve üzeri harcamalarda geçerli 300 TL indirim kodu verilecektir.
 Kampanyadan mevcut ON’lular faydalanabilir.
-Kampanyadan 150 TL indirim kuponu kazanabilmek için, ON Dijital'de Avantajlar Dünyası sekmesinden ilgili kampanya içinde bulunan ‘’ Kampanya Kodu Al ‘’ butonuna tıklanmalıdır.
-Kampanya kapsamında ON Dijital müşterisi olan kullanıcılar kampanyaya belirtildiği şekilde katıldığında N11‘de 750 TL ve üzeri harcamalarında kullanabilecekleri 150 TL indirim kodu kazanacaklardır.
+Kampanyadan 300 TL indirim kuponu kazanabilmek için, ON Dijital'de Avantajlar Dünyası sekmesinden ilgili kampanya içinde bulunan ‘’ Kampanya Kodu Al ‘’ butonuna tıklanmalıdır.
+Kampanya kapsamında ON Dijital müşterisi olan kullanıcılar kampanyaya belirtildiği şekilde katıldığında N11‘de 1200 TL ve üzeri harcamalarında kullanabilecekleri 300 TL indirim kodu kazanacaklardır.
 Her kullanıcı hesabına 1 adet kod tanımlayabilir.
 İndirim kodu tek kullanımlıktır, parçalanarak kullanılamaz.
-İndirim kodunun tamamının tek alışverişte kullanılması gerekmektedir
+İndirim kodunun tamamının tek alışverişte kullanılması gerekmektedir.
 Müşterilerin hak ettikleri N11 indirim kodunu kullanabilmek için; öncelikle N11‘e giriş yaparak, "Ödeme Onayı" sayfasındaki "Kod Girişi" alanına veya Hesabım > İndirim Kodlarım sayfasındaki "Yeni İndirim Kodu Ekle" kutusuna yazılıp eklenmelidir.
-Müşteriler, ON Dijital ile yapılan kampanyaya ait indirim kodlarının belirtildiği şekilde girişini yaparak 750 TL ve üzeri alışverişlerde 150 TL indirim kazanabilecektir.
+Müşteriler, ON Dijital ile yapılan kampanyaya ait indirim kodlarının belirtildiği şekilde girişini yaparak 1200 TL ve üzeri alışverişlerde 300 TL indirim kazanabilecektir.
 Müşterilerin indirim kodunu kullanabilmek için ON Dijital müşterisi olma adımlarını tamamladıktan sonra, N11‘de üyeliklerini oluşturmaları, eğer üyelikleri varsa sepet adımında kodları yukarıda belirtilen ilgili yere girerek aktif hale getirmeleri yeterli olacaktır.
 Katılım koşullarını www.on.com.tr internet sitesinden takip etmek kullanıcının sorumluluğundadır, kampanyaya katılan herkes kampanya koşullarını kabul etmiş sayılır.
 Kazanılan indirim kodu; Dijital Kodlar&Ürünler, Sim Kart, Hat, Paketler, Toptan Satış, Yatırımlık Altın & Gümüş, Uzatılmış Garanti, Kağıt Ürünleri, Süpermarket ve Özel fiyat avantajı bulunan (n11’in teklifi rozeti yer alan) kategorilerinde kullanılamaz.
@@ -363,10 +403,10 @@ n11’in kampanya koşullarını ihlal edecek nitelikte bir sipariş tespit etme
 İndirim kodu iadesi ve geri yüklenmesine ilişkin her türlü işlem, karar ve sorumluluk yalnızca n11'e aittir; bu kapsamdaki tüm talep ve uyuşmazlıklarda muhatap münhasıran n11’dir. ON Dijital’in bu süreçlerde herhangi bir sorumluluğu, karar alma yetkisi veya muhataplığı bulunmamaktadır.
 İndirim kodları kişiye özeldir, devredilemez, paraya dönüştürülemez.
 Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sırasında yaşanabilecek teknik ya da lojistik sorun ve aksaklıklardan ON sorumlu değildir.
-ON ve N11, kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
+ON Dijital ve N11, kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 15/51 ---
+--- ON KAMPANYA 17/52 ---
 BAŞLIK: King Kampanyası
 LINK: https://on.com.tr/king-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -391,7 +431,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 King ve ON Dijital kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 16/51 ---
+--- ON KAMPANYA 18/52 ---
 BAŞLIK: Otomatik Fatura Talimatı Kampanyası
 LINK: https://on.com.tr/kampanyalar/otomatik-fatura-talimati-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -411,7 +451,7 @@ Kampanyadan sadece ON Dijital'in belirlediği kitle faydalanabilecektir.
 ON Dijital, kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 17/51 ---
+--- ON KAMPANYA 19/52 ---
 BAŞLIK: Dijital Üyeliklerde %50 İade ON’da!
 LINK: https://on.com.tr/dijital-uyeliklerde-50-iade-onda
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -432,7 +472,7 @@ Bir müşteri kampanya döneminde farklı firmalar üzerinden yapacağı ayrı i
 Banka kampanyayı durdurma, kampanya ödüllerini değiştirme hakkını saklı tutar. Banka ödemesini aldığı Dijital Platform firmalarına yenisini ekleyebileceği gibi mevcut firmaları kampanya kapsamından çıkartabilir.
 
 
---- ON KAMPANYA 18/51 ---
+--- ON KAMPANYA 20/52 ---
 BAŞLIK: ON Kredi Kartı ve Banka Kartı Pamukkale Seyahat İndirim Kampanyası
 LINK: https://on.com.tr/kampanyalar/on-kredi-karti-pamukkale-seyahat-indirim-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -453,7 +493,6 @@ ON Kredi Kartı Elektrikli Araç Şarj Kampanyası
 Trafik Sigortası Akaryakıt Kampanyası
 ON Kredi Kartı Market Kampanyası
 %0 Komisyon Kampanyası
-Vatan Cep Telefonu Kampanyası
 Xiaomi Kampanyası
 Vatan Kampanyası
 İtopya Bilgisayar Kampanyası
@@ -487,7 +526,7 @@ Pamukkale Turizm ve Mastercard kampanya tarihleri ve koşullarında değişiklik
 Kampanya ile ilgili soru ve geri bildirimler için masterpassturkiye@mplusgroup.com.tr adresine ulaşılabilir. Dönüşler en geç 14 iş günü içerisinde sağlanacaktır.
 
 
---- ON KAMPANYA 19/51 ---
+--- ON KAMPANYA 21/52 ---
 BAŞLIK: Havale/EFT/FAST Kampanyası
 LINK: https://on.com.tr/kampanyalar/onda-masrafsiz-havale-eft-fast-kampanyasi
 KART / ÜRÜN SINIFI: Yeni ON müşterisi / edinim kampanyası
@@ -507,7 +546,7 @@ Alıcının Kolay Adres bilgisine (cep telefonu numarası, e-posta adresi, T.C. 
 EFT/havale işlemlerin için dilersen tek seferlik veya düzenli transfer talimatı oluşturabilirsin. Diğer bankalardaki hesaplara yapacağın EFT işlemlerinizi saat 17:00’a kadar gerçekleştirebilirsin.
 
 
---- ON KAMPANYA 20/51 ---
+--- ON KAMPANYA 22/52 ---
 BAŞLIK: ON FX ile İşlemler Artık 7/24
 LINK: https://on.com.tr/on-fx-ile-islemler-artik-724
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -529,7 +568,7 @@ Teknik grafik ile fiyat geçmişi
 Altın, Gümüş, Platin, Paladyum, Amerikan Doları, Euro, İngiliz Sterlini, Avustralya Doları, Kanada Doları, İsviçre Frangı, Japon Yeni, İsveç Kronu, Norveç Kronu, Danimarka Kronu
 
 
---- ON KAMPANYA 21/51 ---
+--- ON KAMPANYA 23/52 ---
 BAŞLIK: ON Kredi Kartı Otomatik Fatura Ödeme Kampanyası
 LINK: https://on.com.tr/on-kredi-karti-otomatik-fatura-odeme-kampanyasi-2921
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -548,7 +587,7 @@ Turknet ve Millenicom kurumları için verilen fatura talimatları kampanya kaps
 ON Dijital, kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 22/51 ---
+--- ON KAMPANYA 24/52 ---
 BAŞLIK: ON PLUS
 LINK: https://on.com.tr/on-plus-mevduat-faizi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -567,7 +606,6 @@ ON Kredi Kartı Elektrikli Araç Şarj Kampanyası
 Trafik Sigortası Akaryakıt Kampanyası
 ON Kredi Kartı Market Kampanyası
 %0 Komisyon Kampanyası
-Vatan Cep Telefonu Kampanyası
 Xiaomi Kampanyası
 Vatan Kampanyası
 İtopya Bilgisayar Kampanyası
@@ -611,13 +649,13 @@ TL Bakiye Vadesiz Bakiye Faiz Oranı ON Plus Faizi ile
 4.000.000 - 5.000.000 TL 500.000 TL 39,00% 44,00%
 
 
---- ON KAMPANYA 23/51 ---
+--- ON KAMPANYA 25/52 ---
 BAŞLIK: Troy Club Üyelerine Özel Kampanya
 LINK: https://on.com.tr/troy-clup-uyelerine-ozel-kampanya
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 9 Aralık 2025 10:00 – 31 Ağustos 2026 22:00 tarihleri arasında geçerlidir.
+Kampanya 9 Aralık 2025 10:00 – 30 Eylül 2026 22:00 tarihleri arasında geçerlidir.
 Kampanya, Troy Clup üyelerine özel (Gold, Gold Plus, Black, Black Plus) tüm Iphone cep telefonu alışverişlerinde geçerli olup, maksimum 3 ay vadeye kadar kredi kullandırımlarında geçerlidir.
 Kredi tutarı minimum 1.000 TL, Maksimum 400.000 TL’dir.
 Aylık %0 faiz oranı Troy mağazalarından yapılacak alışverişlerinde 3 ay vade için geçerli olup, vadelere göre faiz oranı değişiklik göstermektedir.
@@ -631,7 +669,7 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 100.000 TL 3 0% 33.333,33 TL 100.000 TL 0% 0%
 
 
---- ON KAMPANYA 24/51 ---
+--- ON KAMPANYA 26/52 ---
 BAŞLIK: %0 Komisyon Kampanyası
 LINK: https://on.com.tr/kampanyalar/0-komisyon-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -658,13 +696,13 @@ Hemen hesap açıp, yıl boyunca faydalanın.
 Hemen ON Dijital İndir
 
 
---- ON KAMPANYA 25/51 ---
+--- ON KAMPANYA 27/52 ---
 BAŞLIK: ON Kredi Kartı Market Kampanyası
 LINK: https://on.com.tr/kampanyalar/on-kredi-karti-market-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
 DETAY:
 Kampanya Detayları
-Kampanya 01.08.2026 00:01 ile 31.08.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
+Kampanya 01.09.2026 00:01 ile 30.09.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
 Kampanyadan sadece ON Dijital müşterileri faydalanabilir.
 Kampanyadan faydalanmaya başlamak için ilk harcamadan önce ON Dijital'den "Hemen Katıl" butonuna tıklayarak kampanyaya kaydolması gerekmektedir.
 Kampanya kapsamında Market sektöründe tek seferde yapacağın 1.500 TL ve üzeri 2. harcamana 200 TL iade verilecektir.
@@ -678,7 +716,7 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 26/51 ---
+--- ON KAMPANYA 28/52 ---
 BAŞLIK: Trafik Sigortası Akaryakıt Kampanyası
 LINK: https://on.com.tr/kampanyalar/trafik-sigortasi-akaryakit-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -705,7 +743,7 @@ Akaryakıt kod kullanımı ile ilgili oluşabilecek teknik aksaklıklardan Banka
 Burgan Bank personeli kampanyaya dahil değildir.
 
 
---- ON KAMPANYA 27/51 ---
+--- ON KAMPANYA 29/52 ---
 BAŞLIK: DASK ile 250 TL Hediye Çeki
 LINK: https://on.com.tr/dask-ile-250-tl-hediye-ceki
 KART / ÜRÜN SINIFI: Yeni ON müşterisi / edinim kampanyası
@@ -718,7 +756,7 @@ Henüz ON’lu değilsen, ON Dijital'i indir. "Müşteri Olmak İstiyorum" adım
 Hemen ON'lu Ol
 Kampanya Koşulları
 Kampanya 02 Haziran 2026 00:01 ile 31 Aralık 2026 23:59 tarihleri arasında geçerlidir.
-250 TL Migros Hediye Çeki ödülü, ON Dijital üzerinden DASK poliçesi alan müşteriler için geçerli olacaktır.
+250 TL Migros Hediye Çeki ödülü, ON Dijital üzerinden yeni DASK poliçesi alan müşteriler için geçerli olacaktır.
 Ödüllendirme sigorta ettiren müşteri için geçerli olacaktır.
 Hediye çeki gönderimleri poliçenin tanzim edildiği tarihten bir sonraki ayın ilk 10 iş günü içerisinde 250 TL değerinde kod olarak SMS ile iletilecektir.
 Hediye çeklerini başarılı bir şekilde teslim alamayan ON’lular, 0850 222 29 10 numaralı ON İletişim Merkezini arayarak hediye çeki kodu için talepte bulunabilir.
@@ -737,13 +775,13 @@ Burgan Bank A.Ş'nin kampanyayı değiştirme ve durdurma hakkı saklıdır.
 Hediye kodun firmada kullanımı ile ilgili oluşabilecek teknik aksaklıklardan Banka sorumlu olmayacaktır.
 
 
---- ON KAMPANYA 28/51 ---
+--- ON KAMPANYA 30/52 ---
 BAŞLIK: ON Kredi Kartı Elektrikli Araç Şarj Kampanyası
 LINK: https://on.com.tr/on-kredi-karti-elektrikli-arac-sarj-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
 DETAY:
 Kampanya Detayları
-Kampanya 01.08.2026 00:01 ile 31.08.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
+Kampanya 01.09.2026 00:01 ile 30.09.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
 Kampanyadan sadece ON Dijital müşterileri faydalanabilir.
 Kampanyadan faydalanmaya başlamak için ilk harcamadan önce ON Dijital'den "Hemen Katıl" butonuna tıklayarak kampanyaya kaydolması gerekmektedir.
 Kampanya kapsamında Elektrikli Araç Şarj sektöründe yapacağın harcamaların %20’si, en fazla 500 TL iade verilecektir.
@@ -757,13 +795,13 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 29/51 ---
+--- ON KAMPANYA 31/52 ---
 BAŞLIK: ON Kredi Kartı Ankara Ulaşım Kampanyası
 LINK: https://on.com.tr/on-kredi-karti-ankara-ulasim-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
 DETAY:
 Kampanya Detayları
-Kampanya 01.08.2026 00:01 ile 31.08.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
+Kampanya 01.09.2026 00:01 ile 30.09.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
 Kampanyadan sadece ON Dijital müşterileri faydalanabilir.
 Kampanyadan faydalanmaya başlamak için ilk harcamadan önce ON Dijital'den "Hemen Katıl" butonuna tıklayarak kampanyaya kaydolması gerekmektedir.
 İşlemin Ankara ulaşım kartının resmi mobil uygulaması veya WEB sitesinden ON Kredi Kartları ile yapılması gerekmektedir.
@@ -778,13 +816,13 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 30/51 ---
+--- ON KAMPANYA 32/52 ---
 BAŞLIK: ON Kredi Kartı İzmir Ulaşım Kampanyası
 LINK: https://on.com.tr/on-kredi-karti-izmir-ulasim-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
 DETAY:
 Kampanya Detayları
-Kampanya 01.08.2026 00:01 ile 31.08.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
+Kampanya 01.09.2026 00:01 ile 30.09.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
 Kampanyadan sadece ON Dijital müşterileri faydalanabilir.
 Kampanyadan faydalanmaya başlamak için ilk harcamadan önce ON Dijital'den "Hemen Katıl" butonuna tıklayarak kampanyaya kaydolması gerekmektedir.
 İşlemin İzmir ulaşım kartının resmi mobil uygulaması veya WEB sitesinden ON Kredi Kartları ile yapılması gerekmektedir.
@@ -799,13 +837,13 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 31/51 ---
+--- ON KAMPANYA 33/52 ---
 BAŞLIK: ON Kredi Kartı İstanbulkart Kampanyası
 LINK: https://on.com.tr/on-kredi-karti-istanbulkart-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
 DETAY:
 Kampanya Detayları
-Kampanya 01.08.2026 00:01 ile 31.08.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
+Kampanya 01.09.2026 00:01 ile 30.09.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
 Kampanyadan sadece ON Dijital müşterileri faydalanabilir.
 Kampanyadan faydalanmaya başlamak için ilk harcamadan önce ON Dijital'den "Hemen Katıl" butonuna tıklayarak kampanyaya kaydolması gerekmektedir.
 İşlemin İstanbulkart uygulamasından ON Kredi Kartları ile yapılması gerekmektedir.
@@ -820,13 +858,13 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 32/51 ---
+--- ON KAMPANYA 34/52 ---
 BAŞLIK: ON Kredi Kartı Sinema ve Tiyatro Kampanyası
 LINK: https://on.com.tr/on-kredi-karti-sinema-ve-tiyatro-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
 DETAY:
 Kampanya Detayları
-Kampanya 01.08.2026 00:01 ile 31.08.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
+Kampanya 01.09.2026 00:01 ile 30.09.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
 Kampanyadan sadece ON Dijital müşterileri faydalanabilir.
 Kampanyadan faydalanmaya başlamak için ilk harcamadan önce ON Dijital'den "Hemen Katıl" butonuna tıklayarak kampanyaya kaydolması gerekmektedir.
 Kampanya kapsamında Sinema ve Tiyatro sektörlerinde yapacağın bilet alımlarının yarısı, en fazla 250 TL iade verilecektir.
@@ -841,13 +879,13 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 33/51 ---
+--- ON KAMPANYA 35/52 ---
 BAŞLIK: ON Kredi Kartı Akaryakıt Kampanyası
 LINK: https://on.com.tr/on-kredi-karti-akaryakit-kampanyasi-3260
 KART / ÜRÜN SINIFI: ON Kredi Kartı
 DETAY:
 Kampanya Detayları
-Kampanya 01.08.2026 00:01 ile 31.08.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
+Kampanya 01.09.2026 00:01 ile 30.09.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
 Kampanyadan sadece ON Dijital müşterileri faydalanabilir.
 Kampanyadan faydalanmaya başlamak için ilk harcamadan önce ON Dijital'den "Hemen Katıl" butonuna tıklayarak kampanyaya kaydolması gerekmektedir.
 Kampanya kapsamında Akaryakıt sektöründe tek seferde yapacağın 1.000 TL ve üzeri 4. harcamana 400 TL iade verilecektir.
@@ -861,7 +899,7 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 34/51 ---
+--- ON KAMPANYA 36/52 ---
 BAŞLIK: Kasko Akaryakıt Kampanyası
 LINK: https://on.com.tr/kasko-akaryakit-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -888,15 +926,15 @@ Akaryakıt kod kullanımı ile ilgili oluşabilecek teknik aksaklıklardan Banka
 Burgan Bank personeli kampanyaya dahil değildir.
 
 
---- ON KAMPANYA 35/51 ---
+--- ON KAMPANYA 37/52 ---
 BAŞLIK: ON Banka Kartı Market Kampanyası
 LINK: https://on.com.tr/on-banka-karti-market-kampanyasi
 KART / ÜRÜN SINIFI: ON Banka Kartı
 DETAY:
 Kampanya Detayları
-Kampanya 01.08.2026 00:01 ile 31.08.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
+Kampanya 01.09.2026 00:01 ile 30.09.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
 Kampanyadan sadece ON Dijital müşterileri faydalanabilir.
-31 Ağustos'a kadar, ON Banka Kartınla Market sektöründe tek seferde yapılacak 1500 TL ve üzeri dördüncü harcamana 400 TL iade verilecektir.
+30 Eylül'e kadar, ON Banka Kartınla Market sektöründe tek seferde yapılacak 1500 TL ve üzeri dördüncü harcamana 400 TL iade verilecektir.
 Bir müşteri kampanya kapsamında en fazla 400 TL indirim kazanabilir.
 Kampanya kapsamında yapılan harcamalarda iade ve iptal işlemleri dikkate alınacaktır, iptal veya iade sonucu harcama tutarında değişiklik olması halinde yapılacak iade tutarı da değişiklik gösterebilir.
 Aynı gün aynı iş yerinden yapılan işlemlerden sadece ilki kampanyaya dahil edilecektir.
@@ -906,15 +944,15 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital, kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 36/51 ---
+--- ON KAMPANYA 38/52 ---
 BAŞLIK: ON Banka Kartı Akaryakıt Kampanyası
 LINK: https://on.com.tr/on-banka-karti-akaryakit-kampanyasi
 KART / ÜRÜN SINIFI: ON Banka Kartı
 DETAY:
 Kampanya Detayları
-Kampanya 01.08.2026 00:01 ile 31.08.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
+Kampanya 01.09.2026 00:01 ile 30.09.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
 Kampanyadan sadece ON Dijital müşterileri faydalanabilir.
-31 Ağustos'a kadar, ON Banka Kartınla Akaryakıt sektöründe tek seferde yapılacak 1500 TL ve üzeri dördüncü harcamana 400 TL iade verilecektir.
+30 Eylül'e kadar, ON Banka Kartınla Akaryakıt sektöründe tek seferde yapılacak 1500 TL ve üzeri dördüncü harcamana 400 TL iade verilecektir.
 Bir müşteri kampanya kapsamında en fazla 400 TL indirim kazanabilir.
 Kampanya kapsamında yapılan harcamalarda iade ve iptal işlemleri dikkate alınacaktır, iptal veya iade sonucu harcama tutarında değişiklik olması halinde yapılacak iade tutarı da değişiklik gösterebilir.
 Aynı gün aynı iş yerinden yapılan işlemlerden sadece ilki kampanyadan iade kazanır.
@@ -924,13 +962,13 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital, kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 37/51 ---
+--- ON KAMPANYA 39/52 ---
 BAŞLIK: Bellona Kampanyası
 LINK: https://on.com.tr/bellona-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 1 Aralık 10:00 – 31 Ağustos 2026 19:00 tarihleri arasında geçerlidir.
+Kampanya 1 Aralık 10:00 – 30 Eylül 2026 19:00 tarihleri arasında geçerlidir.
 Kampanyada kullandırılan krediler, ilk taksiti 3 ay ertelemeli, 9 taksit şeklinde ödenecektir.
 Kredi tutarı minimum 1.000 TL, Maksimum 400.000 TL’dir.
 %0 faiz oranlı kredi kampanyası Bellona mağazalarından yapılacak alışverişler için geçerli olup, 9 ay vadeye kadar geçerlidir.
@@ -943,7 +981,7 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maaliyet Oranı
 100.000 TL 9 0% 11.111,11 TL 100.000 TL 0% 0%
 
 
---- ON KAMPANYA 38/51 ---
+--- ON KAMPANYA 40/52 ---
 BAŞLIK: Kiralarsin.com Kampanyası
 LINK: https://on.com.tr/kiralarsincom-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -964,7 +1002,7 @@ www.kiralarsın.com üzerinden yapılacak alışverişe konu ürünlerde herhang
 Kiralarsın ve ON Dijital kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 39/51 ---
+--- ON KAMPANYA 41/52 ---
 BAŞLIK: TheLifeCo Kampanyası
 LINK: https://on.com.tr/thelifeco-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -989,7 +1027,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 TheLifeCo ve ON Dijital kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 40/51 ---
+--- ON KAMPANYA 42/52 ---
 BAŞLIK: Wise&Rise Kampanyası
 LINK: https://on.com.tr/wise-rise-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -1015,7 +1053,7 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 Wise&Rise ve ON Dijital kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 41/51 ---
+--- ON KAMPANYA 43/52 ---
 BAŞLIK: Otopark Kampanyası
 LINK: https://on.com.tr/otopark-kampanyasi-2975
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -1035,27 +1073,7 @@ Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilg
 ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- ON KAMPANYA 42/51 ---
-BAŞLIK: Vatan Cep Telefonu Kampanyası
-LINK: https://on.com.tr/vatan-cep-telefonu-kampanyasi
-KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
-DETAY:
-Kampanya Detayları
-Vatan mağazalarından yapılacak olan şeçili Android işletim sistemli cep telefonu alımlarında aylık 0% faiz oranlı kredi 12 ay vadeye kadar geçerlidir.
-Aylık %0 faiz oranlı kredi tutarı minimum 1.000 TL, Maksimum 400.000 TL’dir.
-Banka uygun görmediği başvuruları onaylamama, üst sınır belirleme ve koşullarda değişiklik yapma hakkını saklı tutar. Aylık ve yıllık maliyet oranları, faiz oranı, vade ve tutara göre değişiklik göstermektedir.
-Cep telefonu dışındaki diğer elektronik ürünlerde yasal vade kısıtlarına bağlı olarak maksimum 36 ay vadeye kadar taksitlendirilebilir.
-Kampanya Vatan Mağazalarında geçerlidir.
-Kampanya 1 Temmuz 2025 09:00 ile 31 Ağustos 2026 23:59 tarihleri arasında geçerlidir.
-Kampanya seçili Android cep telefonu ürününde geçerlidir.
-Kredi faiz oranları piyasa şartlarına göre değişiklik gösterebilir.
-Burgan Bank A.Ş ve Vatan Bilgisayar kampanyayı değiştirme – sonlandırma hakkını saklı tutar.
-Fiyatı 20.000 TL ve altında olan cep telefonları için vade sınırının 12 ay, fiyatı 20.000 TL üzerinde olan cep telefonları için vade sınırı üç aydır.
-Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı Aylık Maliyet Oranı
-40.000 3 0,00% 13.333,33 40.000 0,00% 0,00%
-
-
---- ON KAMPANYA 43/51 ---
+--- ON KAMPANYA 44/52 ---
 BAŞLIK: Taze Çiçek Kampanyası
 LINK: https://on.com.tr/taze-cicek-kampanyasi-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
@@ -1080,13 +1098,13 @@ Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sıras�
 Taze Çiçek ve ON Dijital kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
---- ON KAMPANYA 44/51 ---
+--- ON KAMPANYA 45/52 ---
 BAŞLIK: Xiaomi Kampanyası
 LINK: https://on.com.tr/kampanyalar/xiaomi-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 15 Haziran 12:00 – 31 Ağustos 2026 23:59 tarihleri arasında geçerlidir.
+Kampanya 15 Haziran 12:00 – 30 Eylül 2026 23:59 tarihleri arasında geçerlidir.
 Kredi tutarı minimum 1.000 TL, Maksimum 400.000 TL’dir.
 %0 faiz oranlı kredi avantajı, Mieko mağazalarından yapılacak alışverişlerde, seçili ürünlerde ve 3 ay vade için geçerlidir.
 Banka uygun görmediği başvuruları onaylamama, üst sınır belirleme ve koşullarda değişiklik yapma hakkını saklı tutar. Aylık ve yıllık maliyet oranları, faiz oranı, vade ve tutara göre değişiklik göstermektedir.
@@ -1099,13 +1117,13 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 0% 0%
 
 
---- ON KAMPANYA 45/51 ---
+--- ON KAMPANYA 46/52 ---
 BAŞLIK: MİGROS ALIŞVERİŞ KREDİSİ
 LINK: https://on.com.tr/kampanyalar/migros-cep-telefonu-alisveris-kredisi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 31 Ağustos 2026 tarihine kadar geçerlidir.
+Kampanya 30 Eylül 2026 tarihine kadar geçerlidir.
 Cep telefonu alışverişlerinde maksimum 6 ay vadeye kadar kredi kullandırılmaktadır.
 Fiyatı 20.000 TL’ye kadar olan cep telefonlarında 6 ay vade, 20.000 TL’nin üzerinde olan tutarlarda 3 ay vade uygulanmaktadır.
 Kredi tutarı minimum 1.000 TL, Maksimum 250.000 TL’dir.
@@ -1116,13 +1134,13 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 20.000 TL 6 0.99% 3.485,08 TL 20.910,53 TL 16,5862% 1,2871%
 
 
---- ON KAMPANYA 46/51 ---
+--- ON KAMPANYA 47/52 ---
 BAŞLIK: Gündoğdu Mobilya Kampanyası
 LINK: https://on.com.tr/kampanyalar/gundogdu-mobilya-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 15 Temmuz 10:00 – 31 Ağustos 2026 19:00 tarihleri arasında geçerlidir.
+Kampanya 15 Temmuz 10:00 – 30 Eylül 2026 19:00 tarihleri arasında geçerlidir.
 Kampanyada kullandırılan krediler, ilk taksiti 3 ay ertelemeli, 7 taksit şeklinde ödenecektir.
 Kredi tutarı minimum 1.000 TL, Maksimum 400.000 TL’dir.
 %0 faiz oranlı kredi kampanyası Gündoğdu Mobilya mağazalarından yapılacak alışverişler için geçerli olup, 7 ay vade için geçerlidir.
@@ -1136,13 +1154,13 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 0% 0%
 
 
---- ON KAMPANYA 47/51 ---
+--- ON KAMPANYA 48/52 ---
 BAŞLIK: Özturanlar Mobilya Kampanyası
 LINK: https://on.com.tr/kampanyalar/ozturanlar-mobilya-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 15 Haziran 10:00 – 31 Ağustos 2026 19:00 tarihleri arasında geçerlidir.
+Kampanya 15 Haziran 10:00 – 30 Eylül 2026 19:00 tarihleri arasında geçerlidir.
 Kredi tutarı minimum 1.000 TL, Maksimum 400.000 TL’dir.
 %0 faiz oranlı kredi kampanyası Özturanlar Mobilya mağazasından yapılacak alışverişler için geçerli olup, 7 ay vade için geçerlidir.
 Kredi faiz oranları piyasa şartlarına göre değişiklik gösterebilir.
@@ -1154,13 +1172,13 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 0% 0%
 
 
---- ON KAMPANYA 48/51 ---
+--- ON KAMPANYA 49/52 ---
 BAŞLIK: Mieko Kampanyası
 LINK: https://on.com.tr/mieko-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 16 Mart 2026 12:00 – 31 Ağustos 2026 23:59 tarihleri arasında geçerlidir.
+Kampanya 16 Mart 2026 12:00 – 30 Eylül 2026 23:59 tarihleri arasında geçerlidir.
 Kredi tutarı minimum 1.000 TL, Maksimum 200.000 TL’dir.
 Mieko mağazalarından yapılacak alışverişlerde 12 ay vadeye kadar aylık %3,79 faiz oranı geçerlidir.
 Banka uygun görmediği başvuruları onaylamama, üst sınır belirleme ve koşullarda değişiklik yapma hakkını saklı tutar. Aylık ve yıllık maliyet oranları, faiz oranı, vade ve tutara göre değişiklik göstermektedir.
@@ -1173,13 +1191,13 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 78,0931% 4,9270%
 
 
---- ON KAMPANYA 49/51 ---
+--- ON KAMPANYA 50/52 ---
 BAŞLIK: İtopya Bilgisayar Kampanyası
 LINK: https://on.com.tr/itopya-bilgisayar-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 1 Kasım 2025 09:00 – 31 Ağustos 2026 23:59 tarihleri arasında geçerlidir.
+Kampanya 1 Kasım 2025 09:00 – 30 Eylül 2026 23:59 tarihleri arasında geçerlidir.
 Kredi tutarı minimum 1.000 TL, Maksimum 150.000 TL’dir.
 Aylık %3,79 faiz oranı İtopya Bilgisayar mağazalarından yapılacak bilgisayar alışverişlerinde, 3 ay vade için geçerlidir.
 Kampanya, 12 ay vadeye kadar geçerlidir.
@@ -1192,13 +1210,13 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maaliyet Oranı
 15.000 3 ay 3,79% 5.500,60 TL 16.501,80 TL %78,0931 %4,9270
 
 
---- ON KAMPANYA 50/51 ---
+--- ON KAMPANYA 51/52 ---
 BAŞLIK: TROY Kampanyası
 LINK: https://on.com.tr/troy-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 5 Ocak 2026 12:00 – 31 Ağustos 2026 23:59 tarihleri arasında geçerlidir.
+Kampanya 5 Ocak 2026 12:00 – 30 Eylül 2026 23:59 tarihleri arasında geçerlidir.
 Macbook alışverişlerinde maksimum 12 ay vadeye kadar kredi kullandırılmaktadır.
 Kredi tutarı minimum 1.000 TL, Maksimum 250.000 TL’dir.
 Aylık %3,79 faiz oranı Troy mağazalarından yapılacak alışverişlerinde 3 ay vade için geçerli olup, vadelere göre faiz oranı değişiklik göstermektedir.
@@ -1211,13 +1229,13 @@ Tutar Vade Faiz Oranı Aylık Ödeme Toplam Geri Ödeme Yıllık Maliyet Oranı 
 20.000 3 ay 3,79% 7.334,13 TL 22.002,39 TL 78,0931% 4,9270%
 
 
---- ON KAMPANYA 51/51 ---
+--- ON KAMPANYA 52/52 ---
 BAŞLIK: Vatan Kampanyası
 LINK: https://on.com.tr/vatan-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 12 Haziran 2025 09:00 – 31 Ağustos 2026 23:59 tarihleri arasında geçerlidir.
+Kampanya 12 Haziran 2025 09:00 – 30 Eylül 2026 23:59 tarihleri arasında geçerlidir.
 Cep telefonu alışverişlerinde maksimum 3 ay vadeye kadar kredi kullandırılmaktadır.
 Kredi tutarı minimum 1.000 TL, Maksimum 400.000 TL’dir.
 Aylık %3.79 faiz oranı Vatan mağazalarından yapılacak alışverişlerde 12 ay vadeye kadar geçerlidir.
