@@ -1,4 +1,4 @@
-=== ON GÜNCEL KAMPANYA HAVUZU (02/09/2026 04:49) ===
+=== ON GÜNCEL KAMPANYA HAVUZU (03/09/2026 04:49) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 52
 BAŞARIYLA OKUNAN KAMPANYA: 52
 HATALI KAMPANYA LİNKİ: 0
@@ -612,9 +612,9 @@ Vatan Kampanyası
 Mieko Kampanyası
 Özturanlar Mobilya Kampanyası
 Gündoğdu Mobilya Kampanyası
-%44'e Varan Faiz Oranı ON Plus'ta!
-ON’lular ON Plus ile ekstra faiz avantajından yararlanıyor! Sen de hemen programa katıl, aylık harcama hedefine ulaşarak ON Plus ile %44'e varan faiz oranlarından yararlan!
-%44'e Varan Faiz Oranı ON Plus'ta!
+%43,50'ye Varan Faiz Oranı ON Plus'ta!
+ON’lular ON Plus ile ekstra faiz avantajından yararlanıyor! Sen de hemen programa katıl, aylık harcama hedefine ulaşarak ON Plus ile %43,50'ye varan faiz oranlarından yararlan!
+%43,50'ye Varan Faiz Oranı ON Plus'ta!
 ON Hesabına ekstra faiz ON Plus’ta! Mevduatına ek faiz oranından yararlanmak için tek yapman gereken harcama hedefine ulaşmak. Üstelik ON Hesap bakiyene ilk aya özel harcama hedefin ON’dan! İlk ay harcama yapmana gerek olmadan ON Plus avantajlarından yararlanmaya başlayabileceksin.
 Katılımcılar, program kapsamında yer alan indirim avantajlı kredilerin kullanılması ve harcama hedeflerini tamamlamaları durumunda, tanımlanan indirim oranından kredi vadelerinin ödeme gününde hesaplarına nakit iade alarak yararlanabilecektir.
 İlk katılımı takip eden ay ve sonrasında ise vadesiz hesabından yapacağın fatura ödemeleri ya da banka kartın ile yapacağın harcama tutarın toplamda 7.500 TL’ye ulaştığında bir sonraki ay ON Plus avantajlarından yararlanmaya devam edebileceksin.
@@ -633,20 +633,20 @@ Katılım koşullarını www.on.com.tr internet sitesinden takip etmek kullanıc
 ON bir Burgan Bank A.Ş. markası olup, Burgan Bank A.Ş. ON Plus programı özelliklerini sonlandırma ya da program koşullarında değişiklik yapma hakkını saklı tutar.
 ON Plus Faiz Oranları
 TL Bakiye Vadesiz Bakiye Faiz Oranı ON Plus Faizi ile
-10.500 - 49.999 TL 10.000 TL 39,00% 44,00%
-50.000 - 99.999 TL 12.500 TL 39,00% 44,00%
-100.000 - 249.999 TL 25.000 TL 39,00% 44,00%
-250.000 - 499.999 TL 50.000 TL 39,00% 44,00%
-500.000 - 749.999 TL 90.000 TL 39,00% 44,00%
-750.000 - 999.999 TL 140.000 TL 39,00% 44,00%
-1.000.000 - 1.249.999 TL 165.000 TL 39,00% 44,00%
-1.250.000 - 1.499.999 TL 175.000 TL 39,00% 44,00%
-1.500.000 - 1.749.999 TL 200.000 TL 39,00% 44,00%
-1.750.000 - 1.999.999 TL 250.000 TL 39,00% 44,00%
-2.000.000 - 2.499.999 TL 325.000 TL 39,00% 44,00%
-2.500.000 - 2.999.999 TL 350.000 TL 39,00% 44,00%
-3.000.000 - 3.999.999 TL 400.000 TL 39,00% 44,00%
-4.000.000 - 5.000.000 TL 500.000 TL 39,00% 44,00%
+10.500 - 49.999 TL 10.000 TL 38,50% 43,50%
+50.000 - 99.999 TL 12.500 TL 38,50% 43,50%
+100.000 - 249.999 TL 25.000 TL 38,50% 43,50%
+250.000 - 499.999 TL 50.000 TL 38,50% 43,50%
+500.000 - 749.999 TL 90.000 TL 38,50% 43,50%
+750.000 - 999.999 TL 140.000 TL 38,50% 43,50%
+1.000.000 - 1.249.999 TL 165.000 TL 38,50% 43,50%
+1.250.000 - 1.499.999 TL 175.000 TL 38,50% 43,50%
+1.500.000 - 1.749.999 TL 200.000 TL 38,50% 43,50%
+1.750.000 - 1.999.999 TL 250.000 TL 38,50% 43,50%
+2.000.000 - 2.499.999 TL 325.000 TL 38,50% 43,50%
+2.500.000 - 2.999.999 TL 350.000 TL 38,50% 43,50%
+3.000.000 - 3.999.999 TL 400.000 TL 38,50% 43,50%
+4.000.000 - 5.000.000 TL 500.000 TL 38,50% 43,50%
 
 
 --- ON KAMPANYA 25/52 ---
@@ -886,7 +886,7 @@ KART / ÜRÜN SINIFI: ON Kredi Kartı
 DETAY:
 Kampanya Detayları
 Kampanya 01.09.2026 00:01 ile 30.09.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
-Kampanyadan sadece ON Dijital müşterileri faydalanabilir.
+Kampanyadan sadece ON Mobil Avantajlar Dünyası’nda kampanyayı görüntüleyebilen ve kampanyaya katılım sağlayan müşteriler yararlanabilir.
 Kampanyadan faydalanmaya başlamak için ilk harcamadan önce ON Dijital'den "Hemen Katıl" butonuna tıklayarak kampanyaya kaydolması gerekmektedir.
 Kampanya kapsamında Akaryakıt sektöründe tek seferde yapacağın 1.000 TL ve üzeri 4. harcamana 400 TL iade verilecektir.
 Harcamanın Fiziki veya Sanal ON Kredi Kartları ile yapılması gerekmektedir.
@@ -1060,7 +1060,7 @@ KART / ÜRÜN SINIFI: ON Kredi Kartı
 DETAY:
 Kampanya Detayları
 Kampanya 01.07.2026 00:01 ile 31.12.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
-Kampanyadan sadece ON Dijital müşterileri faydalanabilir.
+Kampanyadan sadece ON Mobil Avantajlar Dünyası’nda kampanyayı görüntüleyebilen ve kampanyaya katılım sağlayan müşteriler yararlanabilir.
 Kampanya kapsamına sadece Otopark sektörlerinde yapılacak fiziki harcamalar dahildir.
 Kampanya kapsamında her ay yapacağın ilk 3 otopark harcamanda, işlem tutarının yarısı kadar, en fazla 50 TL olacak şekilde, kampanya kapsamında ise en fazla 150 TL’ye kadar nakit iade verilecektir.
 Harcamanın ON Banka Kartı veya ON Kredi Kartı ile yapılması gerekmektedir.
