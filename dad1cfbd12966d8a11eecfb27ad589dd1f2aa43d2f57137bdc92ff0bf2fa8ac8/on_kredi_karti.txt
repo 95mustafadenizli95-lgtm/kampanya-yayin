@@ -1,4 +1,4 @@
-=== ON GÜNCEL KAMPANYA HAVUZU (04/09/2026 04:57) ===
+=== ON GÜNCEL KAMPANYA HAVUZU (05/09/2026 04:54) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 51
 BAŞARIYLA OKUNAN KAMPANYA: 51
 HATALI KAMPANYA LİNKİ: 0
@@ -475,28 +475,42 @@ Banka kampanyayı durdurma, kampanya ödüllerini değiştirme hakkını saklı 
 --- ON KAMPANYA 20/51 ---
 BAŞLIK: ON Kredi Kartı Okula Dönüş Kampanyası
 LINK: https://on.com.tr/kampanyalar/on-kredi-karti-okula-donus-kampanyasi
-KART / ÜRÜN SINIFI: ON Kredi Kartı + yeni müşteri/edinim şartı
+KART / ÜRÜN SINIFI: ON Kredi Kartı
 DETAY:
 ON Kredi Kartı Okula Dönüş Kampanyası
-Kırtasiye, Giyim ve Elektronik sektörlerinde tek seferde yapacağınız ilk 7.500 TL ve üzeri harcamanıza 500 TL iade fırsatını kaçırmayın!
-Detaylı Bilgi
+ON Kredi Kartı Otomatik Fatura Ödeme Kampanyası
+ON PLUS
 Bellona Kampanyası
-Bellona mağazalarından yapacağın alışverişe özel %0 faizli, ilk taksiti 3 ay ertelemeli Alışveriş Kredisi ON'da!
-Detaylı Bilgi
+Troy Club Üyelerine Özel Kampanya
+ON Banka Kartı Akaryakıt Kampanyası
+ON Banka Kartı Market Kampanyası
 Kasko Akaryakıt Kampanyası
-ON KASKO ayrıcalığıyla bir depo yakıt ON’dan! 01 Temmuz 2026 - 31 Aralık 2026 tarihleri arasında ON Dijital’den kaskonu yaptır, Petrol Ofisi’nden 2.500 TL değerinde yakıt kazanma fırsatını yakala.
-Detaylı Bilgi
-Pluxee Kampanyası
-PLUXEEON kodu ile hemen ON’lu ol! ON Kredi Kartı ile yapacağın Pluxee Bakiye yüklemelerinin %50’si iade!
-Detaylı Bilgi
+ON Kredi Kartı İstanbulkart Kampanyası
+ON Kredi Kartı İzmir Ulaşım Kampanyası
+ON Kredi Kartı Ankara Ulaşım Kampanyası
+ON Kredi Kartı Elektrikli Araç Şarj Kampanyası
+Trafik Sigortası Akaryakıt Kampanyası
+ON Kredi Kartı Market Kampanyası
+%0 Komisyon Kampanyası
+Xiaomi Kampanyası
+Vatan Kampanyası
+İtopya Bilgisayar Kampanyası
+Mieko Kampanyası
+Özturanlar Mobilya Kampanyası
 Gündoğdu Mobilya Kampanyası
-Gündoğdu mağazalarından yapacağın alışverişe özel %0 faizli, ilk taksiti 3 ay ertelemeli Alışveriş Kredi fırsatı ON'da!
-Detaylı Bilgi
-Önceki
-Sonraki
-ON Dijital
-0850 222 29 10
-Ürün ve Hizmet Ücretleri
+Okula dönüş harcamalarınızda 500 TL iade fırsatı ON Kredi Kartında!
+Kampanya 03.09.2026 00:01 ile 30.09.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
+Kampanyadan sadece ON Dijital müşterileri faydalanabilir.
+Kampanyadan faydalanmaya başlamak için ilk harcamadan önce ON Dijital'den "Hemen Katıl" butonuna tıklayarak kampanyaya kaydolması gerekmektedir.
+Kampanya kapsamında Kırtasiye, Giyim ve Elektronik sektörlerinde tek seferde yapacağınız ilk 7.500 TL ve üzeri harcamanıza 500 TL iade verilecektir.
+Harcamanın Fiziki veya Sanal ON Kredi Kartları ile yapılması gerekmektedir.
+Kampanya kapsamında bir müşteri en fazla 500 TL iade kazanabilir.
+Kampanya kapsamında yapılan harcamalarda iade ve iptal işlemleri dikkate alınacaktır, iptal veya iade sonucu harcama tutarında değişiklik olması halinde yapılacak iade tutarı da değişiklik gösterebilir.
+Kampanya kapsamında firmaların kendi cüzdan uygulamalarına para yüklenerek yapılan alışveriş işlemler ve cüzdan ödemeleri veya bakiye yüklemeleri kampanya kapsamı dışındadır.
+Kampanyadan kazanılan nakit iadeler 5 iş gününde kredi kartına yansıtılacaktır.
+Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilgisinin doğru olmasının sorumluluğu iş yerine aittir.
+İadenin yüklenebilmesi için Kredi Kartının açık statüde olması gerekmektedir.
+ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
 --- ON KAMPANYA 21/51 ---
