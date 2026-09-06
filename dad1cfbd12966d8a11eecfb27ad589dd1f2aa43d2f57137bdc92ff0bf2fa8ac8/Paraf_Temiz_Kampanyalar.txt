@@ -1,4 +1,4 @@
-=== TEMİZLENMİŞ HALKBANK PARAF KAMPANYA RAPORU (05/09/2026 04:46) ===
+=== TEMİZLENMİŞ HALKBANK PARAF KAMPANYA RAPORU (06/09/2026 04:44) ===
 
 
 ======================================================================
@@ -3108,66 +3108,6 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 ======================================================================
 KAMPANYA NO                      : 67
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/metatechtrde-pesin-fiyatina-6-taksit-ve-6000tl-ye-varan-parafpara1.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-Beyaz Eşya Ve Elektronik
-Metatechtr ’de peşin fiyatına 6 taksit ve 6.000 TL’ye varan ParafPara
-Metatechtr ’de peşin fiyatına 6 taksit ve 6.000 TL’ye varan ParafPara!
-1-30 Eylül 2026 tarihleri arasında metatechtr.com sitesinde Paraf POS’undan tek seferde yapılacak ilk alışverişinize 25.000-44.999 TL arasında ise 1.500 TL; 45.000-99.999 TL arasında ise 3.000 TL; 100.000 TL ve üzeri alışverişinize ise 6.000 TL ParafPara verilecektir.
-Kampanya müşteri bazındadır. Her müşteri kampanyadan ilk işlemi ile sadece bir kez yararlanabilir ve en fazla 6.000 TL ParafPara kazanabilir.
-Kampanyaya katılmak için ilk alışverişten önce Paraf Mobil’den “Hemen Katıl” butonuna tıklanmalı ya da bankada kayıtlı cep telefonundan, META1 yazıp 3404’e SMS gönderilmelidir.
-İşlemlerin mutlaka kayıt olduktan sonra ve Paraf POS’larından gerçekleştirilmesi gerekmektedir. Kampanya katılım talebinin banka sistemine ulaşmasından sonraki işlemler dikkate alınmaktadır.
-Ödül kazanımına ilişkin bilgi Paraf Mobil’de yer alacak ve kazanım SMS’le bildirilecektir.
-Kazanılan ParafPara’lar, kazanımın ertesi günü, kazanım sağlanan işlemin yapıldığı karta yüklenecektir. Kazanılan ParafPara’lar tüm Paraf  üye işyerlerinde kullanılabilir.
-Kampanya müşteri bazındadır. Her müşteri kampanyadan ilk işlemi ile sadece bir kez yararlanabilir ve en fazla 6.000 TL ParafPara kazanabilir.
-Kampanyaya SMS ile katılmak için Turkcell, Vodafone ve TürkTelekom operatörlerine ait numaralar ile 3404’e SMS gönderilmelidir. Bu operatörler dışında SMS ile katılım sağlanamamaktadır.
-Katılım SMS’i, banka sisteminde kartın bağlı olduğu müşteri numarasına kayıtlı cep telefonu numarasından gönderilmelidir. Bu SMS ücretsizdir.
-Taksit kampanyasından yararlanabilmek için işlem anında POS üzerinden 6 taksit seçeneğinin seçilmesi gerekmektedir.
-Alışveriş sonrası sistem tarafından artı taksit uygulanmayacaktır.
-Paraf, Parafly, Sanal kartlar ve Ek kartlar ile yapılan işlemler kampanyaya dahildir.
-Paraf Debit, Parafree ve Halkcardlar, ParafPara kullanarak yapılan işlemler kampanyaya dahil değildir.
-Kampanya kapsamında yapılan işlemlerin iade ve iptal edilmesi durumunda, iptal ve iade edilen işlemler kampanyaya dahil edilmeyecektir. İşlemin iadesi ile birlikte kampanya tutar kriterinin altına düşmesi durumunda verilen paraf para geri alınacaktır.
-TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
-YAZDIR
-İlginizi Çekebilir
-Silver logolu Paraf Premium Mastercard'ınıza özel Atelier Rebul'de 1.000 TL indirim!
-PttAVM.com'da Peşin Fiyatına 3 Taksit
-Vivense’de Peşin fiyatına 5 Taksit!
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 68
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/casper-comtrde-pesin-fiyatina-6-taksit1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
 PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
@@ -3218,7 +3158,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 69
+KAMPANYA NO                      : 68
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/demirdokumde-9-aya-varan-taksit-ve-3000tl-parafpara2.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -3253,6 +3193,66 @@ Paraf, Parafly, Sanal kartlar ve Ek kartlar ile yapılan işlemler kampanyaya da
 Paraf Debit, Parafree ve Halkcardlar, ParafPara kullanarak yapılan işlemler kampanyaya dahil değildir.
 Kampanya kapsamında yapılan işlemlerin iade ve iptal edilmesi durumunda, iptal ve iade edilen işlemler kampanyaya dahil edilmeyecektir. İşlemin iadesi ile birlikte kampanya tutar kriterinin altına düşmesi durumunda verilen paraf para geri alınacaktır.
 ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır ve transfer edilen ParafPara’lar geri alınacaktır.
+TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
+İlginizi Çekebilir
+Silver logolu Paraf Premium Mastercard'ınıza özel Atelier Rebul'de 1.000 TL indirim!
+PttAVM.com'da Peşin Fiyatına 3 Taksit
+Vivense’de Peşin fiyatına 5 Taksit!
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 69
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/metatechtrde-pesin-fiyatina-6-taksit-ve-6000tl-ye-varan-parafpara1.html
+KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
+PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+Beyaz Eşya Ve Elektronik
+Metatechtr ’de peşin fiyatına 6 taksit ve 6.000 TL’ye varan ParafPara
+Metatechtr ’de peşin fiyatına 6 taksit ve 6.000 TL’ye varan ParafPara!
+1-30 Eylül 2026 tarihleri arasında metatechtr.com sitesinde Paraf POS’undan tek seferde yapılacak ilk alışverişinize 25.000-44.999 TL arasında ise 1.500 TL; 45.000-99.999 TL arasında ise 3.000 TL; 100.000 TL ve üzeri alışverişinize ise 6.000 TL ParafPara verilecektir.
+Kampanya müşteri bazındadır. Her müşteri kampanyadan ilk işlemi ile sadece bir kez yararlanabilir ve en fazla 6.000 TL ParafPara kazanabilir.
+Kampanyaya katılmak için ilk alışverişten önce Paraf Mobil’den “Hemen Katıl” butonuna tıklanmalı ya da bankada kayıtlı cep telefonundan, META1 yazıp 3404’e SMS gönderilmelidir.
+İşlemlerin mutlaka kayıt olduktan sonra ve Paraf POS’larından gerçekleştirilmesi gerekmektedir. Kampanya katılım talebinin banka sistemine ulaşmasından sonraki işlemler dikkate alınmaktadır.
+Ödül kazanımına ilişkin bilgi Paraf Mobil’de yer alacak ve kazanım SMS’le bildirilecektir.
+Kazanılan ParafPara’lar, kazanımın ertesi günü, kazanım sağlanan işlemin yapıldığı karta yüklenecektir. Kazanılan ParafPara’lar tüm Paraf  üye işyerlerinde kullanılabilir.
+Kampanya müşteri bazındadır. Her müşteri kampanyadan ilk işlemi ile sadece bir kez yararlanabilir ve en fazla 6.000 TL ParafPara kazanabilir.
+Kampanyaya SMS ile katılmak için Turkcell, Vodafone ve TürkTelekom operatörlerine ait numaralar ile 3404’e SMS gönderilmelidir. Bu operatörler dışında SMS ile katılım sağlanamamaktadır.
+Katılım SMS’i, banka sisteminde kartın bağlı olduğu müşteri numarasına kayıtlı cep telefonu numarasından gönderilmelidir. Bu SMS ücretsizdir.
+Taksit kampanyasından yararlanabilmek için işlem anında POS üzerinden 6 taksit seçeneğinin seçilmesi gerekmektedir.
+Alışveriş sonrası sistem tarafından artı taksit uygulanmayacaktır.
+Paraf, Parafly, Sanal kartlar ve Ek kartlar ile yapılan işlemler kampanyaya dahildir.
+Paraf Debit, Parafree ve Halkcardlar, ParafPara kullanarak yapılan işlemler kampanyaya dahil değildir.
+Kampanya kapsamında yapılan işlemlerin iade ve iptal edilmesi durumunda, iptal ve iade edilen işlemler kampanyaya dahil edilmeyecektir. İşlemin iadesi ile birlikte kampanya tutar kriterinin altına düşmesi durumunda verilen paraf para geri alınacaktır.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
@@ -3395,59 +3395,6 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 ======================================================================
 KAMPANYA NO                      : 72
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/otomotiv/paraf-ile-trumore-magazasinda-500-tl-indirim.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-Otomotiv
-Paraf İle Trumore Mağazasında 500 TL İndirim
-Trumore Mağazasında 500 TL İndirim
-30 Eylül 2026 tarihine kadar Trumore Mağazasında bireysel kredi kartları ile yapılacak olan 2.500 TL’lik ilk alışverişlerinize özel 500 TL indirim.
-Kampanyadan faydalanabilmek için Trumore uygulamasını akıllı telefonunuza yüklemiş olmanız ve kayıt oluşturmanız gerekmektedir. Trumore uygulaması App Store, Google Play ve Huawei App Gallery üzerinden ücretsiz indirilebilmektedir.
-Kampanya müşteri bazlı olup, bir müşteri kampanyaya bir kez katılabilir ve tek seferde 500 TL indirim kazanabilir.
-Kazanılan indirim, işlem sonrası ilk ekstrenize yansıtılacaktır.
-Paraf, Parafly, Parafree, Paraf Kadın bireysel kredi kartları kampanyaya dahil olup, HalkCard, Debit kartlar, ticari kartlar ve ParafPara kullanılarak yapılan işlemler kampanyaya dahil değildir.
-Kampanya kapsamında yapılan işlemlerin iade ve iptal edilmesi durumunda, iptal ve iade edilen işlemler kampanyaya dahil edilmeyecektir.
-Kampanya ile ilgili detaylı bilgiye paraf.com.tr ve Paraf Mobil uygulaması üzerinden ulaşabilirsiniz.
-TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını haizdir.
-YAZDIR
-İlginizi Çekebilir
-Silver logolu Paraf Premium Mastercard'ınıza özel Atelier Rebul'de 1.000 TL indirim!
-PttAVM.com'da Peşin Fiyatına 3 Taksit
-Vivense’de Peşin fiyatına 5 Taksit!
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 73
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/yves-rocher-magazalarinda-250tl-parafpara1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
 PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
@@ -3477,6 +3424,59 @@ Paraf, Parafly ve Ek kartlar ile yapılan işlemler kampanyaya dahildir. Debit K
 ParafPara transfer işlemi ParafPara kullanımı olarak sayılmayacaktır ve transfer edilen ParafPara’lar geri alınacaktır.
 Kampanyaya ilişkin bilgi müşteriye ait slip üzerinde yer alacak olup geriye dönük yararlandırma ya da değişiklik yapılmayacaktır.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
+İlginizi Çekebilir
+Silver logolu Paraf Premium Mastercard'ınıza özel Atelier Rebul'de 1.000 TL indirim!
+PttAVM.com'da Peşin Fiyatına 3 Taksit
+Vivense’de Peşin fiyatına 5 Taksit!
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 73
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/otomotiv/paraf-ile-trumore-magazasinda-500-tl-indirim.html
+KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
+PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+Otomotiv
+Paraf İle Trumore Mağazasında 500 TL İndirim
+Trumore Mağazasında 500 TL İndirim
+30 Eylül 2026 tarihine kadar Trumore Mağazasında bireysel kredi kartları ile yapılacak olan 2.500 TL’lik ilk alışverişlerinize özel 500 TL indirim.
+Kampanyadan faydalanabilmek için Trumore uygulamasını akıllı telefonunuza yüklemiş olmanız ve kayıt oluşturmanız gerekmektedir. Trumore uygulaması App Store, Google Play ve Huawei App Gallery üzerinden ücretsiz indirilebilmektedir.
+Kampanya müşteri bazlı olup, bir müşteri kampanyaya bir kez katılabilir ve tek seferde 500 TL indirim kazanabilir.
+Kazanılan indirim, işlem sonrası ilk ekstrenize yansıtılacaktır.
+Paraf, Parafly, Parafree, Paraf Kadın bireysel kredi kartları kampanyaya dahil olup, HalkCard, Debit kartlar, ticari kartlar ve ParafPara kullanılarak yapılan işlemler kampanyaya dahil değildir.
+Kampanya kapsamında yapılan işlemlerin iade ve iptal edilmesi durumunda, iptal ve iade edilen işlemler kampanyaya dahil edilmeyecektir.
+Kampanya ile ilgili detaylı bilgiye paraf.com.tr ve Paraf Mobil uygulaması üzerinden ulaşabilirsiniz.
+TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını haizdir.
 YAZDIR
 İlginizi Çekebilir
 Silver logolu Paraf Premium Mastercard'ınıza özel Atelier Rebul'de 1.000 TL indirim!
@@ -3672,61 +3672,6 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 ======================================================================
 KAMPANYA NO                      : 77
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/durumlede-yuzde-20-indirim-agustos1.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-Kafe ve Restoran
-Dürümle'de %20 indirim
-Dürümle'de %20 indirim
-Bireysel Paraf Kredi Kartlarınız ile 1-30 Eylül 2026 tarihleri arasında, anlaşmalı Dürümle restoranlarında tek seferde yapılacak 750 TL ve üzeri ilk işleme %20 indirim verilecektir.
-Kampanya Paraf POS’larından yapılacak alışverişlerde geçerli olup, indirim tutarı kredi kartına yansıtılacaktır.
-Kampanya müşteri bazındadır ve bir müşteri ayda en fazla 150 TL indirim kazanabilir.
-Kampanyaya katılmak için harcama yapmadan önce Halkbank Mobil veya Paraf Mobil’den “Hemen Katıl” butonunun tıklanması gerekmektedir.
-Kampanyaya ilişkin bilgi ve kazanılan ödüller Paraf Mobil’de yer alacak olup, geriye dönük yararlandırma ya da değişiklik yapılmayacaktır.
-Dürümle’de %20 indirim ödülü restorandaki indirimli ürünlerde geçerli değildir.
-Kampanya kapsamındaki alışverişlerin iptal/iade edilmesi durumunda verilmiş ödüller de iptal edilecektir.
-İşlemlerin mutlaka kayıt olduktan sonra ve Paraf POS’larından gerçekleştirilmesi gerekmektedir. Kampanya katılım talebinin banka sistemine ulaşmasından sonraki işlemler dikkate alınmaktadır.
-Kampanya kapsamında müşterinin kayıt olduğu kart ile harcama yapması gerekmektedir.
-Paraf, Parafly, Parafree, Paraf Genç, Ek kartlar kampanyaya dahildir.
-Ticari kartlar, Business kartlar, Debit kartlar, Halkcard, Sanal kartlar, ParafPara kullanılarak yapılan işlemler, iptal/iade işlemleri kampanyaya dahil değildir.
-Kampanya eve sipariş vb. restoran dışı alışverişlerde geçerli değildir.
-Dürümle’de %20 indirim ödülü başka bir indirim ödülü ile birleştirilemeyecek olup, kampanyanın farklı bir kampanya ile çakışması durumunda indirim tutarı daha büyük olan ödül karta yansıtılacaktır.
-TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
-YAZDIR
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 78
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/zsa-zsa-zsuda-pesin-fiyatina-6-taksit-ve-6000tl-ve-uzeri-ilk-alisverisinize-1000tl-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
 PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
@@ -3769,6 +3714,61 @@ YAZDIR
 Silver logolu Paraf Premium Mastercard'ınıza özel Atelier Rebul'de 1.000 TL indirim!
 PttAVM.com'da Peşin Fiyatına 3 Taksit
 Vivense’de Peşin fiyatına 5 Taksit!
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 78
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/durumlede-yuzde-20-indirim-agustos1.html
+KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
+PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+Kafe ve Restoran
+Dürümle'de %20 indirim
+Dürümle'de %20 indirim
+Bireysel Paraf Kredi Kartlarınız ile 1-30 Eylül 2026 tarihleri arasında, anlaşmalı Dürümle restoranlarında tek seferde yapılacak 750 TL ve üzeri ilk işleme %20 indirim verilecektir.
+Kampanya Paraf POS’larından yapılacak alışverişlerde geçerli olup, indirim tutarı kredi kartına yansıtılacaktır.
+Kampanya müşteri bazındadır ve bir müşteri ayda en fazla 150 TL indirim kazanabilir.
+Kampanyaya katılmak için harcama yapmadan önce Halkbank Mobil veya Paraf Mobil’den “Hemen Katıl” butonunun tıklanması gerekmektedir.
+Kampanyaya ilişkin bilgi ve kazanılan ödüller Paraf Mobil’de yer alacak olup, geriye dönük yararlandırma ya da değişiklik yapılmayacaktır.
+Dürümle’de %20 indirim ödülü restorandaki indirimli ürünlerde geçerli değildir.
+Kampanya kapsamındaki alışverişlerin iptal/iade edilmesi durumunda verilmiş ödüller de iptal edilecektir.
+İşlemlerin mutlaka kayıt olduktan sonra ve Paraf POS’larından gerçekleştirilmesi gerekmektedir. Kampanya katılım talebinin banka sistemine ulaşmasından sonraki işlemler dikkate alınmaktadır.
+Kampanya kapsamında müşterinin kayıt olduğu kart ile harcama yapması gerekmektedir.
+Paraf, Parafly, Parafree, Paraf Genç, Ek kartlar kampanyaya dahildir.
+Ticari kartlar, Business kartlar, Debit kartlar, Halkcard, Sanal kartlar, ParafPara kullanılarak yapılan işlemler, iptal/iade işlemleri kampanyaya dahil değildir.
+Kampanya eve sipariş vb. restoran dışı alışverişlerde geçerli değildir.
+Dürümle’de %20 indirim ödülü başka bir indirim ödülü ile birleştirilemeyecek olup, kampanyanın farklı bir kampanya ile çakışması durumunda indirim tutarı daha büyük olan ödül karta yansıtılacaktır.
+TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -5533,69 +5533,6 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 ======================================================================
 KAMPANYA NO                      : 112
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/seyahat/silver-logolu-paraf-mastercard-sahiplerine-progo-ile-istanbul-havalimani-ve-sabiha-gokcen-havalimani-transferi-1500tl.html
-KAMPANYA GEÇERLİLİK TARİHİ       : 15 Mayıs 2026 – 15 Kasım 2026
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-Seyahat
-Silver Logolu Paraf Mastercard sahiplerine Progo ile İstanbul Havalimanı ve Sabiha Gökçen Havalimanı Transferi 1.500 TL!
-Silver Logolu Paraf Premium Mastercard'ınıza özel Progo ile havalimanı transferi 1.500 TL!
-Kampanya, 15 Mayıs 2026 – 15 Kasım 2026 tarihleri arasında geçerlidir.
-Silver logolu Mastercard sahipleri başlangıç noktası İstanbul içerisinde olan, İstanbul Havalimanı veya Sabiha Gökçen Havalimanı başlangıç veya bitişli havalimanı transferlerini Progo Travel ile 1.500 TL’ye gerçekleştirebiliyor.
-Kampanya kapsamında kullanıcıların, kampanya başlangıç tarihi itibarıyla Mastercard Silver logolu banka kartı, kredi kartı veya ön ödemeli kartları ile Progo üzerinden yapacakları İstanbul Havalimanı transferleri için geçerlidir.
-Kampanya sadece yolculuk bedeli 4.000 TL’ye kadar olan havalimanı yolculuklarında geçerlidir.
-Kampanya sadece İstanbul içerisinde gerçekleştirilen seyahatler için geçerlidir.
-Kupon kodları 31 Aralık 2026 tarihine kadar geçerlidir.
-İndirimden yararlanabilmek için kullanıcıların https://www.masterpassplus.com/progo  adresinden indirim kuponu almaları ve https://www.progotravel.com adresi üzerinden araç rezervasyonu yaparken ilgili alana bu kupon kodunu girmeleri gerekmektedir. İndirimli tutar ödeme aşamasında uygulanacaktır.
-Kampanyadan faydalanılabilmesi için ödemenin Silver logolu Mastercard ile yapılması gerekmektedir.
-Kazanılan ödülün nakit karşılığı talep edilemez.
-Kampanya Silver logolu Mastercard kredi kartları, banka kartları ve ön ödemeli kartlar için geçerlidir.
-Kampanya stoklarla sınırlıdır. Kota dolduğunda kampanya belirtilen bitiş tarihinden önce otomatik olarak sona erebilir.
-Progo ve Mastercard, kampanyayı diledikleri zaman durdurma veya kampanya koşullarında değişiklik yapma hakkını saklı tutar.
-Mastercard, kampanya süresi boyunca kampanya koşullarında tek taraflı değişiklik yapma hakkına sahiptir.
-İndirim yalnızca https://www.progotravel.com adresi üzerinden yapılan rezervasyonlarda geçerlidir.
-Bu kampanya, diğer indirim ve kampanyalarla birleştirilemez.
-Her Masterpass kullanıcısı kampanya süresi boyunca sadece 1 kez kupon kodu alabilir.
-Kampanya ile ilgili soru ve geri bildirimler için masterpassturkiye@mplusgroup.com.tr adresine ulaşılabilir. Dönüşler en geç 14 iş günü içerisinde sağlanacaktır.
-TÜRKİYE HALK BANKASI A.Ş kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
-YAZDIR
-İlginizi Çekebilir
-Silver logolu Paraf Premium Mastercard'ınıza özel Atelier Rebul'de 1.000 TL indirim!
-PttAVM.com'da Peşin Fiyatına 3 Taksit
-Vivense’de Peşin fiyatına 5 Taksit!
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 113
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/seyahat/masterpasse-kayitli-paraf-mastercard-sahiplerine-izmir-bodrum-ve-ankarada-otopark-odemelerinde-yuzde50-indirim.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
 PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
@@ -5652,7 +5589,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 114
+KAMPANYA NO                      : 113
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/seyahat/masterpasse-kayitli-paraf-mastercard-sahiplerine-izmir-bodrum-ve-ankarada-havas-seyahatlerinde-yuzde50-indirim.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -5685,6 +5622,69 @@ Kampanya yalnızca ilk kullanım için geçerlidir.
 Havaş için biniş hakkı satın alınmakta olup otobüs yoğunluğuna bağlı olarak yer garantisi sağlanmamaktadır.
 Kampanya stoklarla sınırlıdır. Kota dolduğunda kampanya belirtilen bitiş tarihinden önce otomatik olarak sona erecektir.
 Mastercard ve TAV İşletme Hizmetleri A.Ş. kampanya koşullarında değişiklik yapma hakkını saklı tutar.
+TÜRKİYE HALK BANKASI A.Ş kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
+İlginizi Çekebilir
+Silver logolu Paraf Premium Mastercard'ınıza özel Atelier Rebul'de 1.000 TL indirim!
+PttAVM.com'da Peşin Fiyatına 3 Taksit
+Vivense’de Peşin fiyatına 5 Taksit!
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 114
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/seyahat/silver-logolu-paraf-mastercard-sahiplerine-progo-ile-istanbul-havalimani-ve-sabiha-gokcen-havalimani-transferi-1500tl.html
+KAMPANYA GEÇERLİLİK TARİHİ       : 15 Mayıs 2026 – 15 Kasım 2026
+PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+Seyahat
+Silver Logolu Paraf Mastercard sahiplerine Progo ile İstanbul Havalimanı ve Sabiha Gökçen Havalimanı Transferi 1.500 TL!
+Silver Logolu Paraf Premium Mastercard'ınıza özel Progo ile havalimanı transferi 1.500 TL!
+Kampanya, 15 Mayıs 2026 – 15 Kasım 2026 tarihleri arasında geçerlidir.
+Silver logolu Mastercard sahipleri başlangıç noktası İstanbul içerisinde olan, İstanbul Havalimanı veya Sabiha Gökçen Havalimanı başlangıç veya bitişli havalimanı transferlerini Progo Travel ile 1.500 TL’ye gerçekleştirebiliyor.
+Kampanya kapsamında kullanıcıların, kampanya başlangıç tarihi itibarıyla Mastercard Silver logolu banka kartı, kredi kartı veya ön ödemeli kartları ile Progo üzerinden yapacakları İstanbul Havalimanı transferleri için geçerlidir.
+Kampanya sadece yolculuk bedeli 4.000 TL’ye kadar olan havalimanı yolculuklarında geçerlidir.
+Kampanya sadece İstanbul içerisinde gerçekleştirilen seyahatler için geçerlidir.
+Kupon kodları 31 Aralık 2026 tarihine kadar geçerlidir.
+İndirimden yararlanabilmek için kullanıcıların https://www.masterpassplus.com/progo  adresinden indirim kuponu almaları ve https://www.progotravel.com adresi üzerinden araç rezervasyonu yaparken ilgili alana bu kupon kodunu girmeleri gerekmektedir. İndirimli tutar ödeme aşamasında uygulanacaktır.
+Kampanyadan faydalanılabilmesi için ödemenin Silver logolu Mastercard ile yapılması gerekmektedir.
+Kazanılan ödülün nakit karşılığı talep edilemez.
+Kampanya Silver logolu Mastercard kredi kartları, banka kartları ve ön ödemeli kartlar için geçerlidir.
+Kampanya stoklarla sınırlıdır. Kota dolduğunda kampanya belirtilen bitiş tarihinden önce otomatik olarak sona erebilir.
+Progo ve Mastercard, kampanyayı diledikleri zaman durdurma veya kampanya koşullarında değişiklik yapma hakkını saklı tutar.
+Mastercard, kampanya süresi boyunca kampanya koşullarında tek taraflı değişiklik yapma hakkına sahiptir.
+İndirim yalnızca https://www.progotravel.com adresi üzerinden yapılan rezervasyonlarda geçerlidir.
+Bu kampanya, diğer indirim ve kampanyalarla birleştirilemez.
+Her Masterpass kullanıcısı kampanya süresi boyunca sadece 1 kez kupon kodu alabilir.
+Kampanya ile ilgili soru ve geri bildirimler için masterpassturkiye@mplusgroup.com.tr adresine ulaşılabilir. Dönüşler en geç 14 iş günü içerisinde sağlanacaktır.
 TÜRKİYE HALK BANKASI A.Ş kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
@@ -6361,55 +6361,6 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 ======================================================================
 KAMPANYA NO                      : 127
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/egitim-kirtasiye/paraf-premium-bilfen-okullarinda-pesin-okul-odemelerinizde-8-taksit-firsati1.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-Eğitim/Kırtasiye
-Paraf Premium ile Bilfen Okullarında Peşin Okul Ödemelerinde 8 Taksit Fırsatı!
-Bilfen Okullarında Peşin Okul Ödemelerinizde 8 Taksit Fırsatı!
-Paraf Premium Kredi Kartları ile 30 Eylül’e kadar Bilfen Okullarında Paraf POS’undan yapılacak peşin okul ödemeleriniz ücretsiz 8 taksite bölünecektir.
-Kampanyaya sadece peşin yapılan okul ödemeleri dahildir.
-Okul ödemeleri dışındaki eğitim harcamaları (yemekhane, servis vs.) ve başka banka POS'larından yapılan okul ödemeleri kampanyaya dahil değildir.
-Kampanyadan yararlanabilmek için işlemin Paraf POS'undan gerçekleştirilmesi gerekmektedir.
-Kampanyaya sadece Paraf Premium Kredi Kartları dahil olup diğer Paraf Kredi Kartları, Parafly, Paraf Genç, Ticari kartlar, sanal ve ek kartlar, Debit kartlar, HalkCard, ParafPara kullanılarak yapılan alışverişler ile iptal ve iade işlemleri kampanyaya dahil değildir.
-Artı taksit eklenmiş hali 8 taksit ve 10.000.000 TL işlem tutarı ile sınırlıdır.
-Yararlanılacak olan kampanyaya ilişkin bilgi slip üzerinde yer alacak olup, geriye dönük yararlandırma ya da değişiklik yapılmayacaktır.
-TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
-YAZDIR
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 128
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/seyahat/paraflytravelcomda-15000tlye-varan-indirim-kodu-veya-pesin-odemede-yuzde10-indirim21.html
 KAMPANYA GEÇERLİLİK TARİHİ       : 01 Aralık 2026 - 31 Ağustos 2027
 PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
@@ -6451,6 +6402,55 @@ YAZDIR
 Silver logolu Paraf Premium Mastercard'ınıza özel Atelier Rebul'de 1.000 TL indirim!
 PttAVM.com'da Peşin Fiyatına 3 Taksit
 Vivense’de Peşin fiyatına 5 Taksit!
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 128
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/egitim-kirtasiye/paraf-premium-bilfen-okullarinda-pesin-okul-odemelerinizde-8-taksit-firsati1.html
+KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
+PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+Eğitim/Kırtasiye
+Paraf Premium ile Bilfen Okullarında Peşin Okul Ödemelerinde 8 Taksit Fırsatı!
+Bilfen Okullarında Peşin Okul Ödemelerinizde 8 Taksit Fırsatı!
+Paraf Premium Kredi Kartları ile 30 Eylül’e kadar Bilfen Okullarında Paraf POS’undan yapılacak peşin okul ödemeleriniz ücretsiz 8 taksite bölünecektir.
+Kampanyaya sadece peşin yapılan okul ödemeleri dahildir.
+Okul ödemeleri dışındaki eğitim harcamaları (yemekhane, servis vs.) ve başka banka POS'larından yapılan okul ödemeleri kampanyaya dahil değildir.
+Kampanyadan yararlanabilmek için işlemin Paraf POS'undan gerçekleştirilmesi gerekmektedir.
+Kampanyaya sadece Paraf Premium Kredi Kartları dahil olup diğer Paraf Kredi Kartları, Parafly, Paraf Genç, Ticari kartlar, sanal ve ek kartlar, Debit kartlar, HalkCard, ParafPara kullanılarak yapılan alışverişler ile iptal ve iade işlemleri kampanyaya dahil değildir.
+Artı taksit eklenmiş hali 8 taksit ve 10.000.000 TL işlem tutarı ile sınırlıdır.
+Yararlanılacak olan kampanyaya ilişkin bilgi slip üzerinde yer alacak olup, geriye dönük yararlandırma ya da değişiklik yapılmayacaktır.
+TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
@@ -6523,60 +6523,6 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 ======================================================================
 KAMPANYA NO                      : 130
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/n11de-pesin-fiyatina-3-taksit.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-E-Ticaret
-n11'de Peşin Fiyatına 3 Taksit
-n11'de Peşin Fiyatına 3 Taksit
-30 Eylül 2026 tarihine kadar n11’de tek seferde yapılacak alışverişlerde peşin fiyatına 3 aya varan taksit imkanı sunulmaktadır.
-Peşin fiyatına 3 taksit uygulaması sepet toplamı 2.000 TL ve üzeri siparişlerde geçerlidir.
-n11 belirli kategorilerde yer alan ürünleri peşin fiyatına taksit uygulamasından hariç tutabilir.
-Kampanyadan faydalanmak için ödeme esnasında ilgili taksitlerin seçilmesi gerekmektedir.
-Kampanyaya ilişkin geriye dönük yararlandırma ve değişiklik yapılmayacaktır.
-Kampanya Paraf POS’undan  yapılan işlemlerde geçerli olacaktır.
-Taksitler, Bankacılık Düzenleme ve Denetleme Kurulu tarafından taksit kısıtı kapsamında yer almayan ürünler için geçerlidir.
-Paraf, Parafly, Parafree, Emlak Katılım Paraf, Dünya Katılım Paraf, sanal ve ek kartlar kampanyadan faydalanabilecektir. Ticari kredi kartları için peşin fiyatına taksit uygulaması yoktur.
-TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
-YAZDIR
-İlginizi Çekebilir
-Silver logolu Paraf Premium Mastercard'ınıza özel Atelier Rebul'de 1.000 TL indirim!
-PttAVM.com'da Peşin Fiyatına 3 Taksit
-Vivense’de Peşin fiyatına 5 Taksit!
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 131
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/amazon-com-trde-pesin-fiyatina-9-aya-varan-taksit.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
 PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
@@ -6607,6 +6553,60 @@ Yasal Mevzuat gereğince telekomünikasyon, kuyum, yemek ve gıda, kozmetik, ofi
 Amazon.com.tr belirli kategorilerde yer alan ürünleri peşin fiyatına taksit uygulamasından hariç tutabilir.
 Paraf ve Parafly kredi kartları, Paraf Genç, Ticari kartlar, Emlak Katılım Paraf, Dünya Katılım Paraf, sanal ve ek kartlar kampanyadan faydalanabilecektir.
 Debit kartlar, Halkcard ve ParafPara kullanarak yapılan işlemler kampanyaya dahil değildir.
+TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
+İlginizi Çekebilir
+Silver logolu Paraf Premium Mastercard'ınıza özel Atelier Rebul'de 1.000 TL indirim!
+PttAVM.com'da Peşin Fiyatına 3 Taksit
+Vivense’de Peşin fiyatına 5 Taksit!
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 131
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/n11de-pesin-fiyatina-3-taksit.html
+KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
+PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+E-Ticaret
+n11'de Peşin Fiyatına 3 Taksit
+n11'de Peşin Fiyatına 3 Taksit
+30 Eylül 2026 tarihine kadar n11’de tek seferde yapılacak alışverişlerde peşin fiyatına 3 aya varan taksit imkanı sunulmaktadır.
+Peşin fiyatına 3 taksit uygulaması sepet toplamı 2.000 TL ve üzeri siparişlerde geçerlidir.
+n11 belirli kategorilerde yer alan ürünleri peşin fiyatına taksit uygulamasından hariç tutabilir.
+Kampanyadan faydalanmak için ödeme esnasında ilgili taksitlerin seçilmesi gerekmektedir.
+Kampanyaya ilişkin geriye dönük yararlandırma ve değişiklik yapılmayacaktır.
+Kampanya Paraf POS’undan  yapılan işlemlerde geçerli olacaktır.
+Taksitler, Bankacılık Düzenleme ve Denetleme Kurulu tarafından taksit kısıtı kapsamında yer almayan ürünler için geçerlidir.
+Paraf, Parafly, Parafree, Emlak Katılım Paraf, Dünya Katılım Paraf, sanal ve ek kartlar kampanyadan faydalanabilecektir. Ticari kredi kartları için peşin fiyatına taksit uygulaması yoktur.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
