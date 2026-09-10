@@ -1,8 +1,8 @@
-=== QNB & GSPARA GÜNCEL KAMPANYA HAVUZU (09/09/2026 04:49) ===
+=== QNB & GSPARA GÜNCEL KAMPANYA HAVUZU (10/09/2026 04:46) ===
 QNB'DEN TOPLANAN: 2
 GSPARA'DAN TOPLANAN: 19
 BİRLEŞİK BENZERSİZ: 21
-KONTROL TARİHİ: 9 Eylül 2026
+KONTROL TARİHİ: 10 Eylül 2026
 
 
 --- QNB_GSPARA KAMPANYA 1/21 ---
@@ -32,6 +32,7 @@ Kampanya diğer kampanyalar ile birleştirilemez.
 Kampanya kapsamında satın alınan ürün veya hizmetlerle ilgili yaşanabilecek her türlü sorun, itiraz ve şikâyetler, ilgili iş yerlerinin şikâyet hatlarına iletilebilir.
 Kampanyadan çıkış yapmak istemeniz durumunda QNB Mobil'den, IPTAL OKUL yazıp 2273’e SMS göndererek ya da 0850 222 0 900 no’lu telefondan Telefon Bankacılığı’nı arayarak çıkış işleminizi gerçekleştirebilirsiniz.
 Bankamız kampanyayı durdurma ve değiştirme hakkını saklı tutar.
+Hemen Başvur
 Dijital Bankacılık
 Satılık Gayrimenkuller
 Yatırımcı İlişkileri
@@ -88,11 +89,10 @@ Bilgi Toplumu Hizmetleri
 
 
 --- QNB_GSPARA KAMPANYA 3/21 ---
-BAŞLIK: Ayrıcalıklar
+BAŞLIK: Yeni GSParalılara özel %0 faizli 60.000 TL!
 LINK: https://www.gspara.com.tr/ayricaliklar/gecmis-ayricaliklar
 KAYNAK: GSPARA
 SON TARİH BELİRTİLMEMİŞ
-Güncel Ayrıcalıklar
 Yeni GSParalılara özel %0 faizli 60.000 TL!
 GSPara uygulamasını indir, GSParalı ol, 30 gün içerisinde uygulamadan yapacağın başvurunun onaylanması durumunda aylık %0 faiz oranlı 60.000 TL'ye varan 3 ay taksitli kredi fırsatını kaçırma!
 İncele
