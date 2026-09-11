@@ -1,10 +1,10 @@
-=== MILES&SMILES GÜNCEL KAMPANYA HAVUZU (10/09/2026 04:22) ===
+=== MILES&SMILES GÜNCEL KAMPANYA HAVUZU (11/09/2026 04:28) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 121
-KONTROL TARİHİ: 10 Eylül 2026
+KONTROL TARİHİ: 11 Eylül 2026
 
 
 --- MILES&SMILES KAMPANYA 1/121 ---
-BAŞLIK: Yurt dışı harcamalarınıza 4.500 Mil ayrıcalığı!
+BAŞLIK: Miles&Smiles Garanti BBVA American Express kart ile yurtdışında daha ayrıcalıklısınız
 LINK: https://milesandsmilesgarantibbva.com/kampanyalar/yurt-disi-harcamalariniza-4500-mil-ayricaligi-eylul
 SON TARİH: 30 Eylül 2026
 Miles&Smiles Garanti BBVA Kredi Kartlarına Başvur
@@ -1241,6 +1241,7 @@ Başlangıç - Bitiş Tarihleri
 Nasıl Kazanırım
 Brooks Brothers mağazalarından yapacağınız, peşin veya taksitli 20.000 TL ve üzeri ilk alışverişinizde mağaza içi tüm indirimlere ek +%10 indirim uygulanacaktır.
 Kampanya dahilindeki işlemlerin mutlaka Garanti BBVA POS’u kullanılarak gerçekleştirilmiş olması gerekmektedir.
+Kampanyadan faydalanmak için Brooks Brothers Prestige sadakat programı üyesi olunması gerekmektedir. Kasa personeli, ödeme noktasında programa ücretsiz şekilde üye olunması için müşterilerimizi yönlendirecektir.
 Katılmak İçin
 Kampanyadan yararlanmak için BonusFlaş uygulaması üzerinden “HEMEN KATIL” butonu kullanılarak oluşan kupon kodunu Brooks Brothers mağazalarında ödeme aşamasında kasa sorumlusuna verilmesi gerekmektedir.
 BonusFlaş üzerinden alınan indirim kodları “Bildirimler” / “Kampanya” sekmesi altında, kampanya süresince görüntülenebilir.

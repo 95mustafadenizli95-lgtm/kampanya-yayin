@@ -1,4 +1,4 @@
-=== ON GÜNCEL KAMPANYA HAVUZU (10/09/2026 04:57) ===
+=== ON GÜNCEL KAMPANYA HAVUZU (11/09/2026 04:56) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 53
 BAŞARIYLA OKUNAN KAMPANYA: 53
 HATALI KAMPANYA LİNKİ: 0
@@ -526,25 +526,41 @@ LINK: https://on.com.tr/kampanyalar/taraftar-store-kampanyasi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
 DETAY:
 Taraftar Store Kampanyası
-Takımının renklerini taşı 500 TL iade kazan! ON Kredi Kartınızla Taraftar Store'lardan tek seferde yapacağınız 4.000 TL ve üstü harcamanıza 500 TL iade fırsatını kaçırma!
-Detaylı Bilgi
-ON Kredi Kartı Elektrikli Araç Şarj Kampanyası
-Elektrikli Şarj İstasyonlarında tek seferde yapacağın her ödemede %20, toplam 500 TL’ye varan iade fırsatını kaçırma!
-Detaylı Bilgi
-Yoyo %50 İndirim Kampanyası
-Yoyo Özel Şoförlü Ulaşımda ON’lulara İlk Yolculuğa Özel %50 indirim!
-Detaylı Bilgi
+ChatGPT Kampanyası
+ON Kredi Kartı Otomatik Fatura Ödeme Kampanyası
+ON PLUS
+Bellona Kampanyası
+Troy Club Üyelerine Özel Kampanya
+ON Banka Kartı Akaryakıt Kampanyası
+ON Banka Kartı Market Kampanyası
+Kasko Akaryakıt Kampanyası
+ON Kredi Kartı İstanbulkart Kampanyası
 ON Kredi Kartı İzmir Ulaşım Kampanyası
-Tek seferde yapacağın 500 TL ve üzeri İzmir ulaşım kartı yüklemene 100 TL iade fırsatını kaçırma!
-Detaylı Bilgi
-ON Kredi Kartı ve Banka Kartı Pamukkale Seyahat İndirim Kampanyası
-Pamukkale Turizm üzerinden otobüs bileti alımlarında geçerli 400 TL'ye varan indirim!
-Detaylı Bilgi
-Önceki
-Sonraki
-ON Dijital
-0850 222 29 10
-Ürün ve Hizmet Ücretleri
+ON Kredi Kartı Ankara Ulaşım Kampanyası
+ON Kredi Kartı Elektrikli Araç Şarj Kampanyası
+Trafik Sigortası Akaryakıt Kampanyası
+ON Kredi Kartı Market Kampanyası
+%0 Komisyon Kampanyası
+Xiaomi Kampanyası
+Vatan Kampanyası
+İtopya Bilgisayar Kampanyası
+Mieko Kampanyası
+Özturanlar Mobilya Kampanyası
+Gündoğdu Mobilya Kampanyası
+Taraftar Mağazalarında 500 TL iade fırsatı ON Kredi Kartında!
+Kampanya 09.09.2026 00:01 ile 30.09.2026 23:59 tarihleri arasında yapılan harcamalar için geçerli olacaktır.
+Kampanyadan sadece ON Dijital müşterileri faydalanabilir.
+Kampanyadan faydalanmaya başlamak için ilk harcamadan önce ON Dijital'den "Hemen Katıl" butonuna tıklayarak kampanyaya kaydolması gerekmektedir.
+Kampanya kapsamında kulüplerin resmi mağazalarından (Fenerium, Kartal Yuvası, GS Store, TS Club) tek seferde yapacağın 4.000 TL ve üstü harcamalara 500 TL iade verilecektir.
+Kampanya sadece resmi mağazalardan yapılan harcamalarda geçerlidir. Resmi mağazalar harici harcamalar kampanya kapsamında değildir
+Harcamanın Fiziki veya Sanal ON Kredi Kartı ile yapılması gerekmektedir.
+Kampanya kapsamında bir müşteri en fazla 500 TL iade kazanabilir.
+Kampanya kapsamında yapılan harcamalarda iade ve iptal işlemleri dikkate alınacaktır, iptal veya iade sonucu harcama tutarında değişiklik olması halinde yapılacak iade tutarı da değişiklik gösterebilir.
+Kampanya kapsamında firmaların kendi cüzdan uygulamalarına para yüklenerek yapılan alışveriş işlemler ve cüzdan ödemeleri veya bakiye yüklemeleri kampanya kapsamı dışındadır.
+Kampanyadan kazanılan nakit iadeler 5 iş gününde kredi kartına yansıtılacaktır.
+Alışverişin gerçekleştirildiği iş yerinin sistemde kayıtlı sektör bilgisinin doğru olmasının sorumluluğu iş yerine aittir.
+İadenin yüklenebilmesi için Kredi Kartının açık statüde olması gerekmektedir.
+ON Dijital kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
 --- ON KAMPANYA 21/53 ---
