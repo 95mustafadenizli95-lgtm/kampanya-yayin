@@ -1,4 +1,4 @@
-=== TEMİZLENMİŞ HALKBANK PARAF KAMPANYA RAPORU (24/09/2026 04:52) ===
+=== TEMİZLENMİŞ HALKBANK PARAF KAMPANYA RAPORU (25/09/2026 04:52) ===
 
 
 ======================================================================
@@ -2167,6 +2167,15 @@ Kuponun kullanılabilmesi için gerekli minimum sipariş tutarına teslimat ücr
 Kampanyadan faydalanabilmek için Getir uygulamasının güncel sürümü kullanılmalıdır.
 Siparişin iptal olması durumunda, yalnızca kullanıcının ödediği tutarın iadesi yapılacak ve kullanıcı kampanyadan faydalanmamış sayılacaktır.
 Kampanyaya katılan herkes kampanya koşullarını kabul etmiş sayılır.
+Kampanya ile ilgili bilgilendirme, www.getir.com web sitesi veya Getir mobil uygulaması üzerinden yapılacaktır.
+Katılım koşullarını www.getir.com web sitesi ve/veya Getir mobil uygulamasından takip etmek kullanıcının sorumluluğundadır.
+İndirim kampanyası, Getir kupon indirimleri ve/veya kullanıcının hesabında tanımlı diğer farklı kampanyalar ile birleştirilemez.
+Türkiye’nin Ödeme Yöntemi TROY hakkında daha fazla bilgi almak için www.troyodeme.com’u ziyaret edebilirsiniz.
+Bankalararası Kart Merkezi (BKM) ve Getir her zaman, önceden herhangi bir bildirimde bulunmaksızın kampanyayı iptal etme, katılım koşullarını değiştirme hakkını saklı tutar.
+Getir hesabındaki bilgiler kişiye özeldir, Getir güvenlik şüphesi doğuran kullanıcı işlemlerinden dolayı ilgili kullanıcıların kampanyadan yararlanmasını önleyebilir, durdurabilir, geçici süreli önlemler alabilir.
+Kampanya kapsamında çıkabilecek her türlü uyuşmazlıkta Getir'in kayıtları esas alınacaktır.
+Katılımcıların kampanya koşullarına uyup uymadıklarının denetim ve değerlendirmesi, katılımcıların beyanları çerçevesinde, münhasıran Getir tarafından yapılacaktır.
+Hizmetin verilmesi ve/veya indirimlerin yansıtılması ile ilgili yaşanabilecek teknik ya da operasyonel sorun ve aksaklıklardan BKM sorumlu değildir.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
