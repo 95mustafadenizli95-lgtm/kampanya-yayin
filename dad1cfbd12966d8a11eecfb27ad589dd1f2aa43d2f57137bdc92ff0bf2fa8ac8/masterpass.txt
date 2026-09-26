@@ -1,6 +1,6 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (25/09/2026 04:27) ===
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (26/09/2026 04:26) ===
 TOPLANAN BENZERSİZ KAMPANYA: 38
-KONTROL TARİHİ: 25 Eylül 2026
+KONTROL TARİHİ: 26 Eylül 2026
 
 
 --- MASTERPASS KAMPANYA 1/38 ---
@@ -91,7 +91,7 @@ Hemen katıl
 30.11.2026
 Atelier Rebul’de 1000 TL indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Huawei Watch Kids X1 1000 TL indirim
 Hemen katıl
 İhtiyaç duyduğunda yanındayız
@@ -122,13 +122,13 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 5 gün
+Son 4 gün
 Enuygun'da uçak biletlerinde 1000 TL'ye varan indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 HOP'ta 200 TL kupon
 Hemen katıl
 31.12.2026
@@ -172,13 +172,13 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 5 gün
+Son 4 gün
 Google Play harcamalarında %50 indirim
 Keşfet
 30.11.2026
 Atelier Rebul’de 1000 TL indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Huawei Watch Kids X1 1000 TL indirim
 Hemen katıl
 İhtiyaç duyduğunda yanındayız
@@ -219,10 +219,10 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 HOP'ta 200 TL kupon
 Hemen katıl
 31.12.2026
@@ -267,10 +267,10 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Enuygun'da uçak biletlerinde 1000 TL'ye varan indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
 31.12.2026
@@ -426,6 +426,7 @@ KAYNAK: DETAY SAYFASI
 SON TARİH: 31 Aralık 2026
 ücretsiz hızlı geçiş
 Bitiş Tarihi: 31.12.2026
+Kampanya tükenmiştir!
 Mastercard sahiplerine İstanbul Havalimanı'nda ücretsiz hızlı geçiş hizmeti!
 Hemen katıl
 Kurallar ve koşullar
@@ -500,6 +501,7 @@ KAYNAK: DETAY SAYFASI
 SON TARİH: 31 Aralık 2026
 ücretsiz otopark ve vale hizmeti
 Bitiş Tarihi: 31.12.2026
+Kampanya tükenmiştir!
 Mastercard sahiplerine İstanbul Havalimanı'nda ücretsiz vale ve 4 gün otopark hizmeti!
 Hemen katıl
 Kurallar ve koşullar
@@ -665,10 +667,10 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Enuygun'da uçak biletlerinde 1000 TL'ye varan indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 HOP'ta 200 TL kupon
 Hemen katıl
 31.12.2026
@@ -710,13 +712,13 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Enuygun'da uçak biletlerinde 1000 TL'ye varan indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 HOP'ta 200 TL kupon
 Hemen katıl
 İhtiyaç duyduğunda yanındayız
@@ -752,13 +754,13 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Enuygun'da uçak biletlerinde 1000 TL'ye varan indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 HOP'ta 200 TL kupon
 Hemen katıl
 İhtiyaç duyduğunda yanındayız
@@ -792,13 +794,13 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 5 gün
+Son 4 gün
 Google Play harcamalarında %50 indirim
 Keşfet
 31.10.2026
 Boyner'de 5000 TL üzeri alışverişlerde 1000 TL indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Huawei Watch Kids X1 1000 TL indirim
 Hemen katıl
 İhtiyaç duyduğunda yanındayız
@@ -863,7 +865,7 @@ Mastercard
 Bu kampanyada geçerli indirim ve avantajlar seni bekliyor.
 Detaylı bilgi
 Benzer kampanyalar
-Son 5 gün
+Son 4 gün
 Google Play harcamalarında %50 indirim
 Keşfet
 31.10.2026
@@ -872,7 +874,7 @@ Hemen katıl
 30.11.2026
 Atelier Rebul’de 1000 TL indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Huawei Watch Kids X1 1000 TL indirim
 Hemen katıl
 İhtiyaç duyduğunda yanındayız
@@ -910,13 +912,13 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Enuygun'da uçak biletlerinde 1000 TL'ye varan indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 HOP'ta 200 TL kupon
 Hemen katıl
 İhtiyaç duyduğunda yanındayız
@@ -959,13 +961,13 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Enuygun'da uçak biletlerinde 1000 TL'ye varan indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 HOP'ta 200 TL kupon
 Hemen katıl
 İhtiyaç duyduğunda yanındayız
@@ -1014,13 +1016,13 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Enuygun'da uçak biletlerinde 1000 TL'ye varan indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 HOP'ta 200 TL kupon
 Hemen katıl
 İhtiyaç duyduğunda yanındayız
@@ -1309,7 +1311,7 @@ Mastercard
 Bu kampanyada geçerli indirim ve avantajlar seni bekliyor.
 Detaylı bilgi
 Benzer kampanyalar
-Son 5 gün
+Son 4 gün
 Google Play harcamalarında %50 indirim
 Keşfet
 31.10.2026
@@ -1348,7 +1350,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 5 gün
+Son 4 gün
 Google Play harcamalarında %50 indirim
 Keşfet
 31.10.2026
@@ -1357,7 +1359,7 @@ Hemen katıl
 30.11.2026
 Atelier Rebul’de 1000 TL indirim
 Hemen katıl
-Son 5 gün
+Son 4 gün
 Huawei Watch Kids X1 1000 TL indirim
 Hemen katıl
 İhtiyaç duyduğunda yanındayız
