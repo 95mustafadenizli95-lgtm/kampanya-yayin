@@ -1,6 +1,6 @@
-=== PAYCELL GÜNCEL KAMPANYA HAVUZU (29/09/2026 04:54) ===
+=== PAYCELL GÜNCEL KAMPANYA HAVUZU (30/09/2026 04:49) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 47
-KONTROL TARİHİ: 29 Eylül 2026
+KONTROL TARİHİ: 30 Eylül 2026
 
 
 --- PAYCELL KAMPANYA 1/47 ---
@@ -1315,7 +1315,7 @@ Kampanya döneminde yapılan ilk harcama dikkate alınacaktır.
 Kampanya dahilinde iade ve iptal işlemleri dikkate alınacaktır.
 Kazanılan ödülün nakit karşılığı talep edilemez.
 Bu kampanya, başka bir kampanya ile birleştirilemez. Bir harcama ile sadece tek bir kampanyadan ödül kazanımı gerçekleşebilir.
-Nakit iade kampanyasından yararlanan müşterilere, 20 Eylül 2026 tarihine kadar 100 TL değerinde Payfour kodları iletilecektir.
+Nakit iade kampanyasından yararlanan müşterilere, 20 Ekim 2026 tarihine kadar 100 TL değerinde Payfour kodları iletilecektir.
 Puan kampanyasından faydalanmak için Paycell tarafından iletilecek kampanya kodları, Payfour hesabına tanımlanmalıdır.
 Payfour hesabı olan kullanıcılar, ana sayfanın sağ üst köşesinde yer alan profil alanındaki “Kampanya Kodu” sekmesine girip aldıkları kodu eklemelidir.
 Payfour hesabı olmayan kullanıcılar App Store ya da Google Play üzerinden Payfour uygulamasını indirerek üye olmalıdır.
