@@ -1,4 +1,4 @@
-=== TEMİZLENMİŞ HALKBANK PARAF KAMPANYA RAPORU (04/10/2026 04:46) ===
+=== TEMİZLENMİŞ HALKBANK PARAF KAMPANYA RAPORU (05/10/2026 04:44) ===
 
 
 ======================================================================
@@ -3801,56 +3801,6 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 ======================================================================
 KAMPANYA NO                      : 79
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/konfor-mobilyada-pesin-fiyatina-9-taksit1.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-Mobilya ve Dekorasyon
-Konfor Mobilya’da peşin fiyatına 9 Taksit!
-Konfor Mobilya’da peşin fiyatına 9 Taksit!
-Paraf ile Konfor Mobilya mağazalarında veya www.konfor.com.tr web sayfasından Paraf POS’larından yapacağınız alışverişlerde 9 taksit imkanı sağlanacaktır.
-Mağazalardan yapılacak alışverişlere sistem tarafından artı taksit uygulanmayacaktır. Yapmak istediğiniz taksit sayısını satış görevlisine bildirmeniz gerekmektedir.
-Franchise mağazalarda taksit sayısı farklılık gösterebilir.
-Kampanyaya Paraf, Parafly, Parafree, Paraf Business, Emlak Katılım Paraf, Dünya Katılım Paraf, Paraf Esnaf, Paraf KOBİ, Eczacı Paraf, Eczacı Paraf KOBİ, sanal ve ek kartlar dahil, ParafPara kullanılarak yapılan işlemler ile iptal ve iade işlemleri dahil değildir.
-TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
-YAZDIR
-İlginizi Çekebilir
-Premium'a Özel Yurt Dışı Online Seyahat Alışverişlerinize 6.000 TL'ye varan ParafPara
-Parafly Kredi Kartınız ile Size Özel 5.000 TL ParafPara Kampanyası
-Porland’da Peşin Fiyatına 3 taksit
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 80
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/otomotiv/parafa-ozel-budgetta-yuzde33-indirim.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
 PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
@@ -3909,7 +3859,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 81
+KAMPANYA NO                      : 80
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/otomotiv/paraf-esnafa-ozel-budgetta-yuzde33-indirim.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -3969,7 +3919,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 82
+KAMPANYA NO                      : 81
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/seyahat/masterpasse-kayitli-paraf-mastercard-sahiplerine-martida-gecerli-200tl-indirim.html
 KAMPANYA GEÇERLİLİK TARİHİ       : 01.09.2026 – 31.10.2026
@@ -4024,7 +3974,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 83
+KAMPANYA NO                      : 82
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/lazzonide-pesin-fiyatina-6-taksit.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -4073,7 +4023,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 84
+KAMPANYA NO                      : 83
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/damat-tweende-2000-tl-parafpara1111.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -4130,7 +4080,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 85
+KAMPANYA NO                      : 84
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/durumlede-yuzde-20-indirim-agustos11.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -4166,6 +4116,56 @@ Kampanya eve sipariş vb. restoran dışı alışverişlerde geçerli değildir.
 Dürümle’de %20 indirim ödülü başka bir indirim ödülü ile birleştirilemeyecek olup, kampanyanın farklı bir kampanya ile çakışması durumunda indirim tutarı daha büyük olan ödül karta yansıtılacaktır.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 85
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/konfor-mobilyada-pesin-fiyatina-9-taksit1.html
+KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
+PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+Mobilya ve Dekorasyon
+Konfor Mobilya’da peşin fiyatına 9 Taksit!
+Konfor Mobilya’da peşin fiyatına 9 Taksit!
+Paraf ile Konfor Mobilya mağazalarında veya www.konfor.com.tr web sayfasından Paraf POS’larından yapacağınız alışverişlerde 9 taksit imkanı sağlanacaktır.
+Mağazalardan yapılacak alışverişlere sistem tarafından artı taksit uygulanmayacaktır. Yapmak istediğiniz taksit sayısını satış görevlisine bildirmeniz gerekmektedir.
+Franchise mağazalarda taksit sayısı farklılık gösterebilir.
+Kampanyaya Paraf, Parafly, Parafree, Paraf Business, Emlak Katılım Paraf, Dünya Katılım Paraf, Paraf Esnaf, Paraf KOBİ, Eczacı Paraf, Eczacı Paraf KOBİ, sanal ve ek kartlar dahil, ParafPara kullanılarak yapılan işlemler ile iptal ve iade işlemleri dahil değildir.
+TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
+İlginizi Çekebilir
+Premium'a Özel Yurt Dışı Online Seyahat Alışverişlerinize 6.000 TL'ye varan ParafPara
+Parafly Kredi Kartınız ile Size Özel 5.000 TL ParafPara Kampanyası
+Porland’da Peşin Fiyatına 3 taksit
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
