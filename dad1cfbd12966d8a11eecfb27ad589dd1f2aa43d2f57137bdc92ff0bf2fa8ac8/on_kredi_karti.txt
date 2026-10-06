@@ -1,4 +1,4 @@
-=== ON GÜNCEL KAMPANYA HAVUZU (05/10/2026 04:53) ===
+=== ON GÜNCEL KAMPANYA HAVUZU (06/10/2026 04:59) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 52
 BAŞARIYLA OKUNAN KAMPANYA: 52
 HATALI KAMPANYA LİNKİ: 0
@@ -465,16 +465,16 @@ LINK: https://on.com.tr/kampanyalar/n11-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 01.09.2026 12:00-30.09.2026 23:59 tarihleri arasında geçerlidir.
-N11 ve ON Dijital iş birliğiyle gerçekleşecek kampanya kapsamında, ON Dijital müşterilerine özel N11’de 1200 TL ve üzeri harcamalarda geçerli 300 TL indirim kodu verilecektir.
+Kampanya 05.10.2026 12:00-31.10.2026 23:59 tarihleri arasında geçerlidir.
+N11 ve ON Dijital iş birliğiyle gerçekleşecek kampanya kapsamında, ON Dijital müşterilerine özel N11’de 1500 TL ve üzeri harcamalarda geçerli 250 TL indirim kodu verilecektir.
 Kampanyadan mevcut ON’lular faydalanabilir.
-Kampanyadan 300 TL indirim kuponu kazanabilmek için, ON Dijital'de Avantajlar Dünyası sekmesinden ilgili kampanya içinde bulunan ‘’ Kampanya Kodu Al ‘’ butonuna tıklanmalıdır.
-Kampanya kapsamında ON Dijital müşterisi olan kullanıcılar kampanyaya belirtildiği şekilde katıldığında N11‘de 1200 TL ve üzeri harcamalarında kullanabilecekleri 300 TL indirim kodu kazanacaklardır.
+Kampanyadan 250 TL indirim kuponu kazanabilmek için, ON Dijital'de Avantajlar Dünyası sekmesinden ilgili kampanya içinde bulunan ‘’ Kampanya Kodu Al ‘’ butonuna tıklanmalıdır.
+Kampanya kapsamında ON Dijital müşterisi olan kullanıcılar kampanyaya belirtildiği şekilde katıldığında N11‘de 1500 TL ve üzeri harcamalarında kullanabilecekleri 250 TL indirim kodu kazanacaklardır.
 Her kullanıcı hesabına 1 adet kod tanımlayabilir.
 İndirim kodu tek kullanımlıktır, parçalanarak kullanılamaz.
 İndirim kodunun tamamının tek alışverişte kullanılması gerekmektedir.
 Müşterilerin hak ettikleri N11 indirim kodunu kullanabilmek için; öncelikle N11‘e giriş yaparak, "Ödeme Onayı" sayfasındaki "Kod Girişi" alanına veya Hesabım > İndirim Kodlarım sayfasındaki "Yeni İndirim Kodu Ekle" kutusuna yazılıp eklenmelidir.
-Müşteriler, ON Dijital ile yapılan kampanyaya ait indirim kodlarının belirtildiği şekilde girişini yaparak 1200 TL ve üzeri alışverişlerde 300 TL indirim kazanabilecektir.
+Müşteriler, ON Dijital ile yapılan kampanyaya ait indirim kodlarının belirtildiği şekilde girişini yaparak 1500 TL ve üzeri alışverişlerde 250 TL indirim kazanabilecektir.
 Müşterilerin indirim kodunu kullanabilmek için ON Dijital müşterisi olma adımlarını tamamladıktan sonra, N11‘de üyeliklerini oluşturmaları, eğer üyelikleri varsa sepet adımında kodları yukarıda belirtilen ilgili yere girerek aktif hale getirmeleri yeterli olacaktır.
 Katılım koşullarını www.on.com.tr internet sitesinden takip etmek kullanıcının sorumluluğundadır, kampanyaya katılan herkes kampanya koşullarını kabul etmiş sayılır.
 Kazanılan indirim kodu; Dijital Kodlar&Ürünler, Sim Kart, Hat, Paketler, Toptan Satış, Yatırımlık Altın & Gümüş, Uzatılmış Garanti, Kağıt Ürünleri, Süpermarket ve Özel fiyat avantajı bulunan (n11’in teklifi rozeti yer alan) kategorilerinde kullanılamaz.
@@ -486,10 +486,10 @@ Müşteri, indirim kodunu kullandığı alışverişin tamamını iptal veya iad
 Geri yüklenen kodun kullanımı için gerekli minimum sepet tutarı, orijinal kuponun kullanımı için kampanya koşullarında belirtilen minimum sepet tutarındaki oranla aynıdır. Müşteri, indirim kodunu kullandığı alışverişinde kısmi iptal veya iade yaptığı durumlarda kod hesabına tekrar yüklenmez. Geri yüklenen indirim kodunun kalan kullanım süresi, orijinal indirim kodunun son kullanım tarihine kadar geçerlidir. Orijinal kuponun son kullanım tarihi geçtiyse Müşteriye kupon tekrar yüklenmez.
 Mağaza; müşterinin indirim kodu kullandığı alışverişin tamamını veya bir kısmını iptal ettiğinde, iptal edilen ürün/ürünlerde kullanılan indirim kodu tutarı kadar kod müşterinin hesabına geri yüklenir. Geri yüklenen kodun kullanımı için gerekli minimum sepet tutarı, orijinal kuponun kullanımı için kampanya koşullarında belirtilen minimum sepet tutarındaki oranla aynıdır. Ayrıca geri yüklenen indirim kodunun kalan kullanım süresi, indirim kodunun son kullanım tarihine kadar geçerlidir. Orijinal kuponun son kullanım tarihi geçtiyse Müşteri’ye kupon tekrar yüklenmez.
 n11’in kampanya koşullarını ihlal edecek nitelikte bir sipariş tespit etmesi halinde ilgili siparişi iptal etme hakkı saklıdır.
-İndirim kodu iadesi ve geri yüklenmesine ilişkin her türlü işlem, karar ve sorumluluk yalnızca n11'e aittir; bu kapsamdaki tüm talep ve uyuşmazlıklarda muhatap münhasıran n11’dir. ON Dijital’in bu süreçlerde herhangi bir sorumluluğu, karar alma yetkisi veya muhataplığı bulunmamaktadır.
+İndirim kodu iadesi ve geri yüklenmesine ilişkin her türlü işlem, karar ve sorumluluk yalnızca n11'e aittir; bu kapsamdaki tüm talep ve uyuşmazlıklarda muhatap münhasıran n11’dir. ON Dijital’ in bu süreçlerde herhangi bir sorumluluğu, karar alma yetkisi veya muhataplığı bulunmamaktadır.
 İndirim kodları kişiye özeldir, devredilemez, paraya dönüştürülemez.
 Kampanya kullanımına hak kazanan müşterilerin indirim kodu kullanım sırasında yaşanabilecek teknik ya da lojistik sorun ve aksaklıklardan ON sorumlu değildir.
-ON Dijital ve N11, kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
+ON Dijital ve N11, kampanyayı kampanya süresi boyunca durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
 --- ON KAMPANYA 19/52 ---
@@ -781,7 +781,7 @@ LINK: https://on.com.tr/troy-clup-uyelerine-ozel-kampanya
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 9 Aralık 2025 10:00 – 30 Eylül 2026 22:00 tarihleri arasında geçerlidir.
+Kampanya 9 Aralık 2025 10:00 – 31 Ekim 2026 22:00 tarihleri arasında geçerlidir.
 Kampanya, Troy Clup üyelerine özel (Gold, Gold Plus, Black, Black Plus) tüm Iphone cep telefonu alışverişlerinde geçerli olup, maksimum 3 ay vadeye kadar kredi kullandırımlarında geçerlidir.
 Kredi tutarı minimum 1.000 TL, Maksimum 400.000 TL’dir.
 Aylık %0 faiz oranı Troy mağazalarından yapılacak alışverişlerinde 3 ay vade için geçerli olup, vadelere göre faiz oranı değişiklik göstermektedir.
@@ -1074,7 +1074,7 @@ LINK: https://on.com.tr/bellona-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 1 Aralık 10:00 – 30 Eylül 2026 19:00 tarihleri arasında geçerlidir.
+Kampanya 1 Aralık 10:00 – 31 Ekim 2026 19:00 tarihleri arasında geçerlidir.
 Kampanyada kullandırılan krediler, ilk taksiti 3 ay ertelemeli, 9 taksit şeklinde ödenecektir.
 Kredi tutarı minimum 1.000 TL, Maksimum 400.000 TL’dir.
 %0 faiz oranlı kredi kampanyası Bellona mağazalarından yapılacak alışverişler için geçerli olup, 9 ay vadeye kadar geçerlidir.
@@ -1165,7 +1165,7 @@ LINK: https://on.com.tr/kampanyalar/xiaomi-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 15 Haziran 12:00 – 30 Eylül 2026 23:59 tarihleri arasında geçerlidir.
+Kampanya 15 Haziran 12:00 – 31 Ekim 2026 23:59 tarihleri arasında geçerlidir.
 Kredi tutarı minimum 1.000 TL, Maksimum 400.000 TL’dir.
 %0 faiz oranlı kredi avantajı, Mieko mağazalarından yapılacak alışverişlerde, seçili ürünlerde ve 3 ay vade için geçerlidir.
 Banka uygun görmediği başvuruları onaylamama, üst sınır belirleme ve koşullarda değişiklik yapma hakkını saklı tutar. Aylık ve yıllık maliyet oranları, faiz oranı, vade ve tutara göre değişiklik göstermektedir.
@@ -1184,9 +1184,9 @@ LINK: https://on.com.tr/kampanyalar/migros-cep-telefonu-alisveris-kredisi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 30 Eylül 2026 tarihine kadar geçerlidir.
+Kampanya 31 Ekim 2026 tarihine kadar geçerlidir.
 Cep telefonu alışverişlerinde maksimum 6 ay vadeye kadar kredi kullandırılmaktadır.
-Fiyatı 20.000 TL’ye kadar olan cep telefonlarında 6 ay vade, 20.000 TL’nin üzerinde olan tutarlarda 3 ay vade uygulanmaktadır.
+Fiyatı 40.000 TL’ye kadar olan cep telefonlarında 6 ay vade, 40.000 TL’nin üzerinde olan tutarlarda 3 ay vade uygulanmaktadır.
 Kredi tutarı minimum 1.000 TL, Maksimum 250.000 TL’dir.
 Aylık %0,99 faiz oranı sadece cep telefonu ve TV alışverişlerinde maksimum 6 ay vadeye kadar geçerlidir.
 Cep telefonu dışındaki diğer elektronik ürünlerde yasal vade kısıtlarına bağlı olarak maksimum 36 ay vadeye kadar taksitlendirilebilir.
@@ -1201,7 +1201,7 @@ LINK: https://on.com.tr/kampanyalar/gundogdu-mobilya-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 15 Temmuz 10:00 – 30 Eylül 2026 19:00 tarihleri arasında geçerlidir.
+Kampanya 15 Temmuz 10:00 – 31 Ekim 2026 19:00 tarihleri arasında geçerlidir.
 Kampanyada kullandırılan krediler, ilk taksiti 3 ay ertelemeli, 7 taksit şeklinde ödenecektir.
 Kredi tutarı minimum 1.000 TL, Maksimum 400.000 TL’dir.
 %0 faiz oranlı kredi kampanyası Gündoğdu Mobilya mağazalarından yapılacak alışverişler için geçerli olup, 7 ay vade için geçerlidir.
@@ -1221,7 +1221,7 @@ LINK: https://on.com.tr/kampanyalar/ozturanlar-mobilya-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 15 Haziran 10:00 – 30 Eylül 2026 19:00 tarihleri arasında geçerlidir.
+Kampanya 15 Haziran 10:00 – 31 Ekim 2026 19:00 tarihleri arasında geçerlidir.
 Kredi tutarı minimum 1.000 TL, Maksimum 400.000 TL’dir.
 %0 faiz oranlı kredi kampanyası Özturanlar Mobilya mağazasından yapılacak alışverişler için geçerli olup, 7 ay vade için geçerlidir.
 Kredi faiz oranları piyasa şartlarına göre değişiklik gösterebilir.
@@ -1239,7 +1239,7 @@ LINK: https://on.com.tr/mieko-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 16 Mart 2026 12:00 – 30 Eylül 2026 23:59 tarihleri arasında geçerlidir.
+Kampanya 16 Mart 2026 12:00 – 31 Ekim 2026 23:59 tarihleri arasında geçerlidir.
 Kredi tutarı minimum 1.000 TL, Maksimum 200.000 TL’dir.
 Mieko mağazalarından yapılacak alışverişlerde 12 ay vadeye kadar aylık %3,79 faiz oranı geçerlidir.
 Banka uygun görmediği başvuruları onaylamama, üst sınır belirleme ve koşullarda değişiklik yapma hakkını saklı tutar. Aylık ve yıllık maliyet oranları, faiz oranı, vade ve tutara göre değişiklik göstermektedir.
@@ -1258,7 +1258,7 @@ LINK: https://on.com.tr/itopya-bilgisayar-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 1 Kasım 2025 09:00 – 30 Eylül 2026 23:59 tarihleri arasında geçerlidir.
+Kampanya 1 Kasım 2025 09:00 – 31 Ekim 2026 23:59 tarihleri arasında geçerlidir.
 Kredi tutarı minimum 1.000 TL, Maksimum 150.000 TL’dir.
 Aylık %3,79 faiz oranı İtopya Bilgisayar mağazalarından yapılacak bilgisayar alışverişlerinde, 3 ay vade için geçerlidir.
 Kampanya, 12 ay vadeye kadar geçerlidir.
@@ -1277,7 +1277,7 @@ LINK: https://on.com.tr/troy-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 5 Ocak 2026 12:00 – 30 Eylül 2026 23:59 tarihleri arasında geçerlidir.
+Kampanya 5 Ocak 2026 12:00 – 31 Ekim 2026 23:59 tarihleri arasında geçerlidir.
 Macbook alışverişlerinde maksimum 12 ay vadeye kadar kredi kullandırılmaktadır.
 Kredi tutarı minimum 1.000 TL, Maksimum 250.000 TL’dir.
 Aylık %3,79 faiz oranı Troy mağazalarından yapılacak alışverişlerinde 3 ay vade için geçerli olup, vadelere göre faiz oranı değişiklik göstermektedir.
@@ -1296,7 +1296,7 @@ LINK: https://on.com.tr/vatan-kampanyasi
 KART / ÜRÜN SINIFI: Genel ON avantajı / diğer
 DETAY:
 Kampanya Detayları
-Kampanya 12 Haziran 2025 09:00 – 30 Eylül 2026 23:59 tarihleri arasında geçerlidir.
+Kampanya 12 Haziran 2025 09:00 – 31 Ekim 2026 23:59 tarihleri arasında geçerlidir.
 Cep telefonu alışverişlerinde maksimum 3 ay vadeye kadar kredi kullandırılmaktadır.
 Kredi tutarı minimum 1.000 TL, Maksimum 400.000 TL’dir.
 Aylık %3.79 faiz oranı Vatan mağazalarından yapılacak alışverişlerde 12 ay vadeye kadar geçerlidir.
