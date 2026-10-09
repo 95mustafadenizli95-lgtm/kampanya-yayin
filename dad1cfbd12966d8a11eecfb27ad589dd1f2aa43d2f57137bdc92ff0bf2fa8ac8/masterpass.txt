@@ -1,9 +1,9 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (08/10/2026 04:22) ===
-TOPLANAN BENZERSİZ KAMPANYA: 36
-KONTROL TARİHİ: 8 Ekim 2026
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (09/10/2026 04:27) ===
+TOPLANAN BENZERSİZ KAMPANYA: 37
+KONTROL TARİHİ: 9 Ekim 2026
 
 
---- MASTERPASS KAMPANYA 1/36 ---
+--- MASTERPASS KAMPANYA 1/37 ---
 BAŞLIK: devlerle sahaya çıkma şansı
 LINK: https://www.masterpassturkiye.com/kampanya/uefa-champions-leaguede-devlerle-sahaya-cikma-sansi
 KAYNAK: DETAY SAYFASI
@@ -55,7 +55,7 @@ Yarışmaya katılan herkes, yukarıdaki hükümleri kabul etmiş sayılır.
 DESTEK
 
 
---- MASTERPASS KAMPANYA 2/36 ---
+--- MASTERPASS KAMPANYA 2/37 ---
 BAŞLIK: %50 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/google-play-harcamalarinda-yuzde-50-indirim
 KAYNAK: DETAY SAYFASI
@@ -98,7 +98,7 @@ Hemen katıl
 DESTEK
 
 
---- MASTERPASS KAMPANYA 3/36 ---
+--- MASTERPASS KAMPANYA 3/37 ---
 BAŞLIK: Kurallar ve koşullar
 LINK: https://www.masterpassturkiye.com/kampanya/galataportta-otopark-1-tl
 KAYNAK: DETAY SAYFASI
@@ -125,6 +125,7 @@ Benzer kampanyalar
 31.10.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Hemen katıl
+Tükeniyor!
 31.10.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
@@ -138,7 +139,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 4/36 ---
+--- MASTERPASS KAMPANYA 4/37 ---
 BAŞLIK: 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/boynerde-5000-tl-uzeri-alisverislerde-1000-tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -185,7 +186,7 @@ Hemen katıl
 DESTEK
 
 
---- MASTERPASS KAMPANYA 5/36 ---
+--- MASTERPASS KAMPANYA 5/37 ---
 BAŞLIK: 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/enuygunda-ucak-biletlerinde-1000-tlye-varan-indirim
 KAYNAK: DETAY SAYFASI
@@ -219,6 +220,7 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Hemen katıl
+Tükeniyor!
 31.10.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
@@ -232,7 +234,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 6/36 ---
+--- MASTERPASS KAMPANYA 6/37 ---
 BAŞLIK: %20 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/zubizu-ile-secili-restoranlarda-yuzde-20-indirim
 KAYNAK: DETAY SAYFASI
@@ -262,11 +264,16 @@ Geçerli kartlar
 Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
+Benzer kampanyalar
+Yeni
+08.11.2026
+Mastercard sahiplerine özel Migros Yemek’te 350 TL indirim
+Hemen katıl
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 7/36 ---
+--- MASTERPASS KAMPANYA 7/37 ---
 BAŞLIK: 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/huawei-watch-kids-x1-1000-tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -309,7 +316,43 @@ Hemen katıl
 DESTEK
 
 
---- MASTERPASS KAMPANYA 8/36 ---
+--- MASTERPASS KAMPANYA 8/37 ---
+BAŞLIK: 350 TL indirim
+LINK: https://www.masterpassturkiye.com/kampanya/migros
+KAYNAK: DETAY SAYFASI
+SON TARİH: 8 Kasım 2026
+350 TL indirim
+Bitiş Tarihi: 08.11.2026
+Mastercard sahiplerine özel Migros Yemek’te 350 TL indirim!
+Hemen katıl
+Kuponunu kullan
+Kurallar ve koşullar
+8 Ekim - 8 Kasım 2026 tarihleri arasında Masterpass’e kayıtlı Mastercard sahipleri, kampanya kapsamında Migros Yemek’te seçili restoranlarda MoneyCüzdan üzerinden tek seferde yapılan 650 TL ve üzeri online ödemeli siparişlerde 350 TL indirimden yararlanabilir.
+Kampanya yalnızca Migros Yemek uygulamasında geçerlidir.
+Kampanyada yararlanmak için linkteki Masterpass web sitesi üzerinden ilgili kampanya sayfasından kupon alınması ve MoneyCüzdan ödeme adımında Masterpass ile ödeme seçildikten sonra ilgili alana girilmesi gerekmektedir.
+Masterpass üyesi olmayanlar, Masterpass web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından kupon alabilir.
+Kampanya kapsamındaki seçili restoranlar listesine https://www.migros.com.tr/yemek/mastercard-gecerli-restoranlar-sf-6f1 adresinden ulaşılabilir.
+Kupon kişiye özeldir ve tek kullanımlıktır.
+Kupon 08.11.2026 tarihine kadar kullanılabilir. Bu tarihten sonra geçersiz olacaktır.
+Kullanıcı kupon kazandığı alışveriş dahilindeki ürünlerin tamamını iade eder ve satış bedeli kredi kartına iade sureti ile geri verilir ise kupon geçerliliğini yitirecektir.
+İndirim karşılığı para iadesi yapılamaz.
+Kampanya başka kampanyalarla birleştirilemez.
+Kampanya 10.000 adet kod ile sınırlıdır. Kota dolduğunda kampanya belirtilen bitiş tarihinden önce otomatik olarak sona erebilir.
+Mastercard ve Dijital Platform Gıda Hizmetleri (Migros Yemek) A.Ş., kampanyayı değiştirme hakkını saklı tutar.
+Kampanya ile ilgili soru ve geri bildirimler için masterpassturkiye@mplusgroup.com.tr adresine ulaşılabilir. Dönüşler en geç 14 iş günü içerisinde sağlanacaktır.
+Geçerli kartlar
+Mastercard
+Bu kampanyada geçerli indirim ve avantajlar seni bekliyor.
+Detaylı bilgi
+Benzer kampanyalar
+31.12.2026
+ZUBİZU ile seçili restoranlarda %20 indirim
+Keşfet
+İhtiyaç duyduğunda yanındayız
+DESTEK
+
+
+--- MASTERPASS KAMPANYA 9/37 ---
 BAŞLIK: %10 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/yurt-disi-otel-harcamalarinda-yuzde-10-indirim
 KAYNAK: DETAY SAYFASI
@@ -348,7 +391,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 9/36 ---
+--- MASTERPASS KAMPANYA 10/37 ---
 BAŞLIK: ücretsiz hızlı geçiş
 LINK: https://www.masterpassturkiye.com/kampanya/igada-gecerli-ucretsiz-hizli-gecis
 KAYNAK: DETAY SAYFASI
@@ -389,7 +432,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 10/36 ---
+--- MASTERPASS KAMPANYA 11/37 ---
 BAŞLIK: ücretsiz buggy hizmeti
 LINK: https://www.masterpassturkiye.com/kampanya/igada-gecerli-ucretsiz-buggy-hizmeti
 KAYNAK: DETAY SAYFASI
@@ -430,7 +473,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 11/36 ---
+--- MASTERPASS KAMPANYA 12/37 ---
 BAŞLIK: ücretsiz otopark ve vale hizmeti
 LINK: https://www.masterpassturkiye.com/kampanya/igada-gecerli-ucretsiz-otopark-ve-vale-hizmeti
 KAYNAK: DETAY SAYFASI
@@ -472,7 +515,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 12/36 ---
+--- MASTERPASS KAMPANYA 13/37 ---
 BAŞLIK: hızlı geçiş
 LINK: https://www.masterpassturkiye.com/kampanya/sabiha-gokcen-dis-hatlarda-mastercarda-ozel-hizli-gecis
 KAYNAK: DETAY SAYFASI
@@ -512,7 +555,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 13/36 ---
+--- MASTERPASS KAMPANYA 14/37 ---
 BAŞLIK: ücretsiz hızlı geçiş
 LINK: https://www.masterpassturkiye.com/kampanya/sabiha-gokcen-ic-hatlarda-mastercarda-ozel-hizli-gecis
 KAYNAK: DETAY SAYFASI
@@ -552,7 +595,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 14/36 ---
+--- MASTERPASS KAMPANYA 15/37 ---
 BAŞLIK: havalimanı transferi 1500 TL
 LINK: https://www.masterpassturkiye.com/kampanya/progo-ile-havalimani-transferi-1500-tl
 KAYNAK: DETAY SAYFASI
@@ -589,7 +632,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 15/36 ---
+--- MASTERPASS KAMPANYA 16/37 ---
 BAŞLIK: 200 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/marti-super-uye-paketi-alimlarinda-200-tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -631,7 +674,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 16/36 ---
+--- MASTERPASS KAMPANYA 17/37 ---
 BAŞLIK: %50 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/trevada-havalimani-otopark-odemelerinde-yuzde-50-indirim
 KAYNAK: DETAY SAYFASI
@@ -666,6 +709,7 @@ Hemen katıl
 31.10.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Hemen katıl
+Tükeniyor!
 31.10.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
@@ -676,7 +720,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 17/36 ---
+--- MASTERPASS KAMPANYA 18/37 ---
 BAŞLIK: %50 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/galataport-istanbul-deniz-dolmuslarinda-yuzde-50-indirim
 KAYNAK: DETAY SAYFASI
@@ -708,6 +752,7 @@ Hemen katıl
 31.10.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Hemen katıl
+Tükeniyor!
 31.10.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
@@ -718,7 +763,7 @@ Hemen katıl
 DESTEK
 
 
---- MASTERPASS KAMPANYA 18/36 ---
+--- MASTERPASS KAMPANYA 19/37 ---
 BAŞLIK: 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/atelier-rebulde-1000-tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -758,7 +803,7 @@ Hemen katıl
 DESTEK
 
 
---- MASTERPASS KAMPANYA 19/36 ---
+--- MASTERPASS KAMPANYA 20/37 ---
 BAŞLIK: 1 Bilet Alana 2. Bilet hediye
 LINK: https://www.masterpassturkiye.com/kampanya/zorlu-psmde-mastercard-sahiplerine-bir-bilet-alana-ikinci-bilet-hediye
 KAYNAK: DETAY SAYFASI
@@ -791,7 +836,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 20/36 ---
+--- MASTERPASS KAMPANYA 21/37 ---
 BAŞLIK: ücretsiz dijital kimlik koruma
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-sahiplerine-ozel-ucretsiz-dijital-kimlik-koruma
 KAYNAK: DETAY SAYFASI
@@ -832,7 +877,7 @@ Hemen katıl
 DESTEK
 
 
---- MASTERPASS KAMPANYA 21/36 ---
+--- MASTERPASS KAMPANYA 22/37 ---
 BAŞLIK: %50 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/treva-otobus-binis-hakki-satin-alimlarinda-yuzde-50-indirim
 KAYNAK: DETAY SAYFASI
@@ -866,6 +911,7 @@ Hemen katıl
 31.10.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Hemen katıl
+Tükeniyor!
 31.10.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
@@ -876,7 +922,7 @@ Hemen katıl
 DESTEK
 
 
---- MASTERPASS KAMPANYA 22/36 ---
+--- MASTERPASS KAMPANYA 23/37 ---
 BAŞLIK: 150 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/enuygunda-300tl-uzeri-otobus-biletlerinde-150-tl-indirim
 KAYNAK: DETAY SAYFASI
@@ -915,6 +961,7 @@ Hemen katıl
 31.10.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Hemen katıl
+Tükeniyor!
 31.10.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
@@ -925,7 +972,7 @@ Hemen katıl
 DESTEK
 
 
---- MASTERPASS KAMPANYA 23/36 ---
+--- MASTERPASS KAMPANYA 24/37 ---
 BAŞLIK: 400 TL'ye varan indirim
 LINK: https://www.masterpassturkiye.com/kampanya/pamukkale-otobus-biletlerinde-400-tlye-varan-indirim
 KAYNAK: DETAY SAYFASI
@@ -970,6 +1017,7 @@ Hemen katıl
 31.10.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Hemen katıl
+Tükeniyor!
 31.10.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Hemen katıl
@@ -980,7 +1028,7 @@ Hemen katıl
 DESTEK
 
 
---- MASTERPASS KAMPANYA 24/36 ---
+--- MASTERPASS KAMPANYA 25/37 ---
 BAŞLIK: %7'ye varan cüzdan kredisi
 LINK: https://www.masterpassturkiye.com/kampanya/bookingcom-rezervasyonlarinda-yuzde-yediye-varan-cuzdan-kredisi
 KAYNAK: DETAY SAYFASI
@@ -1022,7 +1070,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 25/36 ---
+--- MASTERPASS KAMPANYA 26/37 ---
 BAŞLIK: Kurallar ve koşullar
 LINK: https://www.masterpassturkiye.com/kampanya/the-mastercard-collection-ile-tanisin
 KAYNAK: DETAY SAYFASI
@@ -1043,7 +1091,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 26/36 ---
+--- MASTERPASS KAMPANYA 27/37 ---
 BAŞLIK: ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-secili-havalimanlarinda-hizli-gecis-ucretsiz
 KAYNAK: DETAY SAYFASI
@@ -1075,7 +1123,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 27/36 ---
+--- MASTERPASS KAMPANYA 28/37 ---
 BAŞLIK: ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-secili-havalimanlarinda-lounge-girisi-ucretsiz
 KAYNAK: DETAY SAYFASI
@@ -1109,7 +1157,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 28/36 ---
+--- MASTERPASS KAMPANYA 29/37 ---
 BAŞLIK: sınırsız hızlı geçiş
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-istanbul-havalimaninda-mastercarda-ozel-hizli-gecis-alanlarinda-sinirsiz-hizli-gecis-hakki-ucretsiz
 KAYNAK: DETAY SAYFASI
@@ -1134,7 +1182,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 29/36 ---
+--- MASTERPASS KAMPANYA 30/37 ---
 BAŞLIK: ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-kart-sahiplerine-iksv-kirmizi-lale-kart-ucretsiz
 KAYNAK: DETAY SAYFASI
@@ -1161,7 +1209,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 30/36 ---
+--- MASTERPASS KAMPANYA 31/37 ---
 BAŞLIK: ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-istanbul-havalimaninda-vale-hizmeti-ucretsiz
 KAYNAK: DETAY SAYFASI
@@ -1189,7 +1237,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 31/36 ---
+--- MASTERPASS KAMPANYA 32/37 ---
 BAŞLIK: %20 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-uber-ile-yurtdisi-seyahatlerde-yuzde-20-indirim
 KAYNAK: DETAY SAYFASI
@@ -1216,7 +1264,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 32/36 ---
+--- MASTERPASS KAMPANYA 33/37 ---
 BAŞLIK: ön satış ve ayrıcalıklı koltuklar
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-kart-sahiplerine-uluslararasi-bilet-platformlarinda-cesitli-ayricaliklar
 KAYNAK: DETAY SAYFASI
@@ -1245,7 +1293,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 33/36 ---
+--- MASTERPASS KAMPANYA 34/37 ---
 BAŞLIK: öncelikli rezervasyon
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-kart-sahiplerine-rezervasyon-uygulamalarinda-cesitli-ayricaliklar
 KAYNAK: DETAY SAYFASI
@@ -1274,7 +1322,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 34/36 ---
+--- MASTERPASS KAMPANYA 35/37 ---
 BAŞLIK: %20 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/the-bulumsta-yuzde-20-indirim
 KAYNAK: DETAY SAYFASI
@@ -1316,7 +1364,7 @@ Hemen katıl
 DESTEK
 
 
---- MASTERPASS KAMPANYA 35/36 ---
+--- MASTERPASS KAMPANYA 36/37 ---
 BAŞLIK: ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/istanbul-airport-for-mastercard-world-legend-cardholders-free-buggy
 KAYNAK: DETAY SAYFASI
@@ -1344,7 +1392,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 36/36 ---
+--- MASTERPASS KAMPANYA 37/37 ---
 BAŞLIK: ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/mobile-phone-insurance-for-mastercard-world-legend-cardholders-free
 KAYNAK: DETAY SAYFASI
@@ -1380,7 +1428,7 @@ DESTEK
 
 
 === MASTERPASS ÇEKİM ÖZETİ ===
-TOPLAM BENZERSİZ KAMPANYA: 36
-GÜNCEL VEYA TARİHİ BELİRSİZ: 36
+TOPLAM BENZERSİZ KAMPANYA: 37
+GÜNCEL VEYA TARİHİ BELİRSİZ: 37
 SÜRESİ DOLMUŞ: 0
 HATALI: 0
