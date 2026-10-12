@@ -1,6 +1,6 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (11/10/2026 04:23) ===
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (12/10/2026 04:24) ===
 TOPLANAN BENZERSİZ KAMPANYA: 37
-KONTROL TARİHİ: 11 Ekim 2026
+KONTROL TARİHİ: 12 Ekim 2026
 
 
 --- MASTERPASS KAMPANYA 1/37 ---
@@ -125,10 +125,10 @@ Benzer kampanyalar
 31.10.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Hemen katıl
-Tükeniyor!
-31.10.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 31.10.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
-Hemen katıl
 31.10.2026
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Hemen katıl
@@ -220,10 +220,10 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Hemen katıl
-Tükeniyor!
-31.10.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 31.10.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
-Hemen katıl
 31.10.2026
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Hemen katıl
@@ -397,6 +397,7 @@ KAYNAK: DETAY SAYFASI
 SON TARİH: 31 Aralık 2026
 ücretsiz hızlı geçiş
 Bitiş Tarihi: 31.12.2026
+Kampanya tükenmiştir!
 Mastercard sahiplerine İstanbul Havalimanı'nda ücretsiz hızlı geçiş hizmeti!
 Hemen katıl
 Kurallar ve koşullar
@@ -638,6 +639,7 @@ KAYNAK: DETAY SAYFASI
 SON TARİH: 31 Ekim 2026
 200 TL indirim
 Bitiş Tarihi: 31.10.2026
+Kampanya tükenmiştir!
 Martı Süper Üye Paketi alımlarında 200 TL indirim!
 Hemen katıl
 Kuponunu kullan
@@ -708,10 +710,10 @@ Hemen katıl
 31.10.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Hemen katıl
-Tükeniyor!
-31.10.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 31.10.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
-Hemen katıl
 31.12.2026
 Galataport İstanbul Deniz Dolmuşlarında %50 indirim
 Keşfet
@@ -751,10 +753,10 @@ Hemen katıl
 31.10.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Hemen katıl
-Tükeniyor!
-31.10.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 31.10.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
-Hemen katıl
 31.10.2026
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Hemen katıl
@@ -910,10 +912,10 @@ Hemen katıl
 31.10.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Hemen katıl
-Tükeniyor!
-31.10.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 31.10.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
-Hemen katıl
 31.10.2026
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Hemen katıl
@@ -960,10 +962,10 @@ Hemen katıl
 31.10.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Hemen katıl
-Tükeniyor!
-31.10.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 31.10.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
-Hemen katıl
 31.10.2026
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Hemen katıl
@@ -1016,10 +1018,10 @@ Hemen katıl
 31.10.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Hemen katıl
-Tükeniyor!
-31.10.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 31.10.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
-Hemen katıl
 31.10.2026
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Hemen katıl
