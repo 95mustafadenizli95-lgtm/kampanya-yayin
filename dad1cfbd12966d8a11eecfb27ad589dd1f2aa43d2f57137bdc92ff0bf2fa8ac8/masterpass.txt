@@ -1,6 +1,6 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (14/10/2026 04:28) ===
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (15/10/2026 04:23) ===
 TOPLANAN BENZERSİZ KAMPANYA: 37
-KONTROL TARİHİ: 14 Ekim 2026
+KONTROL TARİHİ: 15 Ekim 2026
 
 
 --- MASTERPASS KAMPANYA 1/37 ---
@@ -520,6 +520,7 @@ KAYNAK: DETAY SAYFASI
 SON TARİH: 31 Aralık 2026
 hızlı geçiş
 Bitiş Tarihi: 31.12.2026
+Kampanya tükenmiştir!
 Mastercard sahiplerine Sabiha Gökçen dış hatlarda ücretsiz hızlı geçiş hizmeti!
 Hemen katıl
 Kurallar ve koşullar
@@ -825,7 +826,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 6 gün
+Son 5 gün
 UEFA Champions League'de devlerle sahaya çıkma şansı
 Keşfet
 İhtiyaç duyduğunda yanındayız

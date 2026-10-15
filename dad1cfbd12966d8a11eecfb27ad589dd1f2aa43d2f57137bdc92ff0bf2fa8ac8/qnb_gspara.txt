@@ -1,8 +1,8 @@
-=== QNB & GSPARA GÜNCEL KAMPANYA HAVUZU (14/10/2026 04:56) ===
+=== QNB & GSPARA GÜNCEL KAMPANYA HAVUZU (15/10/2026 04:51) ===
 QNB'DEN TOPLANAN: 1
 GSPARA'DAN TOPLANAN: 19
 BİRLEŞİK BENZERSİZ: 20
-KONTROL TARİHİ: 14 Ekim 2026
+KONTROL TARİHİ: 15 Ekim 2026
 
 
 --- QNB_GSPARA KAMPANYA 1/20 ---
@@ -113,7 +113,7 @@ Kampanya GSStore online mağazası ile yurt içindeki GSStore fiziksel mağazala
 Kampanya kapsamında yapılan ilk alışverişte kazanılacak nakit iade tutarı alışverişin %20’si olmak üzere en fazla 1.000 TL ile sınırlıdır. Alt harcama limiti bulunmamaktadır.
 Kampanya yalnızca ilk yapılan alışveriş için geçerlidir. Müşteriler kampanyadan yalnızca bir kez faydalanabilir.
 Kampanya kapsamında kazanılan nakit iade tutarları işlem sonrasında müşterinin kredi kartına yansıtılacaktır. Kazanılan nakit iade, işlemin gerçekleştirildiği karta iade edilecektir.
-Kampanya yalnızca 24.08.2026 – 30.09.2026 tarihleri arasında GSPara Kredi Kartı ile yapılan alışverişlerde geçerlidir.
+Kampanya yalnızca 24.08.2026 – 31.10.2026 tarihleri arasında GSPara Kredi Kartı ile yapılan alışverişlerde geçerlidir.
 Sanal kartlarla yapılan alışverişler kampanyaya dahildir.
 İade veya iptal edilen işlemler için nakit iade kazanımı gerçekleşmez.
 Karta yansıtılan nakit iade tutarları başka bir hesaba transfer edilemez ve nakit olarak çekilemez.
