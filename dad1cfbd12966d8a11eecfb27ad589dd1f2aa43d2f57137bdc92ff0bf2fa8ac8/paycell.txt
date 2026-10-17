@@ -1,6 +1,6 @@
-=== PAYCELL GÜNCEL KAMPANYA HAVUZU (16/10/2026 04:51) ===
+=== PAYCELL GÜNCEL KAMPANYA HAVUZU (17/10/2026 04:53) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 45
-KONTROL TARİHİ: 16 Ekim 2026
+KONTROL TARİHİ: 17 Ekim 2026
 
 
 --- PAYCELL KAMPANYA 1/45 ---
@@ -1062,18 +1062,18 @@ Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değ
 --- PAYCELL KAMPANYA 32/45 ---
 BAŞLIK: Pasaj'da anında 150 TL nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/turkcell-pasajda-aninda-150-tl-nakit-iade
-SON TARİH: 1 Kasım 2026
+SON TARİH: 30 Kasım 2026
 Pasaj'da anında 150 TL nakit iade!
 Paycell Kart ile Turkcell Pasaj’da yapacağın 750 TL ve üzeri harcamana 75 TL, 1.000 TL ve üzeri harcamana 150 TL anında nakit iade!
 Kampanya Geçerlilik Tarihi
 2 Haziran 2026
-1 Kasım 2026
+30 Kasım 2026
 Kimler Katılabilir?
 Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
-Kampanya 02.06.2026 – 01.11.2026 tarihleri arasında geçerlidir.
+Kampanya 02.06.2026 – 30.11.2026 tarihleri arasında geçerlidir.
 Kampanyaya Dahil Harcamalar Nelerdir?
 Kampanya yalnızca sanal ya da fiziksel Paycell Kart’lar ile Turkcell Pasaj’da tek seferde 750 TL ve üzeri yapılacak harcamalarda geçerlidir.
 Kampanya Faydası Nedir?
