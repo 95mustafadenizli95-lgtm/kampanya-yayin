@@ -1,6 +1,6 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (17/10/2026 04:25) ===
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (18/10/2026 04:26) ===
 TOPLANAN BENZERSİZ KAMPANYA: 39
-KONTROL TARİHİ: 17 Ekim 2026
+KONTROL TARİHİ: 18 Ekim 2026
 
 
 --- MASTERPASS KAMPANYA 1/39 ---
@@ -94,7 +94,6 @@ Hemen katıl
 31.10.2026
 Huawei Watch Kids X1 1000 TL indirim
 Hemen katıl
-Yeni
 30.11.2026
 FashFed'de 1000 TL indirim
 Hemen katıl
@@ -185,7 +184,6 @@ Hemen katıl
 31.10.2026
 Huawei Watch Kids X1 1000 TL indirim
 Hemen katıl
-Yeni
 30.11.2026
 FashFed'de 1000 TL indirim
 Hemen katıl
@@ -271,10 +269,10 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
+Tükeniyor!
 08.11.2026
 Mastercard sahiplerine özel Migros Yemek’te 350 TL indirim
 Hemen katıl
-Yeni
 15.11.2026
 Starbucks'ta 1 içecek hediye
 Hemen katıl
@@ -321,7 +319,6 @@ Hemen katıl
 30.11.2026
 Atelier Rebul’de 1000 TL indirim
 Hemen katıl
-Yeni
 30.11.2026
 FashFed'de 1000 TL indirim
 Hemen katıl
@@ -361,7 +358,6 @@ Benzer kampanyalar
 31.12.2026
 ZUBİZU ile seçili restoranlarda %20 indirim
 Keşfet
-Yeni
 15.11.2026
 Starbucks'ta 1 içecek hediye
 Hemen katıl
@@ -401,6 +397,7 @@ Benzer kampanyalar
 31.12.2026
 ZUBİZU ile seçili restoranlarda %20 indirim
 Keşfet
+Tükeniyor!
 08.11.2026
 Mastercard sahiplerine özel Migros Yemek’te 350 TL indirim
 Hemen katıl
@@ -495,8 +492,8 @@ KAYNAK: DETAY SAYFASI
 SON TARİH: 31 Aralık 2026
 ücretsiz buggy hizmeti
 Bitiş Tarihi: 31.12.2026
+Kampanya tükenmiştir!
 Mastercard sahiplerine İstanbul Havalimanı'nda ücretsiz buggy hizmeti!
-Hemen katıl
 Kurallar ve koşullar
 Türkiye'de basılmış Silver logolu Mastercard sahipleri, 21.09.2026 – 31.12.2026 tarihleri arasında İstanbul Havalimanı'nda ücretsiz buggy hizmetinden yararlanabilir.
 Kampanyadan yararlanmak için https://www.masterpassturkiye.com/ web sitesi üzerinden ilgili kampanya sayfasından kupon alınması ve hizmet noktasındaki yetkili personele ibraz edilmesi gerekmektedir.
@@ -853,7 +850,6 @@ Hemen katıl
 31.10.2026
 Huawei Watch Kids X1 1000 TL indirim
 Hemen katıl
-Yeni
 30.11.2026
 FashFed'de 1000 TL indirim
 Hemen katıl
@@ -887,7 +883,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 3 gün
+Son 2 gün
 UEFA Champions League'de devlerle sahaya çıkma şansı
 Keşfet
 İhtiyaç duyduğunda yanındayız
