@@ -1,6 +1,6 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (18/10/2026 04:26) ===
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (19/10/2026 04:24) ===
 TOPLANAN BENZERSİZ KAMPANYA: 39
-KONTROL TARİHİ: 18 Ekim 2026
+KONTROL TARİHİ: 19 Ekim 2026
 
 
 --- MASTERPASS KAMPANYA 1/39 ---
@@ -451,8 +451,8 @@ KAYNAK: DETAY SAYFASI
 SON TARİH: 31 Aralık 2026
 ücretsiz hızlı geçiş
 Bitiş Tarihi: 31.12.2026
+Kampanya tükenmiştir!
 Mastercard sahiplerine İstanbul Havalimanı'nda ücretsiz hızlı geçiş hizmeti!
-Hemen katıl
 Kurallar ve koşullar
 Türkiye'de basılmış Silver logolu Mastercard sahipleri, 21.09.2026 – 31.12.2026 tarihleri arasında İstanbul Havalimanı'nda ücretsiz hızlı geçiş hizmetinden yararlanabilir.
 Kampanyadan yararlanmak için https://www.masterpassturkiye.com/ web sitesi üzerinden ilgili kampanya sayfasından kupon alınması ve hizmet noktasındaki yetkili personele ibraz edilmesi gerekmektedir.
@@ -883,7 +883,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 2 gün
+Son 1 gün
 UEFA Champions League'de devlerle sahaya çıkma şansı
 Keşfet
 İhtiyaç duyduğunda yanındayız
