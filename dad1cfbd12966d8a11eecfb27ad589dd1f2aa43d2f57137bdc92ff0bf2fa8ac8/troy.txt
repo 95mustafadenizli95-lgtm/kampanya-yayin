@@ -1,9 +1,9 @@
-=== TROY GÜNCEL KAMPANYA HAVUZU (21/10/2026 04:59) ===
-TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 35
-KONTROL TARİHİ: 21 Ekim 2026
+=== TROY GÜNCEL KAMPANYA HAVUZU (22/10/2026 04:56) ===
+TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 36
+KONTROL TARİHİ: 22 Ekim 2026
 
 
---- TROY KAMPANYA 7/35 ---
+--- TROY KAMPANYA 8/36 ---
 BAŞLIK: dr.com.tr ve D&R mobil uygulamasında 1.000 TL’ye varan indirim kazan!
 LINK: https://www.troyodeme.com/tr/bireysel/kampanya-ve-firsatlar/drcomtr-ve-dr-mobil-uygulamasinda-1000-tlye-varan-indirim-kazan
 SON TARİH BELİRTİLMEMİŞ
@@ -12,7 +12,7 @@ Anasayfa
 Bireysel
 
 
---- TROY KAMPANYA 34/35 ---
+--- TROY KAMPANYA 35/36 ---
 BAŞLIK: Türk Hava Yolları biletinizi TROY kart ile alın, %5 TK para kazanın!
 LINK: https://www.troyodeme.com/tr/bireysel/kampanya-ve-firsatlar/turk-hava-yollari-biletinizi-troy-kart-ile-alin-5-tk-para-kazanin
 SON TARİH BELİRTİLMEMİŞ
@@ -22,7 +22,7 @@ Bireysel
 
 
 === TROY ÇEKİM ÖZETİ ===
-TOPLAM BENZERSİZ LİNK: 35
+TOPLAM BENZERSİZ LİNK: 36
 GÜNCEL VEYA TARİHİ BELİRSİZ: 2
 SÜRESİ DOLMUŞ: 0
-HATALI: 33
+HATALI: 34
