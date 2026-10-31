@@ -1,11 +1,11 @@
-=== QNB & GSPARA GÜNCEL KAMPANYA HAVUZU (30/10/2026 04:54) ===
+=== QNB & GSPARA GÜNCEL KAMPANYA HAVUZU (31/10/2026 04:56) ===
 QNB'DEN TOPLANAN: 1
-GSPARA'DAN TOPLANAN: 18
-BİRLEŞİK BENZERSİZ: 19
-KONTROL TARİHİ: 30 Ekim 2026
+GSPARA'DAN TOPLANAN: 20
+BİRLEŞİK BENZERSİZ: 21
+KONTROL TARİHİ: 31 Ekim 2026
 
 
---- QNB_GSPARA KAMPANYA 1/19 ---
+--- QNB_GSPARA KAMPANYA 1/21 ---
 BAŞLIK: Otomatik Fatura Ödeme Talimatı ParaPuan Kampanyası
 LINK: https://www.qnb.com.tr/kampanyalar/724-kampanyalari/otomatik-fatura-odeme-talimati-parapuan-kampanyasi-18197
 KAYNAK: QNB
@@ -48,7 +48,7 @@ Bizi Tanıyın
 Bilgi Toplumu Hizmetleri
 
 
---- QNB_GSPARA KAMPANYA 2/19 ---
+--- QNB_GSPARA KAMPANYA 2/21 ---
 BAŞLIK: GSPara Kredi Kartına başvuranlara özel TOD Süper Lig Paketi kampanyası!
 LINK: https://www.gspara.com.tr/ayricaliklar/gecmis-ayricaliklar
 KAYNAK: GSPARA
@@ -75,7 +75,60 @@ GSPara Kredi Kartı’n ile yapacağın ilk alışverişinde 1905TL ParaPuan hed
 3
 
 
---- QNB_GSPARA KAMPANYA 3/19 ---
+--- QNB_GSPARA KAMPANYA 3/21 ---
+BAŞLIK: GSPara Kredi Kartı ile Online Yemek Alışverişlerine %10 Nakit İade Fırsatı!
+LINK: https://www.gspara.com.tr/ayricaliklar/gspara-kredi-karti-ile-online-yemek-alisverislerine-10-nakit-iade-firsati-11426
+KAYNAK: GSPARA
+SON TARİH BELİRTİLMEMİŞ
+GSPara Kredi Kartı ile Online Yemek Alışverişlerine %10 Nakit İade Fırsatı!
+GSPara Kredi Kartı çıkartıp 31 Aralık’a kadar harcama yapmadan önce kampanyaya katılın, harcama sonrasında 6 ay boyunca yapacağınız yurt içi online yemek alışverişlerinde %10 nakit iade fırsatından yararlanın! Kampanyaya katılarak gerçekleştireceğiniz restoran/yemek kategorisindeki online yemek alışverişlerinde harcamanızın %10’u kadar işlem başına en fazla 250 TL, ay içerisinde toplam en fazla 500 TL nakit iade kazanabilirsiniz. Kampanya süresince toplam 3.000 TL’ye kadar nakit iade kazanma fırsatından yararlanabilirsiniz.
+Kampanyadan yararlanmak için harcama yapmadan önce GSYEMEK yazıp 2273’e SMS göndererek kampanyaya katılabilirsiniz.
+Kampanya’dan 30 Ekim tarihi sonrasında kredi kartı başvurusu yapan ve başvurusu onaylanan müşteriler faydalanabilecektir.
+Kampanyadan yararlanabilmek için müşterilerin kampanyaya SMS ile katılım sağlaması gerekmektedir.
+GSPara Kredi Kartı sahibi müşteriler: GSYEMEK yazıp 2273’e SMS göndermelidir.
+2273’e gönderilecek her SMS, operatörlerin kendi kampanya katılım mesaj tarifeleri üzerinden 1 kısa mesaj olarak ücretlendirilir.
+Katılım SMS’i gönderilmeden önce yapılan harcamalar kampanya kapsamında değerlendirilmeyecektir.
+Kampanya kapsamında GSPara Kredi Kartı ile gerçekleştirilen online yemek alışverişlerinde %10 nakit iade kazanılacaktır.
+Kampanya kapsamında kazanılabilecek nakit iade tutarı işlem başına en fazla 250 TL, ay içerisinde toplam en fazla 500 TL ile sınırlıdır.
+Müşteriler kampanya süresince toplamda en fazla 3.000 TL nakit iade kazanabilir.
+Bir sonraki takvim ayında müşterinin kampanyadan faydalandığı tutar yenilenir ve yeniden 500 TL’ye kadar nakit iade kazanabilir.
+Kampanya yalnızca online olarak gerçekleştirilen ve restoran/yemek kategorisinde yer alan işlemlerde geçerlidir.
+Fiziksel restoranlarda POS üzerinden gerçekleştirilen yüz yüze alışverişler kampanyaya dahil değildir.
+ParaPuan kullanılarak yapılacak harcamalar kampanyaya dahil değildir.
+Sanal kartlarla yapılan ve kampanya kriterlerini sağlayan online yemek harcamaları kampanyaya dahildir.
+Kampanya kapsamında kazanılan nakit iade tutarları işlem sonrasında müşterinin kredi kartına yansıtılacaktır . Kazanılan nakit iade, işlemin gerçekleştirildiği karta iade edilecektir.
+İade veya iptal edilen işlemler için nakit iade kazanımı gerçekleşmez.
+Karta yansıtılan nakit iade tutarları başka bir hesaba transfer edilemez ve nakit olarak çekilemez.
+Banka, kampanya koşullarında değişiklik yapma veya kampanyayı durdurma hakkını saklı tutar.
+
+
+--- QNB_GSPARA KAMPANYA 4/21 ---
+BAŞLIK: GSPara Kredi Kartı ile Akaryakıt Alışverişlerine %10 Nakit İade Fırsatı!
+LINK: https://www.gspara.com.tr/ayricaliklar/gspara-kredi-karti-ile-akaryakit-alisverislerine-10-nakit-iade-firsati-11428
+KAYNAK: GSPARA
+SON TARİH BELİRTİLMEMİŞ
+GSPara Kredi Kartı ile Akaryakıt Alışverişlerine %10 Nakit İade Fırsatı!
+GSPara Kredi Kartı çıkartıp 31 Aralık’a kadar harcama yapmadan önce kampanyaya katılın, harcama sonrasında 6 ay boyunca yapacağınız yurt içi akaryakıt alışverişlerinde %10 nakit iade fırsatından yararlanın! Kampanyaya katılarak akaryakıt istasyonlarında gerçekleştireceğiniz akaryakıt alışverişlerinde harcamanızın %10’u kadar işlem başına en fazla 250 TL, ay içerisinde toplam en fazla 500 TL nakit iade kazanabilirsiniz. Kampanya süresince toplam 3.000 TL’ye kadar nakit iade kazanma fırsatından yararlanabilirsiniz.
+GSPara Kredi Kartı sahibi müşteriler: GSYAKIT yazıp 2273’e SMS göndermelidir.
+Kampanya’dan 30 Ekim tarihi sonrasında kredi kartı başvurusu yapan ve başvurusu onaylanan müşteriler faydalanabilecektir.
+Kampanyadan yararlanabilmek için müşterilerin kampanyaya SMS ile katılım sağlaması gerekmektedir.
+GSPara Kredi Kartı sahibi müşteriler: GSYAKIT yazıp 2273’e SMS göndermelidir.
+2273’e gönderilecek her SMS, operatörlerin kendi kampanya katılım mesaj tarifeleri üzerinden 1 kısa mesaj olarak ücretlendirilir.
+Katılım SMS’i gönderilmeden önce yapılan harcamalar kampanya kapsamında değerlendirilmeyecektir.
+Kampanya kapsamında GSPara Kredi Kartı ile gerçekleştirilen akaryakıt alışverişlerinde %10 nakit iade kazanılacaktır.
+Kampanya kapsamında kazanılabilecek nakit iade tutarı işlem başına en fazla 250 TL, ay içerisinde toplam en fazla 500 TL ile sınırlıdır.
+Müşteriler kampanya süresince toplamda en fazla 3.000 TL nakit iade kazanabilir.
+Bir sonraki takvim ayında müşterinin kampanyadan faydalandığı tutar yenilenir ve yeniden 500 TL’ye kadar nakit iade kazanabilir.
+Kampanya yalnızca akaryakıt istasyonlarında gerçekleştirilen ve akaryakıt kategorisinde yer alan işlemlerde geçerlidir.
+ParaPuan kullanılarak yapılacak harcamalar kampanyaya dahil değildir.
+Sanal kartlarla yapılan ve kampanya kriterlerini sağlayan akaryakıt harcamaları kampanyaya dahildir.
+Kampanya kapsamında kazanılan nakit iade tutarları işlem sonrasında müşterinin kredi kartına yansıtılacaktır . Kazanılan nakit iade, işlemin gerçekleştirildiği karta iade edilecektir.
+İade veya iptal edilen işlemler için nakit iade kazanımı gerçekleşmez.
+Karta yansıtılan nakit iade tutarları başka bir hesaba transfer edilemez ve nakit olarak çekilemez.
+Banka, kampanya koşullarında değişiklik yapma veya kampanyayı durdurma hakkını saklı tutar.
+
+
+--- QNB_GSPARA KAMPANYA 5/21 ---
 BAŞLIK: GSStore Alışverişlerinizde %20 Nakit İade Fırsatı GSPara Kredi Kartı'nda!
 LINK: https://www.gspara.com.tr/ayricaliklar/gsstore-alisverislerinizde-20-nakit-iade-firsati-gspara-kredi-kartinda-11405
 KAYNAK: GSPARA
@@ -97,7 +150,7 @@ Karta yansıtılan nakit iade tutarları başka bir hesaba transfer edilemez ve 
 Banka, kampanya koşullarında değişiklik yapma veya kampanyayı durdurma hakkını saklı tutar.
 
 
---- QNB_GSPARA KAMPANYA 4/19 ---
+--- QNB_GSPARA KAMPANYA 6/21 ---
 BAŞLIK: GSParalılara Özel Öncelikli Bilet Alım Fırsatı
 LINK: https://www.gspara.com.tr/ayricaliklar/gsparalilara-ozel-oncelikli-bilet-alim-firsati-11254
 KAYNAK: GSPARA
@@ -113,7 +166,7 @@ GSPara Kredi Kartı veya Banka Kartı sahibi olan müşterilerimiz Passo bilet a
 Öncelikli bilet kampanyasına dahil olan maç biletleri sınırlı sayıdadır ve kotası dolduğu anda pasif hale gelecek ve kullanılamayacaktır.
 
 
---- QNB_GSPARA KAMPANYA 5/19 ---
+--- QNB_GSPARA KAMPANYA 7/21 ---
 BAŞLIK: Özel Oran Kredisi aylık %2.99’dan başlayan faiz oranlarıyla GSPara’da!
 LINK: https://www.gspara.com.tr/ayricaliklar/ozel-oran-kredisi-aylik-299dan-baslayan-faiz-oranlariyla-gsparada-11403
 KAYNAK: GSPARA
@@ -133,7 +186,7 @@ GSPara, her hakkı QNB Bank A.Ş.’ye aittir.
 ***Yıllık toplam maliyet oranlarına kredi için tahsil edilen kredi tahsis ücreti ve vergiler dahildir. Sigorta prim tutarı hariç tutulmuştur. İki taksit dönemi arası 30 gün baz alınmıştır.
 
 
---- QNB_GSPARA KAMPANYA 6/19 ---
+--- QNB_GSPARA KAMPANYA 8/21 ---
 BAŞLIK: Yeni GSParalılara Özel Hoş Geldin Kredisi Fırsatları Seni Bekliyor!
 LINK: https://www.gspara.com.tr/ayricaliklar/yeni-gsparalilara-ozel-hos-geldin-kredisi-firsatlari-seni-bekliyor-11401
 KAYNAK: GSPARA
@@ -158,7 +211,7 @@ GSPara, her hakkı QNB Bank A.Ş.’ye aittir.
 ** Yıllık toplam maliyet oranlarına kredi için tahsil edilen kredi tahsis ücreti ve vergiler dahildir. Sigorta prim tutarı hariç tutulmuştur. İki taksit dönemi arası 30 gün baz alınmıştır.
 
 
---- QNB_GSPARA KAMPANYA 7/19 ---
+--- QNB_GSPARA KAMPANYA 9/21 ---
 BAŞLIK: İlk alışverişinde 750 TL ParaPuan hediye!
 LINK: https://www.gspara.com.tr/ayricaliklar/ilk-alisverisinde-750-tl-parapuan-hediye-11391
 KAYNAK: GSPARA
@@ -178,7 +231,7 @@ Kampanyadan çıkış yapmak istemeniz durumunda 0850 202 1905 numaralı Çağr�
 QNB kampanyayı durdurma ve değiştirme/sonlandırma hakkını saklı tutar. Kampanya içeriğinde meydana gelebilecek değişikliklerin internet sitemize yansıtılmasında kısa süreli gecikmeler yaşanabilir.
 
 
---- QNB_GSPARA KAMPANYA 8/19 ---
+--- QNB_GSPARA KAMPANYA 10/21 ---
 BAŞLIK: Netflix, Spotify ve YouTube Premium keyfinizin %50’si GSPara’dan!
 LINK: https://www.gspara.com.tr/ayricaliklar/netflix-spotify-ve-youtube-premium-keyfinizin-50si-gsparadan-11393
 KAYNAK: GSPARA
@@ -205,7 +258,7 @@ Haziran ayında 120 TL Spotify ve 220 TL Netflix harcaması yaptığınızı var
 Temmuz ayında yalnızca 160 TL tutarında YouTube Premium harcaması yaptığınızı varsayalım. Bu durumda hesabınıza 80 TL iade yatırılır.
 
 
---- QNB_GSPARA KAMPANYA 9/19 ---
+--- QNB_GSPARA KAMPANYA 11/21 ---
 BAŞLIK: Yeni GSPara Kredi Kartlılara özel %0 faizli 25.000 TL!
 LINK: https://www.gspara.com.tr/ayricaliklar/nakit-ihtiyacinda-gspara-yaninda-11339
 KAYNAK: GSPARA
@@ -230,7 +283,7 @@ Kampanya içeriğinde meydana gelebilecek değişikliklerin internet sitemize ya
 GSPara, her hakkı QNB Bank A.Ş.’ye aittir.
 
 
---- QNB_GSPARA KAMPANYA 10/19 ---
+--- QNB_GSPARA KAMPANYA 12/21 ---
 BAŞLIK: GSParalılara özel ilk yıl kredi kartı yıllık üyelik ücreti yok!
 LINK: https://www.gspara.com.tr/ayricaliklar/lansmana-ozel-ilk-yil-kart-ucreti-yok-11046
 KAYNAK: GSPARA
@@ -246,7 +299,7 @@ Kampanyadan çıkış yapmak istemeniz durumunda 0850 202 1905 numaralı Çağr�
 QNB kampanyayı durdurma ve değiştirme/sonlandırma hakkını saklı tutar. Kampanya içeriğinde meydana gelebilecek değişikliklerin internet sitemize yansıtılmasında kısa süreli gecikmeler yaşanabilir.
 
 
---- QNB_GSPARA KAMPANYA 11/19 ---
+--- QNB_GSPARA KAMPANYA 13/21 ---
 BAŞLIK: Yüksek mevduat faizi GSPara’da
 LINK: https://www.gspara.com.tr/ayricaliklar/gsparadan-yuksek-tanisma-faizi-11050
 KAYNAK: GSPARA
@@ -261,7 +314,7 @@ Avantajlı faiz oranı, hesabınızı açmak istediğiniz vadeye ve bakiyeye gö
 Avantajlı faiz oranından faydalanmak için hesap açılış bakiyenizin minimum 10,000 TL olması gerekir.
 
 
---- QNB_GSPARA KAMPANYA 12/19 ---
+--- QNB_GSPARA KAMPANYA 14/21 ---
 BAŞLIK: GSParalılar EFT/FAST/HAVALE ücreti ödemiyor!
 LINK: https://www.gspara.com.tr/ayricaliklar/gsparalilar-eftfasthavale-ucreti-odemiyor-11044
 KAYNAK: GSPARA
@@ -274,7 +327,7 @@ Kredi kartından yapılan EFT/FAST/Havale işlemleri kapsam dışıdır.
 QNB kampanyayı durdurma, değiştirme ve sonlandırma hakkını saklı tutar. Kampanya içeriğinde meydana gelebilecek değişikliklerin internet sitemize yansıtılmasında kısa süreli gecikmeler yaşanabilir.
 
 
---- QNB_GSPARA KAMPANYA 13/19 ---
+--- QNB_GSPARA KAMPANYA 15/21 ---
 BAŞLIK: Trendyol'da peşin fiyatına 3 taksit fırsatı GSPara’da!
 LINK: https://www.gspara.com.tr/ayricaliklar/trendyolda-pesin-fiyatina-3-taksit-firsati-gsparada-11365
 KAYNAK: GSPARA
@@ -290,7 +343,7 @@ Trendyol'un sunduğu diğer kampanyalar için detaylı bilgiyi www.trendyol.com/
 QNB Bank A.Ş.; kampanya koşullarında ve geçerlilik tarihlerinde değişiklik yapma, kampanyayı tamamen veya geçici olarak durdurma hakkını saklı tutar.
 
 
---- QNB_GSPARA KAMPANYA 14/19 ---
+--- QNB_GSPARA KAMPANYA 16/21 ---
 BAŞLIK: Hepsiburada'da peşin fiyatına 3 taksit fırsatı GSPara’da!
 LINK: https://www.gspara.com.tr/ayricaliklar/hepsiburadada-pesin-fiyatina-3-taksit-firsati-gsparada-11363
 KAYNAK: GSPARA
@@ -312,7 +365,7 @@ LCD Televizyonlarda vade farksız en fazla 3 taksit yapılabilmektedir.
 Hepsiburada satıcılı Xiaomi (Tablet hariç ) markalı ürünler vade farksız taksit kampanyasına dahil değildir.
 
 
---- QNB_GSPARA KAMPANYA 15/19 ---
+--- QNB_GSPARA KAMPANYA 17/21 ---
 BAŞLIK: Amazon'da peşin fiyatına 3 taksit fırsatı GSPara’da!
 LINK: https://www.gspara.com.tr/ayricaliklar/amazonda-pesin-fiyatina-3-taksit-firsati-gsparada-11367
 KAYNAK: GSPARA
@@ -329,7 +382,7 @@ Kampanya kapsamında www.amazon.com.tr/ satın alınan ürünlerle ilgili olarak
 QNB Bank A.Ş.; kampanya koşullarında ve geçerlilik tarihlerinde değişiklik yapma, kampanyayı tamamen veya geçici olarak durdurma hakkını saklı tutar.
 
 
---- QNB_GSPARA KAMPANYA 16/19 ---
+--- QNB_GSPARA KAMPANYA 18/21 ---
 BAŞLIK: GSStore online alışverişlerinizde tüm ürünlerde %10 indirim!
 LINK: https://www.gspara.com.tr/ayricaliklar/gsstore-online-alisverislerinizde-tum-urunlerde-10-indirim-11248
 KAYNAK: GSPARA
@@ -345,7 +398,7 @@ GSStore indiriminden faydalanabilmen için, ödeme ekranında yer alan “Kredi 
 QNB Bank A.Ş. değişen koşullar dahilinde kampanyalarda değişiklik yapabilir/sonlandırabilir.
 
 
---- QNB_GSPARA KAMPANYA 17/19 ---
+--- QNB_GSPARA KAMPANYA 19/21 ---
 BAŞLIK: Acil nakit ihtiyaçlarınız için Taksitli Nakit Avans’ınız GSPara ve QNB ATM’lerinde!
 LINK: https://www.gspara.com.tr/ayricaliklar/acil-nakit-ihtiyaclariniz-icin-taksitli-nakit-avansiniz-qnb-atmlerinde-11052
 KAYNAK: GSPARA
@@ -361,7 +414,7 @@ Taksitli Nakit Avans devam ettiği sürece hesap kesim tarihi değişikliği yap
 Erken kapama taleplerinizi 0850 202 1905 numaralı Çağrı Merkezi’miz aracılığıyla iletebilirsiniz.
 
 
---- QNB_GSPARA KAMPANYA 18/19 ---
+--- QNB_GSPARA KAMPANYA 20/21 ---
 BAŞLIK: Puanlar GSPara’da, Ödüller GSPlus’ta!
 LINK: https://www.gspara.com.tr/ayricaliklar/puanlar-gsparada-oduller-gsplusta-11307
 KAYNAK: GSPARA
@@ -388,7 +441,7 @@ GSPlus, Galatasaray Spor Kulübü’nün taraftar uygulamasıdır.
 GSPara kampanyayı durdurma ve değiştirme/sonlandırma hakkını saklı tutar.
 
 
---- QNB_GSPARA KAMPANYA 19/19 ---
+--- QNB_GSPARA KAMPANYA 21/21 ---
 BAŞLIK: GSPara ile faturalarına otomatik ödeme talimatı ver, ParaPuan kazan!
 LINK: https://www.gspara.com.tr/ayricaliklar/gspara-ile-faturalarina-otomatik-odeme-talimati-ver-parapuan-kazan-11357
 KAYNAK: GSPARA
@@ -413,8 +466,8 @@ GSPara, her hakkı QNB Bank A.Ş.’ye aittir.
 
 === QNB & GSPARA ÇEKİM ÖZETİ ===
 QNB'DEN: 1
-GSPARA'DAN: 18
-BİRLEŞİK BENZERSİZ: 19
-GÜNCEL VEYA TARİHİ BELİRSİZ: 19
+GSPARA'DAN: 20
+BİRLEŞİK BENZERSİZ: 21
+GÜNCEL VEYA TARİHİ BELİRSİZ: 21
 SÜRESİ DOLMUŞ: 0
 HATALI: 0
