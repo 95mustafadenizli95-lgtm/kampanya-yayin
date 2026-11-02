@@ -1,4 +1,4 @@
-=== TEMİZLENMİŞ HALKBANK PARAF KAMPANYA RAPORU (01/11/2026 04:47) ===
+=== TEMİZLENMİŞ HALKBANK PARAF KAMPANYA RAPORU (02/11/2026 04:48) ===
 
 
 ======================================================================
@@ -241,6 +241,63 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 ======================================================================
 KAMPANYA NO                      : 19
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/trendyolda-pesin-fiyatina-12-aya-varan-taksit-firsati.html
+KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
+PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+E-Ticaret
+Trendyol ‘da Peşin Fiyatına 12 Aya varan Taksit Fırsatı
+Trendyol ‘da Peşin Fiyatına 12 Aya varan Taksit Fırsatı
+2 Kasım – 2 Aralık 2026 tarihleri arasında www.trendyol.com ve mobil uygulamasından tek seferde yapacağınız 1.000 TL ve üzeri taksitli alışverişlerinizde peşin fiyatına 3 taksit; 6.000 TL ve üzeri seçili ürünlerde peşin fiyatına 6 taksit;  10.000 TL ve üzeri seçili ürünlerde 9 taksit; 30.000 TL ve üzeri seçili ürünlerde 12 taksit fırsatı sunulacaktır.
+Peşin fiyatına 6, 9 ve 12 taksit kampanyası sadece seçili ürünler özelinde geçerlidir.
+Kampanyadan faydalanmak için ödeme esnasında ilgili taksitin seçilmesi gerekmektedir.
+Kampanyaya ilişkin geriye dönük yararlandırma ve değişiklik yapılmayacaktır.
+Peşin fiyatına Taksit kampanyası tek seferde 200.000 TL’ye kadar olan işlemlerde geçerlidir.
+Kampanya Paraf POS’undan  yapılan işlemlerde geçerli olacaktır.
+Peşin fiyatına 3 taksit kampanyası Trendyol Dolap uygulamasından yapılacak alışverişlerde geçerlidir.
+Peşin fiyatına 6, 9 ve 12 taksit kampanyası Trendyol Dolap, Trendyol Milla uygulamasından yapılacak alışverişlerde geçerli değildir.
+Paraf, Parafly, Parafree, Paraf Genç Paraf Business, Paraf Esnaf, Paraf KOBİ, Eczacı Paraf, Eczacı Paraf KOBİ, Emlak Katılım Paraf, Dünya Katılım Paraf, sanal ve ek kartlar kampanyadan faydalanabilecektir.
+BDDK tarafından yayınlanan kredi kartları taksit sınırlaması kapsamında, satılan ürünlere göre taksit geçerli olmayabilir veya taksit sayıları değişiklik gösterebilir. Bireysel kredi kartlarıyla gerçekleştirilecek basılı ve külçe altın alımına ilişkin kuyum, telekomünikasyon, doğrudan pazarlama ile ilgili harcamalar, yurt dışında yapılan harcamalar ve yemek, gıda, alkollü içecek, akaryakıt, kozmetik, ofis malzemesi ile hediye kart, hediye çeki ve benzeri şekillerde herhangi somut bir mal veya hizmeti içermeyen ürünlerin alımlarında taksit uygulanamaz.
+Birden fazla üründen oluşan siparişlerin taksitlendirilebilmesi için siparişlere konu ürünlerin tamamının taksitlendirmeye elverişli olması gerekmektedir.
+TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
+İlginizi Çekebilir
+E-Ticaret Alışverişlerinize 1.000 TL ParafPara
+Tarım Kredi Koop Marketler'de 1.000 TL’ye Varan ParafPara!
+Market Harcamalarınıza 1.000 TL ParafPara
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 20
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/emlak-ve-cevre-temizlik-vergisi-odemelerinize-ucretsiz-4evaran-taksit1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
 PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
@@ -297,7 +354,72 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 20
+KAMPANYA NO                      : 21
+KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
+KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/hepsiburadada-pesin-fiyatina-12-aya-varan-taksit.html
+KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
+PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
+----------------------------------------------------------------------
+Paraflı Değilim
+Paraflıyım
+Parafı Tanıyın
+Paraf Premium'u Keşfedin
+Kart Çeşitleri
+Kampanyalar
+İNTERNET ŞUBESİ
+İNTERNET ŞUBESİNE GİRİŞ
+KREDİ KARTI BAŞVURUSU
+ÜYE İŞYERİ BAŞVURUSU
+Ana Sayfa
+Kampanyalar
+E-Ticaret
+Hepsiburada'da peşin fiyatına 12 aya varan taksit
+Hepsiburada'da peşin fiyatına 12 aya varan taksit
+2-13 Kasım 2026 tarihleri arasında www.hepsiburada.com ve mobil uygulamasından tek seferde yapılacak alışverişlerde vade farksız 3-6-9-12 taksit imkanı sunulacaktır.
+100 TL altındaki alışverişlerde taksitlendirme yapılmaz.
+100 TL – 1.000 TL arası alışverişlerde vade farklı 12 taksit uygulanmaktadır.
+1.000 TL ve üzeri alışverişlerde peşin fiyatına 3 taksit uygulanır, üzeri taksitler vade farklıdır.
+6.000 TL ve üzeri alışverişlerde peşin fiyatına 6 taksit uygulanır, üzeri taksitler vade farklıdır.
+10.000 TL ve üzeri alışverişlerde Hepsiburada Premium müşterilerine özel seçili ürünlerde peşin fiyatına 9 taksit geçerlidir.
+30.000 TL ve üzeri alışverişlerde Hepsiburada Premium müşterilerine özel seçili ürünlerde peşin fiyatına 12 taksit geçerlidir.
+Peşin fiyatına 6-9-12 taksit kampanyası sadece seçili ürünler özelinde geçerlidir.
+Kampanyadan faydalanmak için ödeme esnasında ilgili taksitin seçilmesi gerekmektedir.
+Kampanyaya ilişkin geriye dönük yararlandırma ve değişiklik yapılmayacaktır.
+Kampanya Paraf POS’undan yapılan işlemlerde geçerli olacaktır.
+Hepsiburada belirli kategorilerde yer alan ürünleri peşin fiyatına taksit uygulamasından hariç tutabilir.
+LCD Televizyonlarda vade farksız en fazla 4 taksit yapılabilmektedir.
+Hepsiburada satıcılı Xiaomi (Tablet hariç) markalı ürünler vade farksız taksit kampanyalarına dahil değildir.
+Hepsiburada satıcılı QCY ve Lenova markalı bluetooth kulaklıklar, TCL markalı akıllı saatler, vade farksız 6 taksit ve üzeri taksit kampanyalarına dahil değildir.
+Vade farksız taksitler, Bankacılık Düzenleme ve Denetleme Kurulu tarafından taksit kısıtı kapsamında yer almayan ürünler için geçerlidir.
+Taksit ve vade farkı uygulamalarında Hepsiburada’nın tek taraflı değişiklik yapma hakkı saklıdır.
+Paraf, Parafly, Parafree, Paraf Business, Paraf Esnaf, Paraf KOBİ, Eczacı Paraf, Eczacı Paraf KOBİ, sanal ve ek kartlar kampanyadan faydalanabilecektir.
+BDDK tarafından yayınlanan kredi kartları taksit sınırlaması kapsamında, satılan ürünlere göre taksit geçerli olmayabilir veya taksit sayıları değişiklik gösterebilir. Bireysel kredi kartlarıyla gerçekleştirilecek basılı ve külçe altın alımına ilişkin kuyum, telekomünikasyon, doğrudan pazarlama ile ilgili harcamalar, yurt dışında yapılan harcamalar ve yemek, gıda, alkollü içecek, akaryakıt, kozmetik, ofis malzemesi ile hediye kart, hediye çeki ve benzeri şekillerde herhangi somut bir mal veya hizmeti içermeyen ürünlerin alımlarında taksit uygulanamaz.
+TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
+YAZDIR
+İlginizi Çekebilir
+E-Ticaret Alışverişlerinize 1.000 TL ParafPara
+Tarım Kredi Koop Marketler'de 1.000 TL’ye Varan ParafPara!
+Market Harcamalarınıza 1.000 TL ParafPara
+Faiz Oranları ve Ücretler
+Üye İşyeri Hizmetleri
+ATM / Şube Adresleri
+Bize Ulaşın
+SSS
+Bilmem Gerekenler
+Site Haritası
+Logolarımız
+Gizlilik Politikası
+Yasal Uyarılar
+Sözleşmeler ve Bilgi Formları
+Sosyal Sorumluluk
+Parafly
+Paraf Gençİz
+Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
+Çerezleri Reddet
+
+
+======================================================================
+KAMPANYA NO                      : 22
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/monster-notebookta-10000-tl-parafpara2.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -356,7 +478,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 21
+KAMPANYA NO                      : 23
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/giyim-ve-kozmetik-alisverislerinize-1250tl-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -419,7 +541,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 22
+KAMPANYA NO                      : 24
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/diger-firsatlar/parafly-kredi-kartiniz-ile-size-ozel-5000tl-parafpara-kampanyasi1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : 1 Kasım 2026 – 30 Kasım 2026
@@ -490,64 +612,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 23
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/trendyolda-pesin-fiyatina-9-aya-varan-taksitaralik.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-E-Ticaret
-Trendyol ‘da Peşin Fiyatına 9 Aya varan Taksit
-Trendyol ‘da Peşin Fiyatına 9 Aya varan Taksit
-01 Kasım 2026 tarihine kadar www.trendyol.com ve mobil uygulamasından tek seferde yapacağınız 1.000 TL ve üzeri taksitli alışverişlerinizde peşin fiyatına 3 taksit; 6.000 TL ve üzeri seçili ürünlerde peşin fiyatına 6 taksit;  10.000 TL ve üzeri seçili ürünlerde 9 taksit fırsatı sunulacaktır.
-Peşin fiyatına 6 ve 9 taksit kampanyası sadece seçili ürünler özelinde geçerlidir.
-Kampanyadan faydalanmak için ödeme esnasında ilgili taksitin seçilmesi gerekmektedir.
-Kampanyaya ilişkin geriye dönük yararlandırma ve değişiklik yapılmayacaktır.
-Peşin fiyatına Taksit kampanyası tek seferde 200.000 TL’ye kadar olan işlemlerde geçerlidir.
-Kampanya Paraf POS’undan  yapılan işlemlerde geçerli olacaktır.
-Peşin fiyatına 3 taksit kampanyası Trendyol Dolap uygulamasından yapılacak alışverişlerde geçerlidir.
-Peşin fiyatına 6 ve 9 taksit kampanyası Trendyol Dolap, Trendyol Milla uygulamasından yapılacak alışverişlerde geçerli değildir.
-Paraf, Parafly, Parafree, Paraf Genç Paraf Business, Paraf Esnaf, Paraf KOBİ, Eczacı Paraf, Eczacı Paraf KOBİ, Emlak Katılım Paraf, Dünya Katılım Paraf, sanal ve ek kartlar kampanyadan faydalanabilecektir.
-BDDK tarafından yayınlanan kredi kartları taksit sınırlaması kapsamında, satılan ürünlere göre taksit geçerli olmayabilir veya taksit sayıları değişiklik gösterebilir. Bireysel kredi kartlarıyla gerçekleştirilecek basılı ve külçe altın alımına ilişkin kuyum, telekomünikasyon, doğrudan pazarlama ile ilgili harcamalar, yurt dışında yapılan harcamalar ve yemek, gıda, alkollü içecek, akaryakıt, kozmetik, ofis malzemesi ile hediye kart, hediye çeki ve benzeri şekillerde herhangi somut bir mal veya hizmeti içermeyen ürünlerin alımlarında taksit uygulanamaz.
-Birden fazla üründen oluşan siparişlerin taksitlendirilebilmesi için siparişlere konu ürünlerin tamamının taksitlendirmeye elverişli olması gerekmektedir.
-TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
-YAZDIR
-İlginizi Çekebilir
-E-Ticaret Alışverişlerinize 1.000 TL ParafPara
-Tarım Kredi Koop Marketler'de 1.000 TL’ye Varan ParafPara!
-Market Harcamalarınıza 1.000 TL ParafPara
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 24
+KAMPANYA NO                      : 25
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/amazon-com-trde-pesin-fiyatina-9-aya-varan-taksit.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -605,7 +670,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 25
+KAMPANYA NO                      : 26
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/market/tarim-kredi-koop-marketlerde-1000tlye-varan-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -664,7 +729,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 26
+KAMPANYA NO                      : 27
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/market/cepte-sokta-500tlye-varan-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -724,7 +789,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 27
+KAMPANYA NO                      : 28
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/market/market-harcamalariniza-1500tl-mobil-qr-ile-odemelerinize-2000-tlye-varan-parafpara1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -790,7 +855,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 28
+KAMPANYA NO                      : 29
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/mobilya-dekorasyon-ve-yapi-marketi-alisverislerinize-1250-tlye-varan-parafpara2.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -848,7 +913,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 29
+KAMPANYA NO                      : 30
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/madame-cocoda-400-tl-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -909,7 +974,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 30
+KAMPANYA NO                      : 31
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/ticari-kampanyalar/paraf-esnaf-ile-market-ve-gida-harcamalariniza-700tl-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -971,7 +1036,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 31
+KAMPANYA NO                      : 32
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/giyim-optik-ve-saat-alisverislerinize-2000tl-mobil-qr-ile-odemelerinize-ekstra-500tl-toplam-2500tl-parafpara1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1039,7 +1104,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 32
+KAMPANYA NO                      : 33
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/saatvesaatte-pesin-fiyatina-5-taksit.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1090,7 +1155,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 33
+KAMPANYA NO                      : 34
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/paraf-ile-madame-coco-magazalarinda-pesin-fiyatina-3-taksit-firsati.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1140,7 +1205,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 34
+KAMPANYA NO                      : 35
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/giyim-kozmetik-ve-aksesuar/kozmetik-guzellik-salonu-ve-kuafor-harcamalariniza-625tl-parafpara-mobil-qr-ile-odemelerinize-750tlye-varan-parafpara1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1205,7 +1270,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 35
+KAMPANYA NO                      : 36
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/yurt-disi/premiuma-ozel-yurt-disi-online-alisverislerinize-3000-tl-parafpara2.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1267,7 +1332,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 36
+KAMPANYA NO                      : 37
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/seyahat/seyahat-konaklama-ve-arac-kiralama-harcamalariniza-3500tl-parafpara41.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1326,7 +1391,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 37
+KAMPANYA NO                      : 38
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/akaryakit/akaryakit-harcamalariniza-450-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1383,7 +1448,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 38
+KAMPANYA NO                      : 39
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/seyahat/touristica-com-tr-de-8500tlye-varan-parafpara-ve-pesin-fiyatina-9-taksit-agustos12.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1442,7 +1507,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 39
+KAMPANYA NO                      : 40
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/otomotiv/otomotiv-lastik-yedek-parca-ve-arac-bakim-harcamalariniza-1500tlye-varan-parafpara2.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1499,7 +1564,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 40
+KAMPANYA NO                      : 41
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/kafe-ve-restoran/paraf-troy-kartlara-ozel-secili-sektorlerde-400tlye-varan-indirim-kampanyasi1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1555,7 +1620,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 41
+KAMPANYA NO                      : 42
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/beyaz-esya-ve-elektronik/beyaz-esya-ve-elektronik-alisverislerinize-3500tlye-varan-parafpara11.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1613,7 +1678,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 42
+KAMPANYA NO                      : 43
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/mobilya-ve-dekorasyon/mobilya-dekorasyon-ve-yapi-marketi-alisverislerinize-6000tlye-varan-parafpara21.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1671,7 +1736,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 43
+KAMPANYA NO                      : 44
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/egitim-kirtasiye/pesin-okul-odemelerinize-paraf-poslarinda-ucretsiz-6-ya-varan-taksit-kampanyasi.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1728,7 +1793,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 44
+KAMPANYA NO                      : 45
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/seyahat/ucak-bileti-harcamalariniza-2250-tlye-varan-parafpara11.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1786,7 +1851,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 45
+KAMPANYA NO                      : 46
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/yurt-disi/yurt-disi-alisverislerinize-10000tlye-varan-parafpara.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1845,7 +1910,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 46
+KAMPANYA NO                      : 47
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/seyahat/silver-logolu-paraf-premium-mastercard-sahiplerine-yurt-disi-otel-harcamalarinda-yuzde10-indirim.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1908,7 +1973,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 47
+KAMPANYA NO                      : 48
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/yurt-disi/premiuma-ozel-yurtdisi-online-seyahat-alisverislerinize-6000tlye-varan-parafpara1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -1969,7 +2034,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 48
+KAMPANYA NO                      : 49
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/yurt-disi/yurt-disi-online-seyahat-alisverislerinize-1500tl-parafpara1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -2029,7 +2094,7 @@ Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır.
 
 
 ======================================================================
-KAMPANYA NO                      : 49
+KAMPANYA NO                      : 50
 KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
 KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/yurt-disi/yurt-disi-online-alisverislerinize-750-tl-parafpara1.html
 KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
@@ -2066,71 +2131,6 @@ Fatura, vergi, sigorta, bireysel emeklilik ödemeleri ve düzenli ödeme talimat
 Yabancı para cinsinden yapılan işlemler TL’ye çevrildikten sonra kampanya kapsamına dahil edileceğinden kur farklılıkları sebebiyle değişiklikler olabilir. Bu uygulamalardan kaynaklanan farklılıklardan dolayı işlemin kampanyaya dahil edilmemesi durumunda bankanın herhangi bir sorumluluğu bulunmamaktadır.
 Premium harici Paraf kartlar, Parafly, sanal kartlar ve ek kartlar kampanyaya dahildir.
 Premium kartlar, Paraf Genç, Paraf Gençİz ,banka kartları, ticari kartlar, Halkcard’lar, ParafPara kullanarak yapılan işlemler, iptal ve iade işlemleri dahil değildir.
-TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
-YAZDIR
-İlginizi Çekebilir
-E-Ticaret Alışverişlerinize 1.000 TL ParafPara
-Tarım Kredi Koop Marketler'de 1.000 TL’ye Varan ParafPara!
-Market Harcamalarınıza 1.000 TL ParafPara
-Faiz Oranları ve Ücretler
-Üye İşyeri Hizmetleri
-ATM / Şube Adresleri
-Bize Ulaşın
-SSS
-Bilmem Gerekenler
-Site Haritası
-Logolarımız
-Gizlilik Politikası
-Yasal Uyarılar
-Sözleşmeler ve Bilgi Formları
-Sosyal Sorumluluk
-Parafly
-Paraf Gençİz
-Sitemizden en iyi şekilde faydalanabilmeniz için çerezler kullanılmaktadır. Detaylar için veri politikamızı inceleyebilirsiniz.
-Çerezleri Reddet
-
-
-======================================================================
-KAMPANYA NO                      : 50
-KAMPANYA KAYNAĞI                 : Paraf Kampanyaları
-KAMPANYA LINKI                   : https://www.paraf.com.tr/tr/kampanyalar/e-ticaret/hepsiburadada-pesin-fiyatina-9-aya-varan-taksit11.html
-KAMPANYA GEÇERLİLİK TARİHİ       : Belirtilmemiş
-PARAFPARA/ÖDÜL SON KULLANIM      : Belirtilmemiş
-----------------------------------------------------------------------
-Paraflı Değilim
-Paraflıyım
-Parafı Tanıyın
-Paraf Premium'u Keşfedin
-Kart Çeşitleri
-Kampanyalar
-İNTERNET ŞUBESİ
-İNTERNET ŞUBESİNE GİRİŞ
-KREDİ KARTI BAŞVURUSU
-ÜYE İŞYERİ BAŞVURUSU
-Ana Sayfa
-Kampanyalar
-E-Ticaret
-Hepsiburada'da peşin fiyatına 9 aya varan taksit
-Hepsiburada'da peşin fiyatına 9 aya varan taksit
-01 Kasım 2026 tarihine kadar www.hepsiburada.com ve mobil uygulamasından tek seferde yapılacak alışverişlerde vade farksız 3-6-9 taksit imkanı sunulacaktır.
-100 TL altındaki alışverişlerde taksitlendirme yapılmaz.
-100 TL – 1.000 TL arası alışverişlerde vade farklı 12 taksit uygulanmaktadır.
-1.000 TL ve üzeri alışverişlerde peşin fiyatına 3 taksit uygulanır, üzeri taksitler vade farklıdır.
-6.000 TL ve üzeri alışverişlerde peşin fiyatına 6 taksit uygulanır, üzeri taksitler vade farklıdır.
-10.000 TL ve üzeri alışverişlerde Hepsiburada Premium müşterilerine özel seçili ürünlerde peşin fiyatına 9 taksit geçerlidir.
-Peşin fiyatına 6-9 taksit kampanyası sadece seçili ürünler özelinde geçerlidir.
-Kampanyadan faydalanmak için ödeme esnasında ilgili taksitin seçilmesi gerekmektedir.
-Kampanyaya ilişkin geriye dönük yararlandırma ve değişiklik yapılmayacaktır.
-Kampanya Paraf POS’undan yapılan işlemlerde geçerli olacaktır.
-Hepsiburada belirli kategorilerde yer alan ürünleri peşin fiyatına taksit uygulamasından hariç tutabilir.
-LCD Televizyonlarda vade farksız en fazla 4 taksit yapılabilmektedir.
-Hepsiburada satıcılı Xiaomi (Tablet hariç) markalı ürünler vade farksız taksit kampanyalarına dahil değildir.
-Hepsiburada satıcılı QCY ve Lenova markalı bluetooth kulaklıklar, TCL markalı akıllı saatler, vade farksız 6 taksit ve üzeri taksit kampanyalarına dahil değildir.
-Vade farksız taksitler, Bankacılık Düzenleme ve Denetleme Kurulu tarafından taksit kısıtı kapsamında yer almayan ürünler için geçerlidir.
-Taksit ve vade farkı uygulamalarında Hepsiburada’nın tek taraflı değişiklik yapma hakkı saklıdır.
-Paraf, Parafly, Parafree, Paraf Business, Paraf Esnaf, Paraf KOBİ, Eczacı Paraf, Eczacı Paraf KOBİ, sanal ve ek kartlar kampanyadan faydalanabilecektir.
-BDDK tarafından yayınlanan kredi kartları taksit sınırlaması kapsamında, satılan ürünlere göre taksit geçerli olmayabilir veya taksit sayıları değişiklik gösterebilir. Bireysel kredi kartlarıyla gerçekleştirilecek basılı ve külçe altın alımına ilişkin kuyum, telekomünikasyon, doğrudan pazarlama ile ilgili harcamalar, yurt dışında yapılan harcamalar ve yemek, gıda, alkollü içecek, akaryakıt, kozmetik, ofis malzemesi ile hediye kart, hediye çeki ve benzeri şekillerde herhangi somut bir mal veya hizmeti içermeyen ürünlerin alımlarında taksit uygulanamaz.
-TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
@@ -10010,9 +10010,9 @@ Kampanyaya kayıt yapılan kartın kayıp-çalıntı ya da farklı nedenlerle ka
 TÜRKİYE HALK BANKASI A.Ş. kampanya koşullarının tamamında değişiklik yapma ve/veya kampanyayı durdurma hakkını saklı tutar.
 YAZDIR
 İlginizi Çekebilir
-E-Ticaret Alışverişlerinize 1.000 TL ParafPara
-Tarım Kredi Koop Marketler'de 1.000 TL’ye Varan ParafPara!
-Market Harcamalarınıza 1.000 TL ParafPara
+Paraf TROY kart ile Pazarama'da 250 TL indirim ve Pazarama Plus üyeliği hediye!
+Koçtaş'ta 5 Taksit!
+Premium'a Özel Yurt Dışı Online Seyahat Alışverişlerinize 6.000 TL'ye varan ParafPara
 Faiz Oranları ve Ücretler
 Üye İşyeri Hizmetleri
 ATM / Şube Adresleri
