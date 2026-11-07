@@ -1,11 +1,11 @@
-=== QNB & GSPARA GÜNCEL KAMPANYA HAVUZU (05/11/2026 04:58) ===
-QNB'DEN TOPLANAN: 1
+=== QNB & GSPARA GÜNCEL KAMPANYA HAVUZU (07/11/2026 04:59) ===
+QNB'DEN TOPLANAN: 2
 GSPARA'DAN TOPLANAN: 21
-BİRLEŞİK BENZERSİZ: 22
-KONTROL TARİHİ: 5 Kasım 2026
+BİRLEŞİK BENZERSİZ: 23
+KONTROL TARİHİ: 7 Kasım 2026
 
 
---- QNB_GSPARA KAMPANYA 1/22 ---
+--- QNB_GSPARA KAMPANYA 1/23 ---
 BAŞLIK: Otomatik Fatura Ödeme Talimatı ParaPuan Kampanyası
 LINK: https://www.qnb.com.tr/kampanyalar/724-kampanyalari/otomatik-fatura-odeme-talimati-parapuan-kampanyasi-18197
 KAYNAK: QNB
@@ -48,7 +48,47 @@ Bizi Tanıyın
 Bilgi Toplumu Hizmetleri
 
 
---- QNB_GSPARA KAMPANYA 2/22 ---
+--- QNB_GSPARA KAMPANYA 2/23 ---
+BAŞLIK: Kasım Ayı E-Ticaret Kampanyası
+LINK: https://www.qnb.com.tr/kampanyalar/724-kampanyalari/kasim-ayi-e-ticaret-kampanyasi-23069
+KAYNAK: QNB
+SON TARİH: 30 Kasım 2026
+Kasım Ayı E-Ticaret Kampanyası
+Ana Sayfa Kampanyalar 7/24 Bankacılık Kampanyaları Kasım Ayı E-Ticaret Kampanyası
+QNB bireysel kredi kartlarınızla amazon.com.tr, hepsiburada.com, n11 ve trendyol.com web sitesi veya mobil uygulamalarından 30 Kasım'a kadar 3.500 TL'ye varan ParaPuan!
+QNB bireysel kredi kartlarınızla amazon.com.tr, hepsiburada.com, n11 ve trendyol.com web sitesi veya mobil uygulamalarından 30 Kasım'a kadar yapacağınız her 2.500 TL ve üzeri harcamanızda 250 TL, toplamda 2.500 TL'ye varan ParaPuan kazanabilirsiniz. Üstelik bu işyerlerindeki toplam harcamanız 25.000 TL'ye ulaştığı an ek 1.000 TL ParaPuan ile toplamda 3.500 TL'ye varan ParaPuan kazanabilirsiniz.
+Kampanya 1–30 Kasım 2026 tarihleri arasında geçerlidir.
+Kampanyaya harcama yapmadan önce QNB Mobil/Kampanyalar menüsünden, bankamızda kayıtlı olan cep telefonunuzdan ETICARET yazıp 2273'e SMS göndererek veya 0850 222 09 00 numaralı Çağrı Merkezimizden kayıt olabilirsiniz. 2273'e gönderilecek her SMS, operatörlerin kendi tarifeleri üzerinden 1 kısa mesaj olarak ücretlendirilir.
+Kampanya kapsamında kazanılan ParaPuan'lar 31 Aralık 2026'ya kadar kullanılabilecektir.
+Bir müşteri kampanyadan farklı QNB bireysel kredi kartları ile yararlanabilecek olup, tüm bu kartları ile toplamda en fazla 3.500 TL değerinde ParaPuan kazanabilecektir.
+Kampanyadan bireysel QNB Kredi Kartı, QNB Fix, QNB Xtra, QNB GO, QNB Trendyol, QNB Emekli, QNB Hemşire, QNB First, QNB First Doctors, QNB Private, QNB Trabzonspor bireysel asıl kredi kartı sahipleri ve bu kartlara bağlı ek kart sahipleri faydalanabilecektir.
+Kampanyaya sadece yurt içinde yapılan harcamalar dahildir.
+Market, Yemek, Kuyum işlemleri, Yatırımlık Altın & Gümüş, Kontör, SIM kart ve Hat, Toptan Satış, Uçak Bileti, Toplu Satış, Özel Satış ve Fırsat kategorilerden yapılan alışverişler, hediye kartı alımları, ticari amaçlı işlemler kampanyaya dahil değildir.
+Finans kuruluşları ve ödeme hizmet sağlayıcıları üzerinden gerçekleşen işlemler, dijital cüzdana yapılan yükleme ve dijital cüzdan kullanılarak yapılan harcamalar, nakit nitelikli işlemler kampanyaya dahil değildir.
+Dolap'ın kendi uygulamasından yapılan harcamalar dahil değildir.
+Kazandığınız ParaPuanları QNB Mobil ve İnternet Bankacılığı kanallarında görüntüleyebilirsiniz.
+Kampanya kapsamında ek kartlarla yapılan harcamalardan kazanılan ParaPuan'lar, ek karta yüklenecektir.
+Aynı gün aynı iş yerinde yapılan işlemlerden yalnızca ilki kampanya kapsamında ödül kazanır.
+Kazanılan ParaPuan'lar QNB POS'u olan fiziksel mağazalarda veya Trendyol, n11 gibi e-ticaret platformlarında kullanılabilir.
+Her müşteri kampanyaya yalnızca bir kez katılabilir.
+Kampanya kapsamında kazanılan ve kullanılmayan ParaPuan'lar 1 Ocak 2027 tarihinde kartınızdan geri alınacaktır.
+Alınan ürünlerin iade edilmesi halinde, iade edilen ürünün tutarıyla orantılı olarak kazanılan ParaPuanlar geri alınır. ParaPuanlar harcanmış ise, ilgili tutar harcama yapılan kredi kartına ParaPuan borcu olarak yansıtılır.
+Kampanya kapsamında satın alınan ürün veya hizmetlerle ilgili yaşanabilecek her türlü sorun, itiraz ve şikâyetler, ilgili iş yerlerinin şikâyet hatlarına iletilebilir.
+Kampanyadan çıkış yapmak istemeniz durumunda QNB Mobil'den, IPTAL ETICARET yazıp 2273'e SMS göndererek ya da 0850 222 0 900 no'lu telefondan Telefon Bankacılığı'nı arayarak çıkış işleminizi gerçekleştirebilirsiniz.
+Bankamız kampanyayı durdurma ve değiştirme hakkını saklı tutar.
+Dijital Bankacılık
+Satılık Gayrimenkuller
+Yatırımcı İlişkileri
+Sözleşmeler
+Bireysel Sigortalar
+Kredi Kartı
+Sürdürülebilirlik
+Bizi Tanıyın
+İnsan Kaynakları
+Bilgi Toplumu Hizmetleri
+
+
+--- QNB_GSPARA KAMPANYA 3/23 ---
 BAŞLIK: Geçmiş Ayrıcalıklar
 LINK: https://www.gspara.com.tr/ayricaliklar/gecmis-ayricaliklar
 KAYNAK: GSPARA
@@ -77,7 +117,7 @@ GSPara Kredi Kartı’n ile yapacağın ilk alışverişinde 1905TL ParaPuan hed
 3
 
 
---- QNB_GSPARA KAMPANYA 3/22 ---
+--- QNB_GSPARA KAMPANYA 4/23 ---
 BAŞLIK: GSPara Banka Kartın’da 500 TL’ye varan ParaPuan fırsatı!
 LINK: https://www.gspara.com.tr/ayricaliklar/gspara-banka-kartinda-500-tlye-varan-parapuan-firsati-11421
 KAYNAK: GSPARA
@@ -94,7 +134,7 @@ Kampanyadan çıkış yapmak istemeniz durumunda 0850 202 1905 numaralı Çağr�
 QNB kampanyayı durdurma ve değiştirme/sonlandırma hakkını saklı tutar. Kampanya içeriğinde meydana gelebilecek değişikliklerin internet sitemize yansıtılmasında kısa süreli gecikmeler yaşanabilir.
 
 
---- QNB_GSPARA KAMPANYA 4/22 ---
+--- QNB_GSPARA KAMPANYA 5/23 ---
 BAŞLIK: GSPara Kredi Kartı ile Online Yemek Alışverişlerine %10 Nakit İade Fırsatı!
 LINK: https://www.gspara.com.tr/ayricaliklar/gspara-kredi-karti-ile-online-yemek-alisverislerine-10-nakit-iade-firsati-11426
 KAYNAK: GSPARA
@@ -121,7 +161,7 @@ Karta yansıtılan nakit iade tutarları başka bir hesaba transfer edilemez ve 
 Banka, kampanya koşullarında değişiklik yapma veya kampanyayı durdurma hakkını saklı tutar.
 
 
---- QNB_GSPARA KAMPANYA 5/22 ---
+--- QNB_GSPARA KAMPANYA 6/23 ---
 BAŞLIK: GSPara Kredi Kartı ile Akaryakıt Alışverişlerine %10 Nakit İade Fırsatı!
 LINK: https://www.gspara.com.tr/ayricaliklar/gspara-kredi-karti-ile-akaryakit-alisverislerine-10-nakit-iade-firsati-11428
 KAYNAK: GSPARA
@@ -147,7 +187,7 @@ Karta yansıtılan nakit iade tutarları başka bir hesaba transfer edilemez ve 
 Banka, kampanya koşullarında değişiklik yapma veya kampanyayı durdurma hakkını saklı tutar.
 
 
---- QNB_GSPARA KAMPANYA 6/22 ---
+--- QNB_GSPARA KAMPANYA 7/23 ---
 BAŞLIK: GSStore Alışverişlerinizde %20 Nakit İade Fırsatı GSPara Kredi Kartı'nda!
 LINK: https://www.gspara.com.tr/ayricaliklar/gsstore-alisverislerinizde-20-nakit-iade-firsati-gspara-kredi-kartinda-11405
 KAYNAK: GSPARA
@@ -169,7 +209,7 @@ Karta yansıtılan nakit iade tutarları başka bir hesaba transfer edilemez ve 
 Banka, kampanya koşullarında değişiklik yapma veya kampanyayı durdurma hakkını saklı tutar.
 
 
---- QNB_GSPARA KAMPANYA 7/22 ---
+--- QNB_GSPARA KAMPANYA 8/23 ---
 BAŞLIK: GSParalılara Özel Öncelikli Bilet Alım Fırsatı
 LINK: https://www.gspara.com.tr/ayricaliklar/gsparalilara-ozel-oncelikli-bilet-alim-firsati-11254
 KAYNAK: GSPARA
@@ -185,7 +225,7 @@ GSPara Kredi Kartı veya Banka Kartı sahibi olan müşterilerimiz Passo bilet a
 Öncelikli bilet kampanyasına dahil olan maç biletleri sınırlı sayıdadır ve kotası dolduğu anda pasif hale gelecek ve kullanılamayacaktır.
 
 
---- QNB_GSPARA KAMPANYA 8/22 ---
+--- QNB_GSPARA KAMPANYA 9/23 ---
 BAŞLIK: Özel Oran Kredisi aylık %2.99’dan başlayan faiz oranlarıyla GSPara’da!
 LINK: https://www.gspara.com.tr/ayricaliklar/ozel-oran-kredisi-aylik-299dan-baslayan-faiz-oranlariyla-gsparada-11403
 KAYNAK: GSPARA
@@ -205,7 +245,7 @@ GSPara, her hakkı QNB Bank A.Ş.’ye aittir.
 ***Yıllık toplam maliyet oranlarına kredi için tahsil edilen kredi tahsis ücreti ve vergiler dahildir. Sigorta prim tutarı hariç tutulmuştur. İki taksit dönemi arası 30 gün baz alınmıştır.
 
 
---- QNB_GSPARA KAMPANYA 9/22 ---
+--- QNB_GSPARA KAMPANYA 10/23 ---
 BAŞLIK: Yeni GSParalılara Özel Hoş Geldin Kredisi Fırsatları Seni Bekliyor!
 LINK: https://www.gspara.com.tr/ayricaliklar/yeni-gsparalilara-ozel-hos-geldin-kredisi-firsatlari-seni-bekliyor-11401
 KAYNAK: GSPARA
@@ -230,7 +270,7 @@ GSPara, her hakkı QNB Bank A.Ş.’ye aittir.
 ** Yıllık toplam maliyet oranlarına kredi için tahsil edilen kredi tahsis ücreti ve vergiler dahildir. Sigorta prim tutarı hariç tutulmuştur. İki taksit dönemi arası 30 gün baz alınmıştır.
 
 
---- QNB_GSPARA KAMPANYA 10/22 ---
+--- QNB_GSPARA KAMPANYA 11/23 ---
 BAŞLIK: İlk alışverişinde 750 TL ParaPuan hediye!
 LINK: https://www.gspara.com.tr/ayricaliklar/ilk-alisverisinde-750-tl-parapuan-hediye-11391
 KAYNAK: GSPARA
@@ -250,7 +290,7 @@ Kampanyadan çıkış yapmak istemeniz durumunda 0850 202 1905 numaralı Çağr�
 QNB kampanyayı durdurma ve değiştirme/sonlandırma hakkını saklı tutar. Kampanya içeriğinde meydana gelebilecek değişikliklerin internet sitemize yansıtılmasında kısa süreli gecikmeler yaşanabilir.
 
 
---- QNB_GSPARA KAMPANYA 11/22 ---
+--- QNB_GSPARA KAMPANYA 12/23 ---
 BAŞLIK: Netflix, Spotify ve YouTube Premium keyfinizin %50’si GSPara’dan!
 LINK: https://www.gspara.com.tr/ayricaliklar/netflix-spotify-ve-youtube-premium-keyfinizin-50si-gsparadan-11393
 KAYNAK: GSPARA
@@ -277,7 +317,7 @@ Haziran ayında 120 TL Spotify ve 220 TL Netflix harcaması yaptığınızı var
 Temmuz ayında yalnızca 160 TL tutarında YouTube Premium harcaması yaptığınızı varsayalım. Bu durumda hesabınıza 80 TL iade yatırılır.
 
 
---- QNB_GSPARA KAMPANYA 12/22 ---
+--- QNB_GSPARA KAMPANYA 13/23 ---
 BAŞLIK: Yeni GSPara Kredi Kartlılara özel %0 faizli 25.000 TL!
 LINK: https://www.gspara.com.tr/ayricaliklar/nakit-ihtiyacinda-gspara-yaninda-11339
 KAYNAK: GSPARA
@@ -302,7 +342,7 @@ Kampanya içeriğinde meydana gelebilecek değişikliklerin internet sitemize ya
 GSPara, her hakkı QNB Bank A.Ş.’ye aittir.
 
 
---- QNB_GSPARA KAMPANYA 13/22 ---
+--- QNB_GSPARA KAMPANYA 14/23 ---
 BAŞLIK: GSParalılara özel ilk yıl kredi kartı yıllık üyelik ücreti yok!
 LINK: https://www.gspara.com.tr/ayricaliklar/lansmana-ozel-ilk-yil-kart-ucreti-yok-11046
 KAYNAK: GSPARA
@@ -318,7 +358,7 @@ Kampanyadan çıkış yapmak istemeniz durumunda 0850 202 1905 numaralı Çağr�
 QNB kampanyayı durdurma ve değiştirme/sonlandırma hakkını saklı tutar. Kampanya içeriğinde meydana gelebilecek değişikliklerin internet sitemize yansıtılmasında kısa süreli gecikmeler yaşanabilir.
 
 
---- QNB_GSPARA KAMPANYA 14/22 ---
+--- QNB_GSPARA KAMPANYA 15/23 ---
 BAŞLIK: Yüksek mevduat faizi GSPara’da
 LINK: https://www.gspara.com.tr/ayricaliklar/gsparadan-yuksek-tanisma-faizi-11050
 KAYNAK: GSPARA
@@ -333,7 +373,7 @@ Avantajlı faiz oranı, hesabınızı açmak istediğiniz vadeye ve bakiyeye gö
 Avantajlı faiz oranından faydalanmak için hesap açılış bakiyenizin minimum 10,000 TL olması gerekir.
 
 
---- QNB_GSPARA KAMPANYA 15/22 ---
+--- QNB_GSPARA KAMPANYA 16/23 ---
 BAŞLIK: GSParalılar EFT/FAST/HAVALE ücreti ödemiyor!
 LINK: https://www.gspara.com.tr/ayricaliklar/gsparalilar-eftfasthavale-ucreti-odemiyor-11044
 KAYNAK: GSPARA
@@ -346,7 +386,7 @@ Kredi kartından yapılan EFT/FAST/Havale işlemleri kapsam dışıdır.
 QNB kampanyayı durdurma, değiştirme ve sonlandırma hakkını saklı tutar. Kampanya içeriğinde meydana gelebilecek değişikliklerin internet sitemize yansıtılmasında kısa süreli gecikmeler yaşanabilir.
 
 
---- QNB_GSPARA KAMPANYA 16/22 ---
+--- QNB_GSPARA KAMPANYA 17/23 ---
 BAŞLIK: Trendyol'da peşin fiyatına 3 taksit fırsatı GSPara’da!
 LINK: https://www.gspara.com.tr/ayricaliklar/trendyolda-pesin-fiyatina-3-taksit-firsati-gsparada-11365
 KAYNAK: GSPARA
@@ -362,7 +402,7 @@ Trendyol'un sunduğu diğer kampanyalar için detaylı bilgiyi www.trendyol.com/
 QNB Bank A.Ş.; kampanya koşullarında ve geçerlilik tarihlerinde değişiklik yapma, kampanyayı tamamen veya geçici olarak durdurma hakkını saklı tutar.
 
 
---- QNB_GSPARA KAMPANYA 17/22 ---
+--- QNB_GSPARA KAMPANYA 18/23 ---
 BAŞLIK: Hepsiburada'da peşin fiyatına 3 taksit fırsatı GSPara’da!
 LINK: https://www.gspara.com.tr/ayricaliklar/hepsiburadada-pesin-fiyatina-3-taksit-firsati-gsparada-11363
 KAYNAK: GSPARA
@@ -384,7 +424,7 @@ LCD Televizyonlarda vade farksız en fazla 3 taksit yapılabilmektedir.
 Hepsiburada satıcılı Xiaomi (Tablet hariç ) markalı ürünler vade farksız taksit kampanyasına dahil değildir.
 
 
---- QNB_GSPARA KAMPANYA 18/22 ---
+--- QNB_GSPARA KAMPANYA 19/23 ---
 BAŞLIK: Amazon'da peşin fiyatına 3 taksit fırsatı GSPara’da!
 LINK: https://www.gspara.com.tr/ayricaliklar/amazonda-pesin-fiyatina-3-taksit-firsati-gsparada-11367
 KAYNAK: GSPARA
@@ -401,7 +441,7 @@ Kampanya kapsamında www.amazon.com.tr/ satın alınan ürünlerle ilgili olarak
 QNB Bank A.Ş.; kampanya koşullarında ve geçerlilik tarihlerinde değişiklik yapma, kampanyayı tamamen veya geçici olarak durdurma hakkını saklı tutar.
 
 
---- QNB_GSPARA KAMPANYA 19/22 ---
+--- QNB_GSPARA KAMPANYA 20/23 ---
 BAŞLIK: GSStore online alışverişlerinizde tüm ürünlerde %10 indirim!
 LINK: https://www.gspara.com.tr/ayricaliklar/gsstore-online-alisverislerinizde-tum-urunlerde-10-indirim-11248
 KAYNAK: GSPARA
@@ -417,7 +457,7 @@ GSStore indiriminden faydalanabilmen için, ödeme ekranında yer alan “Kredi 
 QNB Bank A.Ş. değişen koşullar dahilinde kampanyalarda değişiklik yapabilir/sonlandırabilir.
 
 
---- QNB_GSPARA KAMPANYA 20/22 ---
+--- QNB_GSPARA KAMPANYA 21/23 ---
 BAŞLIK: Acil nakit ihtiyaçlarınız için Taksitli Nakit Avans’ınız GSPara ve QNB ATM’lerinde!
 LINK: https://www.gspara.com.tr/ayricaliklar/acil-nakit-ihtiyaclariniz-icin-taksitli-nakit-avansiniz-qnb-atmlerinde-11052
 KAYNAK: GSPARA
@@ -433,7 +473,7 @@ Taksitli Nakit Avans devam ettiği sürece hesap kesim tarihi değişikliği yap
 Erken kapama taleplerinizi 0850 202 1905 numaralı Çağrı Merkezi’miz aracılığıyla iletebilirsiniz.
 
 
---- QNB_GSPARA KAMPANYA 21/22 ---
+--- QNB_GSPARA KAMPANYA 22/23 ---
 BAŞLIK: Puanlar GSPara’da, Ödüller GSPlus’ta!
 LINK: https://www.gspara.com.tr/ayricaliklar/puanlar-gsparada-oduller-gsplusta-11307
 KAYNAK: GSPARA
@@ -460,7 +500,7 @@ GSPlus, Galatasaray Spor Kulübü’nün taraftar uygulamasıdır.
 GSPara kampanyayı durdurma ve değiştirme/sonlandırma hakkını saklı tutar.
 
 
---- QNB_GSPARA KAMPANYA 22/22 ---
+--- QNB_GSPARA KAMPANYA 23/23 ---
 BAŞLIK: GSPara ile faturalarına otomatik ödeme talimatı ver, ParaPuan kazan!
 LINK: https://www.gspara.com.tr/ayricaliklar/gspara-ile-faturalarina-otomatik-odeme-talimati-ver-parapuan-kazan-11430
 KAYNAK: GSPARA
@@ -484,9 +524,9 @@ GSPara, her hakkı QNB Bank A.Ş.’ye aittir.
 
 
 === QNB & GSPARA ÇEKİM ÖZETİ ===
-QNB'DEN: 1
+QNB'DEN: 2
 GSPARA'DAN: 21
-BİRLEŞİK BENZERSİZ: 22
-GÜNCEL VEYA TARİHİ BELİRSİZ: 22
+BİRLEŞİK BENZERSİZ: 23
+GÜNCEL VEYA TARİHİ BELİRSİZ: 23
 SÜRESİ DOLMUŞ: 0
 HATALI: 0
