@@ -1,6 +1,6 @@
-=== PAYCELL GÜNCEL KAMPANYA HAVUZU (09/11/2026 04:56) ===
+=== PAYCELL GÜNCEL KAMPANYA HAVUZU (10/11/2026 04:54) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 61
-KONTROL TARİHİ: 9 Kasım 2026
+KONTROL TARİHİ: 10 Kasım 2026
 
 
 --- PAYCELL KAMPANYA 1/61 ---
@@ -1049,7 +1049,7 @@ Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
 Kampanya 03.11.2026 - 30.11.2026 tarihleri arasında geçerlidir.
 Kampanyaya Dahil Harcamalar Nelerdir?
-Kampanya sanal ya da fiziksel Paycell Kart’lar ile Atagame, Avantajgame,İtem Satış, Onsrashop, Oyuneks, Pindirim ya da Playsel’de tek seferde 500 TL ve üzeri harcama yapılması durumunda geçerlidir.
+Kampanya sanal ya da fiziksel Paycell Kart’lar ile Atagame, Avantajgame,İtem Satış, Onsrashop, Oyuneks, Pindirim, BursaGB ya da Playsel’de tek seferde 500 TL ve üzeri harcama yapılması durumunda geçerlidir.
 GPAY’de yapılacak harcamalar kampanyaya dahil değildir.
 Kampanya Faydası Nedir?
 Kampanya dahilinde 500 TL ile 999 TL arası işlem yapanlar 100 TL, 1.000 TL ve üzeri işlem yapanlar 200 TL nakit iade kazanacaktır.
