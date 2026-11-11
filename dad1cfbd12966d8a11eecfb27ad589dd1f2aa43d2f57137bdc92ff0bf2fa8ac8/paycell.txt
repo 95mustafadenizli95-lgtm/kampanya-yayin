@@ -1,6 +1,6 @@
-=== PAYCELL GÜNCEL KAMPANYA HAVUZU (10/11/2026 04:54) ===
+=== PAYCELL GÜNCEL KAMPANYA HAVUZU (11/11/2026 04:58) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 61
-KONTROL TARİHİ: 10 Kasım 2026
+KONTROL TARİHİ: 11 Kasım 2026
 
 
 --- PAYCELL KAMPANYA 1/61 ---
@@ -752,36 +752,10 @@ Sigortam.net ve Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş., kampanyayı
 --- PAYCELL KAMPANYA 23/61 ---
 BAŞLIK: Yapay zeka ve tasarım uygulamalarında anında %20 nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/yapay-zeka-ve-tasarim-uygulamalarinda-aninda-yuzde20-nakit-iade
-SON TARİH: 30 Kasım 2026
-Yapay zeka ve tasarım uygulamalarında anında %20 nakit iade!
-Paycell Kart ile yapacağın yapay zeka ve tasarım uygulamaları aboneliklerine anında %20 nakit iade!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
-Kampanyaya Kimler Katılabilir?
-Kampanyaya tüm Paycell müşterileri katılabilir.
-Kampanya Geçerlilik Tarihi Nedir?
-Kampanya 02.11.2026 - 30.11.2026 tarihleri arasında geçerlidir.
-Kampanyaya Dahil Harcamalar Nelerdir?
-Kampanya sanal ya da fiziksel Paycell Kart’lar ile CapCut, Canva, ChatGPT, Claude, Google Gemini, Midjourney, Perplexity, Runway ML ve Veed’de üyelik yapılması ya da mevcut üyelik bedelinin Paycell Kart ile ödenmesi durumunda kazanılacaktır.
-ChatGPT harcamaları için yalnızca chatgpt.com web sitesi üzerinden yapılan aboneliklerde nakit iade kazanımı olacaktır.
-Kampanya Faydası Nedir?
-Paycell Kart ile CapCut, Canva, ChatGPT, Claude, Google Gemini, Midjourney, Perplexity, Runway ML ve Veed’de üyelik yapılması ya da mevcut üyelik bedelinin Paycell Kart ile ödenmesi durumunda harcama tutarının %20’si kadar nakit iade kazanılacaktır. Her kullanıcı kampanyadan en fazla 250 TL kazanabilir.
-Kampanyadan Nasıl Kazanırım?
-Kampanyadan ödül kazanabilmek için harcama yapmadan önce Paycell Mobil Uygulaması üzerinden HEMEN KATIL butonuna basıp kampanyaya katılmanız gerekmektedir.
-Diğer Koşullar
-Kampanya kişiye özeldir.
-Hediyeler Paycell Kart’a işlem sonrası yüklenecektir.
-Kampanya tek kullanımlık değildir, toplamda 250 TL ödül kazanımı olduğunda kampanya kapsamındaki ödül kazanımı sona erecektir.
-Kampanya kazanımı müşteri bazındadır. Bir müşteri kampanyadan kart sayısından bağımsız yalnızca bir kez faydalanabilir.
-Kampanya dahilinde iade ve iptal işlemleri dikkate alınacaktır.
-Bu kampanya, başka bir kampanya ile birleştirilemez. Bir harcama ile sadece tek bir kampanyadan ödül kazanımı gerçekleşebilir.
-Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayca harcanabilir. 2 Haziran 2026 tarihinden itibaren nakit iade tutarları ATM'den çekilememekte ve başka hesap ya da kartlara aktarılamamaktadır.
-Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
-Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
-Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+SON TARİH BELİRTİLMEMİŞ
+Ana Sayfa
+Kampanyalar
+Yapay Zeka Ve Tasarim Uygulamalarinda Aninda Yuzde20 Nakit Iade
 
 
 --- PAYCELL KAMPANYA 24/61 ---
