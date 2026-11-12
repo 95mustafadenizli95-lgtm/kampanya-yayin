@@ -1,6 +1,6 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (11/11/2026 04:30) ===
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (12/11/2026 04:29) ===
 TOPLANAN BENZERSİZ KAMPANYA: 44
-KONTROL TARİHİ: 11 Kasım 2026
+KONTROL TARİHİ: 12 Kasım 2026
 
 
 --- MASTERPASS KAMPANYA 1/44 ---
@@ -138,7 +138,7 @@ Benzer kampanyalar
 31.12.2026
 ZUBİZU ile seçili restoranlarda %20 indirim
 Keşfet
-Son 4 gün
+Son 3 gün
 Starbucks'ta 1 içecek hediye
 Hemen katıl
 İhtiyaç duyduğunda yanındayız
@@ -363,7 +363,7 @@ Benzer kampanyalar
 30.11.2026
 Mastercard sahiplerine özel Migros Yemek’te 350 TL indirim
 Kupon al
-Son 4 gün
+Son 3 gün
 Starbucks'ta 1 içecek hediye
 Hemen katıl
 İhtiyaç duyduğunda yanındayız
@@ -1087,7 +1087,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 1 gün
+19:27:34
 UEFA Champions League'de devlerle sahaya çıkma şansı
 Keşfet
 İhtiyaç duyduğunda yanındayız

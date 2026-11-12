@@ -1,9 +1,9 @@
-=== PAYCELL GÜNCEL KAMPANYA HAVUZU (11/11/2026 04:58) ===
-TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 61
-KONTROL TARİHİ: 11 Kasım 2026
+=== PAYCELL GÜNCEL KAMPANYA HAVUZU (12/11/2026 04:57) ===
+TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 63
+KONTROL TARİHİ: 12 Kasım 2026
 
 
---- PAYCELL KAMPANYA 1/61 ---
+--- PAYCELL KAMPANYA 1/63 ---
 BAŞLIK: Sticker Kart’ını aktive edene kart ücreti iade!
 LINK: https://paycell.com.tr/kampanyalar/sticker-kart-ini-aktive-edene-kart-ucreti-iade
 SON TARİH: 31 Aralık 2026
@@ -34,7 +34,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 2/61 ---
+--- PAYCELL KAMPANYA 2/63 ---
 BAŞLIK: Okulyo Kart’ını aktive et, 50 TL kazan!
 LINK: https://paycell.com.tr/kampanyalar/okulyo-kartini-aktive-at-50-tl-kazan
 SON TARİH: 31 Aralık 2026
@@ -70,7 +70,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 3/61 ---
+--- PAYCELL KAMPANYA 3/63 ---
 BAŞLIK: Fatura Talimatlarına 300 TL’ye varan nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/fatura-talimatlarina-nakit-iade-kampanyasi
 SON TARİH: 30 Kasım 2026
@@ -111,7 +111,80 @@ Uygulama içinde; Ödemeler-Fatura Ödeme- Yeni Talimat ver menüsünden fatural
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 4/61 ---
+--- PAYCELL KAMPANYA 4/63 ---
+BAŞLIK: Harcadıkça Puan Kazan!
+LINK: https://paycell.com.tr/kampanyalar/harcadikca-puan-kazan
+SON TARİH: 31 Aralık 2026
+Harcadıkça Puan Kazan!
+Paycell Puan Nasıl Kazanılır?
+Paycell Kart
+Kazanım: Yapılan her harcamada harcama tutarı kadar puan kazanılır. Paycell Kart ile verilen otomatik ödeme talimatları da fatura tutarı kadar puan kazandırır.
+İstisnalar: Altın alım-satımları, EFT/Havale işlemleri ile diğer kart veya cüzdan uygulamalarına yapılan yüklemeler puan kazanımına dahil değildir.
+Aylık Limit: Bir kullanıcı ayda en fazla 50.000 Paycell Puan kazanabilir.
+Faturana Yansıt
+Kazanım: Yapılan harcamalarda harcama tutarının 2 katı puan kazanılır.
+İstisnalar: Karta Aktarılabilir Bakiye, Yatırım İşlemleri, İstanbulkart, Financell, Paycell Alışveriş Limiti, E-Pin alımları, Fizy, Lifebox, TV+, Superonline ve Tramer harcamaları puan kazanımına dahil değildir.
+Aylık Limit: Bir kullanıcı ayda en fazla 20.000 Paycell Puan kazanabilir (Kazanılabilecek puan üst limiti hatta tanımlı Faturana Yansıt Limiti'ne bağlıdır).
+Fatura Ödeme
+Kazanım: Paycell Kart ile kurum faturası ve Kredi Kartı Borç Ödemelerinde harcama tutarı kadar puan kazanılır.
+İstisnalar: Tek seferde 10.000 TL ve üzeri ödemeler puan kazanımına dahil değildir.
+Aylık Limit: Bir kullanıcı ayda en fazla 10.000 Paycell Puan kazanabilir.
+Puan Kuralları ve Kullanımı
+Kazanılan puanların kullanım süresi 90 gündür.
+Puanlar, Paycell içerisindeki Hediye Dünyası menüsünden internet paketlerine veya indirim kodlarına dönüştürülebilir.
+Puanların hesaba yüklenme süresi yapılan işlemin türüne göre değişiklik gösterebilir.
+Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
+
+
+--- PAYCELL KAMPANYA 5/63 ---
+BAŞLIK: Haftalık 5 GB Hediye!
+LINK: https://paycell.com.tr/kampanyalar/haftalik-5-gb-hediye-kasim-2026
+SON TARİH: 31 Aralık 2026
+Haftalık 5 GB Hediye!
+Kampanyaya Kimler Katılabilir?
+Kampanya kişiye özeldir.
+Kampanya Geçerlilik Tarihi?
+Kampanya 11.11.2026 – 30.11.2026 tarihleri arasında geçerlidir.
+Kampanya Faydası?
+Haftalık 5 GB.
+Kampanyayı Nasıl Kazanırım?
+Kampanyaya katılım sağladığınızda hattınıza 9.000 Paycell Puan tanımlanır.
+Diğer Koşullar
+9.000 Puanımla nasıl Haftalık 5 GB alabilirim?
+Puanı Kullanın: Tanımlanan 9.000 puan ile Paycell "Hediye Dünyası" menüsünden Haftalık 5 GB (5.000 FreeByte) kataloğunu seçip alın. (Puanlar yüklendikten sonra 7 gün süre ile geçerlidir.)
+SMS Bağlantısına Tıklayın: Kupon alımı başarılı olduğunda tarafınıza KAZAN KAZAN tarafından bir SMS gönderilir. Mesajdaki bağlantıya tıklayarak KAZANKAZAN sitesi/ uygulamasına gidin.
+GB'ı Aktifleştirin: Açılan sayfada "Şimdi Yükle" butonuna basın.
+Onay ve Kullanım: Yükleme tamamlandığında 10 dakika içinde onay SMS'i gelecektir. Paketinizi operatör uygulamanızdan kontrol edebilirsiniz.
+Kullanım Sınırı: Bir kullanıcı ayda en fazla 1 kez Haftalık 5 GB değerinde 5.000 FreeByte alabilir.
+Kullanım Süresi: İnternete dönüştürülmeyen FreeByte'lar KAZANKAZAN uygulamasında birikir ve 1 yıl boyunca istenildiği zaman internete dönüştürülebilir.
+Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanya koşullarında değişiklik yapma veya kampanyayı durdurma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
+
+
+--- PAYCELL KAMPANYA 6/63 ---
 BAŞLIK: Evidea’da Paycell TROY karta 1.500 TL’ye 300 TL İndirim Fırsatı!
 LINK: https://paycell.com.tr/kampanyalar/troy-evidea-kampanyasi
 SON TARİH: 6 Aralık 2026
@@ -146,7 +219,7 @@ Hizmetin verilmesi ve/veya indirimlerin yansıtılması ile ilgili yaşanabilece
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 5/61 ---
+--- PAYCELL KAMPANYA 7/63 ---
 BAŞLIK: Tüm Aboneliklerin Tek Ekranda!
 LINK: https://paycell.com.tr/kampanyalar/tum-aboneliklerin-tek-ekranda
 SON TARİH BELİRTİLMEMİŞ
@@ -174,7 +247,7 @@ Adım 4: Akıllı Ödeme Bildirimlerini Aktif Et
 Paycell ile aboneliklerini takip etmek, ödemelerini kaçırmamak ve bütçeni akıllıca yönetmek için hemen başla!
 
 
---- PAYCELL KAMPANYA 6/61 ---
+--- PAYCELL KAMPANYA 8/63 ---
 BAŞLIK: Biletinial’da %20 İndirim!
 LINK: https://paycell.com.tr/kampanyalar/biletinial-da-yuzde-20-indirim
 SON TARİH: 30 Kasım 2026
@@ -208,7 +281,7 @@ Katılımcılar, bilet satın aldıkları etkinliğin genel katılım ve alan ku
 Biletinial ve Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş, kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 7/61 ---
+--- PAYCELL KAMPANYA 9/63 ---
 BAŞLIK: Sticker Kart ile 300 TL nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/sticker-kart-ile300-tl-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -240,7 +313,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 8/61 ---
+--- PAYCELL KAMPANYA 10/63 ---
 BAŞLIK: Okulyo Kart ile 150 TL nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/okulyo-kart-ile-150-tl-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -272,7 +345,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 9/61 ---
+--- PAYCELL KAMPANYA 11/63 ---
 BAŞLIK: Ubisoft+ keyfini Paycell’le katla!
 LINK: https://paycell.com.tr/kampanyalar/ubisoft-keyfini-paycell-ile-katla
 SON TARİH: 30 Kasım 2026
@@ -302,7 +375,7 @@ Kazanılan ödül başkasına devredilemez ve/veya ödülün nakit karşılığ�
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 10/61 ---
+--- PAYCELL KAMPANYA 12/63 ---
 BAŞLIK: DeFactoFIT'te 1 aylık UP aboneliğine 2 ay hediye!
 LINK: https://paycell.com.tr/kampanyalar/defactofit-te-1-aylik-up-aboneligine-2-ay-hediye
 SON TARİH: 31 Aralık 2026
@@ -333,7 +406,7 @@ Kampanyayla ilgili her türlü soru, talep ve şikayetiniz için DeFactoFIT Ça�
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. ve DeFactoFIT, kampanya koşullarında değişiklik yapma veya kampanyayı sonlandırma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 11/61 ---
+--- PAYCELL KAMPANYA 13/63 ---
 BAŞLIK: Frink üyeliğine 190 TL nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/frink-uyeligine-190-tl-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -370,7 +443,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 12/61 ---
+--- PAYCELL KAMPANYA 14/63 ---
 BAŞLIK: PUBG Mobile’da Yıldız Harekatçı Seti fırsatı!
 LINK: https://paycell.com.tr/kampanyalar/pubg-mobile-da-yildiz-harekatci-seti
 SON TARİH: 31 Aralık 2026
@@ -402,7 +475,7 @@ Kazanılan ödül başkasına devredilemez ve/veya ödülün nakit karşılığ�
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 13/61 ---
+--- PAYCELL KAMPANYA 15/63 ---
 BAŞLIK: Instagram Plus’ın bizden!
 LINK: https://paycell.com.tr/kampanyalar/instagram-plus-bizden-app
 SON TARİH: 30 Kasım 2026
@@ -435,7 +508,7 @@ Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değ
 Hediye Para: Kullanıcıların Turkcell faturasına yansıtarak yaptıkları harcamalarda indirim olarak kullanabildikleri sanal para birimidir.
 
 
---- PAYCELL KAMPANYA 14/61 ---
+--- PAYCELL KAMPANYA 16/63 ---
 BAŞLIK: Instagram Plus’ın bizden!
 LINK: https://paycell.com.tr/kampanyalar/instagram-plus-bizden-google
 SON TARİH: 30 Kasım 2026
@@ -468,7 +541,7 @@ Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değ
 Hediye Para: Kullanıcıların Turkcell faturasına yansıtarak yaptıkları harcamalarda indirim olarak kullanabildikleri sanal para birimidir.
 
 
---- PAYCELL KAMPANYA 15/61 ---
+--- PAYCELL KAMPANYA 17/63 ---
 BAŞLIK: Exvega’da 1.000 TL değerinde indirim kodu!
 LINK: https://paycell.com.tr/kampanyalar/exvegada-1000-tl-degerinde-indirim-kodu
 SON TARİH: 30 Kasım 2026
@@ -496,7 +569,7 @@ Kampanyadan kazanılan indirim kodu, Paycell Uygulaması-Fırsatlar-Kuponlarım 
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 16/61 ---
+--- PAYCELL KAMPANYA 18/63 ---
 BAŞLIK: Spotify Premium Aboneliğinin Yarısı Bizden!
 LINK: https://paycell.com.tr/kampanyalar/spotify-premium-aboneliginin-yarisi-bizden
 SON TARİH: 31 Aralık 2026
@@ -533,7 +606,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 17/61 ---
+--- PAYCELL KAMPANYA 19/63 ---
 BAŞLIK: Google Play’de 100 TL Hediye Para!
 LINK: https://paycell.com.tr/kampanyalar/google-play-de-100tl-hediye-para
 SON TARİH: 30 Kasım 2026
@@ -566,7 +639,7 @@ Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değ
 Hediye Para: Kullanıcıların Turkcell faturasına yansıtarak yaptıkları harcamalarda indirim olarak kullanabildikleri sanal para birimidir.
 
 
---- PAYCELL KAMPANYA 18/61 ---
+--- PAYCELL KAMPANYA 20/63 ---
 BAŞLIK: Amazon Prime Üyeliğinin Yarısı Bizden!
 LINK: https://paycell.com.tr/kampanyalar/amazon-prime-uyeliginin-yarisi-bizden
 SON TARİH: 31 Aralık 2026
@@ -602,7 +675,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 19/61 ---
+--- PAYCELL KAMPANYA 21/63 ---
 BAŞLIK: Youtube Premium Aboneliğinin Yarısı Bizden!
 LINK: https://paycell.com.tr/kampanyalar/youtube-premium-aboneliginin-yarisi-bizden
 SON TARİH: 31 Aralık 2026
@@ -639,7 +712,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 20/61 ---
+--- PAYCELL KAMPANYA 22/63 ---
 BAŞLIK: App Store’da 100 TL Hediye Para!
 LINK: https://paycell.com.tr/kampanyalar/app-store-da-100-tl-hediye-para
 SON TARİH: 30 Kasım 2026
@@ -672,7 +745,7 @@ Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değ
 Hediye Para: Kullanıcıların Turkcell faturasına yansıtarak yaptıkları harcamalarda indirim olarak kullanabildikleri sanal para birimidir.
 
 
---- PAYCELL KAMPANYA 21/61 ---
+--- PAYCELL KAMPANYA 23/63 ---
 BAŞLIK: Instagram ve X’te anında %20 nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/instagram-ve-x-te-aninda-yuzde-20-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -706,7 +779,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 22/61 ---
+--- PAYCELL KAMPANYA 24/63 ---
 BAŞLIK: Sigortamnet’te İndirim!
 LINK: https://paycell.com.tr/kampanyalar/sigortamnet-indirim-kodlari
 SON TARİH: 31 Ocak 2027
@@ -749,16 +822,42 @@ Aktif bir poliçeniz varsa, bitiş tarihini bildirerek vade döneminiz geldiğin
 Sigortam.net ve Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş., kampanyayı dilediği zaman durdurma ve kampanya koşullarında değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 23/61 ---
+--- PAYCELL KAMPANYA 25/63 ---
 BAŞLIK: Yapay zeka ve tasarım uygulamalarında anında %20 nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/yapay-zeka-ve-tasarim-uygulamalarinda-aninda-yuzde20-nakit-iade
-SON TARİH BELİRTİLMEMİŞ
-Ana Sayfa
-Kampanyalar
-Yapay Zeka Ve Tasarim Uygulamalarinda Aninda Yuzde20 Nakit Iade
+SON TARİH: 30 Kasım 2026
+Yapay zeka ve tasarım uygulamalarında anında %20 nakit iade!
+Paycell Kart ile yapacağın yapay zeka ve tasarım uygulamaları aboneliklerine anında %20 nakit iade!
+Kampanya Geçerlilik Tarihi
+2 Kasım 2026
+30 Kasım 2026
+Kimler Katılabilir?
+Paycell Müşterileri
+Kampanyaya Kimler Katılabilir?
+Kampanyaya tüm Paycell müşterileri katılabilir.
+Kampanya Geçerlilik Tarihi Nedir?
+Kampanya 02.11.2026 - 30.11.2026 tarihleri arasında geçerlidir.
+Kampanyaya Dahil Harcamalar Nelerdir?
+Kampanya sanal ya da fiziksel Paycell Kart’lar ile CapCut, Canva, ChatGPT, Claude, Google Gemini, Midjourney, Perplexity, Runway ML ve Veed’de üyelik yapılması ya da mevcut üyelik bedelinin Paycell Kart ile ödenmesi durumunda kazanılacaktır.
+ChatGPT harcamaları için yalnızca chatgpt.com web sitesi üzerinden yapılan aboneliklerde nakit iade kazanımı olacaktır.
+Kampanya Faydası Nedir?
+Paycell Kart ile CapCut, Canva, ChatGPT, Claude, Google Gemini, Midjourney, Perplexity, Runway ML ve Veed’de üyelik yapılması ya da mevcut üyelik bedelinin Paycell Kart ile ödenmesi durumunda harcama tutarının %20’si kadar nakit iade kazanılacaktır. Her kullanıcı kampanyadan en fazla 250 TL kazanabilir.
+Kampanyadan Nasıl Kazanırım?
+Kampanyadan ödül kazanabilmek için harcama yapmadan önce Paycell Mobil Uygulaması üzerinden HEMEN KATIL butonuna basıp kampanyaya katılmanız gerekmektedir.
+Diğer Koşullar
+Kampanya kişiye özeldir.
+Hediyeler Paycell Kart’a işlem sonrası yüklenecektir.
+Kampanya tek kullanımlık değildir, toplamda 250 TL ödül kazanımı olduğunda kampanya kapsamındaki ödül kazanımı sona erecektir.
+Kampanya kazanımı müşteri bazındadır. Bir müşteri kampanyadan kart sayısından bağımsız yalnızca bir kez faydalanabilir.
+Kampanya dahilinde iade ve iptal işlemleri dikkate alınacaktır.
+Bu kampanya, başka bir kampanya ile birleştirilemez. Bir harcama ile sadece tek bir kampanyadan ödül kazanımı gerçekleşebilir.
+Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayca harcanabilir. 2 Haziran 2026 tarihinden itibaren nakit iade tutarları ATM'den çekilememekte ve başka hesap ya da kartlara aktarılamamaktadır.
+Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
+Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
+Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 24/61 ---
+--- PAYCELL KAMPANYA 26/63 ---
 BAŞLIK: PlayStation Network’te anında %20 nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/playstation-networkte-yuzde-20-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -792,7 +891,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 25/61 ---
+--- PAYCELL KAMPANYA 27/63 ---
 BAŞLIK: Spotify’ın 3 ay boyunca bizden!
 LINK: https://paycell.com.tr/kampanyalar/spotifyin-3-ay-boyunca-bizden
 SON TARİH: 30 Kasım 2026
@@ -828,7 +927,7 @@ Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değ
 Hediye Para: Müşterilerin belirli bir harcama yaptıklarında kazandıkları ve sonraki alışverişlerinde indirim olarak kullanabildikleri sanal para birimidir.
 
 
---- PAYCELL KAMPANYA 26/61 ---
+--- PAYCELL KAMPANYA 28/63 ---
 BAŞLIK: MLBB’de hediye paketi fırsatı!
 LINK: https://paycell.com.tr/kampanyalar/mlbb-de-hediye-paketi-firsati
 SON TARİH: 31 Aralık 2026
@@ -863,7 +962,7 @@ Kazanılan ödül başkasına devredilemez ve/veya ödülün nakit karşılığ�
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 27/61 ---
+--- PAYCELL KAMPANYA 29/63 ---
 BAŞLIK: Paycell ile internetin bitmez!
 LINK: https://paycell.com.tr/kampanyalar/paycell-ile-internetin-bitmez
 SON TARİH BELİRTİLMEMİŞ
@@ -895,7 +994,7 @@ Paycell internet paketlerinin limitlerine göz atmayı unutma! 30 günlük limit
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 28/61 ---
+--- PAYCELL KAMPANYA 30/63 ---
 BAŞLIK: Paycell’den her ihtiyaca 250 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/paycell-den-her-ihtiyaca-250-tl-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -941,7 +1040,7 @@ Karekod ile ödeme için ne yapmalıyım?
 6- Faturana Yansıt ödeme yöntemini seç ve ödemeni tamamla.
 
 
---- PAYCELL KAMPANYA 29/61 ---
+--- PAYCELL KAMPANYA 31/63 ---
 BAŞLIK: PUBG Mobile’da 50 TL hediye para!
 LINK: https://paycell.com.tr/kampanyalar/pubg-mobile-da-50-tl-hediye-para
 SON TARİH: 30 Kasım 2026
@@ -974,7 +1073,7 @@ Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değ
 Hediye Para: Müşterilerin belirli bir harcama yaptıklarında kazandıkları ve sonraki alışverişlerinde indirim olarak kullanabildikleri sanal para birimidir.
 
 
---- PAYCELL KAMPANYA 30/61 ---
+--- PAYCELL KAMPANYA 32/63 ---
 BAŞLIK: PUBG Mobile UC alımına %20 nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/pubg-mobile-uc-alimina-yuzde-20-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -1007,7 +1106,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 31/61 ---
+--- PAYCELL KAMPANYA 33/63 ---
 BAŞLIK: Dijital Oyun Mağazalarında Anında 200 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/dijital-oyun-magazalarinda-aninda-200-tl-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -1039,7 +1138,7 @@ Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 32/61 ---
+--- PAYCELL KAMPANYA 34/63 ---
 BAŞLIK: XBOX Game Pass Aboneliğinin 225 TL’ si Paycell’den!
 LINK: https://paycell.com.tr/kampanyalar/xbox-game-pass-aboneliginizin-225-tl-si-paycellden
 SON TARİH: 30 Kasım 2026
@@ -1069,7 +1168,7 @@ Kazanılan ödül başkasına devredilemez ve/veya ödülün nakit karşılığ�
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 33/61 ---
+--- PAYCELL KAMPANYA 35/63 ---
 BAŞLIK: Davet Et, 50.000 Puan Kazan!
 LINK: https://paycell.com.tr/kampanyalar/davet-et-kampanyasi
 SON TARİH: 30 Kasım 2026
@@ -1099,7 +1198,7 @@ Kazanılan puanlar 7 gün boyunca geçerlidir. Bu süre zarfında kullanılmayan
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 34/61 ---
+--- PAYCELL KAMPANYA 36/63 ---
 BAŞLIK: Fatura Ödemeleri Ücretsiz!
 LINK: https://paycell.com.tr/kampanyalar/fatura-odemeleri-ucretsiz
 SON TARİH: 31 Aralık 2026
@@ -1125,7 +1224,7 @@ Turkcell mağazalarından yapılacak fatura ödemeleri kampanyaya dahil değildi
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 35/61 ---
+--- PAYCELL KAMPANYA 37/63 ---
 BAŞLIK: Kıymetli Maden İşlemlerin Artık Ücretsiz!
 LINK: https://paycell.com.tr/kampanyalar/kiymetli-maden-islemlerin-artik-ucretsiz
 SON TARİH: 31 Aralık 2026
@@ -1151,7 +1250,7 @@ Paycell, yalnızca 6493 s. Kanun kapsamında sayılan ödeme ve elektronik para 
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 36/61 ---
+--- PAYCELL KAMPANYA 38/63 ---
 BAŞLIK: Pasaj'da anında 150 TL nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/turkcell-pasajda-aninda-150-tl-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -1184,7 +1283,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 37/61 ---
+--- PAYCELL KAMPANYA 39/63 ---
 BAŞLIK: Watsons’ta Anında %25 Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/watsonsta-aninda-yuzde-25-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -1221,7 +1320,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 38/61 ---
+--- PAYCELL KAMPANYA 40/63 ---
 BAŞLIK: Yola Yolcu360 Fırsatlarıyla Çık!
 LINK: https://paycell.com.tr/kampanyalar/yola-yolcu360-firsatlariyla-cik
 SON TARİH: 31 Aralık 2026
@@ -1259,7 +1358,7 @@ Araç gruplarına göre kiralama işlemleri minimum 21 yaş en az 1 yıllık ehl
 Yolcu360 ve Paycell önceden haber vermeksizin kampanya koşullarında değişiklik yapma ve/veya kampanyayı iptal etme hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 39/61 ---
+--- PAYCELL KAMPANYA 41/63 ---
 BAŞLIK: Market ve Akaryakıt Harcamana Anında 125 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/market-ve-akaryakit-harcamana-aninda-125-tl-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -1296,7 +1395,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 40/61 ---
+--- PAYCELL KAMPANYA 42/63 ---
 BAŞLIK: FLO’da Anında %15 Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/floda-yuzde-15-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -1335,7 +1434,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 FLO ve Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 41/61 ---
+--- PAYCELL KAMPANYA 43/63 ---
 BAŞLIK: Mavi’de Anında %20 Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/mavide-aninda-yuzde-20-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -1372,7 +1471,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 42/61 ---
+--- PAYCELL KAMPANYA 44/63 ---
 BAŞLIK: DeFacto’da Anında %20 Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/defactoda-aninda-yuzde-20-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -1410,7 +1509,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 43/61 ---
+--- PAYCELL KAMPANYA 45/63 ---
 BAŞLIK: Simit Sarayı’nda 50 TL Nakit İade Hediye!
 LINK: https://paycell.com.tr/kampanyalar/simit-sarayinda-50-tl-nakit-iade-hediye
 SON TARİH: 30 Kasım 2026
@@ -1449,10 +1548,10 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 44/61 ---
+--- PAYCELL KAMPANYA 46/63 ---
 BAŞLIK: CarrefourSA TR Karekod Harcamanıza Toplamda 100 TL’ye Varan %15 İade ve 100 TL Payfour Puan!
 LINK: https://paycell.com.tr/kampanyalar/carrefoursa-tr-karekod-kampanyasi
-SON TARİH: 30 Kasım 2026
+SON TARİH: 15 Ocak 2027
 CarrefourSA TR Karekod Harcamanıza Toplamda 100 TL’ye Varan %15 İade ve 100 TL Payfour Puan!
 CarrefourSA’dan Faturana Yansıt ile yapılacak 500 TL ve üzeri TR Karekod Harcamasına %15 TL Nakit İade, Payfour’da 500 TL ve üzeri alışverişinize 100 TL Puan!
 Kampanya Geçerlilik Tarihi
@@ -1467,7 +1566,7 @@ Kampanya 02 – 30 Kasım 2026 tarihleri arasında geçerlidir.
 Kampanyaya Dahil Harcamalar Nelerdir?
 CarrefourSA’dan Faturana Yansıt ile yapılacak 500 TL üzeri TR Karekod Harcaması yapmanız gerekmektedir.
 Kampanya Faydası Nedir?
-CarrefourSA’dan Faturana Yansıt ile yapılacak 500 TL ve üzeri TR Karekod Harcamasına %15 TL Nakit İade, 02 – 30 Kasım 2026 tarihleri arasında Payfour’dan yapılacak 500 TL ve üzeri alışverişlerde kazanılabilecek 100 TL Payfour Puan kazanılacaktır.
+CarrefourSA’dan Faturana Yansıt ile yapılacak 500 TL ve üzeri TR Karekod Harcamasına %15 TL Nakit İade, 15 Aralık 2026 – 15 Ocak 2027 tarihleri arasında Payfour’dan yapılacak 500 TL ve üzeri alışverişlerde kazanılabilecek 100 TL CarrefourSA Puan kazanılacaktır.
 Kampanyadan Nasıl Kazanırım?
 CarrefourSA’dan Faturana Yansıtarak yapacağınız 500 TL üzeri TR Karekod işlemlerinde geçerlidir.
 Kampanya Hangi Ödeme Yönteminde Geçerlidir?
@@ -1496,7 +1595,7 @@ Kampanya tüm CarrefourSA’larda geçerlidir. CarrefourSA Online Market mobil u
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 
 
---- PAYCELL KAMPANYA 45/61 ---
+--- PAYCELL KAMPANYA 47/63 ---
 BAŞLIK: Etstur Rezervasyonlarında 12 Ay Vade Fırsatı!
 LINK: https://paycell.com.tr/kampanyalar/etstur-rezervasyonlarinda-12-ay-vade-firsati
 SON TARİH: 31 Aralık 2026
@@ -1532,7 +1631,7 @@ Taksitleriniz limitleri aşıyorsa veya Turkcell’li değilseniz, taksit ödeme
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. ve Turkcell Finansman A.Ş. kampanyayı durdurma ve kampanyada değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 46/61 ---
+--- PAYCELL KAMPANYA 48/63 ---
 BAŞLIK: Paycell’liler Şimdi YouTube Premium’da!
 LINK: https://paycell.com.tr/kampanyalar/paycellliler-simdi-youtube-premiumda
 SON TARİH: 31 Aralık 2026
@@ -1574,7 +1673,7 @@ Google Play aracılığıyla Google Hesabım sayfasına girip “Ödeme Yönteml
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 47/61 ---
+--- PAYCELL KAMPANYA 49/63 ---
 BAŞLIK: 2 Ay Ücretsiz YouTube Üyeliği!
 LINK: https://paycell.com.tr/kampanyalar/paycell-ile-youtube-premium-uyeligi-kazan
 SON TARİH: 31 Aralık 2026
@@ -1609,7 +1708,7 @@ Kazanılan ödülün nakit karşılığı talep edilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 48/61 ---
+--- PAYCELL KAMPANYA 50/63 ---
 BAŞLIK: Superonline Otomatik Ödeme Talimatınıza Hediye!
 LINK: https://paycell.com.tr/kampanyalar/superonline-otomatik-odeme-talimatiniza-ekstra-hiz-ve-1-000-puan-kazanin
 SON TARİH: 31 Aralık 2026
@@ -1643,7 +1742,7 @@ Kampanya 100 mbps, 200 mbps veya 1000 mbps hızında paket kullanan veya hali ha
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 49/61 ---
+--- PAYCELL KAMPANYA 51/63 ---
 BAŞLIK: Turkcell Mağazalarında Aksesuar Alımına 36 Aya Kadar Taksit Fırsatı!
 LINK: https://paycell.com.tr/kampanyalar/paycell-alisveris-limiti-ile-turkcell-magazalarindaki-aksesuar-harcamalarinizda-50-000-tlye-kadar-taksit-firsati
 SON TARİH: 31 Aralık 2026
@@ -1680,7 +1779,42 @@ Turkcell’li olmasanız da bu hizmetten faydalanabilir, taksit ödemelerinizi P
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş., Turkcell Finansman A.Ş. ve Turkcell İletişim Hizmetleri A.Ş. kampanyayı durdurma ve kampanyada değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 50/61 ---
+--- PAYCELL KAMPANYA 52/63 ---
+BAŞLIK: STEAM’de 200 TL Nakit İade!
+LINK: https://paycell.com.tr/kampanyalar/steamde-200-tlye-varan-nakit-iade
+SON TARİH: 30 Kasım 2026
+STEAM’de 200 TL Nakit İade!
+Paycell Kart ile Tek Seferde Yapacağın 500 TL ile 999 TL Arası STEAM Harcamana 100 TL, 1000 TL ve Üzeri STEAM Harcamana 200 TL Hediye!
+Kampanya Geçerlilik Tarihi
+2 Kasım 2026
+30 Kasım 2026
+Kimler Katılabilir?
+Paycell Müşterileri
+Kampanyaya Kimler Katılabilir?
+Kampanyaya tüm Paycell müşterileri katılabilir.
+Kampanya Geçerlilik Tarihi Nedir?
+Kampanya 02.11.2026 - 30.11.2026 tarihleri arasında geçerlidir.
+Kampanyaya Dahil Harcamalar Nelerdir?
+Kampanya sanal ya da fiziksel Paycell Kart’lar ile Steam’de tek seferde 500 TL ve üzeri yapılacak harcamalarda geçerlidir.
+Kampanya Faydası Nedir?
+Paycell Kart ile Steam’de tek seferde 500 TL ve üzeri harcama yapılması durumunda nakit iade kazanılacaktır. Kampanya dahilinde 500 TL ile 999 TL arası işlem yapanlar 100 TL, 1000 TL ve üzeri işlem yapanlar 200 TL nakit iade kazanacaktır.
+Kampanyadan Nasıl Kazanırım?
+Kampanyadan ödül kazanabilmek için harcama yapmadan önce Paycell Mobil Uygulaması üzerinden HEMEN KATIL butonuna basıp kampanyaya katılmanız gerekmektedir.
+Diğer Koşullar
+Kampanya kişiye özeldir.
+Hediyeler Paycell Kart’a işlem sonrası yüklenecektir.
+Kampanya döneminde yapılan ilk harcama dikkate alınacaktır.
+Kampanya kazanımı müşteri bazındadır. Bir müşteri kampanyadan kart sayısından bağımsız yalnızca bir kez faydalanabilir.
+Müşteriler kampanyadan kart tipinden bağımsız telefon numarası üzerinden tek bir kez yararlanabilir.
+Kampanya dahilinde iade ve iptal işlemleri dikkate alınacaktır.
+Bu kampanya, başka bir kampanya ile birleştirilemez. Bir harcama ile sadece tek bir kampanyadan ödül kazanımı gerçekleşebilir.
+Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayca harcanabilir. 2 Haziran 2026 tarihinden itibaren nakit iade tutarları ATM'den çekilememekte ve başka hesap ya da kartlara aktarılamamaktadır.
+Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
+Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
+Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+
+
+--- PAYCELL KAMPANYA 53/63 ---
 BAŞLIK: Pasaj’da 36 Aya Varan Taksitle Alışveriş İmkanı!
 LINK: https://paycell.com.tr/kampanyalar/paycell-alisveris-limiti-ile-pasajda-0-faizle-taksitli-alisveris-imkani
 SON TARİH: 31 Aralık 2026
@@ -1716,42 +1850,7 @@ Turkcell’li olmasanız da bu hizmetten faydalanabilir, taksit ödemelerinizi P
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş., Turkcell Finansman A.Ş. ve Turkcell İletişim Hizmetleri A.Ş. kampanyayı durdurma ve kampanyada değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 51/61 ---
-BAŞLIK: STEAM’de 200 TL Nakit İade!
-LINK: https://paycell.com.tr/kampanyalar/steamde-200-tlye-varan-nakit-iade
-SON TARİH: 30 Kasım 2026
-STEAM’de 200 TL Nakit İade!
-Paycell Kart ile Tek Seferde Yapacağın 500 TL ile 999 TL Arası STEAM Harcamana 100 TL, 1000 TL ve Üzeri STEAM Harcamana 200 TL Hediye!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
-Kampanyaya Kimler Katılabilir?
-Kampanyaya tüm Paycell müşterileri katılabilir.
-Kampanya Geçerlilik Tarihi Nedir?
-Kampanya 02.11.2026 - 30.11.2026 tarihleri arasında geçerlidir.
-Kampanyaya Dahil Harcamalar Nelerdir?
-Kampanya sanal ya da fiziksel Paycell Kart’lar ile Steam’de tek seferde 500 TL ve üzeri yapılacak harcamalarda geçerlidir.
-Kampanya Faydası Nedir?
-Paycell Kart ile Steam’de tek seferde 500 TL ve üzeri harcama yapılması durumunda nakit iade kazanılacaktır. Kampanya dahilinde 500 TL ile 999 TL arası işlem yapanlar 100 TL, 1000 TL ve üzeri işlem yapanlar 200 TL nakit iade kazanacaktır.
-Kampanyadan Nasıl Kazanırım?
-Kampanyadan ödül kazanabilmek için harcama yapmadan önce Paycell Mobil Uygulaması üzerinden HEMEN KATIL butonuna basıp kampanyaya katılmanız gerekmektedir.
-Diğer Koşullar
-Kampanya kişiye özeldir.
-Hediyeler Paycell Kart’a işlem sonrası yüklenecektir.
-Kampanya döneminde yapılan ilk harcama dikkate alınacaktır.
-Kampanya kazanımı müşteri bazındadır. Bir müşteri kampanyadan kart sayısından bağımsız yalnızca bir kez faydalanabilir.
-Müşteriler kampanyadan kart tipinden bağımsız telefon numarası üzerinden tek bir kez yararlanabilir.
-Kampanya dahilinde iade ve iptal işlemleri dikkate alınacaktır.
-Bu kampanya, başka bir kampanya ile birleştirilemez. Bir harcama ile sadece tek bir kampanyadan ödül kazanımı gerçekleşebilir.
-Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayca harcanabilir. 2 Haziran 2026 tarihinden itibaren nakit iade tutarları ATM'den çekilememekte ve başka hesap ya da kartlara aktarılamamaktadır.
-Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
-Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
-Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
-
-
---- PAYCELL KAMPANYA 52/61 ---
+--- PAYCELL KAMPANYA 54/63 ---
 BAŞLIK: TR Karekod Harcamanıza 100 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/tr-karekod-harcamaniza-100-tl-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -1787,7 +1886,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 53/61 ---
+--- PAYCELL KAMPANYA 55/63 ---
 BAŞLIK: Trendyol’da Toplamda 240 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/trendyolda-toplamda-240-tl-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -1823,7 +1922,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 54/61 ---
+--- PAYCELL KAMPANYA 56/63 ---
 BAŞLIK: Epic Games Store’da 200 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/paycell-kart-ile-epic-gamesde-200-tlye-varan-hediyeler
 SON TARİH: 30 Kasım 2026
@@ -1858,7 +1957,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 55/61 ---
+--- PAYCELL KAMPANYA 57/63 ---
 BAŞLIK: Trendyol’da 36 Aya Varan Taksitle Alışveriş İmkanı!
 LINK: https://paycell.com.tr/kampanyalar/paycell-alisveris-limiti-ile-trendyolda-36-aya-varan-taksitle-alisveris-imkani
 SON TARİH: 31 Aralık 2026
@@ -1899,7 +1998,7 @@ Turkcell’li olmasanız da bu hizmetten faydalanabilir, taksit ödemelerinizi P
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. ve Turkcell Finansman A.Ş. kampanyayı durdurma ve kampanyada değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 56/61 ---
+--- PAYCELL KAMPANYA 58/63 ---
 BAŞLIK: Her App Store ve Google Play Store Harcamana 50 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/her-app-store-ve-google-play-store-harcamana-50-tl-nakit-iade
 SON TARİH: 30 Kasım 2026
@@ -1934,7 +2033,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 57/61 ---
+--- PAYCELL KAMPANYA 59/63 ---
 BAŞLIK: Netflix Aboneliğinin Yarısı Bizden!
 LINK: https://paycell.com.tr/kampanyalar/netflix-aboneliginin-yarisi-bizden
 SON TARİH: 31 Aralık 2026
@@ -1971,7 +2070,7 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 58/61 ---
+--- PAYCELL KAMPANYA 60/63 ---
 BAŞLIK: PUBG Kart ile Anında 50 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/pubg-kart-ile-aninda-50-tl-hediye
 SON TARİH: 30 Kasım 2026
@@ -2012,7 +2111,7 @@ Kartın satın alınabileceği mağazalar için tıklayınız.
 Pubg Kart’ı hemen online olarak satın almak için telefonuna Paycell’i indir!
 
 
---- PAYCELL KAMPANYA 59/61 ---
+--- PAYCELL KAMPANYA 61/63 ---
 BAŞLIK: Turkcell Otomatik Ödeme Talimatınıza Hediye!
 LINK: https://paycell.com.tr/kampanyalar/turkcell-faturaniza-otomatik-odeme-talimatiniza-hediye
 SON TARİH: 31 Aralık 2026
@@ -2055,7 +2154,7 @@ Turkcell, internet üzerinden mesajlaşma ve ses iletişimi (IM ve VOIP), intern
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 
 
---- PAYCELL KAMPANYA 60/61 ---
+--- PAYCELL KAMPANYA 62/63 ---
 BAŞLIK: Google Play’de 75 TL hediye para!
 LINK: https://paycell.com.tr/kampanyalar/google-playde-75-tl-hediye-para
 SON TARİH: 30 Kasım 2026
@@ -2093,7 +2192,7 @@ Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değ
 Hediye Para: Müşterilerin belirli bir harcama yaptıklarında kazandıkları ve sonraki alışverişlerinde indirim olarak kullanabildikleri sanal para birimidir.
 
 
---- PAYCELL KAMPANYA 61/61 ---
+--- PAYCELL KAMPANYA 63/63 ---
 BAŞLIK: App Store Harcamanıza 75 TL Hediye Para!
 LINK: https://paycell.com.tr/kampanyalar/app-store-harcamaniza-75-tl-hediye-para
 SON TARİH: 30 Kasım 2026
@@ -2132,7 +2231,7 @@ Hediye Para: Müşterilerin belirli bir harcama yaptıklarında kazandıkları v
 
 
 === PAYCELL ÇEKİM ÖZETİ ===
-TOPLAM BENZERSİZ LİNK: 61
-GÜNCEL VEYA TARİHİ BELİRSİZ: 61
+TOPLAM BENZERSİZ LİNK: 63
+GÜNCEL VEYA TARİHİ BELİRSİZ: 63
 SÜRESİ DOLMUŞ: 0
 HATALI: 0
