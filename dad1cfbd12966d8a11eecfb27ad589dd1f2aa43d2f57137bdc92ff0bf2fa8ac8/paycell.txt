@@ -1,6 +1,6 @@
-=== PAYCELL GÜNCEL KAMPANYA HAVUZU (12/11/2026 04:57) ===
+=== PAYCELL GÜNCEL KAMPANYA HAVUZU (13/11/2026 04:59) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 63
-KONTROL TARİHİ: 12 Kasım 2026
+KONTROL TARİHİ: 13 Kasım 2026
 
 
 --- PAYCELL KAMPANYA 1/63 ---
@@ -8,12 +8,6 @@ BAŞLIK: Sticker Kart’ını aktive edene kart ücreti iade!
 LINK: https://paycell.com.tr/kampanyalar/sticker-kart-ini-aktive-edene-kart-ucreti-iade
 SON TARİH: 31 Aralık 2026
 Sticker Kart’ını aktive edene kart ücreti iade!
-Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
-Kampanya Geçerlilik Tarihi
-6 Ekim 2026
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Sticker Kart Sahibi Müşteriler
 Kampanyadan Kimler Yararlanabilir?
 Kampanyadan Paycell Sticker Kart sahibi müşteriler yararlanabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -32,6 +26,18 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Sticker Kart Sahibi Müşteriler
+İlginizi Çekebilecek Diğer Kampanyalar
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
+Fatura Talimatlarına 300 TL’ye varan nakit iade!
+Son Katılım Tarihi: 30 Kasım 2026
+Fatura Talimatlarına 300 TL’ye varan nakit iade!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 2/63 ---
@@ -39,12 +45,6 @@ BAŞLIK: Okulyo Kart’ını aktive et, 50 TL kazan!
 LINK: https://paycell.com.tr/kampanyalar/okulyo-kartini-aktive-at-50-tl-kazan
 SON TARİH: 31 Aralık 2026
 Okulyo Kart’ını aktive et, 50 TL kazan!
-Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
-Kampanya Geçerlilik Tarihi
-6 Ekim 2026
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyadan Kimler Yararlanabilir?
 Kampanyadan Paycell Okulyo Kart sahibi müşteriler yararlanabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -68,18 +68,25 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Fatura Talimatlarına 300 TL’ye varan nakit iade!
+Son Katılım Tarihi: 30 Kasım 2026
+Fatura Talimatlarına 300 TL’ye varan nakit iade!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 3/63 ---
 BAŞLIK: Fatura Talimatlarına 300 TL’ye varan nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/fatura-talimatlarina-nakit-iade-kampanyasi
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Fatura Talimatlarına 300 TL’ye varan nakit iade!
-Kampanya Geçerlilik Tarihi
-1 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -109,6 +116,18 @@ Kampanya dahilinde iade ve iptal işlemleri dikkate alınacaktır.
 Bu kampanya, başka bir kampanya ile birleştirilemez. Bir harcama ile sadece tek bir kampanyadan ödül kazanımı gerçekleşebilir.
 Uygulama içinde; Ödemeler-Fatura Ödeme- Yeni Talimat ver menüsünden faturalarınız için Paycell Kart ile talimat verebilirsiniz.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 4/63 ---
@@ -187,14 +206,8 @@ Detaylı İncele
 --- PAYCELL KAMPANYA 6/63 ---
 BAŞLIK: Evidea’da Paycell TROY karta 1.500 TL’ye 300 TL İndirim Fırsatı!
 LINK: https://paycell.com.tr/kampanyalar/troy-evidea-kampanyasi
-SON TARİH: 6 Aralık 2026
+SON TARİH: 31 Aralık 2026
 Evidea’da Paycell TROY karta 1.500 TL’ye 300 TL İndirim Fırsatı!
-Paycell TROY kart ile Evidea mağazaları, www.evidea.com ve Evidea mobil uygulamasından tek seferde yapılacak 1.500 TL ve üzeri alışverişe 300 TL indirim.
-Kampanya Geçerlilik Tarihi
-22 Ekim 2026
-6 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi?
@@ -217,19 +230,25 @@ Katılım koşullarını www.evidea.com internet sitesi ve/veya mobil uygulamas�
 Bankalararası Kart Merkezi (BKM) ve Evidea her zaman, önceden herhangi bir bildirimde bulunmaksızın kampanyayı iptal etme, katılım koşullarını değiştirme hakkını saklı tutar.
 Hizmetin verilmesi ve/veya indirimlerin yansıtılması ile ilgili yaşanabilecek teknik ya da operasyonel sorun ve aksaklıklardan BKM ve iştirakleri sorumlu değildir.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+6 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 7/63 ---
 BAŞLIK: Tüm Aboneliklerin Tek Ekranda!
 LINK: https://paycell.com.tr/kampanyalar/tum-aboneliklerin-tek-ekranda
-SON TARİH BELİRTİLMEMİŞ
+SON TARİH: 31 Aralık 2026
 Tüm Aboneliklerin Tek Ekranda!
-Dijital platform aboneliklerinden, otomatik ödeme talimatlarına tüm düzenli harcamalarına kadar tüm aboneliklerini Paycell ile tek yerden kolayca takip et, bütçeni her zaman kontrol altında tut.
-Kampanya Geçerlilik Tarihi
-5 Kasım 2026
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Dijital platform aboneliklerinden, otomatik ödeme talimatlarına tüm düzenli harcamalarına kadar tüm aboneliklerini Paycell ile tek yerden kolayca takip et, bütçeni her zaman kontrol altında tut.
 Çeşitli Ödeme Kaynakları Tek Yerde: Dijital platform abonelikler, otomatik ödeme talimatların ve manuel eklediğin tüm harcamalar tek bir merkezde.
 Akıllı Harcama Analizi: Geçmiş ödemelerini ve aylık harcama grafiklerini inceleyerek bütçeni kontrol et.
@@ -245,19 +264,25 @@ Adım 3: Harcamalarını Analiz Et ve Bütçeni Yönet
 Adım 4: Akıllı Ödeme Bildirimlerini Aktif Et
 Ödeme tarihi yaklaşan aboneliklerin için anlık hatırlatma bildirimleri al, son ödeme tarihlerini kaçırma!
 Paycell ile aboneliklerini takip etmek, ödemelerini kaçırmamak ve bütçeni akıllıca yönetmek için hemen başla!
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 8/63 ---
 BAŞLIK: Biletinial’da %20 İndirim!
 LINK: https://paycell.com.tr/kampanyalar/biletinial-da-yuzde-20-indirim
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Biletinial’da %20 İndirim!
-Paycell kullanıcılarına özel, Biletinial’da seçili etkinliklerde geçerli %20 indirim fırsatı!
-Kampanya Geçerlilik Tarihi
-4 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanya Detayları
 Kampanya Tarihleri: 04.11.2026 – 30.11.2026
 Kimler Katılabilir: Tüm Paycell müşterileri kampanyadan faydalanabilir.
@@ -279,19 +304,25 @@ Kupon kodu kullanılarak satın alınan biletlerin iptal ve iade süreçlerinde 
 Etkinlik bilet fiyatlarında yapılabilecek değişiklikler organizatör firmanın inisiyatifindedir.
 Katılımcılar, bilet satın aldıkları etkinliğin genel katılım ve alan kurallarına uymakla yükümlüdür.
 Biletinial ve Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş, kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 9/63 ---
 BAŞLIK: Sticker Kart ile 300 TL nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/sticker-kart-ile300-tl-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Sticker Kart ile 300 TL nakit iade!
-Paycell Sticker Kart ile yapacağın her harcamada %20 nakit iade kazan!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Sticker Kart sahibi müşteriler
 Kampanyaya Kimler Katılabilir?
 Kampanyaya Paycell Sticker Kart sahibi müşteriler katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -311,19 +342,25 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Sticker Kart sahibi müşteriler
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 10/63 ---
 BAŞLIK: Okulyo Kart ile 150 TL nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/okulyo-kart-ile-150-tl-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Okulyo Kart ile 150 TL nakit iade!
-Paycell Okulyo Kart ile yapacağın her harcamada %10 nakit iade kazan!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Okulyo Kart Sahibi Müşteriler
 Kampanyaya Kimler Katılabilir?
 Kampanyaya Paycell Okulyo Kart sahibi müşteriler katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -343,19 +380,25 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Okulyo Kart Sahibi Müşteriler
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 11/63 ---
 BAŞLIK: Ubisoft+ keyfini Paycell’le katla!
 LINK: https://paycell.com.tr/kampanyalar/ubisoft-keyfini-paycell-ile-katla
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Ubisoft+ keyfini Paycell’le katla!
-Ubisoft+ Classics veya Ubisoft+ Premium paketini Turkcell faturana yansıtarak al, 5.000 Paycell Puan kazan!
-Kampanya Geçerlilik Tarihi
-1 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya Turkcell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -373,6 +416,18 @@ Kazanılan Paycell Puan, Paycell uygulaması Hediye Dünyası sayfasında intern
 Kazanılan puanların geçerlilik süresi 1 haftadır.
 Kazanılan ödül başkasına devredilemez ve/veya ödülün nakit karşılığı talep edilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 12/63 ---
@@ -380,12 +435,6 @@ BAŞLIK: DeFactoFIT'te 1 aylık UP aboneliğine 2 ay hediye!
 LINK: https://paycell.com.tr/kampanyalar/defactofit-te-1-aylik-up-aboneligine-2-ay-hediye
 SON TARİH: 31 Aralık 2026
 DeFactoFIT'te 1 aylık UP aboneliğine 2 ay hediye!
-DeFactoFIT'te 1 aylık UP aboneliğine +2 ay hediye (Toplam 3 ay). Normalde 297 TL olan paket, Paycell’e özel 99 TL!
-Kampanya Geçerlilik Tarihi
-1 Ekim 2026
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -404,19 +453,25 @@ Kampanya yalnızca DeFactoFIT İyi Yaşam Platformu üzerinde geçerlidir.
 DeFactoFIT Hakkında: Fitness, pilates, yoga, meditasyon, fizyoterapi ve beslenme gibi farklı alanlarda binlerce video ve canlı ders sunan dijital bir iyi yaşam platformudur. İster evde ister dilediğiniz yerde kendi rutininize uygun içeriklere ulaşabilirsiniz.
 Kampanyayla ilgili her türlü soru, talep ve şikayetiniz için DeFactoFIT Çağrı Merkezi ile iletişime geçebilirsiniz.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. ve DeFactoFIT, kampanya koşullarında değişiklik yapma veya kampanyayı sonlandırma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 13/63 ---
 BAŞLIK: Frink üyeliğine 190 TL nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/frink-uyeligine-190-tl-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Frink üyeliğine 190 TL nakit iade!
-Frink bitmeyen kahve üyeliğini Paycell Kart ile yap, anında 190 TL nakit iade kazan!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -441,6 +496,18 @@ Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara
 Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayca harcanabilir. 2 Haziran 2026 tarihinden itibaren nakit iade tutarları ATM'den çekilememekte ve başka hesap ya da kartlara aktarılamamaktadır.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 14/63 ---
@@ -448,12 +515,6 @@ BAŞLIK: PUBG Mobile’da Yıldız Harekatçı Seti fırsatı!
 LINK: https://paycell.com.tr/kampanyalar/pubg-mobile-da-yildiz-harekatci-seti
 SON TARİH: 31 Aralık 2026
 PUBG Mobile’da Yıldız Harekatçı Seti fırsatı!
-Google Play’den ya da App Store’dan ödeyeceğin 200 TL ve üzeri PUBG Mobile UC alımını Turkcell faturana yansıt, Yıldız Harekatçı Seti kodunu kazan!
-Kampanya Geçerlilik Tarihi
-4 Eylül 2026
-31 Aralık 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Turkcell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -473,19 +534,25 @@ Kazanılan kod https://www.pubgmobile.com/redeem adresinde aktif edilerek kullan
 Her kullanıcı yalnızca bir kez kod kazanabilir ve bir kez kod kullanabilir.
 Kazanılan ödül başkasına devredilemez ve/veya ödülün nakit karşılığı talep edilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 15/63 ---
 BAŞLIK: Instagram Plus’ın bizden!
 LINK: https://paycell.com.tr/kampanyalar/instagram-plus-bizden-app
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Instagram Plus’ın bizden!
-Hemen kampanyaya katıl, App Store’da Turkcell faturana yansıtarak yapacağın Instagram Plus üyeliğinde geçerli 56 TL hediye para kazan!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Turkcell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -506,19 +573,25 @@ Kampanyadan yararlanabilmek için ödeme işleminin App Store üzerinden Turkcel
 Kazanılan ödül başkasına devredilemez ve ödülün nakit karşılığı talep edilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 Hediye Para: Kullanıcıların Turkcell faturasına yansıtarak yaptıkları harcamalarda indirim olarak kullanabildikleri sanal para birimidir.
+Geçerlilik Tarihi
+30 Kasım 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 16/63 ---
 BAŞLIK: Instagram Plus’ın bizden!
 LINK: https://paycell.com.tr/kampanyalar/instagram-plus-bizden-google
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Instagram Plus’ın bizden!
-Hemen kampanyaya katıl, Google Play’de Turkcell faturana yansıtarak yapacağın Instagram Plus üyeliğinde geçerli 56 TL hediye para kazan!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Turkcell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -539,19 +612,25 @@ Kampanyadan yararlanabilmek için ödeme işleminin Google Play Store üzerinden
 Kazanılan ödül başkasına devredilemez ve ödülün nakit karşılığı talep edilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 Hediye Para: Kullanıcıların Turkcell faturasına yansıtarak yaptıkları harcamalarda indirim olarak kullanabildikleri sanal para birimidir.
+Geçerlilik Tarihi
+30 Kasım 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 17/63 ---
 BAŞLIK: Exvega’da 1.000 TL değerinde indirim kodu!
 LINK: https://paycell.com.tr/kampanyalar/exvegada-1000-tl-degerinde-indirim-kodu
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Exvega’da 1.000 TL değerinde indirim kodu!
-Paycell kullanıcılarına özel Exvega’da yapılacak 10.000 TL ve üzeri alışverişte geçerli 1.000 TL indirim kodu ve Mousepad hediyesi seni bekliyor!
-Kampanya Geçerlilik Tarihi
-4 Eylül 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -567,6 +646,18 @@ Mousepad hediyesi indirim kodu kullanılarak yapılan alışveriş sonrasında �
 Bir kullanıcı kampanyaya yalnızca 1 kere katılabilir.
 Kampanyadan kazanılan indirim kodu, Paycell Uygulaması-Fırsatlar-Kuponlarım menüsünden görüntülenebilir.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 18/63 ---
@@ -574,12 +665,6 @@ BAŞLIK: Spotify Premium Aboneliğinin Yarısı Bizden!
 LINK: https://paycell.com.tr/kampanyalar/spotify-premium-aboneliginin-yarisi-bizden
 SON TARİH: 31 Aralık 2026
 Spotify Premium Aboneliğinin Yarısı Bizden!
-Spotify Premium Aboneliğini Paycell Kart ile yapanlar anında 57,50 TL nakit iade kazanıyor!
-Kampanya Geçerlilik Tarihi
-1 Ekim 2026
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -604,19 +689,25 @@ Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara
 Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayca harcanabilir. 2 Haziran 2026 tarihinden itibaren nakit iade tutarları ATM'den çekilememekte ve başka hesap ya da kartlara aktarılamamaktadır.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 19/63 ---
 BAŞLIK: Google Play’de 100 TL Hediye Para!
 LINK: https://paycell.com.tr/kampanyalar/google-play-de-100tl-hediye-para
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Google Play’de 100 TL Hediye Para!
-Google Play’de Turkcell faturana yansıtarak yapacağın ilk harcamanda geçerli 100 TL Hediye Para!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanya kişiye özeldir. Yalnızca Paycell uygulamasında görüntüleyen kullanıcılar katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -637,6 +728,18 @@ Kazanılan hediye para Paycell uygulaması Hediye Dünyam – Kuponlarım alanı
 Kazanılan ödül başkasına devredilemez ve/veya ödülün nakit karşılığı talep edilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 Hediye Para: Kullanıcıların Turkcell faturasına yansıtarak yaptıkları harcamalarda indirim olarak kullanabildikleri sanal para birimidir.
+Geçerlilik Tarihi
+30 Kasım 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 20/63 ---
@@ -644,12 +747,6 @@ BAŞLIK: Amazon Prime Üyeliğinin Yarısı Bizden!
 LINK: https://paycell.com.tr/kampanyalar/amazon-prime-uyeliginin-yarisi-bizden
 SON TARİH: 31 Aralık 2026
 Amazon Prime Üyeliğinin Yarısı Bizden!
-Amazon Prime Üyeliğini Paycell Kart ile yapanlar anında 34,95 TL nakit iade kazanıyor!
-Kampanya Geçerlilik Tarihi
-1 Ekim 2026
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -673,6 +770,18 @@ Bu kampanya, başka bir kampanya ile birleştirilemez. Bir harcama ile sadece te
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT / Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 21/63 ---
@@ -680,12 +789,6 @@ BAŞLIK: Youtube Premium Aboneliğinin Yarısı Bizden!
 LINK: https://paycell.com.tr/kampanyalar/youtube-premium-aboneliginin-yarisi-bizden
 SON TARİH: 31 Aralık 2026
 Youtube Premium Aboneliğinin Yarısı Bizden!
-Youtube Premium Aboneliğini Paycell Kart ile yapanlar anında 59,99 TL nakit iade kazanıyor!
-Kampanya Geçerlilik Tarihi
-1 Ekim 2026
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -710,19 +813,25 @@ Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara
 Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayca harcanabilir. 2 Haziran 2026 tarihinden itibaren nakit iade tutarları ATM'den çekilememekte ve başka hesap ya da kartlara aktarılamamaktadır.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 22/63 ---
 BAŞLIK: App Store’da 100 TL Hediye Para!
 LINK: https://paycell.com.tr/kampanyalar/app-store-da-100-tl-hediye-para
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 App Store’da 100 TL Hediye Para!
-App Store’da Turkcell faturana yansıtarak yapacağın ilk harcamanda geçerli 100 TL Hediye Para!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanya kişiye özeldir. Yalnızca Paycell uygulamasında görüntüleyen kullanıcılar katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -743,19 +852,25 @@ Kazanılan hediye para Paycell uygulaması Hediye Dünyam – Kuponlarım alanı
 Kazanılan ödül başkasına devredilemez ve/veya ödülün nakit karşılığı talep edilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 Hediye Para: Kullanıcıların Turkcell faturasına yansıtarak yaptıkları harcamalarda indirim olarak kullanabildikleri sanal para birimidir.
+Geçerlilik Tarihi
+30 Kasım 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 23/63 ---
 BAŞLIK: Instagram ve X’te anında %20 nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/instagram-ve-x-te-aninda-yuzde-20-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Instagram ve X’te anında %20 nakit iade!
-Paycell Kart ile Instagram ve X’te doğrulanmış hesap ve reklam ödemelerinde anında %20 nakit iade!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -777,6 +892,18 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 24/63 ---
@@ -784,11 +911,6 @@ BAŞLIK: Sigortamnet’te İndirim!
 LINK: https://paycell.com.tr/kampanyalar/sigortamnet-indirim-kodlari
 SON TARİH: 31 Ocak 2027
 Sigortamnet’te İndirim!
-Kampanya Geçerlilik Tarihi
-3 Temmuz 2026
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell kullanıcıları katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -820,19 +942,25 @@ Kampanyadan yararlanılarak alınan poliçenin 180 gün içinde iptal edilmesi h
 Sigortam.net’in internet indirimi veya diğer farklı kampanyaları ile birleştirilemez.
 Aktif bir poliçeniz varsa, bitiş tarihini bildirerek vade döneminiz geldiğinde güncel tekliflerden haberdar olabilirsiniz.
 Sigortam.net ve Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş., kampanyayı dilediği zaman durdurma ve kampanya koşullarında değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 25/63 ---
 BAŞLIK: Yapay zeka ve tasarım uygulamalarında anında %20 nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/yapay-zeka-ve-tasarim-uygulamalarinda-aninda-yuzde20-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Yapay zeka ve tasarım uygulamalarında anında %20 nakit iade!
-Paycell Kart ile yapacağın yapay zeka ve tasarım uygulamaları aboneliklerine anında %20 nakit iade!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -855,19 +983,25 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 26/63 ---
 BAŞLIK: PlayStation Network’te anında %20 nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/playstation-networkte-yuzde-20-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 PlayStation Network’te anında %20 nakit iade!
-Paycell Kart ile yapacağın PlayStation Network harcamana anında %20 nakit iade!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -889,19 +1023,25 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 27/63 ---
 BAŞLIK: Spotify’ın 3 ay boyunca bizden!
 LINK: https://paycell.com.tr/kampanyalar/spotifyin-3-ay-boyunca-bizden
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Spotify’ın 3 ay boyunca bizden!
-Abonelik ödemeni kampanyaya katıldıktan sonra 3 ay boyunca Turkcell faturana yansıt, her ay 115 TL Hediye Para kazan!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanya kişiye özeldir. Yalnızca Paycell uygulamasında görüntüleyenler katılabilir. Ekim ayında Turkcell faturasına yansıtarak Spotify işlemi yapmamış olan kullanıcılar Paycell uygulamasında görüntüleyebilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -925,6 +1065,18 @@ Kampanyadan yararlanabilmek için tüm ödeme işlemlerinin https://www.spotify.
 Kazanılan ödül başkasına devredilemez ve/veya ödülün nakit karşılığı talep edilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 Hediye Para: Müşterilerin belirli bir harcama yaptıklarında kazandıkları ve sonraki alışverişlerinde indirim olarak kullanabildikleri sanal para birimidir.
+Geçerlilik Tarihi
+30 Kasım 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 28/63 ---
@@ -932,12 +1084,6 @@ BAŞLIK: MLBB’de hediye paketi fırsatı!
 LINK: https://paycell.com.tr/kampanyalar/mlbb-de-hediye-paketi-firsati
 SON TARİH: 31 Aralık 2026
 MLBB’de hediye paketi fırsatı!
-Google Play’den ya da App Store’dan yapacağın 250 TL ve üzeri Mobile Legends: Bang Bang harcamanı Turkcell faturana yansıt, Chou – Hip Hop Boy Kostümünü kap!
-Kampanya Geçerlilik Tarihi
-20 Ağustos 2026
-31 Aralık 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Turkcell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -960,19 +1106,24 @@ Ardından oyun içerisindeki 'mail box'a gelecek kodu da 'Verification Code' kı
 Her kullanıcı 1 kere kod kazanabilir.
 Kazanılan ödül başkasına devredilemez ve/veya ödülün nakit karşılığı talep edilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 29/63 ---
 BAŞLIK: Paycell ile internetin bitmez!
 LINK: https://paycell.com.tr/kampanyalar/paycell-ile-internetin-bitmez
-SON TARİH BELİRTİLMEMİŞ
-Paycell ile internetin bitmez!
-Paycell Puanların Hediye Dünyam'da GB'a dönüşüyor!
-Kampanya Geçerlilik Tarihi
-9 Şubat 2026
-31 Aralık 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
+SON TARİH: 31 Aralık 2026
 Paycell ile internetin bitmez!
 Limit Turkcell İnternet Paketi
 30 günde 3 12 Saatlik Her Yöne
@@ -992,19 +1143,25 @@ Haftalık 1 Her Yöne
 Sadece Turkcell’li kullanıcılara özeldir.
 Paycell internet paketlerinin limitlerine göz atmayı unutma! 30 günlük limitlerin kapsamında puanların ile internet paketi alabilirsin.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 30/63 ---
 BAŞLIK: Paycell’den her ihtiyaca 250 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/paycell-den-her-ihtiyaca-250-tl-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Paycell’den her ihtiyaca 250 TL Nakit İade!
-Faturana Yansıt ile yapılacak ilk 1000 TL ve üzeri TR Karekod harcamasına 100 TL; ikinci 1000 TL ve üzeri TR Karekod harcamasına ise 150 TL nakit iade olmak üzere toplamda 250 TL nakit iade fırsatı!
-Kampanya Geçerlilik Tarihi
-3 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanya kişiye özeldir. Turkcell’li müşteriler yararlanabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1038,19 +1195,25 @@ Karekod ile ödeme için ne yapmalıyım?
 4- QR Ödeme ikonunu seçerek QR Tara menüsüne gel.
 5- Alışveriş yapmak istediğin yerdeki POS cihazı üzerinde oluşan karekodu, kendi Paycell uygulaman üzerinden okut.
 6- Faturana Yansıt ödeme yöntemini seç ve ödemeni tamamla.
+Geçerlilik Tarihi
+30 Kasım 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 31/63 ---
 BAŞLIK: PUBG Mobile’da 50 TL hediye para!
 LINK: https://paycell.com.tr/kampanyalar/pubg-mobile-da-50-tl-hediye-para
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 PUBG Mobile’da 50 TL hediye para!
-Midasbuy’da Turkcell Faturana Yansıt ile yapacağın 50 TL ve üzeri PUBG Mobile harcamana 50 TL hediye para kazan!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Turkcell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1071,19 +1234,25 @@ Hediye para’nın geçerlilik süresi 1 haftadır. 1 hafta içinde kullanılmay
 Kazanılan ödül başkasına devredilemez ve/veya ödülün nakit karşılığı talep edilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 Hediye Para: Müşterilerin belirli bir harcama yaptıklarında kazandıkları ve sonraki alışverişlerinde indirim olarak kullanabildikleri sanal para birimidir.
+Geçerlilik Tarihi
+30 Kasım 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 32/63 ---
 BAŞLIK: PUBG Mobile UC alımına %20 nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/pubg-mobile-uc-alimina-yuzde-20-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 PUBG Mobile UC alımına %20 nakit iade!
-Paycell Kart ile Midasbuy’dan yapacağın PUBG Mobile UC alımlarında anında %20 nakit iade!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1104,19 +1273,25 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 33/63 ---
 BAŞLIK: Dijital Oyun Mağazalarında Anında 200 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/dijital-oyun-magazalarinda-aninda-200-tl-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Dijital Oyun Mağazalarında Anında 200 TL Nakit İade!
-Paycell Kart ile Tek Seferde 500 TL ve Üzeri Harcamana 100 TL, 1.000 TL ve Üzeri Harcamana 200 TL Hediye!
-Kampanya Geçerlilik Tarihi
-3 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1136,19 +1311,25 @@ Kampanya dahilinde iade ve iptal işlemleri dikkate alınacaktır.
 Bu kampanya, başka bir kampanya ile birleştirilemez. Bir harcama ile sadece tek bir kampanyadan ödül kazanımı gerçekleşebilir.
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 34/63 ---
 BAŞLIK: XBOX Game Pass Aboneliğinin 225 TL’ si Paycell’den!
 LINK: https://paycell.com.tr/kampanyalar/xbox-game-pass-aboneliginizin-225-tl-si-paycellden
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 XBOX Game Pass Aboneliğinin 225 TL’ si Paycell’den!
-XBOX PC Game Pass aboneliğinin yarısı bizden!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanya kişiye özeldir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1166,19 +1347,25 @@ Kampanyadan Turkcell müşterileri yararlanabilir.
 Kazanılan hediye para Paycell uygulaması Hediye Dünyam – Kuponlarım alanından görüntülenebilir.
 Kazanılan ödül başkasına devredilemez ve/veya ödülün nakit karşılığı talep edilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 35/63 ---
 BAŞLIK: Davet Et, 50.000 Puan Kazan!
 LINK: https://paycell.com.tr/kampanyalar/davet-et-kampanyasi
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Davet Et, 50.000 Puan Kazan!
-Paycell’e arkadaşını davet edenler arkadaşıyla birlikte toplamda 50.000 puan kazanıyor!
-Kampanya Geçerlilik Tarihi
-1 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Tüm Paycell müşterileri katılabilir. Herhangi bir harcama veya ek katılım şartı yoktur.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1196,6 +1383,18 @@ Puan Kullanımı
 Kazandığın puanları Paycell uygulaması içerisindeki Fırsatlar-Hediye Dünyaso-Puan Geçmişi menüsünden görebilirsin.
 Kazanılan puanlar 7 gün boyunca geçerlidir. Bu süre zarfında kullanılmayan puanlar silinir.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 36/63 ---
@@ -1203,12 +1402,6 @@ BAŞLIK: Fatura Ödemeleri Ücretsiz!
 LINK: https://paycell.com.tr/kampanyalar/fatura-odemeleri-ucretsiz
 SON TARİH: 31 Aralık 2026
 Fatura Ödemeleri Ücretsiz!
-Paycell Uygulaması üzerinden yapacağınız fatura ödemelerinde işlem ücreti yok!
-Kampanya Geçerlilik Tarihi
-1 Haziran 2025
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Tüm Paycell Müşterileri
 Kampanya Geçerlilik Tarihi?
@@ -1222,6 +1415,18 @@ Kampanyaya kurum fatura ödemeleri, Turkcell ve Superonline fatura ödemeleri da
 Financell ve İstanbulkart ödemeleri kampanyaya dahil değildir.
 Turkcell mağazalarından yapılacak fatura ödemeleri kampanyaya dahil değildir.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 37/63 ---
@@ -1229,12 +1434,6 @@ BAŞLIK: Kıymetli Maden İşlemlerin Artık Ücretsiz!
 LINK: https://paycell.com.tr/kampanyalar/kiymetli-maden-islemlerin-artik-ucretsiz
 SON TARİH: 31 Aralık 2026
 Kıymetli Maden İşlemlerin Artık Ücretsiz!
-Paycell Uygulaması üzerinden yapacağınız Altın, Gümüş ve Platin alım ve satım işlemlerinizde işlem ücreti yok!
-Kampanya Geçerlilik Tarihi
-1 Haziran 2025
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Tüm Paycell Müşterileri
 Kampanya Geçerlilik Tarihi?
@@ -1248,19 +1447,25 @@ Kampanya görselindeki kur ve tutar bilgilerinin temsilidir, işlem anında değ
 Kıymetli madem alım satım işlemleri Fintag Yazılım Danışmanlık A.Ş. tarafından gerçekleştirilmektedir.
 Paycell, yalnızca 6493 s. Kanun kapsamında sayılan ödeme ve elektronik para hizmetlerini sunmaktadır.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 38/63 ---
 BAŞLIK: Pasaj'da anında 150 TL nakit iade!
 LINK: https://paycell.com.tr/kampanyalar/turkcell-pasajda-aninda-150-tl-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Pasaj'da anında 150 TL nakit iade!
-Paycell Kart ile Turkcell Pasaj’da yapacağın 750 TL ve üzeri harcamana 75 TL, 1.000 TL ve üzeri harcamana 150 TL anında nakit iade!
-Kampanya Geçerlilik Tarihi
-2 Haziran 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1281,19 +1486,25 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 39/63 ---
 BAŞLIK: Watsons’ta Anında %25 Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/watsonsta-aninda-yuzde-25-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Watsons’ta Anında %25 Nakit İade!
-Watsons’ta Paycell Kart ile ya da TR Karekod ile yapılacak harcamalarda anında %25 nakit iade!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1318,6 +1529,18 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 40/63 ---
@@ -1325,12 +1548,6 @@ BAŞLIK: Yola Yolcu360 Fırsatlarıyla Çık!
 LINK: https://paycell.com.tr/kampanyalar/yola-yolcu360-firsatlariyla-cik
 SON TARİH: 31 Aralık 2026
 Yola Yolcu360 Fırsatlarıyla Çık!
-Paycell kullanıcılarına özel Yolcu360’tan yapılacak yurt içi araç kiralamalarında %10, yurt dışı araç kiralamalarında %15 indirim kodu seni bekliyor!
-Kampanya Geçerlilik Tarihi
-4 Şubat 2026
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1356,19 +1573,25 @@ Araç kiralama ücreti dışında yapılan ödemeler kampanya kapsamı dışınd
 Bahsedilen araç modelleri; ilgili grubun örneği olarak kabul edilmekte olup kiralama anında ilgili araç grubundan başka muadil bir araç ile hizmet verilebilir.
 Araç gruplarına göre kiralama işlemleri minimum 21 yaş en az 1 yıllık ehliyet gerektirmektedir.
 Yolcu360 ve Paycell önceden haber vermeksizin kampanya koşullarında değişiklik yapma ve/veya kampanyayı iptal etme hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 41/63 ---
 BAŞLIK: Market ve Akaryakıt Harcamana Anında 125 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/market-ve-akaryakit-harcamana-aninda-125-tl-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Market ve Akaryakıt Harcamana Anında 125 TL Nakit İade!
-Paycell Kart ile ya da TR Karekod ile yapacağın 1.250 TL ve üzeri market ve akaryakıt harcamana anında 125 TL nakit iade!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1393,19 +1616,25 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT / Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 42/63 ---
 BAŞLIK: FLO’da Anında %15 Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/floda-yuzde-15-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 FLO’da Anında %15 Nakit İade!
-FLO’da Paycell Kart ile ya da TR Karekod ile yapılacak harcamalarda %15 nakit iade!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1432,19 +1661,25 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 FLO ve Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 43/63 ---
 BAŞLIK: Mavi’de Anında %20 Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/mavide-aninda-yuzde-20-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Mavi’de Anında %20 Nakit İade!
-Mavi’de Paycell Kart ile ya da TR Karekod ile yapılacak harcamalarda anında %20 nakit iade!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1469,19 +1704,25 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 44/63 ---
 BAŞLIK: DeFacto’da Anında %20 Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/defactoda-aninda-yuzde-20-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 DeFacto’da Anında %20 Nakit İade!
-DeFacto’da Paycell Kart ile ya da TR Karekod ile yapılacak harcamalarda anında %20 nakit iade!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1507,19 +1748,25 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 45/63 ---
 BAŞLIK: Simit Sarayı’nda 50 TL Nakit İade Hediye!
 LINK: https://paycell.com.tr/kampanyalar/simit-sarayinda-50-tl-nakit-iade-hediye
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Simit Sarayı’nda 50 TL Nakit İade Hediye!
-Paycell Kart veya Turkcell Faturana Yansıt TR Karekod ile Simit Sarayından 200 TL ve üzeri harcamana anında 50 TL nakit iade!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Turkcell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1546,6 +1793,18 @@ Turkcell faturanıza yansıtarak sadece cep telefonu numaranız ile kredi kartı
 Faturana Yansıt seçeneğiniz henüz açık değilse AC yazıp 5522’ e göndererek veya Paycell uygulamasından hemen açabilirsiniz.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 46/63 ---
@@ -1553,12 +1812,6 @@ BAŞLIK: CarrefourSA TR Karekod Harcamanıza Toplamda 100 TL’ye Varan %15 İad
 LINK: https://paycell.com.tr/kampanyalar/carrefoursa-tr-karekod-kampanyasi
 SON TARİH: 15 Ocak 2027
 CarrefourSA TR Karekod Harcamanıza Toplamda 100 TL’ye Varan %15 İade ve 100 TL Payfour Puan!
-CarrefourSA’dan Faturana Yansıt ile yapılacak 500 TL ve üzeri TR Karekod Harcamasına %15 TL Nakit İade, Payfour’da 500 TL ve üzeri alışverişinize 100 TL Puan!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Turkcell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1593,6 +1846,18 @@ Alışverişin kampanyaya dahil olabilmesi için alışverişlerin Payfour ile �
 Kampanya müşteri bazındadır. Bir müşteri kampanya kapsamında en fazla 100 TL puan kazanabilecektir.
 Kampanya tüm CarrefourSA’larda geçerlidir. CarrefourSA Online Market mobil uygulaması ve www.carrefoursa.com’dan yapılacak alışverişler kampanyaya dahildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
+Geçerlilik Tarihi
+30 Kasım 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 47/63 ---
@@ -1600,12 +1865,6 @@ BAŞLIK: Etstur Rezervasyonlarında 12 Ay Vade Fırsatı!
 LINK: https://paycell.com.tr/kampanyalar/etstur-rezervasyonlarinda-12-ay-vade-firsati
 SON TARİH: 31 Aralık 2026
 Etstur Rezervasyonlarında 12 Ay Vade Fırsatı!
-Paycell Alışveriş Limiti ile Etstur’da 100.000 TL’ye kadar olan rezervasyonlarda 12 Ay Vade!
-Kampanya Geçerlilik Tarihi
-20 Eylül 2022
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1629,6 +1888,18 @@ ETS’de Paycell Alışveriş Limiti seçeneği 30 gün ve daha uzun vadedeki pl
 Turkcell hat sahibiyseniz TCMB’nin belirlediği aylık işlem limitleri dahilinde taksitlerinizi Turkcell faturanız üzerinden ödeyebilirsiniz.
 Taksitleriniz limitleri aşıyorsa veya Turkcell’li değilseniz, taksit ödemelerinizi Paycell Uygulaması, Turkcell İletişim Merkezleri veya bankalar aracılığıyla yapabilirsiniz. Faturana Yansıt limitlerinizi öğrenmek için tıklayınız.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. ve Turkcell Finansman A.Ş. kampanyayı durdurma ve kampanyada değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 48/63 ---
@@ -1636,12 +1907,6 @@ BAŞLIK: Paycell’liler Şimdi YouTube Premium’da!
 LINK: https://paycell.com.tr/kampanyalar/paycellliler-simdi-youtube-premiumda
 SON TARİH: 31 Aralık 2026
 Paycell’liler Şimdi YouTube Premium’da!
-Faturana Yansıt ile dilediğin tutarda harcama yap, 2 ay boyunca YouTube Premium’u ücretsiz dene.
-Kampanya Geçerlilik Tarihi
-1 Ocak 2025
-31 Aralık 2026
-Kimler Katılabilir?
-Turkcell Bireysel
 Detaylı Bilgi
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Turkcell müşterileri katılabilir.
@@ -1671,6 +1936,18 @@ Kampanya stoklarla sınırlıdır.
 Kazanılan ödülün nakit karşılığı talep edilemez.
 Google Play aracılığıyla Google Hesabım sayfasına girip “Ödeme Yöntemleri” alanından “Paycell | Turkcell”i seçerek kolayca Turkcell Faturana Yansıt tanımı yapabilirsiniz.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Turkcell Bireysel
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 49/63 ---
@@ -1678,12 +1955,6 @@ BAŞLIK: 2 Ay Ücretsiz YouTube Üyeliği!
 LINK: https://paycell.com.tr/kampanyalar/paycell-ile-youtube-premium-uyeligi-kazan
 SON TARİH: 31 Aralık 2026
 2 Ay Ücretsiz YouTube Üyeliği!
-Paycell Uygulaması’ndan kampanyaya katıl, 2 ay boyunca YouTube Premium’u ücretsiz dene!
-Kampanya Geçerlilik Tarihi
-1 Ocak 2025
-31 Aralık 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Turkcell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1706,6 +1977,18 @@ Kampanyadan her müşteri en fazla 1 kez yararlanabilir.
 Kampanya stoklarla sınırlıdır.
 Kazanılan ödülün nakit karşılığı talep edilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 50/63 ---
@@ -1713,12 +1996,6 @@ BAŞLIK: Superonline Otomatik Ödeme Talimatınıza Hediye!
 LINK: https://paycell.com.tr/kampanyalar/superonline-otomatik-odeme-talimatiniza-ekstra-hiz-ve-1-000-puan-kazanin
 SON TARİH: 31 Aralık 2026
 Superonline Otomatik Ödeme Talimatınıza Hediye!
-Paycell Uygulaması’ndan Turkcell Superonline Faturanıza Otomatik ödeme talimatı ile Fiber internetinizin hızına hız katın, 1.000 Puan Kazanın!
-Kampanya Geçerlilik Tarihi
-16 Aralık 2022
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Turkcell Superonline Fiber internet aboneleri yararlanabilir. Kampanyadan 100 mbps, 200 mbps ve 1000 mbps paketleri dışındaki paketlerde olan ve hali hazırda turbo indir faydasından ve Kullandığın kadar öde kampanyasından yararlanmayan bireysel Turkcell Superonline Fiber İnternet aboneleri yararlanabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1740,6 +2017,18 @@ Kampanyaya katılım için otomatik ödeme talimatı verilmesi yeterlidir. Ek bi
 Kampanya 100 mbps, 200 mbps veya 1000 mbps hızında paket kullanan veya hali hazırda turbo indir faydasından ve Kullandığın kadar öde kampanyasından yararlanan müşteriler için geçerli değildir.
 İnternet hızı (download ve upload) sonuçları bazı faktörlere bağlı olarak değişiklik gösterebilir. Bu faktörler, sunucunun, ev/işyeri arasında bulunan diğer sunucu ve router’ların (yönlendiricilerin) performansı ve sayısı; ev/işyeri ve sunucu lokasyonu arasındaki hatların kullanım yoğunluğu ve bilgisayarın performansıdır. Ayrıca erişmekte olunan sunucuların internet çıkışlarındaki yoğunluk veya kendi düzenlemeleri doğrultusunda getirdikleri hız kısıtlamaları, web sayfalarının yavaş açılmasını etkileyebilir. Tam performans almak için kablolu bağlantı tavsiye edilmektedir.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 51/63 ---
@@ -1747,11 +2036,6 @@ BAŞLIK: Turkcell Mağazalarında Aksesuar Alımına 36 Aya Kadar Taksit Fırsat
 LINK: https://paycell.com.tr/kampanyalar/paycell-alisveris-limiti-ile-turkcell-magazalarindaki-aksesuar-harcamalarinizda-50-000-tlye-kadar-taksit-firsati
 SON TARİH: 31 Aralık 2026
 Turkcell Mağazalarında Aksesuar Alımına 36 Aya Kadar Taksit Fırsatı!
-Kampanya Geçerlilik Tarihi
-18 Temmuz 2023
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1777,19 +2061,25 @@ Oluşturulan sepetiniz için Paycell uygulaması üzerinden başvuru sürecini t
 Turkcell faturalı hat sahibi iseniz taksitlerinizi Turkcell faturanızla birlikte kolayca ödeyebilirsiniz.
 Turkcell’li olmasanız da bu hizmetten faydalanabilir, taksit ödemelerinizi Paycell Uygulaması, Turkcell İletişim Merkezleri veya bankalar aracılığıyla yapabilirsiniz.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş., Turkcell Finansman A.Ş. ve Turkcell İletişim Hizmetleri A.Ş. kampanyayı durdurma ve kampanyada değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 52/63 ---
 BAŞLIK: STEAM’de 200 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/steamde-200-tlye-varan-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 STEAM’de 200 TL Nakit İade!
-Paycell Kart ile Tek Seferde Yapacağın 500 TL ile 999 TL Arası STEAM Harcamana 100 TL, 1000 TL ve Üzeri STEAM Harcamana 200 TL Hediye!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1812,6 +2102,18 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 53/63 ---
@@ -1819,11 +2121,6 @@ BAŞLIK: Pasaj’da 36 Aya Varan Taksitle Alışveriş İmkanı!
 LINK: https://paycell.com.tr/kampanyalar/paycell-alisveris-limiti-ile-pasajda-0-faizle-taksitli-alisveris-imkani
 SON TARİH: 31 Aralık 2026
 Pasaj’da 36 Aya Varan Taksitle Alışveriş İmkanı!
-Kampanya Geçerlilik Tarihi
-27 Ekim 2023
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1848,19 +2145,25 @@ Altın, yemek, oyun pinleri, spor, dizi, film yayın paketleri, etkinlikler, med
 Turkcell faturalı hat sahibi iseniz taksitlerinizi Turkcell faturanızla birlikte kolayca ödeyebilirsiniz.
 Turkcell’li olmasanız da bu hizmetten faydalanabilir, taksit ödemelerinizi Paycell Uygulaması, Turkcell İletişim Merkezleri veya bankalar aracılığıyla yapabilirsiniz.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş., Turkcell Finansman A.Ş. ve Turkcell İletişim Hizmetleri A.Ş. kampanyayı durdurma ve kampanyada değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 54/63 ---
 BAŞLIK: TR Karekod Harcamanıza 100 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/tr-karekod-harcamaniza-100-tl-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 TR Karekod Harcamanıza 100 TL Nakit İade!
-Faturana Yansıt ile 1.000 TL’ye kadar yapacağın her harcamana %10 Nakit İade, toplamda 100 TL Nakit İade!
-Kampanya Geçerlilik Tarihi
-4 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya kişiye özeldir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1884,19 +2187,25 @@ Kazanılan ödülün nakit karşılığı talep edilemez.
 Bu kampanya, başka bir kampanya ile birleştirilemez. Bir harcama ile sadece tek bir kampanyadan ödül kazanımı gerçekleşebilir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 55/63 ---
 BAŞLIK: Trendyol’da Toplamda 240 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/trendyolda-toplamda-240-tl-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Trendyol’da Toplamda 240 TL Nakit İade!
-Paycell Kart’la yapacağın ilk 800 TL ve üzeri harcamana 40 TL, ikinciye 80 TL, üçüncüye 120 TL, toplamda 240 TL nakit iade!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1920,19 +2229,25 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT / Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 56/63 ---
 BAŞLIK: Epic Games Store’da 200 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/paycell-kart-ile-epic-gamesde-200-tlye-varan-hediyeler
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Epic Games Store’da 200 TL Nakit İade!
-Paycell Kart ile Epic Games Store’da Yapacağınız Tek Seferde 500 TL ile 999 TL Arasında Harcamanıza 100 TL, 1000 TL ve Üzeri Harcamanıza 200 TL Hediye!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1955,6 +2270,18 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT/Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 57/63 ---
@@ -1962,12 +2289,6 @@ BAŞLIK: Trendyol’da 36 Aya Varan Taksitle Alışveriş İmkanı!
 LINK: https://paycell.com.tr/kampanyalar/paycell-alisveris-limiti-ile-trendyolda-36-aya-varan-taksitle-alisveris-imkani
 SON TARİH: 31 Aralık 2026
 Trendyol’da 36 Aya Varan Taksitle Alışveriş İmkanı!
-Paycell Alışveriş Limiti ile Trendyol’da 36 Aya Varan Taksitle Alışveriş İmkanı!
-Kampanya Geçerlilik Tarihi
-25 Eylül 2023
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -1996,19 +2317,25 @@ Altın, yemek, oyun pinleri, spor, dizi, film yayın paketleri, etkinlikler, med
 Turkcell faturalı hat sahibi iseniz taksitlerinizi Turkcell faturanızla birlikte kolayca ödeyebilirsiniz.
 Turkcell’li olmasanız da bu hizmetten faydalanabilir, taksit ödemelerinizi Paycell Uygulaması, Turkcell İletişim Merkezleri veya bankalar aracılığıyla yapabilirsiniz.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. ve Turkcell Finansman A.Ş. kampanyayı durdurma ve kampanyada değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 58/63 ---
 BAŞLIK: Her App Store ve Google Play Store Harcamana 50 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/her-app-store-ve-google-play-store-harcamana-50-tl-nakit-iade
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Her App Store ve Google Play Store Harcamana 50 TL Nakit İade!
-Paycell Kart’tan 250 TL ve üzeri Store Harcamasına 50 TL, Toplamda 150 TL Nakit İade!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -2031,6 +2358,18 @@ Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayc
 Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara yapacağınız EFT / Havale işlemleri ve diğer kartlara ve cüzdan uygulamalarına yapacağınız yükleme işlemleri Paycell Kart kampanyalarına dahil değildir.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 59/63 ---
@@ -2038,12 +2377,6 @@ BAŞLIK: Netflix Aboneliğinin Yarısı Bizden!
 LINK: https://paycell.com.tr/kampanyalar/netflix-aboneliginin-yarisi-bizden
 SON TARİH: 31 Aralık 2026
 Netflix Aboneliğinin Yarısı Bizden!
-Netflix Aboneliğini Paycell Kart ile yapanlar anında %50 nakit iade kazanıyor!
-Kampanya Geçerlilik Tarihi
-1 Ekim 2026
-31 Aralık 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -2068,19 +2401,25 @@ Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara
 Kampanyalardan kazanılan nakit iadeler, kart ve TR karekod işlemlerinde kolayca harcanabilir. 2 Haziran 2026 tarihinden itibaren nakit iade tutarları ATM'den çekilememekte ve başka hesap ya da kartlara aktarılamamaktadır.
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 60/63 ---
 BAŞLIK: PUBG Kart ile Anında 50 TL Nakit İade!
 LINK: https://paycell.com.tr/kampanyalar/pubg-kart-ile-aninda-50-tl-hediye
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 PUBG Kart ile Anında 50 TL Nakit İade!
-PUBG kart ile yapacağın 250 TL ve üzeri tüm harcamalarına anında 50 TL nakit iade!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Paycell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -2109,6 +2448,18 @@ Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın akti
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 Kartın satın alınabileceği mağazalar için tıklayınız.
 Pubg Kart’ı hemen online olarak satın almak için telefonuna Paycell’i indir!
+Geçerlilik Tarihi
+30 Kasım 2026
+Paycell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 61/63 ---
@@ -2116,12 +2467,6 @@ BAŞLIK: Turkcell Otomatik Ödeme Talimatınıza Hediye!
 LINK: https://paycell.com.tr/kampanyalar/turkcell-faturaniza-otomatik-odeme-talimatiniza-hediye
 SON TARİH: 31 Aralık 2026
 Turkcell Otomatik Ödeme Talimatınıza Hediye!
-Paycell Uygulaması’ndan Turkcell Faturanıza Otomatik Ödeme Talimatlarınıza Aylık 5 GB’a ek Günlük 1 GB değerinde 1.000 Puan Hediye!
-Kampanya Geçerlilik Tarihi
-12 Kasım 2024
-31 Aralık 2026
-Kimler Katılabilir?
-Turkcell Faturalı Hat Müşterileri
 Detaylı Bilgi
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Turkcell faturalı hat sahibi müşterileri yararlanabilir.
@@ -2152,19 +2497,25 @@ Geçmiş dönem otomatik ödeme talimatı kampanyalarından faydalanan müşteri
 Turkcell, internet üzerinden mesajlaşma ve ses iletişimi (IM ve VOIP), internet paylaşımı (Tethering) ve doğrudan dosya paylaşım (P2P) programları vb. hizmetlerinin internet paketleri ile kullanımlarında değişiklik yapma hakkını saklı tutar.
 Ücretlendirme periyodu Faturalı hatlar için 1 KB’dir. Hediye MB’lar üçüncü şahıslara transfer edilemez. Dönem sonuna kadar kullanılmayan MB bir sonraki döneme devretmez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
+Geçerlilik Tarihi
+31 Aralık 2026
+Turkcell Faturalı Hat Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 62/63 ---
 BAŞLIK: Google Play’de 75 TL hediye para!
 LINK: https://paycell.com.tr/kampanyalar/google-playde-75-tl-hediye-para
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 Google Play’de 75 TL hediye para!
-Paycell ile 75 TL Google Play harcamana 75 TL Hediye Para!
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Turkcell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -2190,19 +2541,25 @@ Kazanılan hediye para Paycell uygulaması Hediye Dünyam – Kuponlarım alanı
 Kazanılan ödül başkasına devredilemez ve/veya ödülün nakit karşılığı talep edilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 Hediye Para: Müşterilerin belirli bir harcama yaptıklarında kazandıkları ve sonraki alışverişlerinde indirim olarak kullanabildikleri sanal para birimidir.
+Geçerlilik Tarihi
+30 Kasım 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 63/63 ---
 BAŞLIK: App Store Harcamanıza 75 TL Hediye Para!
 LINK: https://paycell.com.tr/kampanyalar/app-store-harcamaniza-75-tl-hediye-para
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 App Store Harcamanıza 75 TL Hediye Para!
-Paycell’den App Store harcamanıza 75 TL hediye para! Kampanyaya Paycell uygulamasından katılabilirsiniz.
-Kampanya Geçerlilik Tarihi
-2 Kasım 2026
-30 Kasım 2026
-Kimler Katılabilir?
-Turkcell Müşterileri
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Turkcell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
@@ -2228,6 +2585,18 @@ Hediye para App Store, Apple TV veya iTunes’da yapılacak harcamalarda geçerl
 Hattınızı Paycell Uygulaması’nı kullanarak, AC yazıp 5522’ye SMS göndererek ya da Çağrı merkezimizi 0850 622 60 60 numaralı telefondan arayarak Faturana Yansıt olarak açtırabilirsiniz.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 Hediye Para: Müşterilerin belirli bir harcama yaptıklarında kazandıkları ve sonraki alışverişlerinde indirim olarak kullanabildikleri sanal para birimidir.
+Geçerlilik Tarihi
+30 Kasım 2026
+Turkcell Müşterileri
+İlginizi Çekebilecek Diğer Kampanyalar
+Sticker Kart’ını aktive edene kart ücreti iade!
+Son Katılım Tarihi: 31 Aralık 2026
+Sticker Kart’ını Paycell Uygulamasına ekleyerek aktive et, kart ücreti iade olsun!
+Detaylı İncele
+Okulyo Kart’ını aktive et, 50 TL kazan!
+Son Katılım Tarihi: 31 Aralık 2026
+Okulyo Kart’ını Paycell Uygulamasına ekleyerek aktive et, 50 TL kazan!
+Detaylı İncele
 
 
 === PAYCELL ÇEKİM ÖZETİ ===
