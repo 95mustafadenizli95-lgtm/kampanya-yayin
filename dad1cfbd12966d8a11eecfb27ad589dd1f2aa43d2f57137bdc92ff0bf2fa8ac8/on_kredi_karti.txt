@@ -1,4 +1,4 @@
-=== ON GÜNCEL KAMPANYA HAVUZU (13/11/2026 05:06) ===
+=== ON GÜNCEL KAMPANYA HAVUZU (14/11/2026 05:07) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 55
 BAŞARIYLA OKUNAN KAMPANYA: 55
 HATALI KAMPANYA LİNKİ: 0
@@ -61,8 +61,8 @@ Kampanya, 1 Kasım 2026 - 30 Kasım 2026 tarihleri arasında geçerli olacaktır
 ON Dijital mobil uygulaması üzerinden ilk kez müşteri olanlar, dijital kanallardan yeni açacakları TL mevduat hesaplarında avantajlı faiz oranlarından faydalanabilir.
 Avantajlı faiz oranından yararlanabilmek için ON Dijital’e giriş yapıp “Kampanyaya Katıl’’ butonuna tıklayarak kampanyaya kaydolunması gerekmektedir.
 Kampanyadan hesap açılış bakiyesi minimum 500 TL ve maksimum 7.500.000 TL olan hesaplar yararlanabilir.
-Kampanyalı faiz oranı yıllık %38,00’i aşmayacaktır.
-TL vadeli hesaplarda 32-91 gün vade aralığında; 500 TL–1.000.000 TL tutar aralığı için yıllık %37,50; 1.000.000 TL–2.500.000 TL tutar aralığı için yıllık %37,50; 2.500.000 TL–5.000.000 TL tutar aralığı için yıllık %37,50; 5.000.000 TL–7.500.000 TL tutar aralığı için yıllık %38,00; 7.500.000 TL–10.000.000 TL tutar aralığı için yıllık %38,00 faiz oranı uygulanır.
+Kampanyalı faiz oranı yıllık %37,50’yi aşmayacaktır.
+TL vadeli hesaplarda 32-91 gün vade aralığında; 500 TL–1.000.000 TL tutar aralığı için yıllık %37,00; 1.000.000 TL–2.500.000 TL tutar aralığı için yıllık %37,00; 2.500.000 TL–5.000.000 TL tutar aralığı için yıllık %37,25; 5.000.000 TL–7.500.000 TL tutar aralığı için yıllık %37,50; 7.500.000 TL–10.000.000 TL tutar aralığı için yıllık %37,50 faiz oranı uygulanır.
 Vade tarihinden önce hesabın kapatılması durumunda vade bozulur ve faiz getirisi elde edilemez. Kampanya süresi sona erdikten sonra açılan yeni hesaplar bu kampanya kapsamı dışında kalacaktır.
 Faiz oranları gün içinde değişiklik gösterebilir. Hesap açılışından önce ON Dijital üzerinden güncel faiz oranlarının kontrol edilmesi önerilmektedir
 ON Dijital Burgan Bank kampanyayı değiştirme ve durdurma hakkını saklı tutar.
