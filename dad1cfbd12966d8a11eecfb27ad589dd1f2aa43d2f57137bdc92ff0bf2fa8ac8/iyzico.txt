@@ -1,9 +1,9 @@
-=== IYZICO GÜNCEL KAMPANYA HAVUZU (15/11/2026 04:28) ===
-TOPLANAN BENZERSİZ DETAY LİNKİ: 2
-KONTROL TARİHİ: 15 Kasım 2026
+=== IYZICO GÜNCEL KAMPANYA HAVUZU (16/11/2026 04:28) ===
+TOPLANAN BENZERSİZ DETAY LİNKİ: 3
+KONTROL TARİHİ: 16 Kasım 2026
 
 
---- IYZICO KAMPANYA 1/2 ---
+--- IYZICO KAMPANYA 1/3 ---
 BAŞLIK: Gaming.Gen.TR %10 İndirim Kazan!
 LINK: https://www.iyzico.com/kendim-icin-kampanyalar/gaminggentr-kasim-2026
 SON TARİH: 30 Kasım 2026
@@ -29,7 +29,33 @@ Kampanyanın kötüye kullanıldığının şüphesinin oluşması, tespiti veya
 Kampanya, aktif farklı bir kampanya ile birleştirilemez.
 
 
---- IYZICO KAMPANYA 2/2 ---
+--- IYZICO KAMPANYA 2/3 ---
+BAŞLIK: Sneaks Up Alışverişini iyzico ile Öde, 500 TL İndirim Kazan!
+LINK: https://www.iyzico.com/kendim-icin-kampanyalar/sneaks-up-alisverisini-iyzico-ile-ode-500-tl-indirim-kazan-kasim
+SON TARİH: 30 Kasım 2026
+Sneaks Up Alışverişini iyzico ile Öde, 500 TL İndirim Kazan!
+Sneaks Up alışverişini iyzico ile Öde, 500 TL indirim tutarın iyzico bakiyene yüklensin
+Kampanyanın Geçerli Olduğu Mağaza
+Kampanya Koşulları ve Genel Bilgiler
+Kampanya 16.11.2026 - 30.11.2026 23:59:59 tarihleri arasında geçerlidir
+sneaksup.com’da "iyzico ile Öde" üzerinden yapılacak 7.500 TL ve üzeri alışverişlerde 500 TL tutarında indirim kazanılır.
+Kampanya kapsamında bir müşterinin kazanabileceği maksimum indirim tutarı 500 TL ile sınırlıdır. Müşteri başına 1 kazanım hakkı mevcuttur.
+Kampanya kapsamında kazanılan bakiyeler, yalnızca kampanya koşullarına uygun işlemlerde kullanılabilir. Kullanılmayan bakiyeler kazanım tarihini takip eden 90 gün sonunda geçerliliğini yitirecek olup kullanıcı hesaplarından silinecektir.
+İndirim tutarı "iyzico ile Öde" üzerinden ödemenin gerçekleştirildiği aynı gün içerisinde iyzico bakiyesine yüklenmesi suretiyle gerçekleştirilir ve müşteri bilgilendirilir. iyzico uygulamasından kazanılan bakiye tutarı kontrol edilebilir ve kullanılabilir.Telefonunuzun uygulama merkezine (App Store, Google Play vb.) girerek iyzico uygulamasını indirebilirsiniz.
+Kampanya kazanımı ilk 5.000 kişi ile sınırlıdır.
+Başarısız, provizyonda kalan, tamamlanmayan veya kampanya koşullarını sağlamayan işlemler kampanya kapsamında değerlendirilmez.
+iyzico ve Sneaks Up kampanyayı bitiş süresinden önce bitirme hakkına sahiptir.
+Kampanyadan, kampanya dönemi boyunca iyzico ile Öde üzerinden yeni üye olarak veya halihazırda iyzico üyesi olup ödemesini tamamlayan her bireysel müşteri bir kez faydalanabilir.
+Taksitli ve peşin işlemler kampanyaya dahildir. Ödül kazanmaya hak kazanan işlemlerin iptal veya iadesi durumunda hediye edilmiş bakiye geri alınır ve tekrar kampanyaya katılınamaz.
+Kampanyadan kazanılan tutar nakde çevrilemez.
+iyzico ve Sneaks Up kampanya koşullarında değişiklik yapma haklarını saklı tutar.
+Ödül kazanılan işlemlerin iptal veya iadesi durumunda, iptal veya iade gerçekleşmeden önce ilgili kampanya kazanımını harcayan kullanıcıların mevcut ve gelecekteki kampanya kullanımları engellenebilir.
+Belirli kullanıcıların kampanyalara katılım durumları, iyzico'nun takdir yetkisi çerçevesinde, önceden bildirimde bulunulmaksızın kısıtlanabilir veya engellenebilir.
+Kampanyanın kötüye kullanıldığının şüphesinin oluşması, tespiti veya kullanıcının programa katılımının iyzico’nun belirlediği amaç, kapsam veya dürüstlük kuralına aykırı olduğuna kanaat getirilmesi halinde; iyzico, hiçbir bildirimde bulunmaksızın kullanıcıya henüz ödenmemiş kampanya tutarlarını iptal edebilir, ödenmiş tutarları geri talep edebilir ve bu tutarları kullanıcının iyzico hesabındaki bakiyeden veya ileride kazanacağı alacaklardan mahsup edebilir.
+Kampanya, aktif farklı bir iyzico ile Öde kampanyasıyla birleştirilemez.
+
+
+--- IYZICO KAMPANYA 3/3 ---
 BAŞLIK: Galataport İstanbul Deniz Dolmuşlarında %50 İndirim
 LINK: https://www.iyzico.com/kendim-icin-kampanyalar/galataport-istanbul-deniz-dolmuslarinda-50-indirim
 SON TARİH: 31 Aralık 2026
@@ -49,7 +75,7 @@ Sefer hatlarında ve saatlerinde değişiklik yapılabilir. 28 kişilik kapasite
 
 
 === IYZICO ÇEKİM ÖZETİ ===
-TOPLAM BENZERSİZ LİNK: 2
-GÜNCEL VEYA TARİHİ BELİRSİZ: 2
+TOPLAM BENZERSİZ LİNK: 3
+GÜNCEL VEYA TARİHİ BELİRSİZ: 3
 SÜRESİ DOLMUŞ: 0
 HATALI: 0

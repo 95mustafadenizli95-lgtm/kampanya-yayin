@@ -1,6 +1,6 @@
-=== UPTION GÜNCEL KAMPANYA HAVUZU (15/11/2026 05:20) ===
+=== UPTION GÜNCEL KAMPANYA HAVUZU (16/11/2026 05:03) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 18
-KONTROL TARİHİ: 15 Kasım 2026
+KONTROL TARİHİ: 16 Kasım 2026
 
 
 --- UPTION KAMPANYA 1/18 ---
@@ -16,19 +16,6 @@ SON TARİH: 31 Aralık 2026
 • UPTION hesabında bloke (eksik evrak, hatalı beyan veya şüpheli işlem) veya kısıt olan müşteriler kampanya ödemesi alamaz.
 • İşlemin iptal/iade durumunda verilen nakit iade tutarı geri alınır.
 • UPT Ödeme Hiz. Ve Elektronik Para AŞ kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
-‍
-
-
---- UPTION KAMPANYA 2/18 ---
-BAŞLIK: uption-kampanyalar
-LINK: https://www.uption.com.tr/en-son-kampanyalar/nepale-ucretsiz-para-gonder-2
-SON TARİH: 15 Kasım 2026
-Kampanya Koşulları:
-• Kampanya 11 Ekim – 15 Kasım 2026 tarihleri arasında tüm müşteriler için geçerlidir.
-• Nepal’deki banka hesaplarına ve cüzdan hesaplarına yapılan tüm para transferi işlemleri kampanya dönemi boyunca ücretsiz olacaktır.
-• Kampanya katılımı için alt limit bulunmamaktadır.
-• Bu kampanya UPT Ödeme Hizmetleri ve Elektronik Para AŞ’nin yapmış olduğu başka bir kampanya ile birleştirilemez.
-• UPT Ödeme Hizmetleri ve Elektronik Para AŞ kampanya koşullarında değişiklik yapma ve kampanyayı durdurma hakkını saklı tutar.
 ‍
 
 
@@ -309,6 +296,6 @@ Arkadaşına Öner Kampanyası ile ilgili tüm sorularınızı uption@upt.com.tr
 
 === UPTION ÇEKİM ÖZETİ ===
 TOPLAM BENZERSİZ LİNK: 18
-GÜNCEL VEYA TARİHİ BELİRSİZ: 18
-SÜRESİ DOLMUŞ: 0
+GÜNCEL VEYA TARİHİ BELİRSİZ: 17
+SÜRESİ DOLMUŞ: 1
 HATALI: 0
