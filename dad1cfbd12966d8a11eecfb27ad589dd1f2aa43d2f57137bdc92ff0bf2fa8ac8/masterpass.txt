@@ -1,6 +1,6 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (18/11/2026 04:28) ===
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (19/11/2026 04:28) ===
 TOPLANAN BENZERSİZ KAMPANYA: 42
-KONTROL TARİHİ: 18 Kasım 2026
+KONTROL TARİHİ: 19 Kasım 2026
 
 
 --- MASTERPASS KAMPANYA 1/42 ---
@@ -120,7 +120,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 2 gün
+Son 1 gün
 Trendyol’da geçerli sürpriz indirim kuponu
 Kupon al
 31.12.2026
@@ -248,8 +248,8 @@ Kupon al
 Kuponunu kullan
 Kurallar ve koşullar
 17.08.2026 – 31.12.2026 tarihleri arasında Masterpass'e kayıtlı Silver logolu Mastercard sahipleri, kampanya kapsamında Boyner/YKM mağazaları, Boyner Online ve Boyner Now'da Boyner satıcılı ürünlerden kozmetik, elektrikli ev aletleri ve aksesuar kategorileri hariç 5.000 TL ve üzeri alışverişlerde 1.000 TL indirimden yararlanabilir.
-Kampanyadan yararlanmak için https://www.masterpassturkiye.com/ Masterpass web sitesi üzerinden ilgili kampanya sayfasından kupon alınması gerekmektedir.
-Masterpass üyesi olmayanlar, web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından kupon alabilir.
+Kampanyadan yararlanmak için Masterpass mobil uygulaması üzerinden veya https://www.masterpassturkiye.com/ web sitesi üzerinden ilgili kampanya sayfasından kupon alınması gerekmektedir.
+Masterpass üyesi olmayanlar, Masterpass mobil uygulaması veya web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından kupon alabilir.
 Masterpass'e kayıtlı Mastercard logolu kartı olmayanların, Boyner Online veya Boyner Now üzerinden Masterpass'e Silver logolu Mastercard kartlarını kaydetmesi gerekmektedir.
 Online alışverişlerde kuponu kullanmak için ödeme adımında Masterpass ile ödeme seçildikten sonra kuponun girilmesi ve Silver logolu Mastercard ile ödeme yapılması gerekmektedir.
 Boyner mağazalarında indirimden yararlanmak için kasada kuponu verilmesi ve Silver logolu Mastercard ile ödeme yapılması gerekmektedir.
@@ -270,7 +270,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 2 gün
+Son 1 gün
 Trendyol’da geçerli sürpriz indirim kuponu
 Kupon al
 30.11.2026
@@ -356,7 +356,7 @@ Mastercard
 Bu kampanyada geçerli indirim seni bekliyor.
 Detaylı bilgi
 Benzer kampanyalar
-Son 2 gün
+Son 1 gün
 Trendyol’da geçerli sürpriz indirim kuponu
 Kupon al
 30.11.2026
@@ -956,7 +956,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 2 gün
+Son 1 gün
 Trendyol’da geçerli sürpriz indirim kuponu
 Kupon al
 30.11.2026
@@ -1026,7 +1026,7 @@ Mastercard
 Bu kampanyada geçerli indirim ve avantajlar seni bekliyor.
 Detaylı bilgi
 Benzer kampanyalar
-Son 2 gün
+Son 1 gün
 Trendyol’da geçerli sürpriz indirim kuponu
 Kupon al
 30.11.2026
@@ -1523,7 +1523,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 2 gün
+Son 1 gün
 Trendyol’da geçerli sürpriz indirim kuponu
 Kupon al
 30.11.2026
