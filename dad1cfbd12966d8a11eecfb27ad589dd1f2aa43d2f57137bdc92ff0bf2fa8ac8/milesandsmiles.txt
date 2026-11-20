@@ -1,6 +1,6 @@
-=== MILES&SMILES GÜNCEL KAMPANYA HAVUZU (19/11/2026 04:31) ===
+=== MILES&SMILES GÜNCEL KAMPANYA HAVUZU (20/11/2026 04:35) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 143
-KONTROL TARİHİ: 19 Kasım 2026
+KONTROL TARİHİ: 20 Kasım 2026
 
 
 --- MILES&SMILES KAMPANYA 1/143 ---
@@ -477,7 +477,7 @@ Başlangıç - Bitiş Tarihleri
 Mil Yükleme Tarihi
 03.12.2026
 Nasıl Kazanırım
-Kampanyaya katılan müşteri Miles&Smiles Garanti BBVA American Express kredi kartları ile 1-30 Kasım 2026 tarihleri arasında minimum 2.000 TL ve üzeri harcama koşulu ile toplamda 10.000 TL market harcamasına 1.000 Mil kazanacaktır.
+Kampanyaya katılan müşteri Miles&Smiles Garanti BBVA American Express kredi kartları ile 16-30 Kasım 2026 tarihleri arasında minimum 2.000 TL ve üzeri harcama koşulu ile toplamda 10.000 TL market harcamasına 1.000 Mil kazanacaktır.
 Katılmak İçin
 Kampanyaya katılmak için ilk harcamadan önce BonusFlaş uygulamasındaki “Hemen Katıl” butonunun tıklanması gerekmektedir.
 Kampanyaya Dahil Kartlar
@@ -892,7 +892,7 @@ Kampanya Katılımı:
 Kampanya katılımı için ön koşul bulunmuyor.
 Kampanyaya Dahil Kartlar:
 Kampanyaya sadece Miles&Smiles Garanti BBVA kredi kartları dahildir.
-Ticari kredi kartları dahildir.
+Ticari kredi kartları dahil değildir.
 Ek kartlar ve sanal kartlar kampanyaya dahildir.
 Kampanyaya Troy logolu Garanti BBVA bireysel kredi kartlar da dahildir.
 Kampanya Dahil İşlem Tipleri:

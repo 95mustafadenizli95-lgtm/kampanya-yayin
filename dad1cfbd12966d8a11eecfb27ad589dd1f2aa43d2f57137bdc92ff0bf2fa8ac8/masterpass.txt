@@ -1,13 +1,13 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (19/11/2026 04:28) ===
-TOPLANAN BENZERSİZ KAMPANYA: 42
-KONTROL TARİHİ: 19 Kasım 2026
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (20/11/2026 04:33) ===
+TOPLANAN BENZERSİZ KAMPANYA: 41
+KONTROL TARİHİ: 20 Kasım 2026
 
 
---- MASTERPASS KAMPANYA 1/42 ---
+--- MASTERPASS KAMPANYA 1/41 ---
 BAŞLIK: sürpriz indirim kuponu
 LINK: https://www.masterpassturkiye.com/kampanya/trendyolda-gecerli-surpriz-indirim-kuponu-c108
 KAYNAK: DETAY SAYFASI
-SON TARİH: 20 Kasım 2026
+SON TARİH: 30 Kasım 2026
 sürpriz indirim kuponu
 Bitiş Tarihi: 20.11.2026
 Trendyol’da geçerli sürpriz indirim kuponun seni bekliyor!
@@ -50,14 +50,15 @@ Keşfet
 31.12.2026
 Boyner'de 5000 TL üzeri alışverişlerde 1000 TL indirim
 Kupon al
-30.11.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 30.11.2026
 Atelier Rebul’de 1000 TL indirim
-Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 2/42 ---
+--- MASTERPASS KAMPANYA 2/41 ---
 BAŞLIK: 350 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/migros-c83
 KAYNAK: DETAY SAYFASI
@@ -89,7 +90,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 3/42 ---
+--- MASTERPASS KAMPANYA 3/41 ---
 BAŞLIK: 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/fashfed-1000-tl-indirim-c93
 KAYNAK: DETAY SAYFASI
@@ -120,7 +121,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 1 gün
+19:24:45
 Trendyol’da geçerli sürpriz indirim kuponu
 Kupon al
 31.12.2026
@@ -129,14 +130,15 @@ Keşfet
 31.12.2026
 Boyner'de 5000 TL üzeri alışverişlerde 1000 TL indirim
 Kupon al
-30.11.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 30.11.2026
 Atelier Rebul’de 1000 TL indirim
-Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 4/42 ---
+--- MASTERPASS KAMPANYA 4/41 ---
 BAŞLIK: %15 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/yurt-disi-restoran-harcamalarinda-yuzde-15-indirim-c97
 KAYNAK: DETAY SAYFASI
@@ -186,7 +188,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 5/42 ---
+--- MASTERPASS KAMPANYA 5/41 ---
 BAŞLIK: %15 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/yurt-disi-duty-free-harcamalarinda-yuzde-15-indirim-c96
 KAYNAK: DETAY SAYFASI
@@ -236,7 +238,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 6/42 ---
+--- MASTERPASS KAMPANYA 6/41 ---
 BAŞLIK: 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/boynerde-5000-tl-uzeri-alisverislerde-1000-tl-indirim-c7
 KAYNAK: DETAY SAYFASI
@@ -270,7 +272,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 1 gün
+19:24:37
 Trendyol’da geçerli sürpriz indirim kuponu
 Kupon al
 30.11.2026
@@ -279,14 +281,15 @@ Kupon al
 31.12.2026
 Google Play harcamalarında %50 indirim
 Keşfet
-30.11.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 30.11.2026
 Atelier Rebul’de 1000 TL indirim
-Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 7/42 ---
+--- MASTERPASS KAMPANYA 7/41 ---
 BAŞLIK: Kurallar ve koşullar
 LINK: https://www.masterpassturkiye.com/kampanya/galataportta-otopark-1-tl-c2
 KAYNAK: DETAY SAYFASI
@@ -313,9 +316,10 @@ Benzer kampanyalar
 30.11.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Kupon al
-30.11.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 30.11.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
-Kupon al
 30.11.2026
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Kupon al
@@ -326,7 +330,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 8/42 ---
+--- MASTERPASS KAMPANYA 8/41 ---
 BAŞLIK: %50 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/google-play-harcamalarinda-yuzde-50-indirim-c1
 KAYNAK: DETAY SAYFASI
@@ -356,7 +360,7 @@ Mastercard
 Bu kampanyada geçerli indirim seni bekliyor.
 Detaylı bilgi
 Benzer kampanyalar
-Son 1 gün
+19:24:32
 Trendyol’da geçerli sürpriz indirim kuponu
 Kupon al
 30.11.2026
@@ -365,14 +369,15 @@ Kupon al
 31.12.2026
 Boyner'de 5000 TL üzeri alışverişlerde 1000 TL indirim
 Kupon al
-30.11.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 30.11.2026
 Atelier Rebul’de 1000 TL indirim
-Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 9/42 ---
+--- MASTERPASS KAMPANYA 9/41 ---
 BAŞLIK: %10 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/yurt-disi-otel-harcamalarinda-yuzde-10-indirim-c37
 KAYNAK: DETAY SAYFASI
@@ -420,15 +425,15 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 10/42 ---
+--- MASTERPASS KAMPANYA 10/41 ---
 BAŞLIK: ücretsiz hızlı geçiş
 LINK: https://www.masterpassturkiye.com/kampanya/igada-gecerli-ucretsiz-hizli-gecis-c33
 KAYNAK: DETAY SAYFASI
 SON TARİH: 31 Aralık 2026
 ücretsiz hızlı geçiş
 Bitiş Tarihi: 31.12.2026
-Kampanya tükenmiştir!
 Mastercard sahiplerine İstanbul Havalimanı'nda ücretsiz hızlı geçiş hizmeti!
+Kupon al
 Kurallar ve koşullar
 Türkiye'de basılmış Silver logolu Mastercard sahipleri, 21.09.2026 – 31.12.2026 tarihleri arasında İstanbul Havalimanı'nda ücretsiz hızlı geçiş hizmetinden yararlanabilir.
 Kampanyadan yararlanmak için https://www.masterpassturkiye.com/ web sitesi üzerinden ilgili kampanya sayfasından kupon alınması ve hizmet noktasındaki yetkili personele ibraz edilmesi gerekmektedir.
@@ -470,15 +475,15 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 11/42 ---
+--- MASTERPASS KAMPANYA 11/41 ---
 BAŞLIK: ücretsiz buggy hizmeti
 LINK: https://www.masterpassturkiye.com/kampanya/igada-gecerli-ucretsiz-buggy-hizmeti-c32
 KAYNAK: DETAY SAYFASI
 SON TARİH: 31 Aralık 2026
 ücretsiz buggy hizmeti
 Bitiş Tarihi: 31.12.2026
-Kampanya tükenmiştir!
 Mastercard sahiplerine İstanbul Havalimanı'nda ücretsiz buggy hizmeti!
+Kupon al
 Kurallar ve koşullar
 Türkiye'de basılmış Silver logolu Mastercard sahipleri, 21.09.2026 – 31.12.2026 tarihleri arasında İstanbul Havalimanı'nda ücretsiz buggy hizmetinden yararlanabilir.
 Kampanyadan yararlanmak için https://www.masterpassturkiye.com/ web sitesi üzerinden ilgili kampanya sayfasından kupon alınması ve hizmet noktasındaki yetkili personele ibraz edilmesi gerekmektedir.
@@ -520,15 +525,15 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 12/42 ---
+--- MASTERPASS KAMPANYA 12/41 ---
 BAŞLIK: ücretsiz otopark ve vale hizmeti
 LINK: https://www.masterpassturkiye.com/kampanya/igada-gecerli-ucretsiz-otopark-ve-vale-hizmeti-c31
 KAYNAK: DETAY SAYFASI
 SON TARİH: 31 Aralık 2026
 ücretsiz otopark ve vale hizmeti
 Bitiş Tarihi: 31.12.2026
-Kampanya tükenmiştir!
 Mastercard sahiplerine İstanbul Havalimanı'nda ücretsiz vale ve 4 gün otopark hizmeti!
+Kupon al
 Kurallar ve koşullar
 Türkiye'de basılmış Silver logolu Mastercard sahipleri, 21.09.2026 – 31.12.2026 tarihleri arasında İstanbul Havalimanı'nda ücretsiz vale ve 4 gün otopark hizmetlerinden yararlanabilir.
 Kampanyadan yararlanmak için https://www.masterpassturkiye.com/ web sitesi üzerinden ilgili kampanya sayfasından kupon alınması ve vale hizmet noktasındaki yetkili personele ibraz edilmesi gerekmektedir.
@@ -571,7 +576,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 13/42 ---
+--- MASTERPASS KAMPANYA 13/41 ---
 BAŞLIK: hızlı geçiş
 LINK: https://www.masterpassturkiye.com/kampanya/sabiha-gokcen-dis-hatlarda-mastercarda-ozel-hizli-gecis-c16
 KAYNAK: DETAY SAYFASI
@@ -620,7 +625,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 14/42 ---
+--- MASTERPASS KAMPANYA 14/41 ---
 BAŞLIK: ücretsiz hızlı geçiş
 LINK: https://www.masterpassturkiye.com/kampanya/sabiha-gokcen-ic-hatlarda-mastercarda-ozel-hizli-gecis-c17
 KAYNAK: DETAY SAYFASI
@@ -669,7 +674,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 15/42 ---
+--- MASTERPASS KAMPANYA 15/41 ---
 BAŞLIK: havalimanı transferi 1500 TL
 LINK: https://www.masterpassturkiye.com/kampanya/progo-ile-havalimani-transferi-1500-tl-c10
 KAYNAK: DETAY SAYFASI
@@ -715,7 +720,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 16/42 ---
+--- MASTERPASS KAMPANYA 16/41 ---
 BAŞLIK: 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/enuygunda-ucak-biletlerinde-1000-tlye-varan-indirim-c19
 KAYNAK: DETAY SAYFASI
@@ -749,9 +754,10 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Kupon al
-30.11.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 30.11.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
-Kupon al
 30.11.2026
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Kupon al
@@ -762,15 +768,15 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 17/42 ---
+--- MASTERPASS KAMPANYA 17/41 ---
 BAŞLIK: 200 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/marti-super-uye-paketi-alimlarinda-200-tl-indirim-c5
 KAYNAK: DETAY SAYFASI
 SON TARİH: 30 Kasım 2026
 200 TL indirim
 Bitiş Tarihi: 30.11.2026
+Kampanya tükenmiştir!
 Martı Süper Üye Paketi alımlarında 200 TL indirim!
-Kupon al
 Kuponunu kullan
 Kurallar ve koşullar
 01.09.2026 – 30.11.2026 tarihleri arasında Masterpass’e kayıtlı Mastercard sahipleri, kampanya kapsamında Martı mobil uygulamasında geçerli Martı Süper Üye Paketi satın alımlarında 200 TL indirim kazanacaktır.
@@ -804,45 +810,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 18/42 ---
-BAŞLIK: %20 indirim
-LINK: https://www.masterpassturkiye.com/kampanya/zubizu-ile-secili-restoranlarda-yuzde-20-indirim-c3
-KAYNAK: DETAY SAYFASI
-SON TARİH: 19 Kasım 2026
-%20 indirim
-Bitiş Tarihi: 19.11.2026
-Silver logolu Mastercard ile ZUBİZU restoranlarında haftanın her günü %20’ye varan indirim!
-Kurallar ve koşullar
-Silver logolu Mastercard sahipleri ZUBİZU ile anlaşmalı restoranlarda haftanın her günü %20'ye varan indirimden yararlanabilir.
-Kampanya 19 Kasım 2026 tarihine kadar geçerlidir.
-Kampanya yalnızca Silver logolu Mastercard kartlarında geçerlidir.
-Muma Burger House, Godiva, Hangry 21, Butterfly Chocolate, Dieci Moda, İnkase, SADE Beş Denizler Mutfağı, The Grungy restoranlarında tüm işlemlerde %20 indirim kazanılır. İşlem bazında toplamda en fazla 2.500 TL indirim kazanılır. Bu restoranlarda %20 indirim kazanabilmek için herhangi bir harcama limiti bulunmamaktadır.
-Diğer anlaşmalı restoranlarda ZUBİZU ile Mastercard Silver logolu kredi kartlarıyla tek seferde gerçekleştirilecek 5.000–9.999 TL arası ödemelerde %10 indirim, işlem başına en fazla 750 TL; 10.000 TL ve üzeri ödemelerde %20 indirim, işlem başına en fazla 2.500 TL indirimden yararlanılabilir.
-İndirimden yararlanmak için ilgili restoranlarda ZUBİZU QR kodu okutulması ve Mastercard Silver logolu kartlarla ödeme yapılması gerekmektedir.
-ZUBİZU QR okuttuktan sonra ödemeyi Mastercard Silver logolu kartlarıyla yapmış Mastercard kullanıcıları, kampanyaya dahil ZUBİZU restoranlarında Türkiye'de basılmış tüm bireysel ve ticari Mastercard Silver logolu kartlar ile anında %20'ye varan indirim kazanacaktır.
-Geçerli restoranlar: Ahmet Ustam Ocakbaşı, Bom Dia, Breeze Brasserie, Brio Italian, Butterfly Chocolate, Dieci Moda, Far East, Godiva, Hangry 21, Izaka Terrace, Imperia Ristorante, İnkase, Kaburgacı Cabbar Ocakbaşı, Kaen Sushi, Kaşıbeyaz Bosphorus, Kebapçı Beko, Muma Burger House, Muutto, Sade Beş Denizler, Sipster Etiler, Tarla Alaçatı, The Grungy, The Guru Urla, Tike.
-Her müşteri, her restoranda ayda yalnızca 1 kez yararlanabilir.
-Kampanya Kıbrıs menşeli kartlarda (Shop&Miles-Shop&Fly vb.) geçerli değildir.
-Kampanya ZUBİZU'da yer alan genel restoran indirimleri dışında kişiye özel indirim kampanyaları ile birleştirilemez.
-Seçili restoranların yılbaşı ve benzeri özel menülerinde ZUBİZU indirimleri geçerli olmayabilir. Detaylar için ilgili restorandan bilgi alınabilir.
-Kampanyadan sorunsuz yararlanmak için ilgili restoranın kampanya koşullarının altında yer alan geçerli lokasyonlar alanının kontrol edilmesi gerekmektedir.
-Kampanyaya katılan herkes kampanya koşullarını kabul etmiş sayılır.
-ZUBİZU ve Mastercard, kampanyada değişiklik yapma hakkını saklı tutar.
-ZUBİZU ve Mastercard kötü niyetli kullanımları eleme hakkına sahiptir. Detaylı bilgi için 0850 222 06 66 aranabilir veya destek@zubizu.com adresine e-posta gönderilebilir.
-Kampanya ile ilgili soru ve geri bildirimler için mastercard@mplusgroup.com.tr adresine ulaşılabilir. Dönüşler en geç 14 iş günü içerisinde sağlanacaktır.
-Geçerli kartlar
-Mastercard
-Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
-Detaylı bilgi
-Benzer kampanyalar
-30.11.2026
-Mastercard sahiplerine özel Migros Yemek’te 350 TL indirim
-Kupon al
-İhtiyaç duyduğunda yanındayız
-DESTEK
-
-
---- MASTERPASS KAMPANYA 19/42 ---
+--- MASTERPASS KAMPANYA 18/41 ---
 BAŞLIK: %50 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/trevada-havalimani-otopark-odemelerinde-yuzde-50-indirim-c30
 KAYNAK: DETAY SAYFASI
@@ -877,9 +845,10 @@ Kupon al
 30.11.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Kupon al
-30.11.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 30.11.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
-Kupon al
 31.12.2026
 Galataport İstanbul Deniz Dolmuşlarında %50 indirim
 Keşfet
@@ -887,7 +856,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 20/42 ---
+--- MASTERPASS KAMPANYA 19/41 ---
 BAŞLIK: %50 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/galataport-istanbul-deniz-dolmuslarinda-yuzde-50-indirim-c15
 KAYNAK: DETAY SAYFASI
@@ -919,9 +888,10 @@ Kupon al
 30.11.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Kupon al
-30.11.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 30.11.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
-Kupon al
 30.11.2026
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Kupon al
@@ -929,15 +899,15 @@ Kupon al
 DESTEK
 
 
---- MASTERPASS KAMPANYA 21/42 ---
+--- MASTERPASS KAMPANYA 20/41 ---
 BAŞLIK: 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/atelier-rebulde-1000-tl-indirim-c35
 KAYNAK: DETAY SAYFASI
 SON TARİH: 31 Aralık 2026
 1000 TL indirim
 Bitiş Tarihi: 30.11.2026
+Kampanya tükenmiştir!
 Atelier Rebul’da 5000 TL ve üzeri alışverişlerde 1000 TL indirim!
-Kupon al
 Kuponunu kullan
 Kurallar ve koşullar
 29.07.2026 – 30.11.2026 tarihleri arasında Türkiye'de basılmış Silver logolu Mastercard sahipleri, kampanya kapsamında Atelier Rebul'de tek seferde yapılan 5000 TL ve üzeri alışverişlerde 1000 TL indirimden yararlanabilir.
@@ -956,7 +926,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 1 gün
+19:24:00
 Trendyol’da geçerli sürpriz indirim kuponu
 Kupon al
 30.11.2026
@@ -972,7 +942,7 @@ Kupon al
 DESTEK
 
 
---- MASTERPASS KAMPANYA 22/42 ---
+--- MASTERPASS KAMPANYA 21/41 ---
 BAŞLIK: 1 Bilet Alana 2. Bilet hediye
 LINK: https://www.masterpassturkiye.com/kampanya/zorlu-psmde-mastercard-sahiplerine-bir-bilet-alana-ikinci-bilet-hediye-c20
 KAYNAK: DETAY SAYFASI
@@ -1001,7 +971,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 23/42 ---
+--- MASTERPASS KAMPANYA 22/41 ---
 BAŞLIK: ücretsiz dijital kimlik koruma
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-sahiplerine-ozel-ucretsiz-dijital-kimlik-koruma-c18
 KAYNAK: DETAY SAYFASI
@@ -1026,7 +996,7 @@ Mastercard
 Bu kampanyada geçerli indirim ve avantajlar seni bekliyor.
 Detaylı bilgi
 Benzer kampanyalar
-Son 1 gün
+19:23:54
 Trendyol’da geçerli sürpriz indirim kuponu
 Kupon al
 30.11.2026
@@ -1042,7 +1012,7 @@ Kupon al
 DESTEK
 
 
---- MASTERPASS KAMPANYA 24/42 ---
+--- MASTERPASS KAMPANYA 23/41 ---
 BAŞLIK: %50 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/treva-otobus-binis-hakki-satin-alimlarinda-yuzde-50-indirim-c29
 KAYNAK: DETAY SAYFASI
@@ -1076,9 +1046,10 @@ Kupon al
 30.11.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Kupon al
-30.11.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 30.11.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
-Kupon al
 30.11.2026
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Kupon al
@@ -1086,7 +1057,7 @@ Kupon al
 DESTEK
 
 
---- MASTERPASS KAMPANYA 25/42 ---
+--- MASTERPASS KAMPANYA 24/41 ---
 BAŞLIK: 150 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/enuygunda-300tl-uzeri-otobus-biletlerinde-150-tl-indirim-c13
 KAYNAK: DETAY SAYFASI
@@ -1125,9 +1096,10 @@ Kupon al
 30.11.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Kupon al
-30.11.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 30.11.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
-Kupon al
 30.11.2026
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Kupon al
@@ -1135,7 +1107,7 @@ Kupon al
 DESTEK
 
 
---- MASTERPASS KAMPANYA 26/42 ---
+--- MASTERPASS KAMPANYA 25/41 ---
 BAŞLIK: %7'ye varan cüzdan kredisi
 LINK: https://www.masterpassturkiye.com/kampanya/bookingcom-rezervasyonlarinda-yuzde-yediye-varan-cuzdan-kredisi-c80
 KAYNAK: DETAY SAYFASI
@@ -1190,11 +1162,11 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 27/42 ---
+--- MASTERPASS KAMPANYA 26/41 ---
 BAŞLIK: 400 TL'ye varan indirim
 LINK: https://www.masterpassturkiye.com/kampanya/pamukkale-otobus-biletlerinde-400-tlye-varan-indirim-c34
 KAYNAK: DETAY SAYFASI
-SON TARİH: 20 Kasım 2026
+SON TARİH: 30 Kasım 2026
 400 TL'ye varan indirim
 Bitiş Tarihi: 20.11.2026
 Pamukkale Turizm web sayfası ve mobil uygulamasında geçerli otobüs biletlerinde 400 TL'ye varan indirim!
@@ -1235,9 +1207,10 @@ Kupon al
 30.11.2026
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Kupon al
-30.11.2026
+!
+Kampanya tükenmiştir
+Bitiş tarihi: 30.11.2026
 Martı Süper Üye Paketi alımlarında 200 TL indirim
-Kupon al
 30.11.2026
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Kupon al
@@ -1245,7 +1218,7 @@ Kupon al
 DESTEK
 
 
---- MASTERPASS KAMPANYA 28/42 ---
+--- MASTERPASS KAMPANYA 27/41 ---
 BAŞLIK: Kurallar ve koşullar
 LINK: https://www.masterpassturkiye.com/kampanya/the-mastercard-collection-ile-tanisin-c79
 KAYNAK: DETAY SAYFASI
@@ -1266,7 +1239,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 29/42 ---
+--- MASTERPASS KAMPANYA 28/41 ---
 BAŞLIK: ücretsiz hızlı geçiş ayrıcalığı
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-secili-havalimanlarinda-hizli-gecis-ucretsiz-c23
 KAYNAK: DETAY SAYFASI
@@ -1298,7 +1271,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 30/42 ---
+--- MASTERPASS KAMPANYA 29/41 ---
 BAŞLIK: ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-secili-havalimanlarinda-lounge-girisi-ucretsiz-c24
 KAYNAK: DETAY SAYFASI
@@ -1332,7 +1305,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 31/42 ---
+--- MASTERPASS KAMPANYA 30/41 ---
 BAŞLIK: sınırsız hızlı geçiş
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-istanbul-havalimaninda-mastercarda-ozel-hizli-gecis-alanlarinda-sinirsiz-hizli-gecis-hakki-ucretsiz-c26
 KAYNAK: DETAY SAYFASI
@@ -1357,7 +1330,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 32/42 ---
+--- MASTERPASS KAMPANYA 31/41 ---
 BAŞLIK: ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-kart-sahiplerine-iksv-kirmizi-lale-kart-ucretsiz-c27
 KAYNAK: DETAY SAYFASI
@@ -1384,7 +1357,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 33/42 ---
+--- MASTERPASS KAMPANYA 32/41 ---
 BAŞLIK: ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-istanbul-havalimaninda-vale-hizmeti-ucretsiz-c21
 KAYNAK: DETAY SAYFASI
@@ -1412,7 +1385,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 34/42 ---
+--- MASTERPASS KAMPANYA 33/41 ---
 BAŞLIK: %20 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-uber-ile-yurtdisi-seyahatlerde-yuzde-20-indirim-c41
 KAYNAK: DETAY SAYFASI
@@ -1439,7 +1412,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 35/42 ---
+--- MASTERPASS KAMPANYA 34/41 ---
 BAŞLIK: ön satış ve ayrıcalıklı koltuklar
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-kart-sahiplerine-uluslararasi-bilet-platformlarinda-cesitli-ayricaliklar-c42
 KAYNAK: DETAY SAYFASI
@@ -1468,7 +1441,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 36/42 ---
+--- MASTERPASS KAMPANYA 35/41 ---
 BAŞLIK: öncelikli rezervasyon
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-kart-sahiplerine-rezervasyon-uygulamalarinda-cesitli-ayricaliklar-c43
 KAYNAK: DETAY SAYFASI
@@ -1497,7 +1470,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 37/42 ---
+--- MASTERPASS KAMPANYA 36/41 ---
 BAŞLIK: %20 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/the-bulumsta-yuzde-20-indirim-c76
 KAYNAK: DETAY SAYFASI
@@ -1523,7 +1496,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-Son 1 gün
+19:23:17
 Trendyol’da geçerli sürpriz indirim kuponu
 Kupon al
 30.11.2026
@@ -1539,7 +1512,7 @@ Kupon al
 DESTEK
 
 
---- MASTERPASS KAMPANYA 38/42 ---
+--- MASTERPASS KAMPANYA 37/41 ---
 BAŞLIK: 30 EUR nakit iade
 LINK: https://www.masterpassturkiye.com/kampanya/galeries-lafayette-haussmann-harcamalarinda-30-eur-nakit-iade-c102
 KAYNAK: DETAY SAYFASI
@@ -1584,7 +1557,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 39/42 ---
+--- MASTERPASS KAMPANYA 38/41 ---
 BAŞLIK: 30 USD nakit iade
 LINK: https://www.masterpassturkiye.com/kampanya/abdde-bulunan-secili-sunglass-hut-magazalarinda-30-usd-nakit-iade-c103
 KAYNAK: DETAY SAYFASI
@@ -1627,7 +1600,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 40/42 ---
+--- MASTERPASS KAMPANYA 39/41 ---
 BAŞLIK: %4 nakit iade
 LINK: https://www.masterpassturkiye.com/kampanya/birlesik-kralliktaki-annouskha-magazalarinda-percent-4-nakit-iade-c104
 KAYNAK: DETAY SAYFASI
@@ -1669,7 +1642,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 41/42 ---
+--- MASTERPASS KAMPANYA 40/41 ---
 BAŞLIK: ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/wl-telefon-sigortasi-ucretsiz-c105
 KAYNAK: DETAY SAYFASI
@@ -1704,7 +1677,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 42/42 ---
+--- MASTERPASS KAMPANYA 41/41 ---
 BAŞLIK: İstanbul Havalimanı buggy ayrıcalığı ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/world-legend-iga-buggy-c107
 KAYNAK: DETAY SAYFASI
@@ -1733,7 +1706,7 @@ DESTEK
 
 
 === MASTERPASS ÇEKİM ÖZETİ ===
-TOPLAM BENZERSİZ KAMPANYA: 42
-GÜNCEL VEYA TARİHİ BELİRSİZ: 42
+TOPLAM BENZERSİZ KAMPANYA: 41
+GÜNCEL VEYA TARİHİ BELİRSİZ: 41
 SÜRESİ DOLMUŞ: 0
 HATALI: 0
