@@ -1,6 +1,6 @@
-=== PAYCELL GÜNCEL KAMPANYA HAVUZU (20/11/2026 05:01) ===
+=== PAYCELL GÜNCEL KAMPANYA HAVUZU (21/11/2026 05:04) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 63
-KONTROL TARİHİ: 20 Kasım 2026
+KONTROL TARİHİ: 21 Kasım 2026
 
 
 --- PAYCELL KAMPANYA 1/63 ---
@@ -2565,9 +2565,9 @@ Kampanyaya tüm Turkcell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
 Kampanya 02 - 30 Kasım 2026 tarihleri arasında geçerlidir.
 Kampanyaya Dahil Harcamalar Nelerdir?
-Faturana Yansıt ile hediye para hariç App Store, Apple TV veya iTunes’da 75 TL ve üzeri harcama yapıldığında kazanılacaktır.
+Faturana Yansıt ile hediye para hariç App Store, Apple TV veya iTunes’da tek seferde 75 TL ve üzeri harcama yapıldığında kazanılacaktır.
 Kampanya Faydası Nedir?
-Paycell’den Turkcell Faturana Yansıt ile 75 TL üzeri App Store harcamanıza 75 TL hediye para!
+Paycell’den Turkcell Faturana Yansıt ile tek seferde 75 TL üzeri App Store harcamanıza tek seferde 75 TL hediye para!
 Kampanyadan Nasıl Kazanırım?
 Kampanyadan ödül kazanabilmek için harcama yapmadan önce Paycell Mobil Uygulaması üzerinden HEMEN KATIL butonuna basıp kampanyaya katılmanız gerekmektedir.
 Diğer Koşullar
@@ -2576,7 +2576,7 @@ Yaptığınız harcamalarınızı Turkcell faturanıza yansıtarak veya TL bakiy
 Faturana Yansıt ile App Store, Apple TV veya iTunes’da yapacağınız harcamalar faturalı hatlarda Turkcell faturasına yansır, ön ödemeli hatlarda ise TL bakiyesinden düşer.
 Kampanyadan Turkcell müşterileri yararlanabilir.
 Kampanyaya katılmak için harcama yapmadan önce Paycell uygulaması – Fırsatlar alanındaki kampanyaya HEMEN KATIL butonuna tıklanarak katılınması gerekmektedir.
-75 TL hediye, 30 Kasım 2026 tarihine kadar Faturana Yansıt ile hediye para hariç App Store, Apple TV veya iTunes’da 75 TL ve üzeri harcama yapıldığında kazanılacaktır.
+75 TL hediye, 30 Kasım 2026 tarihine kadar Faturana Yansıt ile hediye para hariç App Store, Apple TV veya iTunes’da tek seferde 75 TL ve üzeri harcama yapıldığında kazanılacaktır.
 Harcama sonrası kazanılan hediye gün içerisinde harcama yapılan hatta yüklenecektir.
 Hediye paranın geçerlilik süresi 1 haftadır. Bu süre içinde kullanılmayan hediye para geçerliliğini yitirecektir.
 Kazanılan ödül başkasına devredilemez ve/veya ödülün nakit karşılığı talep edilemez.
