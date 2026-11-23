@@ -1,9 +1,9 @@
-=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (22/11/2026 04:31) ===
-TOPLANAN BENZERSİZ KAMPANYA: 39
-KONTROL TARİHİ: 22 Kasım 2026
+=== MASTERPASS GÜNCEL KAMPANYA HAVUZU (23/11/2026 04:30) ===
+TOPLANAN BENZERSİZ KAMPANYA: 41
+KONTROL TARİHİ: 23 Kasım 2026
 
 
---- MASTERPASS KAMPANYA 1/39 ---
+--- MASTERPASS KAMPANYA 1/41 ---
 BAŞLIK: 350 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/migros-c83
 KAYNAK: DETAY SAYFASI
@@ -35,7 +35,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 2/39 ---
+--- MASTERPASS KAMPANYA 2/41 ---
 BAŞLIK: 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/fashfed-1000-tl-indirim-c93
 KAYNAK: DETAY SAYFASI
@@ -72,14 +72,14 @@ Keşfet
 31.12.2026
 Boyner'de 5000 TL üzeri alışverişlerde 1000 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Atelier Rebul’de 1000 TL indirim
 Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 3/39 ---
+--- MASTERPASS KAMPANYA 3/41 ---
 BAŞLIK: %15 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/yurt-disi-restoran-harcamalarinda-yuzde-15-indirim-c97
 KAYNAK: DETAY SAYFASI
@@ -129,7 +129,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 4/39 ---
+--- MASTERPASS KAMPANYA 4/41 ---
 BAŞLIK: %15 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/yurt-disi-duty-free-harcamalarinda-yuzde-15-indirim-c96
 KAYNAK: DETAY SAYFASI
@@ -179,7 +179,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 5/39 ---
+--- MASTERPASS KAMPANYA 5/41 ---
 BAŞLIK: 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/boynerde-5000-tl-uzeri-alisverislerde-1000-tl-indirim-c7
 KAYNAK: DETAY SAYFASI
@@ -213,20 +213,20 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-30.11.2026
+Son 7 gün
 FashFed'de 1000 TL indirim
 Kupon al
 31.12.2026
 Google Play harcamalarında %50 indirim
 Keşfet
-30.11.2026
+Son 7 gün
 Atelier Rebul’de 1000 TL indirim
 Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 6/39 ---
+--- MASTERPASS KAMPANYA 6/41 ---
 BAŞLIK: Kurallar ve koşullar
 LINK: https://www.masterpassturkiye.com/kampanya/galataportta-otopark-1-tl-c2
 KAYNAK: DETAY SAYFASI
@@ -250,13 +250,13 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-30.11.2026
+Son 7 gün
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Kupon al
 31.12.2026
@@ -266,7 +266,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 7/39 ---
+--- MASTERPASS KAMPANYA 7/41 ---
 BAŞLIK: %50 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/google-play-harcamalarinda-yuzde-50-indirim-c1
 KAYNAK: DETAY SAYFASI
@@ -296,20 +296,20 @@ Mastercard
 Bu kampanyada geçerli indirim seni bekliyor.
 Detaylı bilgi
 Benzer kampanyalar
-30.11.2026
+Son 7 gün
 FashFed'de 1000 TL indirim
 Kupon al
 31.12.2026
 Boyner'de 5000 TL üzeri alışverişlerde 1000 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Atelier Rebul’de 1000 TL indirim
 Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 8/39 ---
+--- MASTERPASS KAMPANYA 8/41 ---
 BAŞLIK: %10 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/yurt-disi-otel-harcamalarinda-yuzde-10-indirim-c37
 KAYNAK: DETAY SAYFASI
@@ -357,7 +357,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 9/39 ---
+--- MASTERPASS KAMPANYA 9/41 ---
 BAŞLIK: ücretsiz hızlı geçiş
 LINK: https://www.masterpassturkiye.com/kampanya/igada-gecerli-ucretsiz-hizli-gecis-c33
 KAYNAK: DETAY SAYFASI
@@ -407,7 +407,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 10/39 ---
+--- MASTERPASS KAMPANYA 10/41 ---
 BAŞLIK: ücretsiz buggy hizmeti
 LINK: https://www.masterpassturkiye.com/kampanya/igada-gecerli-ucretsiz-buggy-hizmeti-c32
 KAYNAK: DETAY SAYFASI
@@ -457,7 +457,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 11/39 ---
+--- MASTERPASS KAMPANYA 11/41 ---
 BAŞLIK: ücretsiz otopark ve vale hizmeti
 LINK: https://www.masterpassturkiye.com/kampanya/igada-gecerli-ucretsiz-otopark-ve-vale-hizmeti-c31
 KAYNAK: DETAY SAYFASI
@@ -508,7 +508,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 12/39 ---
+--- MASTERPASS KAMPANYA 12/41 ---
 BAŞLIK: hızlı geçiş
 LINK: https://www.masterpassturkiye.com/kampanya/sabiha-gokcen-dis-hatlarda-mastercarda-ozel-hizli-gecis-c16
 KAYNAK: DETAY SAYFASI
@@ -557,7 +557,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 13/39 ---
+--- MASTERPASS KAMPANYA 13/41 ---
 BAŞLIK: ücretsiz hızlı geçiş
 LINK: https://www.masterpassturkiye.com/kampanya/sabiha-gokcen-ic-hatlarda-mastercarda-ozel-hizli-gecis-c17
 KAYNAK: DETAY SAYFASI
@@ -606,7 +606,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 14/39 ---
+--- MASTERPASS KAMPANYA 14/41 ---
 BAŞLIK: havalimanı transferi 1500 TL
 LINK: https://www.masterpassturkiye.com/kampanya/progo-ile-havalimani-transferi-1500-tl-c10
 KAYNAK: DETAY SAYFASI
@@ -652,7 +652,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 15/39 ---
+--- MASTERPASS KAMPANYA 15/41 ---
 BAŞLIK: 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/enuygunda-ucak-biletlerinde-1000-tlye-varan-indirim-c19
 KAYNAK: DETAY SAYFASI
@@ -686,10 +686,10 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Kupon al
-30.11.2026
+Son 7 gün
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Kupon al
 31.12.2026
@@ -699,7 +699,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 16/39 ---
+--- MASTERPASS KAMPANYA 16/41 ---
 BAŞLIK: 200 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/marti-super-uye-paketi-alimlarinda-200-tl-indirim-c5
 KAYNAK: DETAY SAYFASI
@@ -728,10 +728,10 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Kupon al
-30.11.2026
+Son 7 gün
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Kupon al
 31.12.2026
@@ -741,7 +741,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 17/39 ---
+--- MASTERPASS KAMPANYA 17/41 ---
 BAŞLIK: %50 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/trevada-havalimani-otopark-odemelerinde-yuzde-50-indirim-c30
 KAYNAK: DETAY SAYFASI
@@ -773,10 +773,10 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Kupon al
-30.11.2026
+Son 7 gün
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Kupon al
 31.12.2026
@@ -786,7 +786,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 18/39 ---
+--- MASTERPASS KAMPANYA 18/41 ---
 BAŞLIK: %50 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/galataport-istanbul-deniz-dolmuslarinda-yuzde-50-indirim-c15
 KAYNAK: DETAY SAYFASI
@@ -815,20 +815,20 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Kupon al
-30.11.2026
+Son 7 gün
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 19/39 ---
+--- MASTERPASS KAMPANYA 19/41 ---
 BAŞLIK: 1000 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/atelier-rebulde-1000-tl-indirim-c35
 KAYNAK: DETAY SAYFASI
@@ -855,7 +855,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-30.11.2026
+Son 7 gün
 FashFed'de 1000 TL indirim
 Kupon al
 31.12.2026
@@ -868,7 +868,7 @@ Kupon al
 DESTEK
 
 
---- MASTERPASS KAMPANYA 20/39 ---
+--- MASTERPASS KAMPANYA 20/41 ---
 BAŞLIK: 1 Bilet Alana 2. Bilet hediye
 LINK: https://www.masterpassturkiye.com/kampanya/zorlu-psmde-mastercard-sahiplerine-bir-bilet-alana-ikinci-bilet-hediye-c20
 KAYNAK: DETAY SAYFASI
@@ -897,7 +897,7 @@ Detaylı bilgi
 DESTEK
 
 
---- MASTERPASS KAMPANYA 21/39 ---
+--- MASTERPASS KAMPANYA 21/41 ---
 BAŞLIK: ücretsiz dijital kimlik koruma
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-sahiplerine-ozel-ucretsiz-dijital-kimlik-koruma-c18
 KAYNAK: DETAY SAYFASI
@@ -922,7 +922,7 @@ Mastercard
 Bu kampanyada geçerli indirim ve avantajlar seni bekliyor.
 Detaylı bilgi
 Benzer kampanyalar
-30.11.2026
+Son 7 gün
 FashFed'de 1000 TL indirim
 Kupon al
 31.12.2026
@@ -931,14 +931,14 @@ Keşfet
 31.12.2026
 Boyner'de 5000 TL üzeri alışverişlerde 1000 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Atelier Rebul’de 1000 TL indirim
 Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 22/39 ---
+--- MASTERPASS KAMPANYA 22/41 ---
 BAŞLIK: %50 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/treva-otobus-binis-hakki-satin-alimlarinda-yuzde-50-indirim-c29
 KAYNAK: DETAY SAYFASI
@@ -969,20 +969,20 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Kupon al
-30.11.2026
+Son 7 gün
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 23/39 ---
+--- MASTERPASS KAMPANYA 23/41 ---
 BAŞLIK: 150 TL indirim
 LINK: https://www.masterpassturkiye.com/kampanya/enuygunda-300tl-uzeri-otobus-biletlerinde-150-tl-indirim-c13
 KAYNAK: DETAY SAYFASI
@@ -1018,20 +1018,20 @@ Benzer kampanyalar
 31.12.2026
 Galataport'ta otopark 1 TL
 Kupon al
-30.11.2026
+Son 7 gün
 Enuygun'da uçak biletlerinde 1000 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Martı Süper Üye Paketi alımlarında 200 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Treva'da havalimanı otopark ödemelerinde %50 indirim
 Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 24/39 ---
+--- MASTERPASS KAMPANYA 24/41 ---
 BAŞLIK: %7'ye varan cüzdan kredisi
 LINK: https://www.masterpassturkiye.com/kampanya/bookingcom-rezervasyonlarinda-yuzde-yediye-varan-cuzdan-kredisi-c80
 KAYNAK: DETAY SAYFASI
@@ -1086,7 +1086,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 25/39 ---
+--- MASTERPASS KAMPANYA 25/41 ---
 BAŞLIK: Kurallar ve koşullar
 LINK: https://www.masterpassturkiye.com/kampanya/the-mastercard-collection-ile-tanisin-c79
 KAYNAK: DETAY SAYFASI
@@ -1103,11 +1103,18 @@ Geçerli kartlar
 Mastercard
 Mastercard World Legend kartını ekle, seçkin ayrıcalıklara eriş.
 Detaylı bilgi
+Benzer kampanyalar
+31.12.2027
+World Legend ile PASSO’da biletlerde 4000 TL indirim
+Kupon al
+31.12.2027
+World Legend Exclusive ile ücretsiz Istanbul Modern Aile Üyeliği
+Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 26/39 ---
+--- MASTERPASS KAMPANYA 26/41 ---
 BAŞLIK: ücretsiz hızlı geçiş ayrıcalığı
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-secili-havalimanlarinda-hizli-gecis-ucretsiz-c23
 KAYNAK: DETAY SAYFASI
@@ -1135,11 +1142,18 @@ Geçerli kartlar
 Mastercard
 Mastercard World Legend kartını ekle, seçkin ayrıcalıklara eriş.
 Detaylı bilgi
+Benzer kampanyalar
+31.12.2027
+World Legend ile PASSO’da biletlerde 4000 TL indirim
+Kupon al
+31.12.2027
+World Legend Exclusive ile ücretsiz Istanbul Modern Aile Üyeliği
+Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 27/39 ---
+--- MASTERPASS KAMPANYA 27/41 ---
 BAŞLIK: ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-secili-havalimanlarinda-lounge-girisi-ucretsiz-c24
 KAYNAK: DETAY SAYFASI
@@ -1169,11 +1183,18 @@ Geçerli kartlar
 Mastercard
 Mastercard World Legend kartını ekle, seçkin ayrıcalıklara eriş.
 Detaylı bilgi
+Benzer kampanyalar
+31.12.2027
+World Legend ile PASSO’da biletlerde 4000 TL indirim
+Kupon al
+31.12.2027
+World Legend Exclusive ile ücretsiz Istanbul Modern Aile Üyeliği
+Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 28/39 ---
+--- MASTERPASS KAMPANYA 28/41 ---
 BAŞLIK: sınırsız hızlı geçiş
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-istanbul-havalimaninda-mastercarda-ozel-hizli-gecis-alanlarinda-sinirsiz-hizli-gecis-hakki-ucretsiz-c26
 KAYNAK: DETAY SAYFASI
@@ -1194,11 +1215,18 @@ Geçerli kartlar
 Mastercard
 Mastercard World Legend kartını ekle, seçkin ayrıcalıklara eriş.
 Detaylı bilgi
+Benzer kampanyalar
+31.12.2027
+World Legend ile PASSO’da biletlerde 4000 TL indirim
+Kupon al
+31.12.2027
+World Legend Exclusive ile ücretsiz Istanbul Modern Aile Üyeliği
+Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 29/39 ---
+--- MASTERPASS KAMPANYA 29/41 ---
 BAŞLIK: ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-kart-sahiplerine-iksv-kirmizi-lale-kart-ucretsiz-c27
 KAYNAK: DETAY SAYFASI
@@ -1221,11 +1249,18 @@ Geçerli kartlar
 Mastercard
 Mastercard World Legend kartını ekle, seçkin ayrıcalıklara eriş.
 Detaylı bilgi
+Benzer kampanyalar
+31.12.2027
+World Legend ile PASSO’da biletlerde 4000 TL indirim
+Kupon al
+31.12.2027
+World Legend Exclusive ile ücretsiz Istanbul Modern Aile Üyeliği
+Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 30/39 ---
+--- MASTERPASS KAMPANYA 30/41 ---
 BAŞLIK: ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-istanbul-havalimaninda-vale-hizmeti-ucretsiz-c21
 KAYNAK: DETAY SAYFASI
@@ -1249,11 +1284,18 @@ Geçerli kartlar
 Mastercard
 Mastercard World Legend kartını ekle, seçkin ayrıcalıklara eriş.
 Detaylı bilgi
+Benzer kampanyalar
+31.12.2027
+World Legend ile PASSO’da biletlerde 4000 TL indirim
+Kupon al
+31.12.2027
+World Legend Exclusive ile ücretsiz Istanbul Modern Aile Üyeliği
+Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 31/39 ---
+--- MASTERPASS KAMPANYA 31/41 ---
 BAŞLIK: %20 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-sahiplerine-uber-ile-yurtdisi-seyahatlerde-yuzde-20-indirim-c41
 KAYNAK: DETAY SAYFASI
@@ -1276,11 +1318,18 @@ Geçerli kartlar
 Mastercard
 Mastercard World Legend kartını ekle, seçkin ayrıcalıklara eriş.
 Detaylı bilgi
+Benzer kampanyalar
+31.12.2027
+World Legend ile PASSO’da biletlerde 4000 TL indirim
+Kupon al
+31.12.2027
+World Legend Exclusive ile ücretsiz Istanbul Modern Aile Üyeliği
+Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 32/39 ---
+--- MASTERPASS KAMPANYA 32/41 ---
 BAŞLIK: ön satış ve ayrıcalıklı koltuklar
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-kart-sahiplerine-uluslararasi-bilet-platformlarinda-cesitli-ayricaliklar-c42
 KAYNAK: DETAY SAYFASI
@@ -1305,11 +1354,18 @@ Geçerli kartlar
 Mastercard
 Mastercard World Legend kartını ekle, seçkin ayrıcalıklara eriş.
 Detaylı bilgi
+Benzer kampanyalar
+31.12.2027
+World Legend ile PASSO’da biletlerde 4000 TL indirim
+Kupon al
+31.12.2027
+World Legend Exclusive ile ücretsiz Istanbul Modern Aile Üyeliği
+Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 33/39 ---
+--- MASTERPASS KAMPANYA 33/41 ---
 BAŞLIK: öncelikli rezervasyon
 LINK: https://www.masterpassturkiye.com/kampanya/mastercard-world-legend-kart-sahiplerine-rezervasyon-uygulamalarinda-cesitli-ayricaliklar-c43
 KAYNAK: DETAY SAYFASI
@@ -1334,11 +1390,18 @@ Geçerli kartlar
 Mastercard
 Mastercard World Legend kartını ekle, seçkin ayrıcalıklara eriş.
 Detaylı bilgi
+Benzer kampanyalar
+31.12.2027
+World Legend ile PASSO’da biletlerde 4000 TL indirim
+Kupon al
+31.12.2027
+World Legend Exclusive ile ücretsiz Istanbul Modern Aile Üyeliği
+Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 34/39 ---
+--- MASTERPASS KAMPANYA 34/41 ---
 BAŞLIK: %20 indirim
 LINK: https://www.masterpassturkiye.com/kampanya/the-bulumsta-yuzde-20-indirim-c76
 KAYNAK: DETAY SAYFASI
@@ -1364,7 +1427,7 @@ Mastercard
 Silver logolu Mastercard'ını ekle, ayrıcalıklardan yararlan
 Detaylı bilgi
 Benzer kampanyalar
-30.11.2026
+Son 7 gün
 FashFed'de 1000 TL indirim
 Kupon al
 31.12.2026
@@ -1373,14 +1436,46 @@ Keşfet
 31.12.2026
 Boyner'de 5000 TL üzeri alışverişlerde 1000 TL indirim
 Kupon al
-30.11.2026
+Son 7 gün
 Atelier Rebul’de 1000 TL indirim
 Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 35/39 ---
+--- MASTERPASS KAMPANYA 35/41 ---
+BAŞLIK: 4000 TL indirim
+LINK: https://www.masterpassturkiye.com/kampanya/world-legend-ile-passoda-biletlerde-4000-tl-indirim-c99
+KAYNAK: DETAY SAYFASI
+SON TARİH: 31 Aralık 2027
+4000 TL indirim
+Bitiş Tarihi: 31.12.2027
+Mastercard World Legend kartınla PASSO’da alacağın biletlerde 4000 TL indirim
+Kupon al
+Kuponunu kullan
+Kurallar ve koşullar
+22.11.2026 - 31.12.2027 tarihleri arasında Mastercard World Legend ve World Legend Exclusive kart sahipleri PASSO üzerinden alacakları biletlerde 4000 TL indirim hakkına sahip olacaklardır.
+Bu indirim futbol maç biletleri dışındaki tüm etkinliklerde geçerlidir.
+Bu kampanyadan her yarı yılda 1 kere olmak üzere toplamda yılda 2 kere faydalanabilirsiniz.
+Kampanya kullanım adetleri her yıl yenilenir.
+İndirimden faydalanmak için Masterpass+ üzerinden kart bilgileri ile giriş yaparak kupon kodunu alabilirsiniz.
+PASSO’nun internet sitesi üzerinden kupon kodunu ve CVV bilgilerini girererek indirimden faydalanabilirsiniz.
+Kupon kodu 31.12.2027 tarihine kadar kullanılabilir. Bu tarihten sonra geçersizdir.
+Mastercard bu kart faydası koşullarında ve paket içeriğinde değişiklik yapma hakkını saklı tutar.
+Bu kart faydası için öncelikle kartın alındığı banka ile iletişime geçilmelidir. Geri bildirimler için mastercard@mplusgroup.com.tr adresine yazabilirsiniz. Dönüşler 14 iş günü içinde sağlanacaktır.
+Geçerli kartlar
+Mastercard
+Mastercard World Legend kartını ekle, seçkin ayrıcalıklara eriş.
+Detaylı bilgi
+Benzer kampanyalar
+31.12.2027
+World Legend Exclusive ile ücretsiz Istanbul Modern Aile Üyeliği
+Kupon al
+İhtiyaç duyduğunda yanındayız
+DESTEK
+
+
+--- MASTERPASS KAMPANYA 36/41 ---
 BAŞLIK: 30 EUR nakit iade
 LINK: https://www.masterpassturkiye.com/kampanya/galeries-lafayette-haussmann-harcamalarinda-30-eur-nakit-iade-c102
 KAYNAK: DETAY SAYFASI
@@ -1425,7 +1520,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 36/39 ---
+--- MASTERPASS KAMPANYA 37/41 ---
 BAŞLIK: 30 USD nakit iade
 LINK: https://www.masterpassturkiye.com/kampanya/abdde-bulunan-secili-sunglass-hut-magazalarinda-30-usd-nakit-iade-c103
 KAYNAK: DETAY SAYFASI
@@ -1468,7 +1563,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 37/39 ---
+--- MASTERPASS KAMPANYA 38/41 ---
 BAŞLIK: %4 nakit iade
 LINK: https://www.masterpassturkiye.com/kampanya/birlesik-kralliktaki-annouskha-magazalarinda-percent-4-nakit-iade-c104
 KAYNAK: DETAY SAYFASI
@@ -1510,7 +1605,7 @@ Keşfet
 DESTEK
 
 
---- MASTERPASS KAMPANYA 38/39 ---
+--- MASTERPASS KAMPANYA 39/41 ---
 BAŞLIK: ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/wl-telefon-sigortasi-ucretsiz-c105
 KAYNAK: DETAY SAYFASI
@@ -1541,11 +1636,18 @@ Geçerli kartlar
 Mastercard
 Mastercard World Legend kartını ekle, seçkin ayrıcalıklara eriş.
 Detaylı bilgi
+Benzer kampanyalar
+31.12.2027
+World Legend ile PASSO’da biletlerde 4000 TL indirim
+Kupon al
+31.12.2027
+World Legend Exclusive ile ücretsiz Istanbul Modern Aile Üyeliği
+Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
---- MASTERPASS KAMPANYA 39/39 ---
+--- MASTERPASS KAMPANYA 40/41 ---
 BAŞLIK: İstanbul Havalimanı buggy ayrıcalığı ücretsiz
 LINK: https://www.masterpassturkiye.com/kampanya/world-legend-iga-buggy-c107
 KAYNAK: DETAY SAYFASI
@@ -1569,12 +1671,50 @@ Geçerli kartlar
 Mastercard
 Mastercard World Legend kartını ekle, seçkin ayrıcalıklara eriş.
 Detaylı bilgi
+Benzer kampanyalar
+31.12.2027
+World Legend ile PASSO’da biletlerde 4000 TL indirim
+Kupon al
+31.12.2027
+World Legend Exclusive ile ücretsiz Istanbul Modern Aile Üyeliği
+Kupon al
+İhtiyaç duyduğunda yanındayız
+DESTEK
+
+
+--- MASTERPASS KAMPANYA 41/41 ---
+BAŞLIK: ücretsiz İstanbul Modern Aile Üyeliği
+LINK: https://www.masterpassturkiye.com/kampanya/world-legend-exclusive-ile-ucretsiz-istanbul-modern-aile-uyeligi-c111
+KAYNAK: DETAY SAYFASI
+SON TARİH: 31 Aralık 2027
+ücretsiz İstanbul Modern Aile Üyeliği
+Bitiş Tarihi: 31.12.2027
+Mastercard World Legend Exclusive kartınla İstanbul Modern Aile üyeliği paketine ücretsiz sahip ol.
+Kupon al
+Kuponunu kullan
+Kurallar ve koşullar
+22.11.2026 - 31.12.2027 tarihleri arasında Mastercard World Legend Exclusive kart sahipleri ücretsiz Istanbul Modern Aile Üyeliği sahibi olmaya hak kazanacaktır.
+Bu üyelik kapsamında aile bireylerine ek üyelik kartı (1 Bireysel + 18 Yaş ve altı için 2 İndirimli kategoride ek kart) verilecektir.
+Masterpass web sitesi üzerinden üye olduktan sonra ilgili kampanya sayfasından kupon kodu alınmalıdır.
+Aile üyeliği için; linkini ziyaret ederek “Satın al” tuşuna basılmalı, açılan sayfada kategori kısmından 5000 TL değerindeki “Aile” kısmı işaretlenmelidir.
+Kişisel bilgiler doldurulduktan sonra, “Promosyon Kodu” kısmına Masterpass+ üzerinden aldığınız kupon kodunu girerek ücretsiz bir şekilde üyelik işlemlerinizi tamamlayabilirsiniz.
+Kupon kodu 31.12.2027 tarihine kadar kullanılabilir. Bu tarihten sonra geçersizdir.
+Mastercard bu kart faydası koşullarında ve paket içeriğinde değişiklik yapma hakkını saklı tutar.
+Kampanya ile ilgili soru ve geri bildirimler için mastercard@mplusgroup.com.tr adresine ulaşılabilir. Dönüşler en geç 14 iş günü içerisinde sağlanacaktır.
+Geçerli kartlar
+Mastercard
+Mastercard World Legend kartını ekle, seçkin ayrıcalıklara eriş.
+Detaylı bilgi
+Benzer kampanyalar
+31.12.2027
+World Legend ile PASSO’da biletlerde 4000 TL indirim
+Kupon al
 İhtiyaç duyduğunda yanındayız
 DESTEK
 
 
 === MASTERPASS ÇEKİM ÖZETİ ===
-TOPLAM BENZERSİZ KAMPANYA: 39
-GÜNCEL VEYA TARİHİ BELİRSİZ: 39
+TOPLAM BENZERSİZ KAMPANYA: 41
+GÜNCEL VEYA TARİHİ BELİRSİZ: 41
 SÜRESİ DOLMUŞ: 0
 HATALI: 0
