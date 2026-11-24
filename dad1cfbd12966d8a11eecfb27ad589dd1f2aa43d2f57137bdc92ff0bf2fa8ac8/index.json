@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-23T02:36:39.403082+00:00",
-  "generated_at_istanbul": "2026-11-23T05:36:39.478731+03:00",
+  "generated_at_utc": "2026-11-24T02:35:57.477339+00:00",
+  "generated_at_istanbul": "2026-11-24T05:35:57.547229+03:00",
   "source_directory": "/home/ubuntu/kampanya-botlari/botlar",
   "published_file_count": 14,
   "stale_after_hours": 36,
@@ -9,128 +9,128 @@
     {
       "name": "biöğrenci.txt",
       "url": "./biöğrenci.txt",
-      "size_bytes": 268875,
-      "modified_at_utc": "2026-11-23T01:04:23.419071+00:00",
-      "age_hours": 1.54,
+      "size_bytes": 269422,
+      "modified_at_utc": "2026-11-24T01:04:29.968894+00:00",
+      "age_hours": 1.52,
       "stale": false,
-      "sha256": "4908ac7cf94465dee2e0b6940ba7a6dc1f2ded628dfc2bf867e7831e65ecf8ca"
+      "sha256": "e2cc6b416c8caabf974fdc9062f4190cc0c722bca75579d4e8c84b16efeafae2"
     },
     {
       "name": "garanti.txt",
       "url": "./garanti.txt",
-      "size_bytes": 627199,
-      "modified_at_utc": "2026-11-23T01:30:22.322059+00:00",
+      "size_bytes": 628570,
+      "modified_at_utc": "2026-11-24T01:29:45.914894+00:00",
       "age_hours": 1.1,
       "stale": false,
-      "sha256": "a8d9aafd02c57b0678826a6ac2df8e39b82b9338e21cf2d8b02bbc075c1cf691"
+      "sha256": "c398927d775a69ebb4dea6574336c7b401d2a62deb56f7fa58f3a3815d8c88bd"
     },
     {
       "name": "iyzico.txt",
       "url": "./iyzico.txt",
       "size_bytes": 8813,
-      "modified_at_utc": "2026-11-23T01:30:43.029203+00:00",
+      "modified_at_utc": "2026-11-24T01:30:11.214005+00:00",
       "age_hours": 1.1,
       "stale": false,
-      "sha256": "769fd77e3f31a1704a703832a33f79ae2be9f5ef1dcb38f49aff6b3c36b8df71"
+      "sha256": "3fc1f325b709c5999ffa44edd00e5688923360d815209a184f0d6bee913b5fb4"
     },
     {
       "name": "masterpass.txt",
       "url": "./masterpass.txt",
-      "size_bytes": 115254,
-      "modified_at_utc": "2026-11-23T01:32:46.438044+00:00",
+      "size_bytes": 120527,
+      "modified_at_utc": "2026-11-24T01:32:22.871580+00:00",
       "age_hours": 1.06,
       "stale": false,
-      "sha256": "c4def9a5b3faa1a1f3107743707dbe41152e39c83868e3c5b203bed253471287"
+      "sha256": "8b028a3e2381483ebf611cb559a78942b84683fae5e96e623daa6946c35bffc8"
     },
     {
       "name": "milesandsmiles.txt",
       "url": "./milesandsmiles.txt",
-      "size_bytes": 361467,
-      "modified_at_utc": "2026-11-23T01:40:04.744866+00:00",
+      "size_bytes": 361416,
+      "modified_at_utc": "2026-11-24T01:39:30.739949+00:00",
       "age_hours": 0.94,
       "stale": false,
-      "sha256": "8124e9c024437867fae9c4f422420fce6c5de0c84d1973cde8b304ef5c212f54"
+      "sha256": "6ec38ef02f9d623979fc3ae8ddd7d0308faecf7660c73e14916e5964cf53ee43"
     },
     {
       "name": "on_kredi_karti.txt",
       "url": "./on_kredi_karti.txt",
-      "size_bytes": 138696,
-      "modified_at_utc": "2026-11-23T02:08:21.424301+00:00",
+      "size_bytes": 135302,
+      "modified_at_utc": "2026-11-24T02:07:43.195105+00:00",
       "age_hours": 0.47,
       "stale": false,
-      "sha256": "bc0a76a3e5d8a703d4a9c94e16c2ee0f1112ba74fccd7e34a55a1aa7e590c25c"
+      "sha256": "5cbc9fb4e4cc660a243fc658bb2c4c3b4c3b18e53e26a8e426fe56cd156ebcb3"
     },
     {
       "name": "Paraf_Temiz_Kampanyalar.txt",
       "url": "./Paraf_Temiz_Kampanyalar.txt",
-      "size_bytes": 734014,
-      "modified_at_utc": "2026-11-23T01:59:06.528266+00:00",
+      "size_bytes": 725241,
+      "modified_at_utc": "2026-11-24T01:58:19.718506+00:00",
       "age_hours": 0.63,
       "stale": false,
-      "sha256": "6c59c87341937c81ecde21bbdcd1cba32dae977902fda8545231626191c23a09"
+      "sha256": "8e0b2af163bd0c728348e6cf4d7d11b1d443f2a55732122e0f8cbcc5649eaa93"
     },
     {
       "name": "paycell.txt",
       "url": "./paycell.txt",
       "size_bytes": 185144,
-      "modified_at_utc": "2026-11-23T02:02:00.474208+00:00",
+      "modified_at_utc": "2026-11-24T02:01:12.413307+00:00",
       "age_hours": 0.58,
       "stale": false,
-      "sha256": "209dd80fb6b0cd330a81e622e35005f20f20570defab567d893148dd4456bd20"
+      "sha256": "d37b5ccf4ddee03ee518c7f697b6af066645fe1f15297ae096dcecc1bd15215a"
     },
     {
       "name": "qnb_gspara.txt",
       "url": "./qnb_gspara.txt",
       "size_bytes": 60174,
-      "modified_at_utc": "2026-11-23T02:03:04.433557+00:00",
+      "modified_at_utc": "2026-11-24T02:02:17.174606+00:00",
       "age_hours": 0.56,
       "stale": false,
-      "sha256": "c9637a7680cbf462af6c41d2b00e6717f1499ac8831e8475f777e7d5cbe11805"
+      "sha256": "276ab1caaa352bed9088f8111e4081431f85b4636643c8c859cdc22ee0e7b0a9"
     },
     {
       "name": "troy.txt",
       "url": "./troy.txt",
       "size_bytes": 4257,
-      "modified_at_utc": "2026-11-23T02:08:28.602341+00:00",
+      "modified_at_utc": "2026-11-24T02:07:49.036132+00:00",
       "age_hours": 0.47,
       "stale": false,
-      "sha256": "6c1b469a9b777534e6b6adf76eb8dcd2aa454c9f2fc50558230e950af5bfe952"
+      "sha256": "f3df95d2084587175cc8c2d55366f391738ff4905ac87146307892b15d141ef4"
     },
     {
       "name": "turkiyefinans_happycard.txt",
       "url": "./turkiyefinans_happycard.txt",
       "size_bytes": 36484,
-      "modified_at_utc": "2026-11-23T02:24:48.593509+00:00",
+      "modified_at_utc": "2026-11-24T02:24:09.950519+00:00",
       "age_hours": 0.2,
       "stale": false,
-      "sha256": "37303f04dd86c442bed5396e67c85ed5d7f75883c8fd8dc07cfc1affc824edca"
+      "sha256": "589fe939710da954ad7522b8388d5d0d50bc68b6e2e119bc48ce219ef8f0642f"
     },
     {
       "name": "uption.txt",
       "url": "./uption.txt",
       "size_bytes": 26979,
-      "modified_at_utc": "2026-11-23T02:25:27.958412+00:00",
+      "modified_at_utc": "2026-11-24T02:24:49.688872+00:00",
       "age_hours": 0.19,
       "stale": false,
-      "sha256": "3bb6a18453f62b83c639ec218657497d69b33eb3bc539eb2c32455ca50689079"
+      "sha256": "87d089bec53ec9e729bc03ebf7cca8324e0737125eac1320d4d40cd2cd90e3c4"
     },
     {
       "name": "yapikredi_play.txt",
       "url": "./yapikredi_play.txt",
       "size_bytes": 72097,
-      "modified_at_utc": "2026-11-23T02:26:45.363263+00:00",
-      "age_hours": 0.17,
+      "modified_at_utc": "2026-11-24T02:26:07.714546+00:00",
+      "age_hours": 0.16,
       "stale": false,
-      "sha256": "068acd50dd3dd6d65f5256f93ab06ccd2aa63f27f2d102be5dce1cfcc7db0237"
+      "sha256": "9c1ed6fe1715d2e9c73fb68148f7317c727ac9866f2471eda2dc57d57edb80d4"
     },
     {
       "name": "Ziraat_Kampanya.txt",
       "url": "./Ziraat_Kampanya.txt",
-      "size_bytes": 495479,
-      "modified_at_utc": "2026-11-23T02:36:39.209277+00:00",
+      "size_bytes": 495477,
+      "modified_at_utc": "2026-11-24T02:35:57.263085+00:00",
       "age_hours": 0.0,
       "stale": false,
-      "sha256": "8e48442ba073273cd1ab36634b761ce29a6c3619fc0d52e84e82fba52550c51c"
+      "sha256": "edac9892aa0880cf8ecbaad620cea9fdc1eef8fc47d33b33f0184861071b6711"
     }
   ],
   "notes": [
