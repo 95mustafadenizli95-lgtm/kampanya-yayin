@@ -1,6 +1,6 @@
-=== PAYCELL GÜNCEL KAMPANYA HAVUZU (26/11/2026 04:57) ===
+=== PAYCELL GÜNCEL KAMPANYA HAVUZU (27/11/2026 05:00) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 64
-KONTROL TARİHİ: 26 Kasım 2026
+KONTROL TARİHİ: 27 Kasım 2026
 
 
 --- PAYCELL KAMPANYA 1/64 ---
@@ -532,6 +532,7 @@ Frink, kahve severler ile kahve mağazalarını bir araya getiren ilk ve tek kah
 Frink mobil uygulamasını indir, üyeliğini başlat!
 Kampanya Faydası Nedir?
 Paycell Kart ile Frink üyeliği ödemesi yapıldığında 190 TL nakit iade kazanılacaktır.
+Kampanyadan ödül kazanılabilmesi için minimum 1.900TL tutarında harcama yapılması gereklidir.
 Kampanyadan Nasıl Kazanırım?
 Kampanyaya Paycell Mobil Uygulaması üzerinden HEMEN KATIL butonuna basıp katılmanız gerekmektedir.
 Diğer Koşullar
@@ -1519,7 +1520,7 @@ Pasaj'da anında 150 TL nakit iade!
 Kampanyaya Kimler Katılabilir?
 Kampanyaya tüm Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
-Kampanya 02.06.2026 – 30.11.2026 tarihleri arasında geçerlidir.
+Kampanya 02.06.2026 – 31.12.2026 tarihleri arasında geçerlidir.
 Kampanyaya Dahil Harcamalar Nelerdir?
 Kampanya yalnızca sanal ya da fiziksel Paycell Kart’lar ile Turkcell Pasaj’da tek seferde 750 TL ve üzeri yapılacak harcamalarda geçerlidir.
 Kampanya Faydası Nedir?
@@ -1537,7 +1538,7 @@ Paycell Kartınız ile yapacağınız altın alım satımları, diğer kurumlara
 Kazanılan ödül ve nakit iadelerin kullanılabilmesi için hesabınızın aktif olması ve platform kurallarına uygun kullanılması gerekir. Hesabın kapatılması veya askıya alınması durumunda, henüz kullanılmamış ödüller iptal edilir ve nakde çevrilemez.
 Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. kampanyayı durdurma ve değişiklik yapma hakkını saklı tutar.
 Geçerlilik Tarihi
-30 Kasım 2026
+31 Aralık 2026
 Paycell Müşterileri
 İlginizi Çekebilecek Diğer Kampanyalar
 Sticker Kart’ını aktive edene kart ücreti iade!
@@ -2335,16 +2336,16 @@ Detaylı İncele
 
 
 --- PAYCELL KAMPANYA 58/64 ---
-BAŞLIK: Trendyol’da %3.99 ‘dan başlayan avantajlı oranlar Paycell Alışveriş Limiti fırsatı
+BAŞLIK: Trendyol’da %3.99 ‘dan başlayan avantajlı oranlar Paycell Alışveriş Limiti fırsatı!
 LINK: https://paycell.com.tr/kampanyalar/paycell-alisveris-limiti-ile-trendyolda-36-aya-varan-taksitle-alisveris-imkani
 SON TARİH: 31 Aralık 2026
-Trendyol’da %3.99 ‘dan başlayan avantajlı oranlar Paycell Alışveriş Limiti fırsatı
+Trendyol’da %3.99 ‘dan başlayan avantajlı oranlar Paycell Alışveriş Limiti fırsatı!
 Kampanyaya Kimler Katılabilir?
 Kampanyaya Paycell müşterileri katılabilir.
 Kampanya Geçerlilik Tarihi Nedir?
 Kampanya 31.12.2026 tarihine kadar geçerlidir.
 Kampanya Faydası Nedir?
-12 ay vadeye özel, Paycell Alışveriş Limiti ile yapılacak alışverişlerde %3.99 avantajlı faiz oranı bekliyor. Kampanya, 2.000 adet kredi kullanımı ile sınırlıdır.
+12 ay vadeye özel, Paycell Alışveriş Limiti ile yapılacak alışverişlerde %3.99 avantajlı faiz oranı fırsatı. Kampanya, 2.000 adet kredi kullanımı ile sınırlıdır.
 Turkcell Finansman A.Ş. tarafından sunulan Paycell Alışveriş Limiti ile Trendyol.com veya Trendyol uygulaması üzerinden minimum 500 TL, maksimum 100.000 TL’lik alışverişlerinizi anında 36 aya kadar taksitlendirebilirsiniz.
 Kullanım Kriteri Nedir?
 Turkcell Finansman A.Ş. tarafından sunulan bu kredi hizmetinden 18 yaşından büyük, Paycell’de kimlik tespiti yapmış olan herkes faydalanabilir. Kimlik doğrulaması yapılmamış müşteriler için aşağıdaki evraklar ile birlikte Turkcell Mağazaları’na gidip Paycell Kimlik Doğrulama yapılmasının talep edilmesi halinde işleminiz gerçekleştirilecektir. Gerekli evraklar aşağıdaki gibidir.

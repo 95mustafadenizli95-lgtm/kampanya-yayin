@@ -1,4 +1,4 @@
-=== ON GÜNCEL KAMPANYA HAVUZU (26/11/2026 05:06) ===
+=== ON GÜNCEL KAMPANYA HAVUZU (27/11/2026 05:12) ===
 TOPLANAN BENZERSİZ KAMPANYA LİNKİ: 60
 BAŞARIYLA OKUNAN KAMPANYA: 60
 HATALI KAMPANYA LİNKİ: 0
@@ -7,46 +7,6 @@ NOT: Bu dosya ON'un güncel kampanyalar sayfasında listelenen kampanyaları iç
 
 
 --- ON KAMPANYA 1/60 ---
-BAŞLIK: Starbucks® Kampanyası
-LINK: https://on.com.tr/kampanyalar/starbucks-kampanyasi-1
-KART / ÜRÜN SINIFI: Yeni ON müşterisi / edinim kampanyası
-DETAY:
-Kampanya Detayları
-Kampanya 25 Kasım 2026 12:00 - 30 Kasım 2026 23:59 tarihleri arasında geçerlidir.
-Kampanyadan, STARON davet kodunu kullanıp yeni müşteri olma sürecini tamamlayarak ilk kez yeni ON Dijital müşterisi olacaklar faydalanabilir.
-Kampanya süresi boyunca 1 kişi en fazla 1 kez kampanyadan faydalanabilir.
-Kampanya kodu tek kullanımlıktır.
-Kampanya kapsamında, STARON davet kodunu kullanarak ilk kez yeni ON Dijital müşterisi olanlara, müşteri olma sürecinin tamamlanmasını takiben ilk iş günü içinde, 15 yıldıza karşılık gelen kupon kodu SMS ile gönderilecektir.
-1 kupon kodu 15 yıldıza karşılık gelmektedir.
-Takip eden 4 ay boyunca kampanya kapsamında müşteri olanlara takip eden ayın 2. haftası içerisinde 15 yıldıza karşılık gelen kupon kodu SMS ile gönderilecektir. Müşteri her ay en fazla 1 kupon kodu alabilir.
-Hediye kahve boyutları için müşterinin Starbucks® üyelik durumu koşulları geçerlidir. Green Segment Üyelerde Tall ve Short boy tüm içecek, Gold Segment üyelerde diledikleri boy tüm içecek koşulu geçerlidir.
-Hediye kupon kodu müşteriye gönderilen SMS içerisinden alınabilir. Hediye kupon kodu, Starbucks® Mobil uygulaması ayarlar menüsü altında bulunan “Stars Code” alanına girilmelidir. Akabinde 1 kupon koduna karşılık gelen 15 yıldız müşterinin Starbucks® hesabına yüklenecektir.
-Kazanılan yıldızlar 1 ay süreyle geçerlidir.
-Kampanya, Starbucks® mağazalarından verilecek siparişlerde geçerlidir.
-Kampanya kapsamında kazanılan haklar bölünemez, başkasına satılamaz, nakde çevrilemez, iade edilemez ve devredilemez.
-Kampanya; başka bir promosyon, kampanya veya indirim koduyla birleştirilemez.
-Starbucks®’ın hizmete ilişkin kendi kural ve koşulları saklıdır.
-Siparişin iptal veya iade yapılması durumlarında indirim hakkı sona erer.
-Starbucks® Mobil uygulama altyapısı bulunmaması nedeniyle aşağıda belirtilen mağazalarda kod kullanımı geçerli değildir:
-Hmshost Antalya T1 International
-Hmshost Antalya T2 Airside
-Hmshost Antalya T3 Domestic
-Hmshost Sabiha Dış Hatlar
-Hmshost Sabiha İç Hatlar
-Hmshost Sabiha İç Gidiş
-Hmshost T2 Landside
-İncirlik Mağazası
-Starbucks® kaynaklı hususlar ile yasal olarak bu firmanın sorumluluğunda bulunan durumlardan ON Dijital sorumlu tutulamaz.
-Faydalanılmak istenilen kampanyaların kullanımdan kaynaklı konularla ilgili Starbucks® ile iletişime geçilmesi gerekmektedir.
-Kupon kodunun SMS ile iletilmemesi durumunda 0850 222 29 10 numaralı iletişim hattından ON Dijital ile iletişime geçebilirsiniz.
-Starbucks® Mobil Uygulaması ve Rewards Programı ile ilgili olası sorular ve konularla ilgili 0850 800 07 29 numarasından Starbucks® ile iletişime geçilebilir. İletişim hattı hafta içi 09:00-21:00 saatleri arasında faaliyet vermektedir.
-ON Dijital, mevzuata ve kampanya koşullarına aykırı kullanımlardan doğabilecek zarar ve ziyanları için her türlü hakkını saklı tutar.
-Starbucks® mağazalarında yapılacak harcamaya konu ürünlerde meydana gelebilecek herhangi bir hata, ayıp, geç teslim veya yanlış ürün tesliminden ON Dijital sorumlu değildir.
-Kampanya kullanımına hak kazanan müşterilerin hediye kupon kodu kullanım sırasında yaşanabilecek teknik ya da lojistik sorun ve aksaklıklardan ON Dijital sorumlu değildir.
-Starbucks® Türkiye ve ON Dijital kampanya süresi boyunca kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
-
-
---- ON KAMPANYA 2/60 ---
 BAŞLIK: ON Dijital’de Yeni Müşterilere Özel Vadeli Hesap Faizi!
 LINK: https://on.com.tr/kampanyalar/on-dijitalde-yeni-musterilere-ozel-vadeli-hesap-faizi
 KART / ÜRÜN SINIFI: ON Kredi Kartı
@@ -100,15 +60,55 @@ Gündoğdu Mobilya Kampanyası
 Modalife Kampanyası
 Türk Lirası birikimlerinize özel faiz kazanmak için hemen ON Dijital’e gelin. Avantajlar Dünyası’ndan kampanyaya katılın ve aynı gün 17:30’a kadar TL Vadeli Hesabınızı açarak size özel oranlardan yararlanın.
 Kampanya Koşulları
-Kampanya, 1 Kasım 2026 - 30 Kasım 2026 tarihleri arasında geçerli olacaktır. Bu tarihler arasında müşteri olma sürecinin ve vadeli hesap açılışının tamamlanması gerekmektedir.
+Kampanya, 1 Kasım 2026 - 04 Aralık 2026 tarihleri arasında geçerli olacaktır. Bu tarihler arasında müşteri olma sürecinin ve vadeli hesap açılışının tamamlanması gerekmektedir.
 ON Dijital mobil uygulaması üzerinden ilk kez müşteri olanlar, dijital kanallardan yeni açacakları TL mevduat hesaplarında avantajlı faiz oranlarından faydalanabilir.
 Avantajlı faiz oranından yararlanabilmek için ON Dijital’e giriş yapıp “Kampanyaya Katıl’’ butonuna tıklayarak kampanyaya kaydolunması gerekmektedir.
 Kampanyadan hesap açılış bakiyesi minimum 500 TL ve maksimum 10.000.000 TL olan hesaplar yararlanabilir.
 Kampanyalı faiz oranı yıllık %38,00’i aşmayacaktır.
-TL vadeli hesaplarda 32-91 gün vade aralığında; 500 TL–1.000.000 TL tutar aralığı için yıllık %37,00; 1.000.000 TL–2.500.000 TL tutar aralığı için yıllık %37,00; 2.500.000 TL–5.000.000 TL tutar aralığı için yıllık %37,25; 5.000.000 TL–7.500.000 TL tutar aralığı için yıllık %37,75; 7.500.000 TL–10.000.000 TL tutar aralığı için yıllık %38,00 faiz oranı uygulanır.
+TL vadeli hesaplarda 32-91 gün vade aralığında; 500 TL–1.000.000 TL tutar aralığı için yıllık %37,50; 1.000.000 TL–2.500.000 TL tutar aralığı için yıllık %37,50; 2.500.000 TL–5.000.000 TL tutar aralığı için yıllık %37,50; 5.000.000 TL–7.500.000 TL tutar aralığı için yıllık %38,00; 7.500.000 TL–10.000.000 TL tutar aralığı için yıllık %38,00 faiz oranı uygulanır.
 Vade tarihinden önce hesabın kapatılması durumunda vade bozulur ve faiz getirisi elde edilemez. Kampanya süresi sona erdikten sonra açılan yeni hesaplar bu kampanya kapsamı dışında kalacaktır.
 Faiz oranları gün içinde değişiklik gösterebilir. Hesap açılışından önce ON Dijital üzerinden güncel faiz oranlarının kontrol edilmesi önerilmektedir
 ON Dijital Burgan Bank kampanyayı değiştirme ve durdurma hakkını saklı tutar.
+
+
+--- ON KAMPANYA 2/60 ---
+BAŞLIK: Starbucks® Kampanyası
+LINK: https://on.com.tr/kampanyalar/starbucks-kampanyasi-1
+KART / ÜRÜN SINIFI: Yeni ON müşterisi / edinim kampanyası
+DETAY:
+Kampanya Detayları
+Kampanya 25 Kasım 2026 12:00 - 30 Kasım 2026 23:59 tarihleri arasında geçerlidir.
+Kampanyadan, STARON davet kodunu kullanıp yeni müşteri olma sürecini tamamlayarak ilk kez yeni ON Dijital müşterisi olacaklar faydalanabilir.
+Kampanya süresi boyunca 1 kişi en fazla 1 kez kampanyadan faydalanabilir.
+Kampanya kodu tek kullanımlıktır.
+Kampanya kapsamında, STARON davet kodunu kullanarak ilk kez yeni ON Dijital müşterisi olanlara, müşteri olma sürecinin tamamlanmasını takiben ilk iş günü içinde, 15 yıldıza karşılık gelen kupon kodu SMS ile gönderilecektir.
+1 kupon kodu 15 yıldıza karşılık gelmektedir.
+Takip eden 4 ay boyunca kampanya kapsamında müşteri olanlara takip eden ayın 2. haftası içerisinde 15 yıldıza karşılık gelen kupon kodu SMS ile gönderilecektir. Müşteri her ay en fazla 1 kupon kodu alabilir.
+Hediye kahve boyutları için müşterinin Starbucks® üyelik durumu koşulları geçerlidir. Green Segment Üyelerde Tall ve Short boy tüm içecek, Gold Segment üyelerde diledikleri boy tüm içecek koşulu geçerlidir.
+Hediye kupon kodu müşteriye gönderilen SMS içerisinden alınabilir. Hediye kupon kodu, Starbucks® Mobil uygulaması ayarlar menüsü altında bulunan “Stars Code” alanına girilmelidir. Akabinde 1 kupon koduna karşılık gelen 15 yıldız müşterinin Starbucks® hesabına yüklenecektir.
+Kazanılan yıldızlar 1 ay süreyle geçerlidir.
+Kampanya, Starbucks® mağazalarından verilecek siparişlerde geçerlidir.
+Kampanya kapsamında kazanılan haklar bölünemez, başkasına satılamaz, nakde çevrilemez, iade edilemez ve devredilemez.
+Kampanya; başka bir promosyon, kampanya veya indirim koduyla birleştirilemez.
+Starbucks®’ın hizmete ilişkin kendi kural ve koşulları saklıdır.
+Siparişin iptal veya iade yapılması durumlarında indirim hakkı sona erer.
+Starbucks® Mobil uygulama altyapısı bulunmaması nedeniyle aşağıda belirtilen mağazalarda kod kullanımı geçerli değildir:
+Hmshost Antalya T1 International
+Hmshost Antalya T2 Airside
+Hmshost Antalya T3 Domestic
+Hmshost Sabiha Dış Hatlar
+Hmshost Sabiha İç Hatlar
+Hmshost Sabiha İç Gidiş
+Hmshost T2 Landside
+İncirlik Mağazası
+Starbucks® kaynaklı hususlar ile yasal olarak bu firmanın sorumluluğunda bulunan durumlardan ON Dijital sorumlu tutulamaz.
+Faydalanılmak istenilen kampanyaların kullanımdan kaynaklı konularla ilgili Starbucks® ile iletişime geçilmesi gerekmektedir.
+Kupon kodunun SMS ile iletilmemesi durumunda 0850 222 29 10 numaralı iletişim hattından ON Dijital ile iletişime geçebilirsiniz.
+Starbucks® Mobil Uygulaması ve Rewards Programı ile ilgili olası sorular ve konularla ilgili 0850 800 07 29 numarasından Starbucks® ile iletişime geçilebilir. İletişim hattı hafta içi 09:00-21:00 saatleri arasında faaliyet vermektedir.
+ON Dijital, mevzuata ve kampanya koşullarına aykırı kullanımlardan doğabilecek zarar ve ziyanları için her türlü hakkını saklı tutar.
+Starbucks® mağazalarında yapılacak harcamaya konu ürünlerde meydana gelebilecek herhangi bir hata, ayıp, geç teslim veya yanlış ürün tesliminden ON Dijital sorumlu değildir.
+Kampanya kullanımına hak kazanan müşterilerin hediye kupon kodu kullanım sırasında yaşanabilecek teknik ya da lojistik sorun ve aksaklıklardan ON Dijital sorumlu değildir.
+Starbucks® Türkiye ve ON Dijital kampanya süresi boyunca kampanyayı durdurma, sona erdirme ve kampanya kapsamını ve koşullarını değiştirme hakkını saklı tutar.
 
 
 --- ON KAMPANYA 3/60 ---

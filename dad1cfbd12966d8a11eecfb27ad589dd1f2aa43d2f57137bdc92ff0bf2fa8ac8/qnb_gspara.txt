@@ -1,8 +1,8 @@
-=== QNB & GSPARA GÜNCEL KAMPANYA HAVUZU (26/11/2026 05:00) ===
+=== QNB & GSPARA GÜNCEL KAMPANYA HAVUZU (27/11/2026 05:03) ===
 QNB'DEN TOPLANAN: 3
 GSPARA'DAN TOPLANAN: 21
 BİRLEŞİK BENZERSİZ: 24
-KONTROL TARİHİ: 26 Kasım 2026
+KONTROL TARİHİ: 27 Kasım 2026
 
 
 --- QNB_GSPARA KAMPANYA 1/24 ---
@@ -225,10 +225,10 @@ Banka, kampanya koşullarında değişiklik yapma veya kampanyayı durdurma hakk
 BAŞLIK: GSStore Alışverişlerinizde %20 Nakit İade Fırsatı GSPara Kredi Kartı'nda!
 LINK: https://www.gspara.com.tr/ayricaliklar/gsstore-alisverislerinizde-20-nakit-iade-firsati-gspara-kredi-kartinda-11405
 KAYNAK: GSPARA
-SON TARİH: 30 Kasım 2026
+SON TARİH: 31 Aralık 2026
 GSStore Alışverişlerinizde %20 Nakit İade Fırsatı GSPara Kredi Kartı'nda!
-24 Ağustos-30 Kasım 2026 tarihleri arasında GSStore mağazalarında GSPara Kredi Kartı ile yapılacak ilk yurt içi alışverişte %20, en fazla 1.000 TL, nakit iade kazanma fırsatı sizi bekliyor
-Kampanyaya katılmak için harcama yapmadan önce bankada kayıtlı cep telefonu numarasından GSSTORE20 yazıp 2273’e SMS gönderilmesi gerekmektedir.
+24 Ağustos-31 Aralık 2026 tarihleri arasında GSStore mağazalarında GSPara Kredi Kartı ile yapılacak ilk yurt içi alışverişte %20, en fazla 1.000 TL, nakit iade kazanma fırsatı sizi bekliyor
+Kampanya yalnızca 24.08.2026 – 31.12.2026 tarihleri arasında GSPara Kredi Kartı ile yapılan alışverişlerde geçerlidir.
 Kampanya katılımı, belirtilen kısa mesajın QNB’ye ulaşması ve kart sahibine QNB tarafından kampanyaya kayıt olduğu bilgisinin verilmesinden sonra sağlanır.
 Harcamanın kayıt olduktan sonra gerçekleştirilmesi gerekmektedir. Kampanyadan geçmişe yönelik yararlandırma olmayacaktır.
 Kampanya döneminde ilk kez GSPara Kredi Kartı sahibi olan müşterilerimiz sms gönderiminden sonra bankadan kampanyaya katılım SMS’i almazlarsa ertesi gün tekrar deneyebilirler.
@@ -236,7 +236,7 @@ Kampanya GSStore online mağazası ile yurt içindeki GSStore fiziksel mağazala
 Kampanya kapsamında yapılan ilk alışverişte kazanılacak nakit iade tutarı alışverişin %20’si olmak üzere en fazla 1.000 TL ile sınırlıdır. Alt harcama limiti bulunmamaktadır.
 Kampanya yalnızca ilk yapılan alışveriş için geçerlidir. Müşteriler kampanyadan yalnızca bir kez faydalanabilir.
 Kampanya kapsamında kazanılan nakit iade tutarları işlem sonrasında müşterinin kredi kartına yansıtılacaktır. Kazanılan nakit iade, işlemin gerçekleştirildiği karta iade edilecektir.
-Kampanya yalnızca 24.08.2026 – 30.11.2026 tarihleri arasında GSPara Kredi Kartı ile yapılan alışverişlerde geçerlidir.
+Kampanya yalnızca 24.08.2026 – 31.12.2026 tarihleri arasında GSPara Kredi Kartı ile yapılan alışverişlerde geçerlidir.
 Sanal kartlarla yapılan alışverişler kampanyaya dahildir.
 İade veya iptal edilen işlemler için nakit iade kazanımı gerçekleşmez.
 Karta yansıtılan nakit iade tutarları başka bir hesaba transfer edilemez ve nakit olarak çekilemez.
